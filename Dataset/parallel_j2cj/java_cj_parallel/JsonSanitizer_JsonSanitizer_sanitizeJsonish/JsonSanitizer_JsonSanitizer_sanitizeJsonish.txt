@@ -1,0 +1,8 @@
+/**
+ * Sanitizes the JSON-like input string by removing invalid characters and formatting it to conform to the JSON syntax.
+ * The method iterates over each token in the input string and validates or manipulates it to produce the sanitized output.
+ * It maintains a state machine to keep track of the current context while processing the input.
+ * The sanitized JSON string is stored in the `sanitizedJson` field.
+ *
+ * @throws UnbracketedComma If an unbracketed comma is encountered during processing.
+ */

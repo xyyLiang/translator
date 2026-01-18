@@ -1,0 +1,6 @@
+/**
+ * Marks a file as clear, removing it from the dirty list.
+ *
+ * @param id the ID of the file to mark as clear.
+ * @return {@code true} if the file was successfully marked as clear, {@code false} otherwise.
+ */

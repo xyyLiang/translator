@@ -1,0 +1,9 @@
+  /**
+   * Encode all of the message using Byte Compaction as described in ISO/IEC 15438:2001(E)
+   *
+   * @param input     the input
+   * @param startpos  the start position within the message
+   * @param count     the number of bytes to encode
+   * @param startmode the mode from which this method starts
+   * @param sb        receives the encoded codewords
+   */

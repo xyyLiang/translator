@@ -1,0 +1,8 @@
+/**
+ * Converts a BitArray into an array of integers representing words of a specified size.
+ * 
+ * @param stuffedBits The input BitArray to convert into words.
+ * @param wordSize    The size of each word in bits.
+ * @param totalWords  The total number of words to convert.
+ * @return An array of integers representing words extracted from the BitArray.
+ */

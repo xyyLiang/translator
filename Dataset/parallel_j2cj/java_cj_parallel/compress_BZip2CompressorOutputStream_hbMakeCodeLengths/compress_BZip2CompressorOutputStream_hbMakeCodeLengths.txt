@@ -1,0 +1,9 @@
+/**
+ * Generate Huffman code lengths based on frequencies using a heap-based algorithm.
+ *
+ * @param len       An array to store the generated code lengths for each symbol.
+ * @param freq      An array containing the frequencies of each symbol.
+ * @param dat       Data object containing various arrays used in the algorithm.
+ * @param alphaSize The size of the alphabet (number of symbols).
+ * @param maxLen    The maximum length of Huffman codes to generate.
+ */

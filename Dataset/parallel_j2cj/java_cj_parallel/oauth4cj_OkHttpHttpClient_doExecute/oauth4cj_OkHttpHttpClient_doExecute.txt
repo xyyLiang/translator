@@ -1,0 +1,12 @@
+/**
+ * Executes an HTTP request synchronously and returns the response.
+ * 
+ * @param userAgent     The User-Agent header for the request.
+ * @param headers       The headers for the request.
+ * @param httpVerb      The HTTP verb (GET, POST, etc.).
+ * @param completeUrl   The complete URL of the request.
+ * @param bodyType      The type of the request body.
+ * @param bodyContents  The contents of the request body.
+ * @return The HTTP response.
+ * @throws IOException If an I/O error occurs during the request.
+ */

@@ -1,0 +1,5 @@
+/**
+ * Encodes the message in the provided {@link EncoderContext} according to the specified encoding mode.
+ *
+ * @param context The {@link EncoderContext} containing the message to be encoded.
+ */

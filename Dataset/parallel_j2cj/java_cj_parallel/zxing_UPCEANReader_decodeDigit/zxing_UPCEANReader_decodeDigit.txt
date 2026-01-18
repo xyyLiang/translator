@@ -1,0 +1,12 @@
+  /**
+   * Attempts to decode a single UPC/EAN-encoded digit.
+   *
+   * @param row row of black/white values to decode
+   * @param counters the counts of runs of observed black/white/black/... values
+   * @param rowOffset horizontal offset to start decoding from
+   * @param patterns the set of patterns to use to decode -- sometimes different encodings
+   * for the digits 0-9 are used, and this indicates the encodings for 0 to 9 that should
+   * be used
+   * @return horizontal offset of first pixel beyond the decoded digit
+   * @throws NotFoundException if digit cannot be decoded
+   */

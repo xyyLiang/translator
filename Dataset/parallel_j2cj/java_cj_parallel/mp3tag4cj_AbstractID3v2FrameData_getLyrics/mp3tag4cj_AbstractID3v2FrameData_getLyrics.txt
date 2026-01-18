@@ -1,0 +1,5 @@
+/**
+ * Retrieves the lyrics from the ID3v2 tag.
+ *
+ * @return the lyrics text, or {@code null} if no lyrics are found or if the tag uses an obsolete format
+ */

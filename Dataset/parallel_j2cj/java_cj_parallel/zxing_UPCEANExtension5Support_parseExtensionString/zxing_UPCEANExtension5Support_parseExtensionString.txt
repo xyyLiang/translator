@@ -1,0 +1,6 @@
+/**
+ * Parses the extension string of an UPC/EAN extension barcode.
+ *
+ * @param raw The raw extension string.
+ * @return A map containing metadata about the barcode.
+ */

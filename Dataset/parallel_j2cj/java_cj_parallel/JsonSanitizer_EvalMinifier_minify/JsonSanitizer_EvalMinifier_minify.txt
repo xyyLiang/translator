@@ -1,0 +1,18 @@
+    /**
+     * Renders JSON-like content safe for use with Javascript `eval`.
+     *
+     * <p>The output is a Javascript expression, not a statement, so if it
+     * contains an object (<code>{</code><i>properties</i><code>}</code>) then it
+     * still needs to be wrapped in parentheses before being passed to
+     * `eval` as via `eval('(' + s + ')')` or `eval('0,' + s)`.
+     *
+     * @param jsonish a string of JSON-like content as defined by
+     * `JsonSanitizer`.
+     * @param maximumNestingDepth the maximum nesting depth for the `JsonSanitizer`
+     * @param logging enable slow logging
+     * @param force force to minify
+     * @return a valid Javascript expression that has no free variables and whose
+     *   execution will have no side-effects, and which can be embedded safely in
+     *   an HTML `script` element or inside an XML
+     *   {@code <![CDATA[...]]>} section.
+     */

@@ -1,0 +1,7 @@
+  /**
+   * Detects PDF417 codes in an image. Only checks 0 degree rotation
+   * @param multiple if true, then the image is searched for multiple codes. If false, then at most one code will
+   * be found and returned
+   * @param bitMatrix bit matrix to detect barcodes in
+   * @return List of ResultPoint arrays containing the coordinates of found barcodes
+   */

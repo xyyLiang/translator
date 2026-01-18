@@ -1,0 +1,8 @@
+/**
+ * Initializes the object with the given payload, offset, length, and headers.
+ * 
+ * @param payload The payload data.
+ * @param off     The offset within the payload data.
+ * @param len     The length of the data.
+ * @param headers The headers for the request.
+ */

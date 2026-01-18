@@ -1,0 +1,6 @@
+/**
+ * Handles the cancellation of a flying download call.
+ * This method logs the cancellation of the call and increments the count of asynchronously executed flying canceled calls.
+ *
+ * @param call The DownloadCall representing the canceled flying download call.
+ */

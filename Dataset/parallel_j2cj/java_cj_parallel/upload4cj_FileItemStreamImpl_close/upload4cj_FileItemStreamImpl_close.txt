@@ -1,0 +1,4 @@
+            /**
+             * Closes the file item.
+             *
+             */

@@ -1,0 +1,3 @@
+/**
+ * Clears the signal indicating a change in scheduling.
+ */

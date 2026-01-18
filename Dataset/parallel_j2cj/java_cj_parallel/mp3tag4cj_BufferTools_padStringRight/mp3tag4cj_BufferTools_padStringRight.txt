@@ -1,0 +1,8 @@
+/**
+ * Pads the input string with a specified character until it reaches the desired length.
+ *
+ * @param s       the input string to pad
+ * @param length  the desired length of the padded string
+ * @param padWith the character used for padding
+ * @return the padded string, or the original string if its length is greater than or equal to the desired length
+ */

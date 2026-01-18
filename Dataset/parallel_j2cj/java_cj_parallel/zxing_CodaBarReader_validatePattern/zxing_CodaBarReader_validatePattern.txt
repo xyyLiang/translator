@@ -1,0 +1,6 @@
+/**
+ * Validates the pattern of the decoded Codabar result to ensure it conforms to Codabar specifications.
+ * 
+ * @param start The start position in the row of the pattern to validate.
+ * @throws NotFoundException If the pattern does not conform to Codabar specifications.
+ */

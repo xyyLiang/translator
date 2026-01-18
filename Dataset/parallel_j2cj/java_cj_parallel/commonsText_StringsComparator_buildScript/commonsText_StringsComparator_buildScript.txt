@@ -1,0 +1,9 @@
+    /**
+     * Builds an edit script.
+     *
+     * @param start1  the begin of the first sequence to be compared
+     * @param end1  the end of the first sequence to be compared
+     * @param start2  the begin of the second sequence to be compared
+     * @param end2  the end of the second sequence to be compared
+     * @param script the edited script
+     */

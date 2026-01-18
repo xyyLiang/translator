@@ -1,0 +1,5 @@
+/**
+ * Converts a content type string to a map containing headers.
+ * 
+ * @param contentType The content type string to convert.
+ * @return A map containing headers derived from the content type 

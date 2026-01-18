@@ -1,0 +1,6 @@
+/**
+ * Clones the given Prism4j token.
+ *
+ * @param token The Prism4j token to clone.
+ * @return A new instance of the cloned Prism4j token.
+ */

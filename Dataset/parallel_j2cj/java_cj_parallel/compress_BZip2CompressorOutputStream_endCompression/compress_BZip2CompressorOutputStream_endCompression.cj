@@ -1,0 +1,10 @@
+    private func endCompression(): Unit {
+        bsPutUByte(0x17)
+        bsPutUByte(0x72)
+        bsPutUByte(0x45)
+        bsPutUByte(0x38)
+        bsPutUByte(0x50)
+        bsPutUByte(0x90)
+        bsPutInt(Int64(this.combinedCRC))
+        bsFinishedWithStream()
+    }

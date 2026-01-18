@@ -1,0 +1,1 @@
+  /** Mirror the bit matrix in order to attempt a second reading. */

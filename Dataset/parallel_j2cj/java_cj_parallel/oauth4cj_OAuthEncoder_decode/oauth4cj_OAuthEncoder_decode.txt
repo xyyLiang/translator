@@ -1,0 +1,9 @@
+    /**
+     * Decode the application/x-www-form-urlencoded string using a specific encoding scheme.
+     * only supported UTF-8 Character Set.
+     *
+     * @param the string to be decoded.
+     *
+     * @return The return type of String, returns the decoded string.
+     * @since 0.37.2
+     */

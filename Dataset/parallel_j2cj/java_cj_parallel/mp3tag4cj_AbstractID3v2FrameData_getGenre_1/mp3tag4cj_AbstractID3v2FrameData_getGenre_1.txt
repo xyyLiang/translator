@@ -1,0 +1,6 @@
+/**
+ * Retrieves the genre of the audio file from the ID3v2 tag. If the genre information is
+ * found in the tag, it is extracted and returned as an integer genre number.
+ *
+ * @return the genre number if found in the tag, or -1 if no genre information is present
+ */

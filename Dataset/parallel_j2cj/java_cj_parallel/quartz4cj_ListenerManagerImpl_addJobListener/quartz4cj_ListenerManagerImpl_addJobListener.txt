@@ -1,0 +1,10 @@
+    /**
+     * Add the given <code>{@link JobListener}</code> to the <code>Scheduler</code>,
+     * and register it to receive events for Jobs that are matched by ANY of the
+     * given Matchers.
+     * 
+     * If no matchers are provided, the <code>EverythingMatcher</code> will be used.
+     * 
+     * @see Matcher
+     * @see org.quartz.impl.matchers.EverythingMatcher
+     */

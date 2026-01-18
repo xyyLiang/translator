@@ -1,0 +1,5 @@
+/**
+ * Unpacks the flags from the provided byte array.
+ * 
+ * @param bytes The byte array containing the flags data.
+ */

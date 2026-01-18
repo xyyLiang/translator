@@ -1,0 +1,7 @@
+    /**
+     * Constructs a {@code NumericEntityEscaper} between the specified values (inclusive).
+     *
+     * @param codePointLow above which to escape
+     * @param codePointHigh below which to escape
+     * @return The newly created {@code NumericEntityEscaper} instance
+     */

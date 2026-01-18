@@ -1,0 +1,18 @@
+  /**
+   * The Text Compaction mode includes all the printable ASCII characters
+   * (i.e. values from 32 to 126) and three ASCII control characters: HT or tab
+   * (ASCII value 9), LF or line feed (ASCII value 10), and CR or carriage
+   * return (ASCII value 13). The Text Compaction mode also includes various latch
+   * and shift characters which are used exclusively within the mode. The Text
+   * Compaction mode encodes up to 2 characters per codeword. The compaction rules
+   * for converting data into PDF417 codewords are defined in 5.4.2.2. The sub-mode
+   * switches are defined in 5.4.2.3.
+   *
+   * @param textCompactionData The text compaction data.
+   * @param byteCompactionData The byte compaction data if there
+   *                           was a mode shift.
+   * @param length             The size of the text compaction and byte compaction data.
+   * @param result             The decoded data is appended to the result.
+   * @param startMode          The mode in which decoding starts
+   * @return The mode in which decoding ended
+   */

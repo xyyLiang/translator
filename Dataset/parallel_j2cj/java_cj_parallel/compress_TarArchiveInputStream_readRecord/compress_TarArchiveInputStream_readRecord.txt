@@ -1,0 +1,6 @@
+    /**
+     * Read a record from the input stream and return the data.
+     *
+     * @return The record data or null if EOF has been hit.
+     * @throws IOException on error
+     */

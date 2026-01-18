@@ -1,0 +1,6 @@
+    /**
+     * Check whether the boundary has invalid syntax.
+     *
+     * @param boundary of String
+     * @since 0.37.2
+     */

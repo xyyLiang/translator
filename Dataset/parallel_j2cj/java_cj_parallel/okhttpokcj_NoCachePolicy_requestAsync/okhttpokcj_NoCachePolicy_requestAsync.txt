@@ -1,0 +1,6 @@
+/**
+ * Asynchronously executes the network request.
+ *
+ * @param cacheEntity the cache entity
+ * @param callback    the callback to be executed
+ */

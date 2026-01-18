@@ -1,0 +1,7 @@
+/**
+ * Intercepts the fetch process.
+ *
+ * @param chain the download chain
+ * @return the length of the fetched data
+ * @throws IOException if an I/O error occurs
+ */

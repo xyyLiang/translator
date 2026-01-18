@@ -1,0 +1,6 @@
+/**
+ * Unpacks frame data from the given byte array.
+ *
+ * @param bytes The byte array containing frame data.
+ * @throws InvalidDataException If the data is invalid or cannot be unpacked.
+ */

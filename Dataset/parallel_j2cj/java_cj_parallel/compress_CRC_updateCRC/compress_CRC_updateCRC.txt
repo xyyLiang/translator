@@ -1,0 +1,5 @@
+/**
+ * Updates the CRC-32 checksum with the specified byte.
+ *
+ * @param inCh The byte to update the checksum with
+ */

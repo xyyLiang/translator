@@ -1,0 +1,6 @@
+/**
+ * Gets the codeword nearby the specified image row.
+ * 
+ * @param imageRow The image row.
+ * @return The nearby codeword, or null if not found.
+ */

@@ -1,0 +1,9 @@
+/**
+ * Adds a pattern to the collection of patterns, updates the checksum and check weight accordingly.
+ * 
+ * @param patterns The collection of patterns to add the new pattern to.
+ * @param patternIndex The index of the pattern to add.
+ * @param checkSum An array containing the checksum value.
+ * @param checkWeight An array containing the check weight value.
+ * @param position The position of the pattern in the contents.
+ */

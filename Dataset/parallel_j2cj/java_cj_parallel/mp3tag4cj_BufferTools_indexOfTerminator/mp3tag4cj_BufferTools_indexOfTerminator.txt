@@ -1,0 +1,6 @@
+/**
+ * Returns the index of the first occurrence of a terminator byte (0x00) in the byte array.
+ *
+ * @param bytes the byte array
+ * @return the index of the terminator byte, or -1 if not found
+ */

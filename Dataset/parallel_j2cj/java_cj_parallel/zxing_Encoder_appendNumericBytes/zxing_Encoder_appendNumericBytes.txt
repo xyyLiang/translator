@@ -1,0 +1,6 @@
+/**
+ * Append numeric bytes to the given {@link BitArray}.
+ *
+ * @param content The input numeric content.
+ * @param bits The {@link BitArray} to which the numeric bytes will be appended.
+ */

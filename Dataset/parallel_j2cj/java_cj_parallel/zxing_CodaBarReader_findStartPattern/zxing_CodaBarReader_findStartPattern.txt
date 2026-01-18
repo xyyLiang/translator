@@ -1,0 +1,6 @@
+/**
+ * Finds the start pattern in the array of counters.
+ *
+ * @return The index of the start pattern.
+ * @throws NotFoundException If the start pattern is not found.
+ */

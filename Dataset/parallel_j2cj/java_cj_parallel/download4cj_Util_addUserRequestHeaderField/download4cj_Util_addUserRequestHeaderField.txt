@@ -1,0 +1,7 @@
+/**
+ * Adds user-defined request header fields to a DownloadConnection after inspecting them to ensure they do not contain reserved headers.
+ *
+ * @param userHeaderField The map of user-defined header fields to add.
+ * @param connection      The DownloadConnection to which the header fields will be added.
+ * @throws IOException If the user-defined headers contain reserved headers.
+ */

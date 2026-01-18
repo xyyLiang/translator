@@ -1,0 +1,9 @@
+/**
+ * Handles the input data to determine the encoding by delegating to charset probers.
+ * It processes the data to identify high-byte characters and maintains the state accordingly.
+ *
+ * @param buf the input byte array
+ * @param offset the starting index in the byte array
+ * @param length the number of bytes to consider from the offset
+ * @return the probing state after handling the data
+ */

@@ -1,0 +1,3 @@
+    /**
+     * swaps two intervals starting at yyp1 and yyp2 of length yyn inside fmap.
+     */

@@ -1,0 +1,5 @@
+/**
+ * Returns a string representation of the parser cursor.
+ * 
+ * @return a string representation of the parser cursor
+ */

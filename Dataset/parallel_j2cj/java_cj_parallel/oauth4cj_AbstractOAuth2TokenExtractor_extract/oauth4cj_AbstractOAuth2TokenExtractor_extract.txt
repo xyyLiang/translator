@@ -1,0 +1,8 @@
+/**
+ * Extracts a substring from the response using the provided pattern.
+ * 
+ * @param response The response string to extract from.
+ * @param p        The pattern to match against the response string.
+ * @return The extracted substring.
+ * @throws OAuthException If the response body is incorrect and the extraction fails.
+ */

@@ -1,0 +1,11 @@
+/**
+ * Appends the "FLG(n)" codeword to the encoded data in the current state of the encoder.
+ * The "FLG(n)" codeword indicates the presence of Extended Channel Interpretation (ECI) information.
+ *
+ * @param eci The Extended Channel Interpretation (ECI) value to be encoded. 
+ *            If negative, the "FNC1" codeword is added.
+ *            If within the range [0, 999999], the ECI value is added as digits.
+ *            Otherwise, an IllegalArgumentException is thrown.
+ * @return The new state after appending the "FLG(n)" codeword.
+ * @throws IllegalArgumentException If the ECI code is not within the valid range [0, 999999].
+ */

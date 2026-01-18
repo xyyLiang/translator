@@ -1,0 +1,10 @@
+    /**
+     * <p>
+     * Determine the next time (in milliseconds) that is 'included' by the
+     * Calendar after the given time.
+     * </p>
+     * 
+     * <p>
+     * Note that this Calendar is only has full-day precision.
+     * </p>
+     */

@@ -1,0 +1,7 @@
+/**
+ * Finds the asterisk pattern in the given row and returns its start and end positions.
+ *
+ * @param row The BitArray representing the row to search.
+ * @return An array containing the start and end positions of the asterisk pattern.
+ * @throws NotFoundException If the asterisk pattern is not found.
+ */

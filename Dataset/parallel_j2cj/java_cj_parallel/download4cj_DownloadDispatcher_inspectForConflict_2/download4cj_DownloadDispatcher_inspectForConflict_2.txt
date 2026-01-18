@@ -1,0 +1,10 @@
+/**
+ * Checks for conflicts between the given DownloadTask and the tasks in the provided collection of DownloadCalls.
+ * If a conflict is found, it may add the task to the sameTaskList or fileBusyList if provided, or dispatch appropriate callbacks.
+ * 
+ * @param task          The DownloadTask to inspect for conflicts.
+ * @param calls         The collection of DownloadCalls to check for conflicts against.
+ * @param sameTaskList  The list to store tasks with the same identity as the given task (can be {@code null}).
+ * @param fileBusyList  The list to store tasks that are already downloading the same file (can be {@code null}).
+ * @return {@code true} if a conflict is found, {@code false} otherwise.
+ */

@@ -1,0 +1,10 @@
+    /**
+     * The Function is onResponseError.When an exception occurs in calling the service, call the onresponseerror method
+     * of the onstatuscodewareresponselistener interface.
+     *
+     * @param requestStats of RequestStats
+     * @param e of Exception
+     *
+     * @return Type of Unit
+     * @since 0.30.4
+     */

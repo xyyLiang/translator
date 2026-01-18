@@ -1,0 +1,7 @@
+    /*
+     * For 1.X PAX Format, the sparse headers are stored in the file data block, preceding the actual file data.
+     * It consists of a series of decimal numbers delimited by newlines.
+     *
+     * @param inputStream the input stream of the tar file
+     * @return the decimal number delimited by '\n', and the bytes read from input stream
+     */

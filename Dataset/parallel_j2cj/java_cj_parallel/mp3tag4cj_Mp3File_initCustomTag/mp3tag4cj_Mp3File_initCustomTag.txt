@@ -1,0 +1,6 @@
+/**
+ * Initializes the custom tag based on the information obtained from the file.
+ * 
+ * @param seekableByteChannel The seekable byte channel of the file.
+ * @throws IOException If an I/O error occurs while reading the file.
+ */

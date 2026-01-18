@@ -1,0 +1,6 @@
+/**
+ * Checks if the next character is numeric followed by alphanumeric characters.
+ * 
+ * @param pos The position to check.
+ * @return true if the next character is numeric followed by alphanumeric characters, false otherwise.
+ */

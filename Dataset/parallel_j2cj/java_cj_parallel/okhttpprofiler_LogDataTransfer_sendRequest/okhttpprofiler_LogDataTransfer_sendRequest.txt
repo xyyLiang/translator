@@ -1,0 +1,7 @@
+/**
+ * Sends a request and logs the details of the request.
+ *
+ * @param id      The identifier for the request
+ * @param request The request to be sent
+ * @throws IOException If an I/O error occurs
+ */

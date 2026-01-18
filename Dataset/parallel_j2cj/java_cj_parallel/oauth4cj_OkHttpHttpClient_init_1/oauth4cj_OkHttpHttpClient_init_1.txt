@@ -1,0 +1,6 @@
+    /**
+     * Create a OkHttpHttpClient instance according to the parameter.
+     *
+     * @param config of OkHttpHttpClientConfig.
+     * @since 0.38.2
+     */

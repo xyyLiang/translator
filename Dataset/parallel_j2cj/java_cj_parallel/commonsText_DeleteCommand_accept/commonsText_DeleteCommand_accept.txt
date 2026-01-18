@@ -1,0 +1,6 @@
+    /**
+     * Accepts a visitor. When a {@code DeleteCommand} accepts a visitor, it calls
+     * its {@link CommandVisitor#visitDeleteCommand visitDeleteCommand} method.
+     *
+     * @param visitor  the visitor to be accepted
+     */

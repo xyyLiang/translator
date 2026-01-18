@@ -1,0 +1,8 @@
+/**
+ * Adjusts the row number of a codeword if it is valid.
+ * 
+ * @param rowIndicatorRowNumber The row number of the row indicator.
+ * @param invalidRowCounts The number of invalid row counts.
+ * @param codeword The codeword to adjust.
+ * @return The updated count of invalid row counts.
+ */

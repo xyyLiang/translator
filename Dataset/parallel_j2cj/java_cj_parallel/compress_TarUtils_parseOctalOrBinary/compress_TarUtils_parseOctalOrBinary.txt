@@ -1,0 +1,12 @@
+    /*
+     * Compute the value contained in a byte buffer.  If the most
+     * significant bit of the first byte in the buffer is set, this
+     * bit is ignored and the rest of the buffer is interpreted as a
+     * binary number.  Otherwise, the buffer is interpreted as an
+     * octal number as per the parseOctal function above.
+     *
+     * @param buffer The buffer from which to parse.
+     * @param offset The offset into the buffer from which to parse.
+     * @param length The maximum number of bytes to parse.
+     * @return The long value of the octal or binary string.
+     */

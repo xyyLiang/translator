@@ -1,0 +1,8 @@
+/**
+ * Creates an error correction codeword block from the given codewords and the specified number of error correction words.
+ *
+ * @param codewords   The sequence of codewords to generate the error correction block from.
+ * @param numECWords  The number of error correction codewords to generate.
+ * @return A {@link String} representing the error correction block.
+ * @throws IllegalArgumentException if an illegal number of error correction codewords is specified.
+ */

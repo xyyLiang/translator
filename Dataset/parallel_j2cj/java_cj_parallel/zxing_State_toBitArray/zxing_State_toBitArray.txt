@@ -1,0 +1,6 @@
+/**
+ * Converts the given byte array into a BitArray using the encoding scheme of the encoder.
+ *
+ * @param text The byte array to be converted.
+ * @return The BitArray representing the encoded data.
+ */

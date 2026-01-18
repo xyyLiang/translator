@@ -1,0 +1,5 @@
+/**
+ * Constructs a new Entry with the given key.
+ * 
+ * @param key The key of the entry.
+ */

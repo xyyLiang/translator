@@ -1,0 +1,5 @@
+/**
+ * Retrieves the character set name
+ *
+ * @return the character set name detected by the detector
+ */

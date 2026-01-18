@@ -1,0 +1,7 @@
+    /**
+     * Add the inline diffs for given delta
+     *
+     * @param delta the given delta
+     * 
+     * @since 0.39.3
+     */

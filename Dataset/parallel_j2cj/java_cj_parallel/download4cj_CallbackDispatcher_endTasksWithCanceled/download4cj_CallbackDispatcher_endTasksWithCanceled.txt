@@ -1,0 +1,6 @@
+/**
+ * Ends the specified DownloadTasks with the canceled end cause.
+ * This method notifies listeners about the cancellation of tasks and removes them from the canceled collection.
+ *
+ * @param canceledCollection Collection of canceled tasks.
+ */

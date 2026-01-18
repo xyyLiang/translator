@@ -1,0 +1,7 @@
+/**
+ * Computes the checksum index for the given contents using the Code 93 algorithm.
+ * 
+ * @param contents The contents for which to compute the checksum index.
+ * @param maxWeight The maximum weight for the computation.
+ * @return The checksum index computed using the Code 93 algorithm.
+ */

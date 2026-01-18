@@ -1,0 +1,6 @@
+/**
+ * Enqueues a single DownloadTask for execution.
+ * Increments the count of skipped proceed calls, enqueues the task, then decrements the count.
+ *
+ * @param task The DownloadTask to be enqueued.
+ */

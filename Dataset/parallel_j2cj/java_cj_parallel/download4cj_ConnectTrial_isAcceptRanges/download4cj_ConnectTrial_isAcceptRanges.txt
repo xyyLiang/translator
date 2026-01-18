@@ -1,0 +1,7 @@
+/**
+ * Checks whether the server supports partial content requests (range requests).
+ *
+ * @param connected The connected download connection.
+ * @return {@code true} if the server supports partial content requests, {@code false} otherwise.
+ * @throws IOException If an I/O error occurs while retrieving response information.
+ */

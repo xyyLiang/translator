@@ -1,0 +1,6 @@
+/**
+ * Converts the given contents to extended mode using the Code 93 algorithm.
+ * 
+ * @param contents The contents to convert to extended mode.
+ * @return The contents converted to extended mode.
+ */

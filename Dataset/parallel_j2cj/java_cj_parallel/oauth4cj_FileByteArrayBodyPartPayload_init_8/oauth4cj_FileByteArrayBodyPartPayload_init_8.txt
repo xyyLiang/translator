@@ -1,0 +1,8 @@
+    /**
+     * Create a FileByteArrayBodyPartPayload instance according to the parameters.
+     *
+     * @param contentType of String
+     * @param payload of Array<UInt8>
+     * @param name of String
+     * @since 0.37.2
+     */

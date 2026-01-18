@@ -1,0 +1,4 @@
+    /**
+     * Returns the last committed value as a string, or null if no value
+     * has been committed.
+     */

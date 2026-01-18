@@ -1,0 +1,8 @@
+/**
+ * Creates an OAuth request for refreshing an access token using the provided refresh token and scope.
+ *
+ * @param refreshToken The refresh token used for refreshing the access token.
+ * @param scope        The scope of the access requested. Can be {@code null}.
+ * @return An OAuth request for refreshing the access token.
+ * @throws IllegalArgumentException If the refresh token is {@code null} or empty.
+ */

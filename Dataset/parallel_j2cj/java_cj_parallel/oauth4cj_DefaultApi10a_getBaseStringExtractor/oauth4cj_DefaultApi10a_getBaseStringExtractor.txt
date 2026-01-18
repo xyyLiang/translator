@@ -1,0 +1,5 @@
+    /**
+     * Returns the base string extractor.
+     *
+     * @return base string extractor
+     */

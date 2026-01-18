@@ -1,0 +1,7 @@
+/**
+ * Retrieves the Version object corresponding to the specified version number.
+ * 
+ * @param versionNumber The version number of the QR code.
+ * @return The Version object corresponding to the given version number.
+ * @throws IllegalArgumentException if the version number is out of range (1-40).
+ */

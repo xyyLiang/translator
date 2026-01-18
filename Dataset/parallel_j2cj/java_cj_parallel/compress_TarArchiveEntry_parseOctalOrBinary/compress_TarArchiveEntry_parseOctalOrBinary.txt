@@ -1,0 +1,9 @@
+/**
+ * Parses an octal or binary value from the specified byte array, considering the provided offset, length, and leniency.
+ *
+ * @param header the byte array containing the value
+ * @param offset the starting index in the byte array
+ * @param length the length of the value
+ * @param lenient true if lenient parsing is allowed, false otherwise
+ * @return the parsed value, or UNKNOWN if parsing fails in lenient mode
+ */

@@ -1,0 +1,6 @@
+/**
+ * Starts the provided list of download chains asynchronously and waits for their completion.
+ * 
+ * @param tasks The list of download chains to start.
+ * @throws InterruptedException If the operation is interrupted.
+ */

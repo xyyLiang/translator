@@ -1,0 +1,6 @@
+/**
+ * Converts a sequence of counters representing narrow and wide bars and spaces into a pattern index.
+ *
+ * @param position The starting position of the sequence of counters.
+ * @return The pattern index corresponding to the sequence of counters.
+ */

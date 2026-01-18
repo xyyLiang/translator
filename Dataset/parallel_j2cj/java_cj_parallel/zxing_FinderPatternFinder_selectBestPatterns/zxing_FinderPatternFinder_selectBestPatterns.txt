@@ -1,0 +1,5 @@
+  /**
+   * @return the 3 best {@link FinderPattern}s from our list of candidates. The "best" are
+   *         those have similar module size and form a shape closer to a isosceles right triangle.
+   * @throws NotFoundException if 3 such finder patterns do not exist
+   */

@@ -1,0 +1,7 @@
+/**
+ * Checks if the block of bytes at the given offset contains the Xing frame marker.
+ * 
+ * @param bytes  The array of bytes to check.
+ * @param offset The offset within the array where to start checking.
+ * @return True if the Xing frame marker is found, false otherwise.
+ */

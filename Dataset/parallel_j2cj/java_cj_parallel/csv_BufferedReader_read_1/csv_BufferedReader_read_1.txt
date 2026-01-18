@@ -1,0 +1,9 @@
+    /**
+     * Read the specified number of bytes to the specified position of the UInt8 array
+     *
+     * @param  cbuf  An array to store read contents
+     *
+     * @param  off   Start position of array
+     *
+     * @param  len  Number of bytes read
+     */

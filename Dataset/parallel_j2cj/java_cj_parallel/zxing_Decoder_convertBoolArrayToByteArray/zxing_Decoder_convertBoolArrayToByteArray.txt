@@ -1,0 +1,3 @@
+  /**
+   * Packs a bit array into bytes, most significant bit first
+   */

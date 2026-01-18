@@ -1,0 +1,7 @@
+/**
+ * Checks if there is a conflict between the given DownloadTask and the tasks in the download call lists.
+ * This method only checks for conflicts within the specified download call lists.
+ * 
+ * @param task The DownloadTask to inspect for conflicts.
+ * @return {@code true} if a conflict is found, {@code false} otherwise.
+ */

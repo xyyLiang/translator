@@ -1,0 +1,9 @@
+/**
+ * Finds a black point on the segment defined by the given points.
+ *
+ * @param aX The x-coordinate of the starting point of the segment.
+ * @param aY The y-coordinate of the starting point of the segment.
+ * @param bX The x-coordinate of the ending point of the segment.
+ * @param bY The y-coordinate of the ending point of the segment.
+ * @return The black point found on the segment, or null if not found.
+ */

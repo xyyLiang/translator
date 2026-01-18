@@ -1,0 +1,8 @@
+/**
+ * Creates a new instance of ResumeAvailableResponseCheck to check for the availability of resuming the download.
+ * 
+ * @param connected   The connected DownloadConnection representing the current connection state.
+ * @param blockIndex  The index of the block to check for resuming.
+ * @param info        The BreakpointInfo containing the information about the download breakpoint.
+ * @return A new instance of ResumeAvailableResponseCheck initialized with the provided parameters.
+ */

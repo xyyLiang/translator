@@ -1,0 +1,5 @@
+/**
+ * Packs the flags into a byte array.
+ * 
+ * @return The packed flags as a byte array.
+ */

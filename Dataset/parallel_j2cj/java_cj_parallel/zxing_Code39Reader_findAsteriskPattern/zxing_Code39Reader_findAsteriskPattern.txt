@@ -1,0 +1,8 @@
+/**
+ * Finds the start and end of an asterisk pattern in a BitArray.
+ *
+ * @param row      The BitArray to search.
+ * @param counters An array to store the count of alternating black and white runs.
+ * @return An array containing the start and end positions of the asterisk pattern.
+ * @throws NotFoundException If the asterisk pattern cannot be found.
+ */

@@ -1,0 +1,5 @@
+    /**
+     * get the size
+     *
+     * @return Int64 - the size
+     */

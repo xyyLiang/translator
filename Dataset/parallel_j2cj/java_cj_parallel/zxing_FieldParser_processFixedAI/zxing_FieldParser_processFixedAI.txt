@@ -1,0 +1,9 @@
+/**
+ * Processes a fixed-length Application Identifier (AI) with the specified AI size and field size.
+ *
+ * @param aiSize         The size of the Application Identifier (AI).
+ * @param fieldSize      The size of the field.
+ * @param rawInformation The raw information to process.
+ * @return The processed AI and field.
+ * @throws NotFoundException if the AI or field cannot be processed.
+ */

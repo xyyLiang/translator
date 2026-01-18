@@ -1,0 +1,5 @@
+    /**
+     * <p>
+     * Redefine a certain day to be excluded (true) or included (false).
+     * </p>
+     */

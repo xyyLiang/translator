@@ -1,0 +1,6 @@
+/**
+ * Appends the encoded binary shift data to the given BitArray using the provided byte array.
+ * 
+ * @param bitArray The BitArray to which the encoded binary shift data will be appended.
+ * @param text The byte array containing the data to be encoded.
+ */

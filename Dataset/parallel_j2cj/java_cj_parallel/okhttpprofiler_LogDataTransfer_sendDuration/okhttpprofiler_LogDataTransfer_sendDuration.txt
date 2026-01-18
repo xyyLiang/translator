@@ -1,0 +1,6 @@
+/**
+ * Sends the duration and logs the duration along with the end marker.
+ *
+ * @param id       The identifier for the duration
+ * @param duration The duration to be sent
+ */

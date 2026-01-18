@@ -1,0 +1,9 @@
+/**
+ * Decodes the given BitMatrixParser using the specified hints.
+ *
+ * @param parser The BitMatrixParser containing the codewords to decode.
+ * @param hints The hints to use during decoding.
+ * @return The decoded result.
+ * @throws FormatException If the data cannot be decoded.
+ * @throws ChecksumException If a checksum error occurs during decoding.
+ */

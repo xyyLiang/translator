@@ -1,0 +1,11 @@
+    /**
+     * Constructor
+     *
+     * @Param accessToken access token
+     * @Param tokenType token type
+     * @Param expiresIn effective time of the access token
+     * @Param refreshToken refresh token
+     * @Param scope access scope
+     * @Param rawResponse raw response information
+     * @since 0.37.2
+     */

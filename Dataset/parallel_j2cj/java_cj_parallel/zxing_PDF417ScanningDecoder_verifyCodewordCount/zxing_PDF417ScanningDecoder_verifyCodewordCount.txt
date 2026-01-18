@@ -1,0 +1,3 @@
+  /**
+   * Verify that all is OK with the codeword array.
+   */

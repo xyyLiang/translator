@@ -1,0 +1,3 @@
+/**
+ * Strips the Byte Order Mark (BOM) and terminator characters from the byte array.
+ */

@@ -1,0 +1,9 @@
+/**
+ * Creates a success response.
+ *
+ * @param isFromCache Whether the response is from cache
+ * @param body        The response body
+ * @param rawCall     The raw call
+ * @param rawResponse The raw response
+ * @return The success response
+ */

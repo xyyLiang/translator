@@ -1,0 +1,7 @@
+/**
+ * Returns a DownloadConnection instance, creating one if necessary.
+ * 
+ * @return The DownloadConnection instance
+ * @throws IOException If an I/O error occurs
+ * @throws InterruptException If the download process has been interrupted
+ */

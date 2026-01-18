@@ -1,0 +1,7 @@
+/**
+ * Parses the Extended Channel Interpretation (ECI) value from the BitSource.
+ *
+ * @param bits The BitSource to read from.
+ * @return The parsed ECI value.
+ * @throws FormatException If the ECI value cannot be parsed.
+ */

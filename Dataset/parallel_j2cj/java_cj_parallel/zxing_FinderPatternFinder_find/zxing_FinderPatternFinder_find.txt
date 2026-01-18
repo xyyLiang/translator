@@ -1,0 +1,7 @@
+/**
+ * Finds the finder patterns in the QR code image.
+ * 
+ * @param hints The hints for the decoding process.
+ * @return The finder pattern information.
+ * @throws NotFoundException If no finder patterns are found.
+ */

@@ -1,0 +1,4 @@
+  /**
+   * Changes the maximum number of bytes the cache can store and queues a job
+   * to trim the existing store, if necessary.
+   */

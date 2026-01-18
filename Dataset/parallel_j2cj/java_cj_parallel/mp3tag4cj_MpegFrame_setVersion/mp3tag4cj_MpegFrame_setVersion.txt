@@ -1,0 +1,6 @@
+/**
+ * Sets the MPEG audio version based on the provided version number.
+ * 
+ * @param version The version number indicating the MPEG audio version.
+ * @throws InvalidDataException If the provided version number is invalid.
+ */

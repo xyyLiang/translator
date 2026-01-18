@@ -1,0 +1,5 @@
+/**
+ * Sets the iTunes comment associated with this ID3v2 tag.
+ *
+ * @param itunesComment the iTunes comment text to set
+ */

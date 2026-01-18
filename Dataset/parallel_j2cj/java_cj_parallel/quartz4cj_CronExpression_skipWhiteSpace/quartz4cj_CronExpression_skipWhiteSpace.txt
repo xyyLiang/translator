@@ -1,0 +1,7 @@
+/**
+ * Skips over white spaces (spaces or tabs) in the given string, starting from the specified index.
+ *
+ * @param i The index to start skipping from.
+ * @param s The string in which white spaces are to be skipped.
+ * @return The index of the first non-white space character encountered after skipping.
+ */

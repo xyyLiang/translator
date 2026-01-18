@@ -1,0 +1,2 @@
+  // Build 2D matrix of QR Code from "dataBits" with "ecLevel", "version" and "getMaskPattern". On
+  // success, store the result in "matrix" and return true.

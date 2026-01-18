@@ -1,0 +1,5 @@
+    /**
+     * is InMemory or not
+     *
+     * @return Bool - is InMemory or not
+     */

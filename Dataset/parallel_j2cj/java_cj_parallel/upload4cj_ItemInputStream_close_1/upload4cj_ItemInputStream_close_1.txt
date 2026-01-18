@@ -1,0 +1,7 @@
+        /**
+         * Closes the input stream.
+         *
+         * @param pCloseUnderlying Whether to close the underlying stream
+         *   (hard close)
+         * @throws IOException An I/O error occurred.
+         */

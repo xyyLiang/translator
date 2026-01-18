@@ -1,0 +1,8 @@
+/**
+ * Unpacks the ID3v2 frames from the given byte array.
+ *
+ * @param bytes       the byte array containing the packed frames
+ * @param offset      the offset to the start of the frames in the byte array
+ * @param framesLength the length of the frames data in the byte array
+ * @return the offset to the end of the unpacked frames in the byte array
+ */

@@ -1,0 +1,3 @@
+  /**
+   * Applies a single threshold to a block of pixels.
+   */

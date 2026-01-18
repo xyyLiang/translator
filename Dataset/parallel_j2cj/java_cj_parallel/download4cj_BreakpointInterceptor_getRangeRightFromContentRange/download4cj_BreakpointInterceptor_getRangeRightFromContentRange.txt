@@ -1,0 +1,6 @@
+/**
+ * Parses the right range value from the Content-Range header.
+ *
+ * @param contentRange The Content-Range header string.
+ * @return The right range value extracted from the Content-Range header, or -1 if not found.
+ */

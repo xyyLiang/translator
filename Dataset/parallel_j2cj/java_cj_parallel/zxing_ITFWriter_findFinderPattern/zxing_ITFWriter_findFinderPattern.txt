@@ -1,0 +1,8 @@
+/**
+ * Finds the finder pattern in the provided row.
+ *
+ * @param row                 The BitArray row to search in.
+ * @param rightFinderPattern Indicates whether the right finder pattern is being searched for.
+ * @return An array containing the start and end positions of the finder pattern.
+ * @throws NotFoundException if the finder pattern cannot be found.
+ */

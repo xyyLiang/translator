@@ -1,0 +1,6 @@
+    /**
+     * return the current milliseconds string.
+     *
+     * @return Type of String
+     * @since 0.37.2
+     */

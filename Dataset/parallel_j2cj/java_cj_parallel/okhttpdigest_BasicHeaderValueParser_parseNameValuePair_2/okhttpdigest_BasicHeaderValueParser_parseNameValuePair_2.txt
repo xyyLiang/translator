@@ -1,0 +1,8 @@
+/**
+ * Parses a name/value pair from a {@link CharArrayBuffer} using the specified delimiters.
+ * 
+ * @param buffer        the buffer containing the input
+ * @param cursor        the parser cursor indicating the current position in the buffer
+ * @param delimiters    an array of delimiters to use for parsing
+ * @return the parsed name/value pair
+ */

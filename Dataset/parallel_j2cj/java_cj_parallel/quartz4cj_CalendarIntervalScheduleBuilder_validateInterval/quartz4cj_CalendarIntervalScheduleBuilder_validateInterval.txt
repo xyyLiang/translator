@@ -1,0 +1,6 @@
+/**
+ * Validates the time interval.
+ *
+ * @param timeInterval The time interval to validate
+ * @throws IllegalArgumentException If the time interval is not positive
+ */

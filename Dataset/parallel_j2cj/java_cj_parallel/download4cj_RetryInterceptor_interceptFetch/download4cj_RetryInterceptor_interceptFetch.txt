@@ -1,0 +1,8 @@
+/**
+ * Intercepts the fetch process within the download chain.
+ * It delegates to the chain to process the fetch operation and handles any IOException that might occur by caching the exception.
+ *
+ * @param chain The DownloadChain representing the download process.
+ * @return The number of bytes fetched during the process.
+ * @throws IOException If an I/O error occurs during the fetch process.
+ */

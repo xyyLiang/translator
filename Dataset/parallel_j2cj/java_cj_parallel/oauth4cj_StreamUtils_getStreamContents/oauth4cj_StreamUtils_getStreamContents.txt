@@ -1,0 +1,9 @@
+    /**
+     * Returns the stream content as a UTF-8 encoded string.
+     *
+     * @param ins is input stream.
+     * @param isGzipStream indicates whether the input stream is a GzipStream, the default is false.
+     *
+     * @return The return type of String, return the string encoded in UTF-8.
+     * @since 0.37.2
+     */

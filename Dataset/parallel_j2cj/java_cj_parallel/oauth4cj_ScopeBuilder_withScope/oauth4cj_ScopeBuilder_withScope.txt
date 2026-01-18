@@ -1,0 +1,6 @@
+    /**
+     * Add scope
+     *
+     * @param scope The scope string
+     * @return ScopeBuilder ScopeBuilder instance
+     */

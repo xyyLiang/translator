@@ -1,0 +1,9 @@
+/**
+ * Extracts a message from the given byte array according to the specified start index and length,
+ * applying character set shifts and latches as necessary.
+ *
+ * @param bytes The byte array containing the encoded message.
+ * @param start The start index of the message within the byte array.
+ * @param len The length of the message to extract.
+ * @return The decoded message.
+ */

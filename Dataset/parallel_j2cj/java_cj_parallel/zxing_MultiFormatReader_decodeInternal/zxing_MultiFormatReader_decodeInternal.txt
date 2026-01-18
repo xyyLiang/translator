@@ -1,0 +1,7 @@
+/**
+ * Decodes the given BinaryBitmap image internally using the configured readers and decoding hints.
+ *
+ * @param image The BinaryBitmap image to decode.
+ * @return The decoded result.
+ * @throws NotFoundException If no suitable result is found or if decoding is interrupted.
+ */

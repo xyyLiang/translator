@@ -1,0 +1,9 @@
+    /**
+     * Initiate a request to retrieve the access token.
+     * The optional callback provided will be called using the token when it is available.
+     *
+     * @param params of AccessTokenRequestParams, the access token request params
+     * @param callback of Option<OAuthAsyncRequestCallback>, optional callback, the access async request callback
+     *
+     * @return Future<OAuth2AccessToken> asynchronously obtain the return value of OAuth2AccessToken.
+     */

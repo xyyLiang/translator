@@ -1,0 +1,9 @@
+/**
+ * Checks if there is a conflict between the given DownloadTask and the tasks in the specified lists.
+ * This method checks for conflicts within the specified lists and updates the provided same task list and file busy list if provided.
+ * 
+ * @param task           The DownloadTask to inspect for conflicts.
+ * @param sameTaskList   The list to store tasks with the same identity as the given task (can be {@code null}).
+ * @param fileBusyList   The list to store tasks that are already downloading the same file (can be {@code null}).
+ * @return {@code true} if a conflict is found, {@code false} otherwise.
+ */

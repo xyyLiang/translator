@@ -1,0 +1,7 @@
+    /**
+     * <p>
+     * Pause all of the <code>{@link org.quartz.JobDetail}s</code> in the
+     * matching groups - by pausing all of their <code>Trigger</code>s.
+     * </p>
+     *  
+     */

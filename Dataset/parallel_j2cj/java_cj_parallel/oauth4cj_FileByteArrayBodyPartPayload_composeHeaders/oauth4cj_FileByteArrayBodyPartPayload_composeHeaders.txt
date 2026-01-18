@@ -1,0 +1,8 @@
+/**
+ * Composes headers for a multipart form-data request.
+ * 
+ * @param contentType The content type of the request.
+ * @param name        The name of the form field.
+ * @param filename    The filename of the file being uploaded.
+ * @return A map containing the composed headers.
+ */

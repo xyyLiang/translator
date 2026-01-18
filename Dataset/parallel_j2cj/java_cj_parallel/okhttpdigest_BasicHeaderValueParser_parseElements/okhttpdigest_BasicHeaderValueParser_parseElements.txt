@@ -1,0 +1,8 @@
+/**
+ * Parses an array of header elements from the given string value using the provided header value parser.
+ *
+ * @param value The string value to parse.
+ * @param parser The header value parser to use. If null, the default parser will be used.
+ * @return An array of parsed header elements.
+ * @throws ParseException If parsing fails.
+ */

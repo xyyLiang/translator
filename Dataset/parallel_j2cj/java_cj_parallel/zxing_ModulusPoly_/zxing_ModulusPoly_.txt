@@ -1,0 +1,7 @@
+/**
+ * Multiplies this polynomial by another polynomial.
+ * 
+ * @param other The polynomial to be multiplied by.
+ * @return The result of multiplying this polynomial by the other polynomial.
+ * @throws IllegalArgumentException If the other polynomial does not have the same ModulusGF field.
+ */

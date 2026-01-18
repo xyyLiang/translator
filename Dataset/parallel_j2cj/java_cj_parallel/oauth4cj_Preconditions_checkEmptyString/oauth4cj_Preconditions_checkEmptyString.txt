@@ -1,0 +1,9 @@
+    /**
+     * Checks the string is empty.
+     *
+     * @param checks the string is empty.
+     * @param exception message
+     *
+     * @throws IllegalArgumentException if the string is empty
+     *             or if the characters in the string are Unicode whitespace characters.
+     */

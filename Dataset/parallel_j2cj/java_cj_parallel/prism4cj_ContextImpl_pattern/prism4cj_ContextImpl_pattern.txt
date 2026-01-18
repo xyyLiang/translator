@@ -1,0 +1,6 @@
+/**
+ * Retrieves the cached Prism4j pattern.
+ *
+ * @param origin The original Prism4j pattern.
+ * @return The cached Prism4j pattern if found, otherwise null.
+ */

@@ -1,0 +1,5 @@
+/**
+ * Appends a character to the buffer.
+ * 
+ * @param ch    the character to append
+ */

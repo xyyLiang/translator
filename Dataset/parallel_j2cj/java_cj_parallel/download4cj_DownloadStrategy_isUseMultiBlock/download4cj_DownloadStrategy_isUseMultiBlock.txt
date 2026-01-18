@@ -1,0 +1,7 @@
+/**
+ * Determines whether to use multiple blocks for downloading based on the ability to seek in the output stream
+ * and the server's support for range requests.
+ *
+ * @param isAcceptRange {@code true} if the server supports range requests, {@code false} otherwise.
+ * @return {@code true} if multiple blocks should be used for downloading, {@code false} otherwise.
+ */

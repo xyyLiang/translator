@@ -1,0 +1,5 @@
+/**
+ * Ensures that the buffer has at least the specified capacity.
+ * 
+ * @param required the required capacity
+ */

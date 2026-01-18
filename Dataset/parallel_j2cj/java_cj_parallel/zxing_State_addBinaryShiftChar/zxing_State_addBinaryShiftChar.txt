@@ -1,0 +1,2 @@
+  // Create a new state representing this state, but an additional character
+  // output in Binary Shift mode.

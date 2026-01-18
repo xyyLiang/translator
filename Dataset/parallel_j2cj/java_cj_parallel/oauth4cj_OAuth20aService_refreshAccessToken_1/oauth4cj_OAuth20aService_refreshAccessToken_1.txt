@@ -1,0 +1,8 @@
+    /**
+     * Obtain refresh token.
+     *
+     * @param refreshToken of String, the refresh token
+     * @param scope of String, the scope
+     *
+     * @return OAuth2AccessToken obtain refresh token.
+     */

@@ -1,0 +1,6 @@
+/**
+ * Notifies all scheduler listeners of an error that occurred.
+ * 
+ * @param msg The error message.
+ * @param se  The {@code SchedulerException} that occurred.
+ */

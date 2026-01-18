@@ -1,0 +1,5 @@
+    /**
+     * get iterator next value
+     *
+     * @return FileItemStream - get the FileItemStream
+     */

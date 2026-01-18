@@ -1,0 +1,4 @@
+    /**
+     * Feed the detector with more data
+     * @param buf The buffer containing the data
+     */

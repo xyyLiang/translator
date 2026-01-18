@@ -1,0 +1,5 @@
+/**
+ * Reverses the order of elements in the given array.
+ * 
+ * @param counters The array to reverse.
+ */

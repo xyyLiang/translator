@@ -1,0 +1,9 @@
+    /**
+     * <p>
+     * Terminate any worker threads in this thread group.
+     * </p>
+     * 
+     * <p>
+     * Jobs currently in progress will complete.
+     * </p>
+     */

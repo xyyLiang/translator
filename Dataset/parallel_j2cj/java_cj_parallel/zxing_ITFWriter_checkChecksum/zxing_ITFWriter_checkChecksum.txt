@@ -1,0 +1,7 @@
+/**
+ * Checks the checksum of the provided left and right pairs.
+ *
+ * @param leftPair  The left pair.
+ * @param rightPair The right pair.
+ * @return True if the checksum is valid, otherwise false.
+ */

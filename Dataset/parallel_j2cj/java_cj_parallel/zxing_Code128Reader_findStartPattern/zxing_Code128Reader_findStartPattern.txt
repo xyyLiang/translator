@@ -1,0 +1,7 @@
+/**
+ * Finds the start pattern in the given BitArray.
+ *
+ * @param row The BitArray to search for the start pattern.
+ * @return An array containing the start pattern position, end position, and the best match code.
+ * @throws NotFoundException If the start pattern is not found.
+ */

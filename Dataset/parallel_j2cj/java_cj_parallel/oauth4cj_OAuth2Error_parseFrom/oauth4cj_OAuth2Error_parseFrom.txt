@@ -1,0 +1,6 @@
+    /**
+     * Parse error string into type OAuth2Error
+     *
+     * @return OAuth2Error OAuth2Error Type
+     * @since 0.38.2
+     */

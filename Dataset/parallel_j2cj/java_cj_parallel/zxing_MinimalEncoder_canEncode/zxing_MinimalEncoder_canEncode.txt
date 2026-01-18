@@ -1,0 +1,8 @@
+/**
+ * Checks if a character can be encoded in the given charset at the specified position.
+ * 
+ * @param contents The contents containing the character to check.
+ * @param charset The charset to check against.
+ * @param position The position of the character in the contents.
+ * @return {@code true} if the character can be encoded in the specified charset, {@code false} otherwise.
+ */

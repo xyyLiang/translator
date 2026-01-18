@@ -1,0 +1,6 @@
+/**
+ * Retrieves the BreakpointInfo object associated with the given ID.
+ *
+ * @param id the ID of the BreakpointInfo object to retrieve.
+ * @return the BreakpointInfo object associated with the given ID, or null if no such object exists.
+ */

@@ -1,0 +1,8 @@
+    /**
+     * Ignore white spaces in generating diff rows or not.
+     *
+     * @param val the value to set. Default: true.
+     * @return builder with configured ignoreWhiteSpaces parameter
+     *
+     * @since 0.39.3
+     */

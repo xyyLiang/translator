@@ -1,0 +1,11 @@
+/**
+ * Looks up a symbol information object based on the provided parameters.
+ *
+ * @param dataCodewords The number of data codewords to be encoded.
+ * @param shape         The desired symbol shape hint.
+ * @param minSize       The minimum symbol size.
+ * @param maxSize       The maximum symbol size.
+ * @param fail          Flag indicating whether to throw an exception if no symbol arrangement is found.
+ * @return A {@link SymbolInfo} object representing the symbol arrangement.
+ * @throws IllegalArgumentException if no symbol arrangement is found and 'fail' is set to true.
+ */

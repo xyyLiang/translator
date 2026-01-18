@@ -1,0 +1,8 @@
+/**
+ * Unpacks and validates the footer of an ID3v2 tag.
+ *
+ * @param bytes  the byte array containing the tag data
+ * @param offset the offset to the start of the footer in the byte array
+ * @return the length of the footer
+ * @throws InvalidDataException if the footer is invalid or does not match the expected tag footer
+ */

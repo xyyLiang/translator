@@ -1,0 +1,5 @@
+    /**
+     * LocallyAdministeredAddress or not
+     *
+     * @return Bool
+     */

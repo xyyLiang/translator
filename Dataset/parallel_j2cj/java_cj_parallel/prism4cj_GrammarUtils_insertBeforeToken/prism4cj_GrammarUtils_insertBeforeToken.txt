@@ -1,0 +1,7 @@
+/**
+ * Inserts tokens before a specified token path in the Prism4j grammar.
+ *
+ * @param grammar The Prism4j grammar to insert tokens into.
+ * @param path    The path to the target token, delimited by '/'.
+ * @param tokens  The tokens to insert before the target token.
+ */

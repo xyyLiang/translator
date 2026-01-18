@@ -1,0 +1,6 @@
+/**
+ * Retrieves the class of the given byte.
+ *
+ * @param b the byte to determine the class
+ * @return the class value
+ */

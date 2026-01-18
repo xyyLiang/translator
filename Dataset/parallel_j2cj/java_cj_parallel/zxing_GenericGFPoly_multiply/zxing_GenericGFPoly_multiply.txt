@@ -1,0 +1,7 @@
+/**
+ * Multiplies this polynomial by another polynomial.
+ *
+ * @param other The polynomial to multiply with.
+ * @return The result of the multiplication.
+ * @throws IllegalArgumentException If the other polynomial does not have the same field.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Notifies the trigger listeners that the job has completed execution and provides the instruction code.
+ * Also notifies the scheduler listeners if the trigger's next fire time is null.
+ *
+ * @param jobExCtxt the JobExecutionContext
+ * @param instCode  the CompletedExecutionInstruction
+ * @return true if the notification was successful, false otherwise
+ */

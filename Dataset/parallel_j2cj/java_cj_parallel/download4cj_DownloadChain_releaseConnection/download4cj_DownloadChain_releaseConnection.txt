@@ -1,0 +1,3 @@
+/**
+ * Releases the connection associated with this chain.
+ */

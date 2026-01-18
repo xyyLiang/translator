@@ -1,0 +1,7 @@
+    /**
+     * Get the file which is used for storing downloaded data.
+     * If the scheme of Uri isn't 'file' this value would be just a signal, not means real file.
+     *
+     * @return the path of file store downloaded data. {@code null} is there isn't filename found
+     * yet for the file of this task.
+     */

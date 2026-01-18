@@ -1,0 +1,9 @@
+/**
+ * Runs the Euclidean algorithm to find the error locator polynomial and error evaluator polynomial.
+ * 
+ * @param a The first modulus polynomial.
+ * @param b The second modulus polynomial.
+ * @param R The degree threshold for stopping the algorithm.
+ * @return An array containing the error locator polynomial and error evaluator polynomial.
+ * @throws ChecksumException If the algorithm encounters an error condition.
+ */

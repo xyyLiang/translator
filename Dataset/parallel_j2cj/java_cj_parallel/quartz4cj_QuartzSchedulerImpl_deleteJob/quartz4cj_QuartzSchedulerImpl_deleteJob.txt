@@ -1,0 +1,10 @@
+    /**
+     * <p>
+     * Delete the identified <code>Job</code> from the Scheduler - and any
+     * associated <code>Trigger</code>s.
+     * </p>
+     * 
+     * @return true if the Job was found and deleted.
+     * @throws SchedulerException
+     *           if there is an internal Scheduler error.
+     */

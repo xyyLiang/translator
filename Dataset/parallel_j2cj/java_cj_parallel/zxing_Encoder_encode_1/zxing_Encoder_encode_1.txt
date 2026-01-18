@@ -1,0 +1,9 @@
+  /**
+   * Encodes the given string content as an Aztec symbol (without ECI code)
+   *
+   * @param data input data string; must be encodable as ISO/IEC 8859-1 (Latin-1)
+   * @param minECCPercent minimal percentage of error check words (According to ISO/IEC 24778:2008,
+   *                      a minimum of 23% + 3 words is recommended)
+   * @param userSpecifiedLayers if non-zero, a user-specified value for the number of layers
+   * @return Aztec symbol matrix with metadata
+   */

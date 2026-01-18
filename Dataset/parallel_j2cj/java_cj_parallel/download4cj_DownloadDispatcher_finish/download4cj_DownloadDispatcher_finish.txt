@@ -1,0 +1,9 @@
+/**
+ * Handles the completion of a download call.
+ * This method determines the appropriate list to remove the call from based on its execution status.
+ * If the call is removed successfully, it decrements the count of asynchronously executed flying canceled calls if applicable,
+ * and processes calls if the call was asynchronously executed.
+ *
+ * @param call The DownloadCall representing the completed download call.
+ * @throws AssertionError If the call wasn't found in the appropriate list.
+ */

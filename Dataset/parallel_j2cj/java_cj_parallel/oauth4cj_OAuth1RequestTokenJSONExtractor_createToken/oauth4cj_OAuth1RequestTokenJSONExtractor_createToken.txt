@@ -1,0 +1,8 @@
+/**
+ * Creates an OAuth1RequestToken object.
+ * 
+ * @param token    The request token string.
+ * @param secret   The token secret string.
+ * @param response The raw response from the server.
+ * @return The created OAuth1RequestToken object.
+ */

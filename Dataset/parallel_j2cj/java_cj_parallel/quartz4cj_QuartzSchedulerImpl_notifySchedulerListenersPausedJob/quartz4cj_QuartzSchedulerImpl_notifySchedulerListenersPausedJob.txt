@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a job with the specified key has been paused.
+ *
+ * @param key the key of the paused job
+ */

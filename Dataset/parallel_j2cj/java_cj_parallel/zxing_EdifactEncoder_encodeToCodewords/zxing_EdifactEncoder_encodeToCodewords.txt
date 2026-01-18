@@ -1,0 +1,7 @@
+/**
+ * Encodes the provided {@link CharSequence} into a sequence of codewords.
+ *
+ * @param sb The {@link CharSequence} to encode.
+ * @return A {@link String} representing the encoded codewords.
+ * @throws IllegalStateException if the StringBuilder is empty.
+ */

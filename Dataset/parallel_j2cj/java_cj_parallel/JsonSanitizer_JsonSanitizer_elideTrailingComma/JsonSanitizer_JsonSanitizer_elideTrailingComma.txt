@@ -1,0 +1,7 @@
+/**
+ * Removes the trailing comma before the specified closing bracket position from the sanitized JSON string or the original JSON string if the sanitized JSON string is null.
+ * The method walks over whitespace characters in both right-to-left looking for a comma to elide.
+ *
+ * @param closeBracketPos The position of the closing bracket after which the trailing comma should be removed.
+ * @throws AssertionError If a trailing comma is not found in either the original JSON string or the sanitized JSON string.
+ */

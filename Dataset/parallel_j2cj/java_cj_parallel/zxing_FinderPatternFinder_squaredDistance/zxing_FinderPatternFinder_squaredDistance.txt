@@ -1,0 +1,3 @@
+  /**
+   * Get square of distance between a and b.
+   */

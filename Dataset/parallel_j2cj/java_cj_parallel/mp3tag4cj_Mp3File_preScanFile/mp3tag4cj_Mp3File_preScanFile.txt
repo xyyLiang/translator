@@ -1,0 +1,6 @@
+/**
+ * Performs a prescan of the file to determine the offset where the actual audio data starts.
+ * 
+ * @param seekableByteChannel The seekable byte channel of the file.
+ * @return The offset where the audio data starts.
+ */

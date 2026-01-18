@@ -1,0 +1,6 @@
+    /**
+     * is Multipart or not
+     *
+     * @param request - Request The Request
+     * @return Bool - is Multipart or not
+     */

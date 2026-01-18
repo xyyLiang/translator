@@ -1,0 +1,6 @@
+/**
+ * Sends an exception and logs the localized message of the exception.
+ *
+ * @param id       The identifier for the exception
+ * @param response The exception to be sent
+ */

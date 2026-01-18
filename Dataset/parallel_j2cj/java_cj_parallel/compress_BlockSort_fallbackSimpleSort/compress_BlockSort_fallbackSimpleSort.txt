@@ -1,0 +1,10 @@
+    /**
+     * @param fmap points to the index of the starting point
+     * of a permutation inside the block of data
+     * in the current partially sorted order
+     * @param eclass points from the index of a character
+     * inside the block to the first index in fmap
+     * that contains the bucket of its suffix that is sorted in this step.
+     * @param lo lower boundary of the fmap-interval to be sorted
+     * @param hi upper boundary of the fmap-interval to be sorted
+     */

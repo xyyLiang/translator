@@ -1,0 +1,5 @@
+/**
+ * Appends a single bit to the end of the bit array.
+ * 
+ * @param bit The boolean value representing the bit to be appended.
+ */

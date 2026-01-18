@@ -1,0 +1,4 @@
+  /**
+   * @param symbol encoded symbol to translate to a codeword
+   * @return the codeword corresponding to the symbol.
+   */

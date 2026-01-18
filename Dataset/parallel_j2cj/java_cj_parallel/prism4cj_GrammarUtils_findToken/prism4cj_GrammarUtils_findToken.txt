@@ -1,0 +1,22 @@
+    /**
+     * Helper method to find a token inside grammar. Supports lookup in `inside` grammars. For/**
+ * Finds a token in the given Prism4j grammar based on the specified path.
+ *
+ * @param grammar The Prism4j grammar to search in.
+ * @param path    The path to the token, delimited by '/'.
+ * @return The found Prism4j token if exists, otherwise null.
+ */
+
+     * example given the path: {@code first-token/then-another/and-more } this method will do:
+     * <ul>
+     * <li>Look for `first-token` at root level of supplied grammar</li>
+     * <li>If it\'s found search for first pattern with `inside` grammar</li>
+     * <li>If it\'s found search for `then-another` token in this inside grammar</li>
+     * <li>etc</li>
+     * </ul>
+     * Simple path {@code simple-root-level } is also supported
+     *
+     * @param grammar {@link prism4cj.prism.Grammar}
+     * @param path    argument to find a {@link prism4cj.prism.Token}
+     * @return a found {@link prism4cj.prism.Token} or null
+     */

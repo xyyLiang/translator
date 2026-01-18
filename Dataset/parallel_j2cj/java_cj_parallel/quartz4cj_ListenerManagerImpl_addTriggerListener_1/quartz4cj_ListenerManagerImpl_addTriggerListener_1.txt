@@ -1,0 +1,10 @@
+    /**
+     * Add the given <code>{@link TriggerListener}</code> to the <code>Scheduler</code>,
+     * and register it to receive events for Triggers that are matched by the
+     * given Matcher.
+     * 
+     * If no matcher is provided, the <code>EverythingMatcher</code> will be used.
+     * 
+     * @see Matcher
+     * @see org.quartz.impl.matchers.EverythingMatcher
+     */

@@ -1,0 +1,12 @@
+  /**
+   * Constructs a new <code>UnicodeBOMInputStream</code> that wraps the
+   * specified <code>InputStream</code>.
+   *
+   * @param inputStream an <code>InputStream</code>.
+   * @param skipIfFound to automatically skip BOM bytes if found
+   *
+   * @throws NullPointerException when <code>inputStream</code> is
+   * <code>null</code>.
+   * @throws IOException on reading from the specified <code>InputStream</code>
+   * when trying to detect the Unicode BOM.
+   */

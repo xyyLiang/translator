@@ -1,0 +1,7 @@
+/**
+ * Reads the contents of an InputStream and converts it to a string using UTF-8 encoding.
+ * 
+ * @param in The InputStream to read from.
+ * @return The string representation of the InputStream contents.
+ * @throws IOException If an I/O error occurs while reading from the InputStream.
+ */

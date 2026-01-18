@@ -1,0 +1,7 @@
+    /**
+     * <p>
+     * Initialize the <code>{@link org.quartz.SchedulerFactory}</code> with
+     * the contents of the <code>Properties</code> file with the given
+     * name.
+     * </p>
+     */

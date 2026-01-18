@@ -1,0 +1,8 @@
+/**
+ * Randomizes the state using a pseudo-random algorithm based on the provided codeword position.
+ * This method generates a random value between 1 and 253, inclusive, and adds it to the PAD value.
+ * If the result exceeds 254, it wraps around to the range [1, 254].
+ *
+ * @param codewordPosition The position of the codeword in the encoding.
+ * @return The randomized state value.
+ */

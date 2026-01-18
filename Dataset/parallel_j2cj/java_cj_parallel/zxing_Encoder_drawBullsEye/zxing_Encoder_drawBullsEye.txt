@@ -1,0 +1,7 @@
+/**
+ * Draws a bulls-eye pattern on the specified BitMatrix.
+ * 
+ * @param matrix The BitMatrix to draw on.
+ * @param center The center position of the bulls-eye.
+ * @param size   The size of the bulls-eye.
+ */

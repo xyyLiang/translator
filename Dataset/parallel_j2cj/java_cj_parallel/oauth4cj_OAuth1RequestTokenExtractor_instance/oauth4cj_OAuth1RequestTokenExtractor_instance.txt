@@ -1,0 +1,5 @@
+    /**
+     * Create an OAuth1RequestTokenExtractor instance.
+     *
+     * @since 0.38.2
+     */

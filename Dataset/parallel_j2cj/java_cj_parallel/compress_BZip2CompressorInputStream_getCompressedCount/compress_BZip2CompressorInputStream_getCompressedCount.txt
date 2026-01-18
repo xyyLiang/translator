@@ -1,0 +1,5 @@
+/**
+ * Retrieves the total number of bytes read from the compressed input stream.
+ * 
+ * @return The total number of bytes read.
+ */

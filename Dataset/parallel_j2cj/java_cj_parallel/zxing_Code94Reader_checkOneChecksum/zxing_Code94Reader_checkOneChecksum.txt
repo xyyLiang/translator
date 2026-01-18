@@ -1,0 +1,8 @@
+/**
+ * Checks the checksum of one segment of the given result string.
+ * 
+ * @param result The result string to check.
+ * @param checkPosition The position of the checksum character.
+ * @param weightMax The maximum weight for checksum calculation.
+ * @throws ChecksumException If the checksum does not match.
+ */

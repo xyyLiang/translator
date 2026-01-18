@@ -1,0 +1,7 @@
+/**
+ * Enqueues a single DownloadTask in a synchronized manner.
+ * This method performs various operations including inspecting if the task is already completed or conflicts with existing tasks,
+ * and then enqueues the task.
+ *
+ * @param task The DownloadTask to be enqueued.
+ */

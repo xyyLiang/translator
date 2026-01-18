@@ -1,0 +1,5 @@
+  /**
+   * Decides the smallest version of QR code that will contain all of the provided data.
+   *
+   * @throws WriterException if the data cannot fit in any version
+   */

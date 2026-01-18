@@ -1,0 +1,3 @@
+  /**
+   * Reads a code of given length and at given index in an array of bits
+   */

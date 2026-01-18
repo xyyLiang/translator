@@ -1,0 +1,5 @@
+    /**
+     * Appends an insert command to the script.
+     *
+     * @param command  command to add
+     */

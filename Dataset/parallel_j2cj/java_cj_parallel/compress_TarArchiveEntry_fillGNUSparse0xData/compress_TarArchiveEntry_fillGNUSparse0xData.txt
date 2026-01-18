@@ -1,0 +1,6 @@
+/**
+ * Fills the GNU sparse version 0x data fields using the provided headers.
+ *
+ * @param headers the headers containing the data fields
+ * @throws IOException if an I/O error occurs
+ */

@@ -1,0 +1,7 @@
+    /**
+     * Helper method for constructing UUID instances with appropriate type
+     * 
+     * @param l1 - the least significant 64 bits of this UUID's 128 bit value.
+     * @param l2 - the most significant 64 bits of this UUID's 128 bit value.
+     * @return UUID
+     */

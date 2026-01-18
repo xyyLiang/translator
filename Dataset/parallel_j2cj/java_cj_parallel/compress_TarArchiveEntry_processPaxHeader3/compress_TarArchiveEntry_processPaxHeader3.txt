@@ -1,0 +1,9 @@
+    /**
+     * Processes one pax header, using the supplied map as source for extra headers to be used when handling entries for sparse files
+     *
+     * @param key     the header name.
+     * @param val     the header value.
+     * @param headers map of headers used for dealing with sparse file.
+     * @throws NumberFormatException if encountered errors when parsing the numbers
+     * @since 1.15
+     */

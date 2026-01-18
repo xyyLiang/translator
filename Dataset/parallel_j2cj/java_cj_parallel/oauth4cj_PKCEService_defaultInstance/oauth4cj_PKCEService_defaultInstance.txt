@@ -1,0 +1,6 @@
+    /**
+     * Return a new PKCEService instance.
+     *
+     * @return Type of PKCEService
+     * @since 0.38.2
+     */

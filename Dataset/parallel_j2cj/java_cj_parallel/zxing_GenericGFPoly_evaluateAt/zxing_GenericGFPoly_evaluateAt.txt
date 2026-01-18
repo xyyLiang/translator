@@ -1,0 +1,3 @@
+  /**
+   * @return evaluation of this polynomial at a given point
+   */

@@ -1,0 +1,6 @@
+/**
+ * Inspects user-defined header fields to ensure they do not contain reserved headers like "If-Match" or "Range".
+ *
+ * @param headerField The map of header fields to inspect.
+ * @throws IOException If the user-defined headers contain reserved headers.
+ */

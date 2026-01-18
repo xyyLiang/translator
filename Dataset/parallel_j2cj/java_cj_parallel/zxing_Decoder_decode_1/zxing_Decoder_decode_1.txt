@@ -1,0 +1,9 @@
+/**
+ * Decodes the given BitMatrix into a DecoderResult using the specified hints.
+ *
+ * @param bits The BitMatrix to decode.
+ * @param hints The hints to use during decoding.
+ * @return The decoded result.
+ * @throws FormatException If decoding encounters an error or unexpected format.
+ * @throws ChecksumException If a checksum error is detected during decoding.
+ */

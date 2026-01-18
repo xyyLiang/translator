@@ -1,0 +1,8 @@
+/**
+ * Schedules jobs with their associated triggers. If the replace flag is set to true,
+ * any existing triggers with the same keys as those in the provided map will be replaced.
+ *
+ * @param triggersAndJobs a map containing job details as keys and sets of triggers as values
+ * @param replace         if true, replace any existing triggers with the same keys; if false, add the triggers
+ * @throws SchedulerException if there is an issue accessing or interacting with the scheduler
+ */

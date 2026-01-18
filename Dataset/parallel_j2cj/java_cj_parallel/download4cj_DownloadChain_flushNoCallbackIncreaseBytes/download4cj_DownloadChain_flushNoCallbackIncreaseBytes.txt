@@ -1,0 +1,4 @@
+/**
+ * Flushes the count of bytes for which no callback has been invoked and resets it to zero.
+ * If there are no bytes to flush, this method returns immediately without performing any action.
+ */

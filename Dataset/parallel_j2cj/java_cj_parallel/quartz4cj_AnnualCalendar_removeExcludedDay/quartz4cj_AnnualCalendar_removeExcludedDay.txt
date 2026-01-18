@@ -1,0 +1,3 @@
+    /**
+     * Remove the given day from the list of excluded days
+     */

@@ -1,0 +1,8 @@
+/**
+ * Decodes the given byte array into a DecoderResult based on the specified mode.
+ *
+ * @param bytes The byte array to decode.
+ * @param mode The mode indicating the type of data encoded in the byte array.
+ * @return The decoded result.
+ * @throws FormatException If decoding encounters an error or unexpected format.
+ */

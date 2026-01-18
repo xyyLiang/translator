@@ -1,0 +1,7 @@
+/**
+ * Formats the given value and appends it to the provided StringBuilder.
+ *
+ * @param buffer The StringBuilder to which the formatted value will be appended.
+ * @param value The value to format.
+ * @param quote Flag indicating whether to quote the value.
+ */

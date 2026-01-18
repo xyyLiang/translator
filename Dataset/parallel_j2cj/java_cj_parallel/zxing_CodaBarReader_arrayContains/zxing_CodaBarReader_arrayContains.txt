@@ -1,0 +1,7 @@
+/**
+ * Checks if a character array contains a specific key.
+ *
+ * @param array The character array to search.
+ * @param key   The key to search for.
+ * @return True if the key is found in the array, otherwise false.
+ */

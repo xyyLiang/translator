@@ -1,0 +1,6 @@
+/**
+ * Gets the decoded codeword value from the module bit counts.
+ * 
+ * @param moduleBitCount The array of module bit counts.
+ * @return The decoded codeword value.
+ */

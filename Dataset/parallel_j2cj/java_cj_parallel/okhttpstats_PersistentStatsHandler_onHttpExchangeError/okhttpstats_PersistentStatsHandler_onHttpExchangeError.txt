@@ -1,0 +1,10 @@
+    /**
+     * The Function is onHttpExchangeError.Provide call chain.processed the processing method called when
+     * an exception occurs.
+     *
+     * @param requestStats of RequestStats
+     * @param e of Exception
+     *
+     * @return Type of Unit
+     * @since 0.30.4
+     */

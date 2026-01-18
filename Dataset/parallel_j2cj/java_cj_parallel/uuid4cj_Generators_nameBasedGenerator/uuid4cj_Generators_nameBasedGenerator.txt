@@ -1,0 +1,8 @@
+    /*
+     * Factory method for constructing UUID generator that uses specified
+     * random number generator for constructing UUIDs according to standard
+     * method number 5, but without using a namespace.
+     * Digester to use will be SHA-1 as recommened by UUID spec.
+     *
+     * @return NameBasedGenerator
+     */

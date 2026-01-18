@@ -1,0 +1,7 @@
+    /**
+     * whether to inlcude empty oauth_token param to the request
+     * The client MAY omit the empty "oauth_token" protocol parameter from the request", 
+     * but not all oauth servers support it.
+     *
+     * @return Bool whether to inlcude empty oauth_token param to the request
+     */

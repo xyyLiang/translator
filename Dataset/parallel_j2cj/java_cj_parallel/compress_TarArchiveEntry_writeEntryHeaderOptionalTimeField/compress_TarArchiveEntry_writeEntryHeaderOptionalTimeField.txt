@@ -1,0 +1,9 @@
+/**
+ * Writes an optional time field into the entry header.
+ *
+ * @param time the time value to write
+ * @param offset the starting index in the byte array
+ * @param outbuf the byte array to write to
+ * @param fieldLength the length of the field
+ * @return the index after writing the field
+ */

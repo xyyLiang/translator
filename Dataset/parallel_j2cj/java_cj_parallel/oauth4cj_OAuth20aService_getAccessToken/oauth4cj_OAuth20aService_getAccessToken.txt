@@ -1,0 +1,8 @@
+
+    /**
+     * get the OAuth2AccessToken.
+     *
+     * @param code of String, the authorization code
+     *
+     * @return OAuth2AccessToken return the OAuth2AccessToken.
+     */

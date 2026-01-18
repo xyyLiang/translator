@@ -1,0 +1,7 @@
+/**
+ * Append Kanji bytes to the given {@link BitArray}.
+ *
+ * @param content The input Kanji content.
+ * @param bits The {@link BitArray} to which the Kanji bytes will be appended.
+ * @throws WriterException if the input content cannot be encoded as Kanji.
+ */

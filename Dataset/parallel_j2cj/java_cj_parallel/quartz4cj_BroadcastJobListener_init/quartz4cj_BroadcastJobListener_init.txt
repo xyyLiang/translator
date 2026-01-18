@@ -1,0 +1,6 @@
+    /**
+     * Construct an instance with the given name, and List of listeners.
+     *
+     * @param name the name of this instance
+     * @param listeners the initial List of JobListeners to broadcast to.
+     */

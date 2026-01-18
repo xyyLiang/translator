@@ -1,0 +1,6 @@
+**
+ * Performs unsynchronisation on the provided byte array.
+ *
+ * @param bytes the byte array to unsynchronise
+ * @return a new byte array with unsynchronisation applied
+ */

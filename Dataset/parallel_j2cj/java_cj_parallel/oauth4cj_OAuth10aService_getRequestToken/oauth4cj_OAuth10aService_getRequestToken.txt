@@ -1,0 +1,6 @@
+    /**
+     * Get OAuth1RequestToken instance
+     *
+     * @return OAuth1RequestToken OAuth1RequestToken instance
+     * @exception OAuth4cjException If an exception occurs during the request process, throw it
+     */

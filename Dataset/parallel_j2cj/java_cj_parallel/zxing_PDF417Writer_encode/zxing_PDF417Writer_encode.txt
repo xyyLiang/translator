@@ -1,0 +1,11 @@
+/**
+ * Encodes the specified contents into a BitMatrix.
+ * 
+ * @param contents The string to encode.
+ * @param format The barcode format (must be PDF_417).
+ * @param width The desired width of the barcode.
+ * @param height The desired height of the barcode.
+ * @param hints Additional hints for the encoder.
+ * @return The encoded BitMatrix.
+ * @throws WriterException If encoding fails.
+ */

@@ -1,0 +1,3 @@
+    /**
+     * Encode the string starting at position position starting with the character set charset
+     **/

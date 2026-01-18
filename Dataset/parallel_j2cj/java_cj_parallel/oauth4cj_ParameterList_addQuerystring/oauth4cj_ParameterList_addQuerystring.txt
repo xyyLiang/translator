@@ -1,0 +1,6 @@
+    /**
+     * Process queryString and append to this ParameterList object.
+     *
+     * @param queryString of String
+     * @since 0.37.2
+     */

@@ -1,0 +1,10 @@
+/**
+ * Creates a pattern with the specified regular expression, lookbehind flag, greediness, alias, and inside grammar.
+ *
+ * @param regex      The regular expression for the pattern.
+ * @param lookbehind Indicates whether the pattern should match using lookbehind.
+ * @param greedy     Indicates whether the pattern should match greedily.
+ * @param alias      The alias for the pattern.
+ * @param inside     The grammar inside the pattern.
+ * @return The created pattern.
+ */

@@ -1,0 +1,10 @@
+    /**
+     * Maps the given name of a bzip2-compressed file to the name that the file should have after uncompression. Commonly used file type specific suffixes like
+     * ".tbz" or ".tbz2" are automatically detected and correctly mapped. For example the name "package.tbz2" is mapped to "package.tar". And any file names
+     * with the generic ".bz2" suffix (or any other generic bzip2 suffix) is mapped to a name without that suffix. If no bzip2 suffix is detected, then the file
+     * name is returned unmapped.
+     *
+     * @param fileName name of a file
+     * @return name of the corresponding uncompressed file
+     * @since 1.25.0
+     */

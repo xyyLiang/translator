@@ -1,0 +1,7 @@
+    /**
+     * the oauth callback has been confirmed
+     *
+     * @return Bool Must be present and set to "true", The parameter is used to 
+     *              differentiate from previous versions of the protocol
+     * @since 0.37.2
+     */

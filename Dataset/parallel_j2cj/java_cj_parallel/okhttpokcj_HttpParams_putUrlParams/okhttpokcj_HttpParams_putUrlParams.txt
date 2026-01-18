@@ -1,0 +1,6 @@
+/**
+ * Adds multiple URL parameters with the specified key to this object.
+ *
+ * @param key    the key for the URL parameters
+ * @param values the list of values to be added
+ */

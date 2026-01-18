@@ -1,0 +1,1 @@
+/** Closes this cache. Stored values will remain on the filesystem. */

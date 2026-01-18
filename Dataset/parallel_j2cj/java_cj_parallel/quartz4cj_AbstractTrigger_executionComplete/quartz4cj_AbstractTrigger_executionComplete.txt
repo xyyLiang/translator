@@ -1,0 +1,22 @@
+    /**
+     * <p>
+     * This method should not be used by the Quartz client.
+     * </p>
+     * 
+     * <p>
+     * Called after the <code>{@link Scheduler}</code> has executed the
+     * <code>{@link org.quartz.JobDetail}</code> associated with the <code>Trigger</code>
+     * in order to get the final instruction code from the trigger.
+     * </p>
+     * 
+     * @param context
+     *          is the <code>JobExecutionContext</code> that was used by the
+     *          <code>Job</code>'s<code>execute(xx)</code> method.
+     * @param result
+     *          is the <code>JobExecutionException</code> thrown by the
+     *          <code>Job</code>, if any (may be null).
+     * @return one of the CompletedExecutionInstruction constants.
+     * 
+     * @see org.quartz.Trigger.CompletedExecutionInstruction
+     * @see #triggered(Calendar)
+     */

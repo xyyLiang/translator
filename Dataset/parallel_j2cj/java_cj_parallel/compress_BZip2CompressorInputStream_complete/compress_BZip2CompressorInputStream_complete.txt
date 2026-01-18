@@ -1,0 +1,6 @@
+/**
+ * Completes the decompression process.
+ * 
+ * @return True if there are more concatenated streams to decompress, false otherwise.
+ * @throws IOException If a CRC error is detected.
+ */

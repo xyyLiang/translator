@@ -1,0 +1,8 @@
+/**
+ * Checks if the skew of a codeword is within the acceptable range.
+ *
+ * @param codewordSize     The size of the codeword.
+ * @param minCodewordWidth The minimum width of a codeword.
+ * @param maxCodewordWidth The maximum width of a codeword.
+ * @return True if the skew of the codeword is within the acceptable range, false otherwise.
+ */

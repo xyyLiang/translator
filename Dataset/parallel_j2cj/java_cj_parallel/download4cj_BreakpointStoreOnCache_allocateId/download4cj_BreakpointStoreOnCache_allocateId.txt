@@ -1,0 +1,5 @@
+/**
+ * Allocates a new unique ID for a {@code DownloadTask}.
+ *
+ * @return a new unique ID.
+ */

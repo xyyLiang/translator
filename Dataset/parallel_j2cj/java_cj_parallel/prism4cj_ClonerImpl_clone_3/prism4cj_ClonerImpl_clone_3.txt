@@ -1,0 +1,7 @@
+/**
+ * Clones a Prism4j grammar recursively.
+ *
+ * @param context The cloning context.
+ * @param grammar The grammar to clone.
+ * @return The cloned Prism4j grammar.
+ */

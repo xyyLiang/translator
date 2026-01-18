@@ -1,0 +1,6 @@
+/**
+ * Writes the next triplet of encoded characters to the {@link EncoderContext}.
+ *
+ * @param context The {@link EncoderContext} containing the encoded message.
+ * @param buffer  The {@link StringBuilder} containing the encoded characters.
+ */

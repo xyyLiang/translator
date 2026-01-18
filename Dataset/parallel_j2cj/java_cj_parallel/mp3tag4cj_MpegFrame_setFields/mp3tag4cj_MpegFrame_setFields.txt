@@ -1,0 +1,6 @@
+/**
+ * Sets the fields of the MPEG frame based on the frame header.
+ * 
+ * @param frameHeader The frame header from which to extract the fields.
+ * @throws InvalidDataException If the frame sync is missing or if any field extraction fails.
+ */

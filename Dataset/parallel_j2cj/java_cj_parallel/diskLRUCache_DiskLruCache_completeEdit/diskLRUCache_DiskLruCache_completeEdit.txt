@@ -1,0 +1,7 @@
+/**
+ * Completes an edit operation, committing or discarding changes as necessary.
+ * 
+ * @param editor  The editor containing the changes to commit or discard.
+ * @param success True if the edit operation was successful and changes should be committed, false otherwise.
+ * @throws IOException If an I/O error occurs during the completion of the edit operation.
+ */

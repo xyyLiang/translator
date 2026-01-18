@@ -1,0 +1,6 @@
+    /**
+     * <p>
+     * Remove the indicated <code>{@link org.quartz.Trigger}</code> from the
+     * scheduler.
+     * </p>
+     */

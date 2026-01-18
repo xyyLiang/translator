@@ -1,0 +1,8 @@
+/**
+ * Finds the next pair in the given row.
+ * 
+ * @param row           The BitArray representing the row.
+ * @param previousPairs The list of previously decoded pairs.
+ * @param forcedOffset  The forced offset value, if any.
+ * @throws NotFoundException If the next pair cannot be found.
+ */

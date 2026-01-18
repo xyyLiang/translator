@@ -1,0 +1,6 @@
+/**
+ * Notifies all trigger listeners that a trigger has misfired.
+ *
+ * @param trigger the misfired trigger
+ * @throws SchedulerException if a trigger listener encounters an error
+ */

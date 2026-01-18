@@ -1,0 +1,6 @@
+  /**
+   * Sets a range of bits.
+   *
+   * @param start start of range, inclusive.
+   * @param end end of range, exclusive
+   */

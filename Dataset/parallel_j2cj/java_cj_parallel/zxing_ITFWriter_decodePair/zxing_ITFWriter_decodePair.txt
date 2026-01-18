@@ -1,0 +1,9 @@
+/**
+ * Decodes a pair from the given row and parameters.
+ *
+ * @param row        The BitArray row to decode from.
+ * @param right      Indicates whether the pair is on the right side.
+ * @param rowNumber  The row number.
+ * @param hints      Optional hints for decoding.
+ * @return The decoded Pair object, or null if not found.
+ */

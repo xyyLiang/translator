@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a job has been deleted from the scheduler.
+ *
+ * @param jobKey the key of the deleted job
+ */

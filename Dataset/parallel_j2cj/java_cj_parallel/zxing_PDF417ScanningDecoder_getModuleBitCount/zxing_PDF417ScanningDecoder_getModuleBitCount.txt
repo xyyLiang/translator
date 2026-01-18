@@ -1,0 +1,11 @@
+/**
+ * Gets the bit count of modules in a specified region of the image.
+ *
+ * @param image        The BitMatrix representing the image.
+ * @param minColumn    The minimum column index for the detection region.
+ * @param maxColumn    The maximum column index for the detection region.
+ * @param leftToRight  True if reading is in the left-to-right direction, false otherwise.
+ * @param startColumn  The starting column index for reading the modules.
+ * @param imageRow     The row index of the image.
+ * @return An array containing the bit count of modules.
+ */

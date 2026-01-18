@@ -1,0 +1,5 @@
+/**
+ * Sets the recording time for the ID3v2 tag.
+ * 
+ * @param recTime The recording time to set.
+ */

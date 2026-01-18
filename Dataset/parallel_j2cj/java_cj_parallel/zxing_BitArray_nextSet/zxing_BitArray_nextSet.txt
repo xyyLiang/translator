@@ -1,0 +1,6 @@
+  /**
+   * @param from first bit to check
+   * @return index of first bit that is set, starting from the given index, or size if none are set
+   *  at or beyond this given index
+   * @see #getNextUnset(int)
+   */

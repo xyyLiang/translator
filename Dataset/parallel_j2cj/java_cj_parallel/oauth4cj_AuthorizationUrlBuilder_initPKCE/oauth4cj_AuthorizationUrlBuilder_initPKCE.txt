@@ -1,0 +1,5 @@
+    /**
+     * Initialize PKCE
+     *
+     * @return AuthorizationUrlBuilder AuthorizationUrlBuilder instance
+     */

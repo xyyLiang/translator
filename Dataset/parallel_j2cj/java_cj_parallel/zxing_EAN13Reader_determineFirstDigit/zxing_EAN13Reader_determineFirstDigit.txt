@@ -1,0 +1,10 @@
+  /**
+   * Based on pattern of odd-even ('L' and 'G') patterns used to encoded the explicitly-encoded
+   * digits in a barcode, determines the implicitly encoded first digit and adds it to the
+   * result string.
+   *
+   * @param resultString string to insert decoded first digit into
+   * @param lgPatternFound int whose bits indicates the pattern of odd/even L/G patterns used to
+   *  encode digits
+   * @throws NotFoundException if first digit cannot be determined
+   */

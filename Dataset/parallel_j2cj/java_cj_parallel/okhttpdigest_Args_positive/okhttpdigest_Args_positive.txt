@@ -1,0 +1,9 @@
+    /**
+     * Ensures that the given integer value is positive.
+     *
+     * @param n of Int32
+     * @param name of String
+     *
+     * @return Type of Int32
+     * @since 30.4
+     */

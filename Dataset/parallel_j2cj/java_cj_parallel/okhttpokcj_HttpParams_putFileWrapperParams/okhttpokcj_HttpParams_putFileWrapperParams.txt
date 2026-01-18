@@ -1,0 +1,6 @@
+/**
+ * Adds multiple file wrapper parameters with the specified key to this object.
+ *
+ * @param key          the key for the file wrapper parameters
+ * @param fileWrappers the list of file wrappers to be added
+ */

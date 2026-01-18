@@ -1,0 +1,8 @@
+/**
+ * Draws the mode message on the specified BitMatrix.
+ * 
+ * @param matrix     The BitMatrix to draw on.
+ * @param compact    Indicates whether the Aztec code is compact.
+ * @param matrixSize The size of the matrix.
+ * @param modeMessage The mode message to draw.
+ */

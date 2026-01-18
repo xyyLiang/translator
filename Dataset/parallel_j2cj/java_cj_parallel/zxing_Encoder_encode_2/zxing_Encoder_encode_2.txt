@@ -1,0 +1,6 @@
+  /**
+   * Encodes the given binary content as an Aztec symbol (without ECI code)
+   *
+   * @param data input data string
+   * @return Aztec symbol matrix with metadata
+   */

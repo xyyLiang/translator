@@ -1,0 +1,6 @@
+    /**
+     * The Function is getEncoder, TENC or TEN Identify the corresponding data.
+     * 
+     * @return Type of Option<String>
+     * @since 0.32.5
+     */

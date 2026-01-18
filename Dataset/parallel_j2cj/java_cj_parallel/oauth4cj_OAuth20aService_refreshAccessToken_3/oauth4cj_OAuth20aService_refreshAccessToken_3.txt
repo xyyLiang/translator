@@ -1,0 +1,9 @@
+    /**
+     * Asynchronous acquisition of refresh token.
+     *
+     * @param refreshToken of String, the refresh token
+     * @param scope of String, the scope
+     * @param callback of Option<OAuthAsyncRequestCallback>, optional callback, the access async request callback
+     *
+     * @return Future<OAuth2AccessToken> retrieve the return value of the refresh token asynchronously.
+     */

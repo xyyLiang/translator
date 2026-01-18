@@ -1,0 +1,6 @@
+    /**
+     * generate hashCode
+     *
+     * @return Type of Int32
+     * @since 30.4
+     */

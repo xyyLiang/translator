@@ -1,0 +1,7 @@
+/**
+ * Converts the given pattern into its corresponding character.
+ *
+ * @param pattern The pattern to convert.
+ * @return The corresponding character.
+ * @throws NotFoundException If the pattern does not match any known character.
+ */

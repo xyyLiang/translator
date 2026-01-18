@@ -1,0 +1,5 @@
+    /**
+     * get token type string
+     * 
+     * @Return String token type string
+     */

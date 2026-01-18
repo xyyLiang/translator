@@ -1,0 +1,5 @@
+/**
+ * Constructs a ParameterList from a list of Parameters.
+ * 
+ * @param params The list of Parameters.
+ */

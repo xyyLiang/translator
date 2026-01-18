@@ -1,0 +1,4 @@
+  /**
+   * Returns the bytes corresponding to this <code>BOM</code> value.
+   * @return the bytes corresponding to this <code>BOM</code> value.
+   */

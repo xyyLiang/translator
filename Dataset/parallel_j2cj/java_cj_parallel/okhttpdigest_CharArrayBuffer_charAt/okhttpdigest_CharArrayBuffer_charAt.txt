@@ -1,0 +1,6 @@
+/**
+ * Returns the character at the specified index.
+ * 
+ * @param i the index of the character
+ * @return the character at the specified index
+ */

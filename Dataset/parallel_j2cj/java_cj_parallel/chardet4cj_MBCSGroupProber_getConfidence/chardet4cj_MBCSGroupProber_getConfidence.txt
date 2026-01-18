@@ -1,0 +1,8 @@
+/**
+ * Retrieves the confidence level of the detected character set.
+ * If the detector has already found the character set, it returns a confidence level of 0.99.
+ * If the detector determines that the character set is not suitable, it returns a confidence level of 0.01.
+ * Otherwise, it iterates through the available probers to find the highest confidence level.
+ *
+ * @return the confidence level of the detected character set
+ */

@@ -1,0 +1,8 @@
+/**
+ * Checks if the specified range in the given row array is white (contains only 0s).
+ *
+ * @param rowArray The row array to check.
+ * @param from The starting index of the range (inclusive).
+ * @param to The ending index of the range (exclusive).
+ * @return {@code true} if the range is white, {@code false} otherwise.
+ */

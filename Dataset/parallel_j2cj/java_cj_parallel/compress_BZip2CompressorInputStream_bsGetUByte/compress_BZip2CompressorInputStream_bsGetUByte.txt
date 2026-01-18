@@ -1,0 +1,7 @@
+/**
+ * Retrieves an unsigned byte value from the bit input stream.
+ * 
+ * @param bin The bit input stream.
+ * @return The unsigned byte value.
+ * @throws IOException If an I/O error occurs.
+ */

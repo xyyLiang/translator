@@ -1,0 +1,11 @@
+    /**
+     * <p>
+     * NOT YET IMPLEMENTED: Returns the final time at which the 
+     * <code>CronTrigger</code> will fire.
+     * </p>
+     * 
+     * <p>
+     * Note that the return time *may* be in the past. and the date returned is
+     * not validated against org.quartz.calendar
+     * </p>
+     */

@@ -1,0 +1,7 @@
+/**
+ * Internal method to decode the format information.
+ * 
+ * @param maskedFormatInfo1 The format info indicator with mask still applied.
+ * @param maskedFormatInfo2 The second copy of the same info; both are checked at the same time to establish the best match.
+ * @return Information about the format it specifies, or {@code null} if it doesn't seem to match any known pattern.
+ */

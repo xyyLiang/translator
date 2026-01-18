@@ -1,0 +1,8 @@
+/**
+ * Processes the queued download calls for execution.
+ * This method checks if it is allowed to proceed with processing calls, if the maximum parallel running count
+ * has been reached, and if there are any queued download calls to process. If conditions are met, it iterates
+ * through the queued download calls, removes them from the queue, checks for file conflicts, and executes
+ * them asynchronously. It stops processing if the maximum parallel running count is reached or if there are
+ * no more queued calls.
+ */

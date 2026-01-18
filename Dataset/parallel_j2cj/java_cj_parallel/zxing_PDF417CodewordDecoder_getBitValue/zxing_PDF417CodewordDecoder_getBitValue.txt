@@ -1,0 +1,6 @@
+/**
+ * Calculates the bit value from the module bit counts.
+ * 
+ * @param moduleBitCount The array of module bit counts.
+ * @return The calculated bit value.
+ */

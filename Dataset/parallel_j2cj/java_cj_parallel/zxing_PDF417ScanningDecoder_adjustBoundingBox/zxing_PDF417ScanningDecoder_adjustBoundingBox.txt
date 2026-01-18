@@ -1,0 +1,7 @@
+/**
+ * Adjusts the bounding box based on the row indicator column.
+ * 
+ * @param rowIndicatorColumn The row indicator column.
+ * @return The adjusted bounding box.
+ * @throws NotFoundException if the row indicator column or its data is invalid.
+ */

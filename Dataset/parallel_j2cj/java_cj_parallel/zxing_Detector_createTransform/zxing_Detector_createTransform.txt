@@ -1,0 +1,10 @@
+/**
+ * Creates a perspective transform based on the detected points and alignment pattern (if available).
+ * 
+ * @param topLeft The top-left finder pattern.
+ * @param topRight The top-right finder pattern.
+ * @param bottomLeft The bottom-left finder pattern.
+ * @param alignmentPattern The detected alignment pattern.
+ * @param dimension The dimension of the QR code.
+ * @return The perspective transform.
+ */

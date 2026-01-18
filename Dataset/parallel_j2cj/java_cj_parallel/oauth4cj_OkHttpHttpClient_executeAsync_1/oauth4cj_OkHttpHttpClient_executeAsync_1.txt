@@ -1,0 +1,15 @@
+    /**
+     * async execute.
+     *
+     * @Param userAgent of String, the user agent
+     * @Param headers of HashMap<String, String>, the header
+     * @Param httpVerb of Verb, Verb is an enumeration that contains the most common types of HTTP requests.
+     * @Param completeUrl of String, the complete url
+     * @Param bodyContents of MultipartPayload, the body content
+     * @Param callback of Option<OAuthAsyncRequestCallback>, the oAuth async request callback
+     * @Param converter of Option<ResponseConverter>, the response converter
+     *
+     * @Return Future<Any> the result of async execute.
+     * @exception OAuth4cjException OKHttp Client does not support Multipart payload for the moment.
+     * @since 0.38.2
+     */

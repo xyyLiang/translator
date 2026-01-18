@@ -1,0 +1,6 @@
+/**
+ * Finds the instance length from the response headers.
+ *
+ * @param connected The connected download connection.
+ * @return The instance length extracted from the response headers.
+ */

@@ -1,0 +1,6 @@
+    /**
+     * Create a BodyPartPayload instance according to the parameter.
+     *
+     * @param contentType of String
+     * @since 0.37.2
+     */

@@ -1,0 +1,6 @@
+    /**
+     * Inverts an escape Map into an unescape Map.
+     *
+     * @param map Map&lt;String, String&gt; to be inverted
+     * @return Map&lt;String, String&gt; inverted array
+     */

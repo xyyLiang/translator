@@ -1,0 +1,6 @@
+/**
+ * Creates a matrix of BarcodeValue objects based on the provided DetectionResult.
+ *
+ * @param detectionResult The DetectionResult containing the barcode information.
+ * @return A matrix of BarcodeValue objects representing the detected barcodes.
+ */

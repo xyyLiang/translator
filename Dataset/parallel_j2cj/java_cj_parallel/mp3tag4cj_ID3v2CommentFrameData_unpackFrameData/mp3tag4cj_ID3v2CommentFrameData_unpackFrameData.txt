@@ -1,0 +1,5 @@
+/**
+ * Unpacks the frame data from the given byte array.
+ * 
+ * @param bytes The byte array containing the frame data.
+ */

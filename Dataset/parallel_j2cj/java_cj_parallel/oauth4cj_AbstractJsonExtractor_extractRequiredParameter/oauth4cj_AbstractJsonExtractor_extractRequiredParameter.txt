@@ -1,0 +1,3 @@
+/**
+ * Get the parameter value from Abstract Json Extractor.
+ */

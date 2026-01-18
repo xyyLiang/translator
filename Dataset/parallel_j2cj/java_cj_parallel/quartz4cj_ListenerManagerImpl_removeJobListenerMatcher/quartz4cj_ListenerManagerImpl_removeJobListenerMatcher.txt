@@ -1,0 +1,8 @@
+    /**
+     * Remove the given Matcher to the set of matchers for which the listener
+     * will receive events if ANY of the matchers match.
+     *  
+     * @param listenerName the name of the listener to add the matcher to
+     * @param matcher the additional matcher to apply for selecting events
+     * @return true if the given matcher was found and removed from the listener's list of matchers
+     */

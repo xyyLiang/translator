@@ -1,0 +1,8 @@
+/**
+ * Replaces the trigger with the given key with the new trigger.
+ * 
+ * @param triggerKey The key of the trigger to be replaced.
+ * @param newTrigger The new trigger to replace the existing one.
+ * @return True if the trigger was found and replaced, false otherwise.
+ * @throws JobPersistenceException If there is an error replacing the trigger.
+ */

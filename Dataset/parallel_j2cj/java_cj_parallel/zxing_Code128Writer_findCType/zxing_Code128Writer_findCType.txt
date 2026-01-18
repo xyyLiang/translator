@@ -1,0 +1,7 @@
+/**
+ * Finds the CType of the character at the specified position in the provided CharSequence.
+ * 
+ * @param value The CharSequence containing the character.
+ * @param start The position of the character in the CharSequence.
+ * @return The CType of the character at the specified position.
+ */

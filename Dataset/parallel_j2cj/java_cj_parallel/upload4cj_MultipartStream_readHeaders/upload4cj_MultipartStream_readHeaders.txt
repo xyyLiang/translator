@@ -1,0 +1,5 @@
+    /**
+     * read Headers
+     *
+     * @return String - The headers
+     */

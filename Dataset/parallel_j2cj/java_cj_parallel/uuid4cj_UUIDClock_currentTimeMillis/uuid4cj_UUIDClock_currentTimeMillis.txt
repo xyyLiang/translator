@@ -1,0 +1,5 @@
+    /**
+     * Returns the current time in toMilliseconds.
+     *
+     * @return Int64
+     */

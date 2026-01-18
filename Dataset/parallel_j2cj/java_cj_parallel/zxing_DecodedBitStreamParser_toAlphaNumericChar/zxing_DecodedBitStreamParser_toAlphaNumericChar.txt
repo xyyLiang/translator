@@ -1,0 +1,7 @@
+/**
+ * Converts the given value to an alphanumeric character.
+ *
+ * @param value The value to convert.
+ * @return The corresponding alphanumeric character.
+ * @throws FormatException If the value is out of range.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Logs a large message by splitting it into parts if its length exceeds the maximum log length.
+ *
+ * @param id      The identifier for the log
+ * @param type    The type of the log message
+ * @param content The content of the message to be logged
+ */

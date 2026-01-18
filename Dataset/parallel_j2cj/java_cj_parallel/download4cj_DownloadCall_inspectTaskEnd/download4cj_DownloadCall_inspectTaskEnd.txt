@@ -1,0 +1,7 @@
+/**
+ * Inspects the end of the download task.
+ *
+ * @param cache      The download cache.
+ * @param cause      The cause of the end of the task.
+ * @param realCause  The real cause of the end of the task.
+ */

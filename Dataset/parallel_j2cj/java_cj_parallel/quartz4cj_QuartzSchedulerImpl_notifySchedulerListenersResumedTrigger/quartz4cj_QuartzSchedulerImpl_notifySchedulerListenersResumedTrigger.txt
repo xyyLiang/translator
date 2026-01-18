@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a trigger has been resumed.
+ * 
+ * @param key The key of the resumed trigger.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Updates the CRC-32 checksum with the specified byte repeated a certain number of times.
+ *
+ * @param inCh   The byte to update the checksum with
+ * @param repeat The number of times to repeat the update with the byte
+ */

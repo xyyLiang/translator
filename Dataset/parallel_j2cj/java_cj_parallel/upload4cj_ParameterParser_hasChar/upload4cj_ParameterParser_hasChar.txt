@@ -1,0 +1,6 @@
+    /**
+     * Are there any characters left to parse?
+     *
+     * @return {@code true} if there are unparsed characters,
+     *         {@code false} otherwise.
+     */

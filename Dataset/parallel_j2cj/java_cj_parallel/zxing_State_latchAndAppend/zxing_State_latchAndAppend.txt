@@ -1,0 +1,4 @@
+  /*
+   * Create a new state representing this state with a latch to a (not 
+   * necessary different) mode, and then a code.
+   */

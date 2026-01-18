@@ -1,0 +1,5 @@
+/**
+ * Packs the frame data into a byte array.
+ * 
+ * @return The byte array containing the packed frame data.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Saves the MPEG frames from the file to another file.
+ * 
+ * @param saveFile The seekable byte channel of the file to save the MPEG frames.
+ * @throws IOException If an I/O error occurs while reading or writing the files.
+ */

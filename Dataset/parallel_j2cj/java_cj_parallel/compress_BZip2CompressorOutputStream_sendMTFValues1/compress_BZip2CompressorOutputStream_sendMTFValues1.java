@@ -1,0 +1,115 @@
+    private int sendMTFValues1(final int nGroups, final int alphaSize) {
+        final Data dataShadow = this.data;
+        final int[][] rfreq = dataShadow.sendMTFValues_rfreq;
+        final int[] fave = dataShadow.sendMTFValues_fave;
+        final short[] cost = dataShadow.sendMTFValues_cost;
+        final char[] sfmap = dataShadow.sfmap;
+        final byte[] selector = dataShadow.selector;
+        final byte[][] len = dataShadow.sendMTFValues_len;
+        final byte[] len_0 = len[0];
+        final byte[] len_1 = len[1];
+        final byte[] len_2 = len[2];
+        final byte[] len_3 = len[3];
+        final byte[] len_4 = len[4];
+        final byte[] len_5 = len[5];
+        final int nMTFShadow = this.nMTF;
+
+        int nSelectors = 0;
+
+        for (int iter = 0; iter < N_ITERS; iter++) {
+            for (int t = nGroups; --t >= 0;) {
+                fave[t] = 0;
+                final int[] rfreqt = rfreq[t];
+                for (int i = alphaSize; --i >= 0;) {
+                    rfreqt[i] = 0;
+                }
+            }
+
+            nSelectors = 0;
+
+            for (int gs = 0; gs < this.nMTF;) {
+                // Set group start & end marks.
+
+                // Calculate the cost of this group as coded by each of the
+                // coding tables.
+
+                final int ge = Math.min(gs + G_SIZE - 1, nMTFShadow - 1);
+
+                final byte mask = (byte) 0xff;
+                if (nGroups == N_GROUPS) {
+                    // unrolled version of the else-block
+
+                    short cost0 = 0;
+                    short cost1 = 0;
+                    short cost2 = 0;
+                    short cost3 = 0;
+                    short cost4 = 0;
+                    short cost5 = 0;
+
+                    for (int i = gs; i <= ge; i++) {
+                        final int icv = sfmap[i];
+                        cost0 += (short) (len_0[icv] & mask);
+                        cost1 += (short) (len_1[icv] & mask);
+                        cost2 += (short) (len_2[icv] & mask);
+                        cost3 += (short) (len_3[icv] & mask);
+                        cost4 += (short) (len_4[icv] & mask);
+                        cost5 += (short) (len_5[icv] & mask);
+                    }
+
+                    cost[0] = cost0;
+                    cost[1] = cost1;
+                    cost[2] = cost2;
+                    cost[3] = cost3;
+                    cost[4] = cost4;
+                    cost[5] = cost5;
+
+                } else {
+                    for (int t = nGroups; --t >= 0;) {
+                        cost[t] = 0;
+                    }
+
+                    for (int i = gs; i <= ge; i++) {
+                        final int icv = sfmap[i];
+                        for (int t = nGroups; --t >= 0;) {
+                            cost[t] += (short) (len[t][icv] & mask);
+                        }
+                    }
+                }
+
+                /*
+                 * Find the coding table which is best for this group, and record its identity in the selector table.
+                 */
+                int bt = -1;
+                for (int t = nGroups, bc = 999999999; --t >= 0;) {
+                    final int cost_t = cost[t];
+                    if (cost_t < bc) {
+                        bc = cost_t;
+                        bt = t;
+                    }
+                }
+
+                fave[bt]++;
+                selector[nSelectors] = (byte) bt;
+                nSelectors++;
+
+                /*
+                 * Increment the symbol frequencies for the selected table.
+                 */
+                final int[] rfreq_bt = rfreq[bt];
+                for (int i = gs; i <= ge; i++) {
+                    rfreq_bt[sfmap[i]]++;
+                }
+
+                gs = ge + 1;
+            }
+
+            /*
+             * Recompute the tables based on the accumulated frequencies.
+             */
+            for (int t = 0; t < nGroups; t++) {
+                hbMakeCodeLengths(len[t], rfreq[t], this.data, alphaSize, 20);
+            }
+        }
+
+        return nSelectors;
+    }

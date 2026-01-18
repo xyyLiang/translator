@@ -1,0 +1,6 @@
+    /**
+     * Create a RSASha1SignatureService instance according to the parameter.
+     *
+     * @param private key file path, the file must be in .pem format
+     * @since 0.38.2
+     */

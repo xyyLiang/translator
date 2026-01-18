@@ -1,0 +1,8 @@
+/**
+ * Encodes the contents using a fast encoding method based on the specified forced code set.
+ * 
+ * @param contents The contents to be encoded.
+ * @param forcedCodeSet The forced code set to use during encoding.
+ * @return An array of booleans representing the encoded pattern.
+ * @throws IllegalArgumentException if the number of characters is not valid for digit-only encoding or if an unsupported character is encountered.
+ */

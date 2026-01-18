@@ -1,0 +1,6 @@
+/**
+ * Retrieves a summary of the cron expression, including the configured values for seconds, minutes, hours, days of month, months, days of week, and years.
+ * Additionally, it includes flags indicating the use of special expressions such as last day of week, nearest weekday, Nth day of week, and last day of month.
+ *
+ * @return A string containing a summary of the cron expression configuration.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Determines if the candidate new time is earlier within a reasonable time frame.
+ * 
+ * @param oldTime the old time
+ * @param clearSignal specifies whether to clear the scheduling change signal
+ * @return true if the candidate new time is earlier within a reasonable time frame, otherwise false
+ */

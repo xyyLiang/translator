@@ -1,0 +1,5 @@
+    /**
+     * Returns ClientAuthentication instance.
+     *
+     * @return ClientAuthentication ClientAuthentication instance
+     */

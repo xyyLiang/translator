@@ -1,0 +1,7 @@
+/**
+ * Finds the error locations from the error locator polynomial using Chien's search.
+ *
+ * @param errorLocator The error locator polynomial.
+ * @return An array containing the error locations.
+ * @throws ReedSolomonException If the error locator degree does not match the number of roots.
+ */

@@ -1,0 +1,5 @@
+    /**
+     * revocation token.
+     *
+     * @param tokenToRevoke of String, the token to revoke.
+     */

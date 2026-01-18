@@ -1,0 +1,7 @@
+    /**
+     * <p>
+     * Returns the last time at which the <code>SimpleTrigger</code> will
+     * fire, before the given time. If the trigger will not fire before the
+     * given time, <code>null</code> will be returned.
+     * </p>
+     */

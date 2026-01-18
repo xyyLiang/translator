@@ -1,0 +1,9 @@
+  /**
+   * @param row       row of black/white values to search
+   * @param rowOffset position to start search
+   * @param pattern   pattern of counts of number of black and white pixels that are
+   *                  being searched for as a pattern
+   * @return start/end horizontal offset of guard pattern, as an array of two
+   *         ints
+   * @throws NotFoundException if pattern is not found
+   */

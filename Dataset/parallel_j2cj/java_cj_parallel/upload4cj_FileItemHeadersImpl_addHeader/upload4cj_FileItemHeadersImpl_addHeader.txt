@@ -1,0 +1,6 @@
+    /**
+     * add Header
+     *
+     * @param name - String The header name
+     * @param value - String The header value
+     */

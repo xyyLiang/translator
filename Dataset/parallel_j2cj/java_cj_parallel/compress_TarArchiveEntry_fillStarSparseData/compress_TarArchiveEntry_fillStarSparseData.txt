@@ -1,0 +1,6 @@
+/**
+ * Fills the star sparse data fields using the provided headers.
+ *
+ * @param headers the headers containing the data fields
+ * @throws IOException if an I/O error occurs
+ */

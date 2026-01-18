@@ -1,0 +1,5 @@
+/**
+ * Removes the file parameter associated with the specified key from this object.
+ *
+ * @param key the key of the file parameter to be removed
+ */

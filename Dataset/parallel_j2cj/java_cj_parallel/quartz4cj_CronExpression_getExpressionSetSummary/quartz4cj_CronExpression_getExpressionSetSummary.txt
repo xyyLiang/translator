@@ -1,0 +1,6 @@
+/**
+ * Retrieves a summary of the values configured in the given set, representing a part of the cron expression.
+ *
+ * @param set The set of values to summarize.
+ * @return A string containing the summary of the values in the set.
+ */

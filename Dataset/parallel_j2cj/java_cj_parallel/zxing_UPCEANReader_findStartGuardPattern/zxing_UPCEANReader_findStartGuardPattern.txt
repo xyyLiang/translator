@@ -1,0 +1,7 @@
+/**
+ * Finds the start guard pattern in the given BitArray row.
+ *
+ * @param row The BitArray row to search.
+ * @return An array containing the start guard pattern range.
+ * @throws NotFoundException if the start guard pattern cannot be found.
+ */

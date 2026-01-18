@@ -1,0 +1,5 @@
+  /**
+   * Get number of data bytes and number of error correction bytes for block id "blockID". Store
+   * the result in "numDataBytesInBlock", and "numECBytesInBlock". See table 12 in 8.5.1 of
+   * JISX0510:2004 (p.30)
+   */

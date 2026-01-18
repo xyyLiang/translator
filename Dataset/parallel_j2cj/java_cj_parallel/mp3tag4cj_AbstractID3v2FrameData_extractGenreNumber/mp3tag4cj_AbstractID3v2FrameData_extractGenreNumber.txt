@@ -1,0 +1,10 @@
+/**
+ * Extracts the genre number from the provided genre value. The genre value can be either
+ * a numeric genre representation or a combined representation containing both the genre number
+ * and its description enclosed in parentheses. This method parses the genre value and returns
+ * the extracted genre number.
+ *
+ * @param genreValue the genre value from which to extract the genre number
+ * @return the extracted genre number
+ * @throws NumberFormatException if the genre value is not a valid numeric representation
+ */

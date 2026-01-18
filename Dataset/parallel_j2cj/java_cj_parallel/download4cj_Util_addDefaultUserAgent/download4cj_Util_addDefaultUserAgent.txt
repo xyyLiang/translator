@@ -1,0 +1,5 @@
+/**
+ * Adds a default user agent header field to the provided DownloadConnection.
+ *
+ * @param connection The DownloadConnection to which the default user agent header will be added.
+ */

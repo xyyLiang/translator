@@ -1,0 +1,7 @@
+/**
+ * Converts the specified byte array to a long value.
+ * 
+ * @param buffer The byte array to convert.
+ * @param offset The offset in the byte array to start converting from.
+ * @return The long value obtained from the byte array.
+ */

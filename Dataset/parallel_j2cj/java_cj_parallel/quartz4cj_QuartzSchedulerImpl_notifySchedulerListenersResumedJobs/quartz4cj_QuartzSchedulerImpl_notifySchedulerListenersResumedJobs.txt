@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that jobs within a specific group have been resumed.
+ * 
+ * @param group The group of jobs that have been resumed.
+ */

@@ -1,0 +1,6 @@
+    /**
+     * <p>
+     * Add the given <code>{@link org.quartz.TriggerListener}</code> to the
+     * <code>Scheduler</code>'s <i>internal</i> list.
+     * </p>
+     */

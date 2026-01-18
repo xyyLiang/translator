@@ -1,0 +1,7 @@
+/**
+ * Generates the signature for the OAuth request.
+ * 
+ * @param request     The OAuth request to sign.
+ * @param tokenSecret The token secret to use for signing.
+ * @return The generated signature.
+ */

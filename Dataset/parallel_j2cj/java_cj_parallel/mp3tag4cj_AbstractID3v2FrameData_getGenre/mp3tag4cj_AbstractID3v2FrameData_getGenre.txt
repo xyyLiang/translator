@@ -1,0 +1,8 @@
+/**
+ * Retrieves the genre number from the provided text. If the text represents a genre number,
+ * it is parsed and returned. If the text represents a genre description, it is matched to
+ * a known genre description and its corresponding number is returned.
+ *
+ * @param text the text representing the genre or genre description
+ * @return the genre number if successfully extracted, or -1 if the text is null or empty
+ */

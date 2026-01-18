@@ -1,0 +1,8 @@
+/**
+ * Determines the rotation of the Aztec code based on the orientation marks on its sides.
+ * 
+ * @param sides An array containing the orientation marks on each side of the Aztec code.
+ * @param length The length of each side's orientation marks.
+ * @return The rotation of the Aztec code.
+ * @throws NotFoundException If the rotation cannot be determined due to invalid orientation marks.
+ */

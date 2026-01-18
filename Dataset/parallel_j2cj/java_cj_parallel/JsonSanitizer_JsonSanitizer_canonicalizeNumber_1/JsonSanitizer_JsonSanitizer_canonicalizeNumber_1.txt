@@ -1,0 +1,5 @@
+    /**
+     * @param sanStart the start (inclusive) of the number on sanitizedJson.
+     * @param sanEnd the end (exclusive) of the number on sanitizedJson.
+     * @return true when the number could be canonicalized.
+     */

@@ -1,0 +1,6 @@
+/**
+ * Finds the ETag from the response headers.
+ *
+ * @param connected The connected download connection.
+ * @return The ETag extracted from the response headers, or {@code null} if not found.
+ */

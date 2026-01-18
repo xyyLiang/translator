@@ -1,0 +1,6 @@
+/**
+ * Finds the maximum value in the given array.
+ * 
+ * @param values The array of integers.
+ * @return The maximum value.
+ */

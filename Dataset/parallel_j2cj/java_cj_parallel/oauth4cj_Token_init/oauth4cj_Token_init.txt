@@ -1,0 +1,5 @@
+    /**
+     * Constructor
+     *
+     * @Param rawResponse raw response information
+     */

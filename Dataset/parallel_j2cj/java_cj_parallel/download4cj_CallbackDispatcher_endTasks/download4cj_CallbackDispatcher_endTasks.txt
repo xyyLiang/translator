@@ -1,0 +1,8 @@
+/**
+ * Ends the specified DownloadTasks.
+ * This method notifies listeners about the completion of tasks and removes them from their respective collections.
+ *
+ * @param completedTaskCollection      Collection of completed tasks.
+ * @param sameTaskConflictCollection   Collection of tasks with conflicts.
+ * @param fileBusyCollection           Collection of tasks that are busy with files.
+ */

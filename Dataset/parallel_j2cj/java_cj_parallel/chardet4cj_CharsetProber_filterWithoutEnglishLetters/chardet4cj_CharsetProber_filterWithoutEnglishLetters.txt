@@ -1,0 +1,10 @@
+/**
+ * Filters the input byte array to exclude segments containing English letters.
+ * Segments are delimited by symbols (most likely punctuation).
+ * Only segments with upper ASCII characters are retained.
+ *
+ * @param buf the input byte array
+ * @param offset the starting index in the byte array
+ * @param length the number of bytes to consider from the offset
+ * @return a byte buffer containing the filtered segments
+ */

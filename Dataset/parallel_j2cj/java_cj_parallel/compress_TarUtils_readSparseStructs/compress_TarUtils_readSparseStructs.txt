@@ -1,0 +1,9 @@
+/**
+ * Reads sparse header structures from the provided byte buffer.
+ *
+ * @param buffer the byte buffer containing the sparse headers
+ * @param offset the starting index in the buffer
+ * @param entries the number of sparse headers to read
+ * @return a list of sparse header structures
+ * @throws IOException if an I/O error occurs or if the TAR archive is corrupted
+ */

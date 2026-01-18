@@ -1,0 +1,8 @@
+    /**
+     * Returns an estimate of the number of bits that can be read from this input stream without blocking by the next invocation of a method for this input
+     * stream.
+     *
+     * @throws IOException if the underlying stream throws one when calling available
+     * @return estimate of the number of bits that can be read without blocking
+     * @since 1.16
+     */

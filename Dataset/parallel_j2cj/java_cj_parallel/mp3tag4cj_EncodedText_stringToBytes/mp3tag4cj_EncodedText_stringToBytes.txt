@@ -1,0 +1,7 @@
+/**
+ * Converts the given string to a byte array using the specified character set.
+ * 
+ * @param s             The string to be converted to a byte array.
+ * @param characterSet  The character set to use for encoding the string.
+ * @return The byte array representing the string.
+ */

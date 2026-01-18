@@ -1,0 +1,7 @@
+  /**
+   * <p>Gets the requested bit, where true means black.</p>
+   *
+   * @param x The horizontal component (i.e. which column)
+   * @param y The vertical component (i.e. which row)
+   * @return value of given bit in matrix
+   */

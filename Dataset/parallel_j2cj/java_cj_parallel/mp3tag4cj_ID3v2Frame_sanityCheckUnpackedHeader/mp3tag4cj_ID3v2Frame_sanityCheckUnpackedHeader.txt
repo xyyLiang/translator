@@ -1,0 +1,5 @@
+/**
+ * Performs a sanity check on the unpacked header.
+ * 
+ * @throws InvalidDataException If the unpacked header is invalid.
+ */

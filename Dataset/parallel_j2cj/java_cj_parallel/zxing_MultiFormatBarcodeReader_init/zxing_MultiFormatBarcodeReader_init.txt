@@ -1,0 +1,5 @@
+/**
+ * Constructs a MultiFormatOneDReader with the given decoding hints.
+ *
+ * @param hints The decoding hints to be used by the reader.
+ */

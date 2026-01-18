@@ -1,0 +1,15 @@
+    /**
+     * <p>
+     * Store the given <code>{@link org.quartz.Job}</code>.
+     * </p>
+     * 
+     * @param newJob
+     *          The <code>Job</code> to be stored.
+     * @param replaceExisting
+     *          If <code>true</code>, any <code>Job</code> existing in the
+     *          <code>JobStore</code> with the same name and group should be
+     *          over-written.
+     * @throws ObjectAlreadyExistsException
+     *           if a <code>Job</code> with the same name/group already
+     *           exists, and replaceExisting is set to false.
+     */

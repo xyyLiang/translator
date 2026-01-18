@@ -1,0 +1,9 @@
+    /**
+     * Sets the time range for the <CODE>DailyCalendar</CODE> to the times 
+     * represented in the specified Strings. 
+     * 
+     * @param rangeStartingTimeString a String representing the start time of 
+     *                                the time range
+     * @param rangeEndingTimeString   a String representing the end time of the
+     *                                excluded time range
+     */

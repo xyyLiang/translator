@@ -1,0 +1,6 @@
+    /**
+     * The Function is getArtist, TPE1 or TP1 Identify the corresponding data.
+     * 
+     * @return Type of Option<String>
+     * @since 0.32.5
+     */

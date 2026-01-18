@@ -1,0 +1,7 @@
+    /**
+     * Cancel a bunch of {@code tasks} or with the same ids tasks.
+     * <p>
+     * This operation is specially optimize for handle tasks instead of single task.
+     *
+     * @param tasks will be canceled with high effective.
+     */

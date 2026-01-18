@@ -1,0 +1,6 @@
+/**
+ * Parses the information encoded in the barcode.
+ *
+ * @return A string containing the parsed information.
+ * @throws NotFoundException If the information cannot be found or decoded.
+ */

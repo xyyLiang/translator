@@ -1,0 +1,5 @@
+    /**
+     * Returns an editor for this snapshot's entry, or null if either the
+     * entry has changed since this snapshot was created or if another edit
+     * is in progress.
+     */

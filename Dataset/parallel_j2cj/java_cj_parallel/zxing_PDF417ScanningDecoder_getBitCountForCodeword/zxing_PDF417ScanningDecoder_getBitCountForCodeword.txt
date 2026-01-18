@@ -1,0 +1,6 @@
+/**
+ * Calculates the bit count for a given codeword.
+ *
+ * @param codeword The codeword for which to calculate the bit count.
+ * @return An array containing the bit count for the codeword.
+ */

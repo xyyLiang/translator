@@ -1,0 +1,6 @@
+    /**
+     * Get the breakpoint info of this task.
+     *
+     * @return {@code null} Only if there isn't any info for this task yet, otherwise you can get
+     * the info for the task.
+     */

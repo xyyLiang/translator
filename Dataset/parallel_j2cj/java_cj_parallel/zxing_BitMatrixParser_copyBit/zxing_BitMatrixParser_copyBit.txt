@@ -1,0 +1,8 @@
+/**
+ * Copies a bit from the specified position in the bit matrix to the version bits.
+ *
+ * @param i The row index of the bit.
+ * @param j The column index of the bit.
+ * @param versionBits The current value of the version bits being constructed.
+ * @return The updated value of the version bits.
+ */

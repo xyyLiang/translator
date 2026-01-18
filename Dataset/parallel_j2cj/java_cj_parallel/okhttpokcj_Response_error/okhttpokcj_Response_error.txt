@@ -1,0 +1,9 @@
+/**
+ * Creates an error response.
+ *
+ * @param isFromCache Whether the response is from cache
+ * @param rawCall     The raw call
+ * @param rawResponse The raw response
+ * @param e           The exception
+ * @return The error response
+ */

@@ -1,0 +1,5 @@
+  /**
+   * @param stateCount count of black/white/black pixels just read
+   * @return true iff the proportions of the counts is close enough to the 1/1/1 ratios
+   *         used by alignment patterns to be considered a match
+   */

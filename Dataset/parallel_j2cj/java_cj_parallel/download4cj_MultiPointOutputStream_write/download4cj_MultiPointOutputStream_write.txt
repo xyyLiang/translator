@@ -1,0 +1,11 @@
+/**
+ * Writes a specified number of bytes from a byte array to a specific block in an output stream.
+ * If the task has been canceled, the method returns without writing.
+ * The method also updates the total length of data that has not been synchronized and the length of data in the specific block that has not been synchronized.
+ * After writing, it calls another method to inspect the data and persist if necessary.
+ *
+ * @param blockIndex The index of the block in the output stream where the bytes are to be written.
+ * @param bytes The byte array containing the data to be written.
+ * @param length The number of bytes to be written from the byte array.
+ * @throws IOException If an I/O error occurs.
+ */

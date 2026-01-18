@@ -1,0 +1,7 @@
+/**
+ * Checks whether a given set of ExpandedPair objects forms a partial row within a collection of ExpandedRow objects.
+ * 
+ * @param pairs The collection of ExpandedPair objects.
+ * @param rows The collection of ExpandedRow objects.
+ * @return true if the given set of ExpandedPair objects forms a partial row, false otherwise.
+ */

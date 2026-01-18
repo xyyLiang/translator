@@ -1,0 +1,8 @@
+/**
+ * Checks the validity of the contents based on the specified hints.
+ * 
+ * @param contents The contents to be checked.
+ * @param hints The hints to consider during the check.
+ * @return The forced code set if specified by the hints, otherwise -1.
+ * @throws IllegalArgumentException if the contents contain unsupported characters or are incompatible with the forced code set.
+ */

@@ -1,0 +1,5 @@
+    /**
+     * MulticastAddress or not
+     *
+     * @return Bool
+     */

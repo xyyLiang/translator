@@ -1,0 +1,6 @@
+/**
+ * Generates a request builder with the given request body and appends headers.
+ * 
+ * @param requestBody the request body
+ * @return the generated request builder
+ */

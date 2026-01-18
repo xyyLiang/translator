@@ -1,0 +1,15 @@
+    public String toString() {
+        StringBuilder buffer = new StringBuilder(64);
+        buffer.append(this.name);
+        if (this.value != null) {
+            buffer.append("=");
+            buffer.append(this.value);
+        }
+
+        for (int i = 0; i < this.parameters.length; ++i) {
+            buffer.append("; ");
+            buffer.append(this.parameters[i]);
+        }
+
+        return buffer.toString();
+    }

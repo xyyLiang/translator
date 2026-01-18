@@ -1,0 +1,6 @@
+/**
+ * Checks the checksums of the given result string.
+ * 
+ * @param result The result string to check.
+ * @throws ChecksumException If the checksums do not match.
+ */

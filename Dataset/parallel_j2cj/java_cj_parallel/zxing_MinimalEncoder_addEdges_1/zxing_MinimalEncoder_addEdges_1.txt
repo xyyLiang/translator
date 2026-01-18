@@ -1,0 +1,8 @@
+/**
+ * Adds edges for encoding the string to the specified position.
+ *
+ * @param version The QR code version.
+ * @param edges The array of edges.
+ * @param from The starting position for adding edges.
+ * @param previous The previous edge.
+ */

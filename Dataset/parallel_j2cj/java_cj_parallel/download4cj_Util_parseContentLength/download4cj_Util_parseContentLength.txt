@@ -1,0 +1,7 @@
+/**
+ * Parses the content length from a string representation.
+ * If the input string is null, returns {@link #CHUNKED_CONTENT_LENGTH}.
+ *
+ * @param contentLength The string representation of the content length.
+ * @return The parsed content length as a long value, or {@link #CHUNKED_CONTENT_LENGTH} if parsing fails or the input string is null.
+ */

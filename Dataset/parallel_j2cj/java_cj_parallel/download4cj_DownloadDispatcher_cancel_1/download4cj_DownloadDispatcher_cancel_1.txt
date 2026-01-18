@@ -1,0 +1,7 @@
+/**
+ * Cancels an IdentifiedTask.
+ * Increments the count of skipped proceed calls, cancels the task, then decrements the count, processes calls, and returns the result.
+ *
+ * @param task The IdentifiedTask to be canceled.
+ * @return {@code true} if the task was successfully canceled, {@code false} otherwise.
+ */

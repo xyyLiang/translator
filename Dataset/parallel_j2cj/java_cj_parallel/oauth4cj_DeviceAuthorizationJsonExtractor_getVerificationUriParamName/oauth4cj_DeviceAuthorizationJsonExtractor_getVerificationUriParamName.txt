@@ -1,0 +1,5 @@
+/**
+ * Retrieves the parameter name for the verification URI.
+ * 
+ * @return The parameter name for the verification URI.
+ */

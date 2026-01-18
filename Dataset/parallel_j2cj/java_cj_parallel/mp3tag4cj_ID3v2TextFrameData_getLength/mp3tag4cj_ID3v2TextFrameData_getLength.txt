@@ -1,0 +1,5 @@
+/**
+ * Calculates the length of the packed frame data.
+ * 
+ * @return The length of the packed frame data.
+ */

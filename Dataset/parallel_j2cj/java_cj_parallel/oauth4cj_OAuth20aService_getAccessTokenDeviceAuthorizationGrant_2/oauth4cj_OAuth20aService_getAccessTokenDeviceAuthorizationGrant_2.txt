@@ -1,0 +1,7 @@
+    /**
+     * Asynchronous execution to obtain device authorization code.
+     *
+     * @param deviceAuthorization of DeviceAuthorization, the device authorization response
+     *
+     * @return Future<DeviceAuthorization> asynchronous execution revocation token.
+     */

@@ -1,0 +1,5 @@
+/**
+ * Checks whether the task has finished.
+ *
+ * @return {@code true} if the task has finished, {@code false} otherwise.
+ */

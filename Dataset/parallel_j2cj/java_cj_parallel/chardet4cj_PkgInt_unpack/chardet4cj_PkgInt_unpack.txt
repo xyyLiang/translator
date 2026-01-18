@@ -1,0 +1,6 @@
+/**
+ * Unpacks a value from the internal data representation.
+ *
+ * @param i the index of the value to be unpacked
+ * @return the unpacked value
+ */

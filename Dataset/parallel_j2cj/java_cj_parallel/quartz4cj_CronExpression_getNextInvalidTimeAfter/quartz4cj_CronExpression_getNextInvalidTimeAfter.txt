@@ -1,0 +1,8 @@
+    /**
+     * Returns the next date/time <I>after</I> the given date/time which does
+     * <I>not</I> satisfy the expression
+     * 
+     * @param date the date/time at which to begin the search for the next 
+     *             invalid date/time
+     * @return the next valid date/time
+     */

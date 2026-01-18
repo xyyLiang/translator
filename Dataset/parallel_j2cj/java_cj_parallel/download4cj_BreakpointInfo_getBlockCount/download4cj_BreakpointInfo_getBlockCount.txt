@@ -1,0 +1,5 @@
+/**
+ * Returns the count of blocks.
+ *
+ * @return the count of blocks.
+ */

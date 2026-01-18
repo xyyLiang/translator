@@ -1,0 +1,7 @@
+    /**
+     * <p>
+     * Inform the <code>JobStore</code> that the scheduler is now firing the
+     * given <code>Trigger</code> (executing its associated <code>Job</code>),
+     * that it had previously acquired (reserved).
+     * </p>
+     */

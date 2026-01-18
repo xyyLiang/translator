@@ -1,0 +1,6 @@
+/**
+ * Finds or creates an ID associated with the given download task.
+ *
+ * @param task the download task to find or create an ID for.
+ * @return the ID associated with the download task.
+ */

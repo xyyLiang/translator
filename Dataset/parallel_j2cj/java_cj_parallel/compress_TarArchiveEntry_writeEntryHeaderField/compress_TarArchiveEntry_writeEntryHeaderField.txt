@@ -1,0 +1,10 @@
+/**
+ * Writes an entry header field into a byte array.
+ *
+ * @param value the long value to write
+ * @param outbuf the byte array to write to
+ * @param offset the starting index in the byte array
+ * @param length the length of the field
+ * @param starMode true if the entry header uses star notation, false otherwise
+ * @return the index after writing the field
+ */

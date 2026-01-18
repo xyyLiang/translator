@@ -1,0 +1,6 @@
+/**
+ * Sends an access token request asynchronously.
+ * 
+ * @param request The OAuth request for obtaining the access token.
+ * @return A Future representing the asynchronous operation.
+ */

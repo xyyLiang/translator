@@ -1,0 +1,4 @@
+    /**
+     * This method is invoked once the end of the archive is hit, it tries to consume the remaining bytes under the assumption that the tool creating this
+     * archive has padded the last block.
+     */

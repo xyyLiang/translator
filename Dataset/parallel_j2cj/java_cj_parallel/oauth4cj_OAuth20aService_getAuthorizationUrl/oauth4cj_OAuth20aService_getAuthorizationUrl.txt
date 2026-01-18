@@ -1,0 +1,5 @@
+    /**
+     * Return the URL that should redirect the user to verify the application.
+     *
+     * @return String the user's URL should be redirected
+     */

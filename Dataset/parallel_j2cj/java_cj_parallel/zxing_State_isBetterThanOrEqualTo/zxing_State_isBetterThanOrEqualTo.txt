@@ -1,0 +1,2 @@
+  // Returns true if "this" state is better (or equal) to be in than "that"
+  // state under all possible circumstances.

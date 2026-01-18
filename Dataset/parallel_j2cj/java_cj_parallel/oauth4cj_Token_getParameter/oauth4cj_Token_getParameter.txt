@@ -1,0 +1,6 @@
+    /**
+     * gets the value of the specified parameter
+     *
+     * @Param parameter parameter name to find
+     * @Return String the value corresponding to the parameter name
+     */

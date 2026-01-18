@@ -1,0 +1,5 @@
+ public int packFrames(byte[] bytes, int offset) throws NotSupportedException {
+  int newOffset = packSpecifiedFrames(bytes, offset, null, "APIC");
+  newOffset = packSpecifiedFrames(bytes, newOffset, "APIC", null);
+  return newOffset;
+ }

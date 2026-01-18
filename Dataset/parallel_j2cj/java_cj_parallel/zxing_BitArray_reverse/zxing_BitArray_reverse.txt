@@ -1,0 +1,3 @@
+  /**
+   * Reverses all bits in the array.
+   */

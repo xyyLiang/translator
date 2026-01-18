@@ -1,0 +1,9 @@
+    /**
+     * Checks the contentTypeHeader with the specified regular rules.
+     * If yes, the first set of strings that match is returned, otherwise, an empty string is returned.
+     *
+     * @param contentTypeHeader of String, checks the string with the specified regular rules.
+     *
+     * @return Type of String
+     * @since 0.37.2
+     */

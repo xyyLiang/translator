@@ -1,0 +1,7 @@
+    /**
+     * Returns the last position
+     *
+     * @return the last position
+     *
+     * @since 0.38.2
+     */

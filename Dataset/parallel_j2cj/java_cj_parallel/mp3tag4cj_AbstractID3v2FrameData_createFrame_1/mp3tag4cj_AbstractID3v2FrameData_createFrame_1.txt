@@ -1,0 +1,7 @@
+/**
+ * Creates a new ID3v2 frame object with the specified ID and data.
+ *
+ * @param id   the ID of the frame
+ * @param data the byte array containing the frame data
+ * @return an ID3v2Frame object created with the specified ID and data
+ */

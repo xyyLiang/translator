@@ -1,0 +1,19 @@
+    /**
+     * <p>
+     * Returns a date that is rounded to the next even multiple of the given
+     * minute.
+     * </p>
+     * 
+     * <p>
+     * The rules for calculating the second are the same as those for
+     * calculating the minute in the method 
+     * <code>getNextGivenMinuteDate(..)</code>.
+     * </p>
+     *
+     * @param date the Date to round, if <code>null</code> the current time will
+     * be used
+     * @param secondBase the base-second to set the time on
+     * @return the new rounded date
+     * 
+     * @see #nextGivenMinuteDate(Date, int)
+     */

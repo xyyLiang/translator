@@ -1,0 +1,6 @@
+  /**
+   * @param msg message to encode
+   * @param errorCorrectionLevel PDF417 error correction level to use
+   * @param autoECI automatically insert ECIs if needed
+   * @throws WriterException if the contents cannot be encoded in this format
+   */

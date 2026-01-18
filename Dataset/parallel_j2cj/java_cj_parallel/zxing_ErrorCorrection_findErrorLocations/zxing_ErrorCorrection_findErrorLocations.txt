@@ -1,0 +1,7 @@
+/**
+ * Finds the error locations using the error locator polynomial.
+ * 
+ * @param errorLocator The error locator polynomial.
+ * @return An array containing the error locations.
+ * @throws ChecksumException If the algorithm encounters an error condition.
+ */

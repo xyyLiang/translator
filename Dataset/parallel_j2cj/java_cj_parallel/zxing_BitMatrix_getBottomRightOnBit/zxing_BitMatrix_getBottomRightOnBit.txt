@@ -1,0 +1,5 @@
+/**
+ * Retrieves the coordinates of the bottom-right set bit.
+ *
+ * @return An array containing the x and y coordinates of the bottom-right set bit.
+ */

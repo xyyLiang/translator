@@ -1,0 +1,7 @@
+/**
+ * Determines whether pre-allocation of length should be enabled for the given DownloadTask.
+ * Pre-allocation is enabled if the output stream factory supports seeking and if either the task specifies pre-allocation or if it's not explicitly set, in which case it defaults to true.
+ *
+ * @param task The DownloadTask for which to determine whether pre-allocation should be enabled.
+ * @return {@code true} if pre-allocation should be enabled for the task, {@code false} otherwise.
+ */

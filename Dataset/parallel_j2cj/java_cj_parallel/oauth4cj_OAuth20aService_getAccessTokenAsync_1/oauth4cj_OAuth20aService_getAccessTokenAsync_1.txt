@@ -1,0 +1,7 @@
+    /**
+     * Asynchronous acquisition of OAuth2AccessToken.
+     *
+     * @param params of AccessTokenRequestParams, the access token request params
+     *
+     * @return Future<OAuth2AccessToken> asynchronously obtain the return value of OAuth2AccessToken.
+     */

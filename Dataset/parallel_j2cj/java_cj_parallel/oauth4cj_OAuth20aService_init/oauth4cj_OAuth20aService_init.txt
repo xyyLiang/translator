@@ -1,0 +1,15 @@
+    /**
+     * Create OAuth20Service instance according to the parameters.
+     *
+     * @param api of DefaultApi20 instance
+     * @param apiKey of String, api key
+     * @param apiSecret of String, api secret
+     * @param callbackUrl of String, callback url
+     * @param defaultScope of Option<String>, default scope
+     * @param responseType of String, response type
+     * @param debugStream of Option<OutputStream>, debug mode outputstream, None when not in use
+     * @param userAgent of String, user agent
+     * @param httpClientConfig of Option<HttpClientConfig>, Http Client Config
+     * @param httpClient of Option<HttpClient>, Http Client instance
+     * @param httpClientProvider of Option<HttpClientProvider>, Http Client provider
+     */

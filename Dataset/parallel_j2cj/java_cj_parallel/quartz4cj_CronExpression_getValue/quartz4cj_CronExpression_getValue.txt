@@ -1,0 +1,8 @@
+/**
+ * Parses the numeric value from the string starting at the specified index.
+ *
+ * @param v The initial numeric value.
+ * @param s The string containing the value.
+ * @param i The starting index of the numeric value.
+ * @return The parsed numeric value along with its position.
+ */

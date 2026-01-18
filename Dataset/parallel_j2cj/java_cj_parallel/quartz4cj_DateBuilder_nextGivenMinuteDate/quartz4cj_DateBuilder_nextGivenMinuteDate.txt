@@ -1,0 +1,24 @@
+    /**
+     * <p>
+     * Returns a date that is rounded to the next even multiple of the given
+     * minute.
+     * </p>
+     * 
+     * <p>
+     * For example an input date with a time of 08:13:54, and an input
+     * minute-base of 5 would result in a date with the time of 08:15:00. The
+     * same input date with an input minute-base of 10 would result in a date
+     * with the time of 08:20:00. But a date with the time 08:53:31 and an
+     * input minute-base of 45 would result in 09:00:00, because the even-hour
+     * is the next 'base' for 45-minute intervals.
+     * </p>
+     * 
+     * @param date
+     *          the Date to round, if <code>null</code> the current time will
+     *          be used
+     * @param minuteBase
+     *          the base-minute to set the time on
+     * @return the new rounded date
+     * 
+     * @see #nextGivenSecondDate(Date, int)
+     */

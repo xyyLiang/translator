@@ -1,0 +1,8 @@
+    /**
+     * Adds a PAX header to this entry. If the header corresponds to an existing field in the entry, that field will be set; otherwise the header will be added
+     * to the extraPaxHeaders Map
+     *
+     * @param name  The full name of the header to set.
+     * @param value value of header.
+     * @since 1.15
+     */

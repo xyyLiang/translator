@@ -1,0 +1,8 @@
+    /**
+     * The Function is setAlbum
+     * 
+     * @param album of Option<String>
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

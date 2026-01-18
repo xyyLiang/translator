@@ -1,0 +1,9 @@
+/**
+ * Decodes the barcode image.
+ *
+ * @param image  The binary bitmap containing the barcode.
+ * @param hints  The hints to be used during decoding.
+ * @return The decoded result.
+ * @throws NotFoundException  If the barcode cannot be found.
+ * @throws FormatException    If the barcode format is invalid.
+ */

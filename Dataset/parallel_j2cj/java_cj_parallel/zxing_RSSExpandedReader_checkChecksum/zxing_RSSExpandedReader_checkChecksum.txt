@@ -1,0 +1,5 @@
+/**
+ * Checks the checksum of the current set of pairs.
+ * 
+ * @return true if the checksum is valid, false otherwise.
+ */

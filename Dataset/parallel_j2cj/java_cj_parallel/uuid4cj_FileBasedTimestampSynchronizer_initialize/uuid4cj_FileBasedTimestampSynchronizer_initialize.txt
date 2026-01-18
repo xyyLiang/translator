@@ -1,0 +1,9 @@
+    /**
+     * fetch the persisted timestamp value, which indicates
+     * first timestamp value that is guaranteed NOT to have used by
+     * a previous incarnation. If it can not determine such value, it
+     * is to return 0L as a marker.
+     *
+     * @return First timestamp value that was NOT locked by lock files;
+     *   0L to indicate that no information was read.
+     */

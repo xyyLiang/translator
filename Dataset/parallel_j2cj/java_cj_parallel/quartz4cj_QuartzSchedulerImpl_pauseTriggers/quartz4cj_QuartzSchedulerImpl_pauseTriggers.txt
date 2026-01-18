@@ -1,0 +1,6 @@
+    /**
+     * <p>
+     * Pause all of the <code>{@link Trigger}s</code> in the matching groups.
+     * </p>
+     *  
+     */

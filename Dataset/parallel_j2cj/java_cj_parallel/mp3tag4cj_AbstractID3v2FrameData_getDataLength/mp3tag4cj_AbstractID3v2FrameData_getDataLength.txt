@@ -1,0 +1,6 @@
+    /**
+     * The Function is getDataLength, Get the data length of the entire id3v2 tag, excluding the header.
+     * 
+     * @return Type of Int32
+     * @since 0.32.5
+     */

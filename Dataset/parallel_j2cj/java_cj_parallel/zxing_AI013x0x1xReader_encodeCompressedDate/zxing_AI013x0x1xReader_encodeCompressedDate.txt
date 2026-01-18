@@ -1,0 +1,6 @@
+/**
+ * Encodes the compressed date information into the provided StringBuilder.
+ *
+ * @param buf The StringBuilder to which the encoded date information will be appended.
+ * @param currentPos The current position in the bit array.
+ */

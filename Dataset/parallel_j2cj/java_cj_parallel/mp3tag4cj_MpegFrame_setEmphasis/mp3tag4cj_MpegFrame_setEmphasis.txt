@@ -1,0 +1,6 @@
+/**
+ * Sets the emphasis based on the provided value.
+ * 
+ * @param emphasis The emphasis value extracted from the frame header.
+ * @throws InvalidDataException If the provided emphasis value is invalid.
+ */

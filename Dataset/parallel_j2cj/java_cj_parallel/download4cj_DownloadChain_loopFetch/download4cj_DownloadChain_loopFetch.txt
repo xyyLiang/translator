@@ -1,0 +1,7 @@
+/**
+ * Loops through the fetch interceptors and processes the fetch operation.
+ * Adjusts fetch index if necessary.
+ * 
+ * @return The result of the fetch operation.
+ * @throws IOException If an I/O error occurs during the fetch operation.
+ */

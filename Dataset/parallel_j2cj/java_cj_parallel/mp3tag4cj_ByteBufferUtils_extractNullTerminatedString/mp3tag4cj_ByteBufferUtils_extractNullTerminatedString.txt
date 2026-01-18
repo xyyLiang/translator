@@ -1,0 +1,7 @@
+/**
+ * Extracts a null-terminated string from the given ByteBuffer.
+ * The ByteBuffer's position will be advanced to the end of the extracted string.
+ *
+ * @param bb the ByteBuffer containing the null-terminated string
+ * @return the extracted string
+ */

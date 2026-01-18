@@ -1,0 +1,7 @@
+/**
+ * Adjusts the odd and even counts based on the number of modules.
+ *
+ * @param outsideChar Indicates whether the character is outside the symbol.
+ * @param numModules  The number of modules.
+ * @throws NotFoundException if adjustments cannot be made.
+ */

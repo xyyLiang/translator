@@ -1,0 +1,7 @@
+  /**
+   * Determines the number of consecutive characters that are encodable using numeric compaction.
+   *
+   * @param msg      the message
+   * @param startpos the start position within the message
+   * @return the requested character count
+   */

@@ -1,0 +1,7 @@
+/**
+ * Intercepts the request and response for logging purposes.
+ *
+ * @param chain The chain of interceptors
+ * @return The intercepted response
+ * @throws IOException If an I/O exception occurs
+ */

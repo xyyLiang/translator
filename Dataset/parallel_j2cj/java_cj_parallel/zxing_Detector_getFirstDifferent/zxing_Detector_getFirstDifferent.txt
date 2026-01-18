@@ -1,0 +1,3 @@
+  /**
+   * Gets the coordinate of the first point with a different color in the given direction
+   */

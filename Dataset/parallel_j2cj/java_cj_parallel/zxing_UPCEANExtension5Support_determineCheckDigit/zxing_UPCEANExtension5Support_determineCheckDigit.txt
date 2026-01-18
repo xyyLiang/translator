@@ -1,0 +1,7 @@
+/**
+ * Determines the check digit for an UPC/EAN extension barcode.
+ *
+ * @param lgPatternFound The pattern found in the extension.
+ * @return The determined check digit.
+ * @throws NotFoundException if the check digit cannot be determined.
+ */

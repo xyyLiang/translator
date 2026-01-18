@@ -1,0 +1,5 @@
+    /**
+     * Appends a delete command to the script.
+     *
+     * @param command  command to add
+     */

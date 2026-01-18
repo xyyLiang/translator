@@ -1,0 +1,5 @@
+/**
+ * Retrieves the left boundary of the range.
+ *
+ * @return the left boundary of the range
+ */

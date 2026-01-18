@@ -1,0 +1,6 @@
+  /**
+   * Encodes the string minimally
+   *
+   * @param version The preferred {@link Version}. A minimal version is computed (see
+   *   {@link ResultList#getVersion method} when the value of the argument is null
+   */

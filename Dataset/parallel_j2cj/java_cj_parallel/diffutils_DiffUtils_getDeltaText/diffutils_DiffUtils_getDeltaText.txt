@@ -1,0 +1,9 @@
+    /**
+     * getDeltaText returns the lines to be added to the Unified Diff text from
+     * the Delta parameter
+     * 
+     * @param delta  - the Delta to output
+     * @return list of String lines of code.
+     *   
+     * @since 0.39.3
+     */

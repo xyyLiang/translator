@@ -1,0 +1,10 @@
+/**
+ * Parses a binary long value from the specified byte buffer.
+ *
+ * @param buffer the byte buffer containing the binary value
+ * @param offset the starting index in the buffer
+ * @param length the length of the binary value
+ * @param negative true if the value is negative, false otherwise
+ * @return the parsed long value
+ * @throws IllegalArgumentException if the length exceeds the maximum signed long value
+ */

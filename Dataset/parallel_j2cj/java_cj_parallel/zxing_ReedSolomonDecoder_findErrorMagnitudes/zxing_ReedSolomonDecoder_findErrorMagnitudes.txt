@@ -1,0 +1,7 @@
+/**
+ * Finds the error magnitudes from the error evaluator polynomial using Forney's Formula.
+ *
+ * @param errorEvaluator The error evaluator polynomial.
+ * @param errorLocations The error locations.
+ * @return An array containing the error magnitudes.
+ */

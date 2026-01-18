@@ -1,0 +1,8 @@
+/**
+ * Extends the given Prism4j grammar with additional tokens.
+ *
+ * @param grammar The Prism4j grammar to extend.
+ * @param name    The name of the extended grammar.
+ * @param tokens  The tokens to add to the grammar.
+ * @return A new instance of the extended Prism4j grammar.
+ */

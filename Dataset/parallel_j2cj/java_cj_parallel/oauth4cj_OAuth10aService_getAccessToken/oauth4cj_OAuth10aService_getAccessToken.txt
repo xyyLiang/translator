@@ -1,0 +1,7 @@
+    /**
+     * Get OAuth1AccessToken instance
+     *
+     * @param requestToken OAuth1RequestToken instance
+     * @param oauthVerifier oauth verifier string
+     * @return OAuth1AccessToken OAuth1AccessToken instance
+     */

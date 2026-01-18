@@ -1,0 +1,6 @@
+/**
+ * Sets the bit at the specified coordinates to false.
+ *
+ * @param x The horizontal component (column).
+ * @param y The vertical component (row).
+ */

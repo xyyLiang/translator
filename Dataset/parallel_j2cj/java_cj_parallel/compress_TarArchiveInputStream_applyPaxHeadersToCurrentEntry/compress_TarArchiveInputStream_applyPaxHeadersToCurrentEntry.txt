@@ -1,0 +1,7 @@
+/**
+ * Applies PAX headers and sparse headers to the current entry.
+ *
+ * @param headers the PAX headers to apply
+ * @param sparseHeaders the sparse headers to apply
+ * @throws IOException if an I/O error occurs
+ */

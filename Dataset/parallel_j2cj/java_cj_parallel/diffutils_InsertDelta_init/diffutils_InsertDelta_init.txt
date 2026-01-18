@@ -1,0 +1,8 @@
+    /**
+     * Creates a insert delta with the two given chunks.
+     * 
+     * @param original The original chunk. 
+     * @param revised The original chunk.
+     * 
+     * @since 0.38.2
+     */

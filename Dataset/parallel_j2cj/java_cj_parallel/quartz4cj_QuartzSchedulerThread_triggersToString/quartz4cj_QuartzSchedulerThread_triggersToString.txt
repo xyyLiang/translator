@@ -1,0 +1,5 @@
+    /**
+     * <p>
+     * The main processing loop of the <code>QuartzSchedulerThread</code>.
+     * </p>
+     */

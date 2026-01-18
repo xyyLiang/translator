@@ -1,0 +1,9 @@
+/**
+ * Checks if the specified range in the given column array is white (contains only 0s).
+ *
+ * @param array The 2D array representing the image.
+ * @param col The column index to check.
+ * @param from The starting index of the range (inclusive).
+ * @param to The ending index of the range (exclusive).
+ * @return {@code true} if the range is white, {@code false} otherwise.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Retrieves the compacted ordinal value of a mode.
+ *
+ * @param mode The mode to retrieve the compacted ordinal value for.
+ * @return The compacted ordinal value of the mode.
+ */

@@ -1,0 +1,4 @@
+/**
+ * Validates the hour, minute, and second values to ensure they fall within the valid range.
+ * Throws an IllegalArgumentException if any value is outside its respective valid range.
+ */

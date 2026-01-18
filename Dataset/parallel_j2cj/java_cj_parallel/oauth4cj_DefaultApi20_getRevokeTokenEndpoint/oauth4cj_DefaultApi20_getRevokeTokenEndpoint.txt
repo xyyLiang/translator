@@ -1,0 +1,6 @@
+    /**
+     * As stated in RFC 7009 OAuth 2.0 Token Revocation
+     *
+     * @return endpoint, which allows clients to notify the authorization server that a previously obtained refresh or
+     * access token is no longer needed.
+     */

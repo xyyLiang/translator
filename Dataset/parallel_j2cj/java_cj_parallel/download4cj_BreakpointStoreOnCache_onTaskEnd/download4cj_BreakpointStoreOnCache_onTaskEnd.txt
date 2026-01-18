@@ -1,0 +1,7 @@
+/**
+ * Handles the end of a download task.
+ *
+ * @param id        the id of the download task.
+ * @param cause     the cause of the end of the download task.
+ * @param exception the exception that occurred during the download task, if any.
+ */

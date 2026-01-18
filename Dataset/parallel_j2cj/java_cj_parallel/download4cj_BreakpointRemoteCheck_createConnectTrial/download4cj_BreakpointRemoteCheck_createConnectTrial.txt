@@ -1,0 +1,6 @@
+/**
+ * Creates a new instance of the ConnectTrial class.
+ * This method is convenient for unit testing purposes.
+ *
+ * @return a new ConnectTrial instance initialized with the provided task and info.
+ */

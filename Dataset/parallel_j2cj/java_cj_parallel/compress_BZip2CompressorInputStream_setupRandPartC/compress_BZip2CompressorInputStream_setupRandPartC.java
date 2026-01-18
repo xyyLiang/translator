@@ -1,0 +1,11 @@
+    private int setupRandPartC() throws IOException {
+        if (this.su_j2 < this.su_z) {
+            this.crc.update(this.su_ch2);
+            this.su_j2++;
+            return this.su_ch2;
+        }
+        this.currentState = RAND_PART_A_STATE;
+        this.su_i2++;
+        this.su_count = 0;
+        return setupRandPartA();
+    }

@@ -1,0 +1,5 @@
+    /**
+     * <p>
+     * Signals the main processing loop to pause at the next possible point.
+     * </p>
+     */

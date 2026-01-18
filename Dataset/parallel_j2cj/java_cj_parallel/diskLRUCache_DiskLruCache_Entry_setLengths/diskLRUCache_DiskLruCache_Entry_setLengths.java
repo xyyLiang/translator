@@ -1,0 +1,14 @@
+private void setLengths(String[] strings) throws IOException {
+      if (strings.length != valueCount) {
+        throw invalidLengths(strings);
+      }
+
+      try {
+        for (int i = 0; i < strings.length; i++) {
+          lengths[i] = Long.parseLong(strings[i]);
+        }
+      } catch (NumberFormatException e) {
+        throw invalidLengths(strings);
+      }
+    }
+

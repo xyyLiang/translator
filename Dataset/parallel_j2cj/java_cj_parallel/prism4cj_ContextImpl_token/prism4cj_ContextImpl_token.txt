@@ -1,0 +1,6 @@
+/**
+ * Retrieves the cached Prism4j token.
+ *
+ * @param origin The original Prism4j token.
+ * @return The cached Prism4j token if found, otherwise null.
+ */

@@ -1,0 +1,9 @@
+/**
+ * Decodes the middle part of a UPC/EAN barcode.
+ *
+ * @param row           The bit array representing the row.
+ * @param startRange    The range containing the start of the barcode.
+ * @param resultString  The string builder to store the decoded result.
+ * @return The end position of the decoded portion.
+ * @throws NotFoundException if the barcode cannot be found or decoded.
+ */

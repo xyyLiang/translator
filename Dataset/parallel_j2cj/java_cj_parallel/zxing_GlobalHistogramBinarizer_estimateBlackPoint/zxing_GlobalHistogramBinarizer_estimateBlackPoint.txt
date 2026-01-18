@@ -1,0 +1,7 @@
+/**
+ * Estimates the black point based on the histogram buckets.
+ *
+ * @param buckets The histogram buckets.
+ * @return The estimated black point.
+ * @throws NotFoundException if the contrast in the image is too low to pick a meaningful black point.
+ */

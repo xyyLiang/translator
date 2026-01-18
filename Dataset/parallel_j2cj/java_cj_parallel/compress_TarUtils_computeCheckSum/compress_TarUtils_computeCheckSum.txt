@@ -1,0 +1,6 @@
+    /**
+     * Compute the checksum of a tar entry header.
+     *
+     * @param buf The tar entry's header buffer.
+     * @return The computed checksum.
+     */

@@ -1,0 +1,7 @@
+/**
+ * Checks if the substring of the JSON string from the specified start to end positions represents a JSON keyword.
+ *
+ * @param start The starting index of the substring in the JSON string.
+ * @param end   The ending index (exclusive) of the substring in the JSON string.
+ * @return True if the substring represents a JSON keyword ("true", "false", or "null"), false otherwise.
+ */

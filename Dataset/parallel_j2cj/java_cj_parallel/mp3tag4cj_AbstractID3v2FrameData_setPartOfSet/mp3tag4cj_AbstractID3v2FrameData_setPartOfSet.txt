@@ -1,0 +1,8 @@
+/**
+ * Sets the "Part of a set" frame in the ID3v2 tag.
+ * This frame is used to indicate the part number of a larger set the audio file belongs to.
+ * If the provided partOfSet string is not null and not empty, it creates or replaces the
+ * "Part of a set" frame in the tag with the new value.
+ *
+ * @param partOfSet the part of the set information to set in the tag
+ */

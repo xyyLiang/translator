@@ -1,0 +1,6 @@
+/**
+ * Converts an integer to an array of integers representing its binary representation.
+ *
+ * @param a        The integer to convert.
+ * @param toReturn The array to store the binary representation.
+ */

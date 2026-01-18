@@ -1,0 +1,5 @@
+/**
+ * Retrieves the equivalence class array, initializing it if necessary.
+ *
+ * @return the equivalence class array
+ */

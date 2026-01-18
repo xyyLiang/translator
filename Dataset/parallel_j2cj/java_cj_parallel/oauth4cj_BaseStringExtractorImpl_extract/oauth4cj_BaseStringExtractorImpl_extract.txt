@@ -1,0 +1,7 @@
+    /**
+     * Extract a basic URL encoded string from OAuth4cjRequest.
+     *
+     * @Param the OAuth4cjRequest
+     *
+     * @Return String a basic URL encoded string
+     */

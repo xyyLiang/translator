@@ -1,0 +1,5 @@
+    /**
+     * Build complete scope string
+     *
+     * @return String complete scope string
+     */

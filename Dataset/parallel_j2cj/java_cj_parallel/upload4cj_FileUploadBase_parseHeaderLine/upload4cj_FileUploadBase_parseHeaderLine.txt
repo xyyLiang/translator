@@ -1,0 +1,5 @@
+    /**
+     * Reads the next header line.
+     * @param headers String with all headers.
+     * @param header Map where to store the current header.
+     */

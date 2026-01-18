@@ -1,0 +1,7 @@
+/**
+ * Parses a single header element from the given character array buffer and parser cursor.
+ *
+ * @param buffer The character array buffer to parse.
+ * @param cursor The parser cursor.
+ * @return The parsed header element.
+ */

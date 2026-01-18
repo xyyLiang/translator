@@ -1,0 +1,6 @@
+    /**
+     * Factory method for constructing UUID generator that generates UUID using
+     * variant 7 (Unix Epoch time+random based).
+     *
+     * @return TimeBasedEpochGenerator
+     */

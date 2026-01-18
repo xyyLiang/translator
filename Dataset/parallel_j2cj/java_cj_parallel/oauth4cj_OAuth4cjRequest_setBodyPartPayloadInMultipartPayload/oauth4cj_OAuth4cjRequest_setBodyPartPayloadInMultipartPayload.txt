@@ -1,0 +1,7 @@
+    /**
+     * Create a MultipartPayload instance, and set to this multipartPayload value.
+     * Then add the bodyPartPayload to multipartPayload.
+     *
+     * @param key of BodyPartPayload
+     * @since 0.37.2
+     */

@@ -1,0 +1,6 @@
+    /**
+     * Literal append, no escaping being done.
+     *
+     * @param input the String to append
+     * @return {@code this}, to enable chaining
+     */

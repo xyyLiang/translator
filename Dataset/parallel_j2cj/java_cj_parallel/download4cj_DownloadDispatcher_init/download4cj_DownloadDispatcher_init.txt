@@ -1,0 +1,8 @@
+/**
+ * Constructs a DownloadDispatcher with the specified lists of DownloadCalls.
+ * 
+ * @param readyAsyncCalls   The list of ready asynchronous download calls.
+ * @param runningAsyncCalls The list of running asynchronous download calls.
+ * @param runningSyncCalls  The list of running synchronous download calls.
+ * @param finishingCalls    The list of finishing download calls.
+ */

@@ -1,0 +1,7 @@
+  /**
+   * This takes an array holding the values of the PDF 417
+   *
+   * @param input a byte array of information with 0 is black, and 1 is white
+   * @param margin border around the barcode
+   * @return BitMatrix of the input
+   */

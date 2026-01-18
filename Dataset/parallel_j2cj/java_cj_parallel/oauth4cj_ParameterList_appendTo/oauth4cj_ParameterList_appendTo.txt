@@ -1,0 +1,8 @@
+    /**
+     * Process the url and return a new string.
+     *
+     * @param url of String, process the url.
+     *
+     * @return Type of String
+     * @since 0.37.2
+     */

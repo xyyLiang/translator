@@ -1,0 +1,8 @@
+/**
+ * Checks whether the given pattern, odd pattern flag, and left character flag represent a not-A1 pattern.
+ * 
+ * @param pattern       The FinderPattern object.
+ * @param isOddPattern  Whether the pattern number is odd.
+ * @param leftChar      Whether the character is a left character.
+ * @return true if the pattern is not A1, false otherwise.
+ */

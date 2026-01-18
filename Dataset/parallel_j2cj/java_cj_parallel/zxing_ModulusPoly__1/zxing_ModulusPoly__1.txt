@@ -1,0 +1,6 @@
+/**
+ * Multiplies this polynomial by a scalar.
+ * 
+ * @param scalar The scalar value to multiply by.
+ * @return The result of multiplying this polynomial by the scalar.
+ */

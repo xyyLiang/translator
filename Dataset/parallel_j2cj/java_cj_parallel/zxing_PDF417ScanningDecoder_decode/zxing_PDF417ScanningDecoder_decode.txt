@@ -1,0 +1,15 @@
+/**
+ * Decodes the barcode represented by the given image and location points.
+ * 
+ * @param image The BitMatrix representing the barcode image.
+ * @param imageTopLeft The location of the top-left corner of the image.
+ * @param imageBottomLeft The location of the bottom-left corner of the image.
+ * @param imageTopRight The location of the top-right corner of the image.
+ * @param imageBottomRight The location of the bottom-right corner of the image.
+ * @param minCodewordWidth The minimum width of a codeword.
+ * @param maxCodewordWidth The maximum width of a codeword.
+ * @return The decoded result.
+ * @throws NotFoundException if no barcode could be found.
+ * @throws FormatException if the barcode format is invalid.
+ * @throws ChecksumException if a checksum error is detected.
+ */

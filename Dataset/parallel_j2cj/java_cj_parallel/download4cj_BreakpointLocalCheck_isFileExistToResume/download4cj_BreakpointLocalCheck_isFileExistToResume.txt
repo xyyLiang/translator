@@ -1,0 +1,5 @@
+/**
+ * Checks if the file exists in order to resume the download.
+ *
+ * @return True if the file exists and has a non-zero size, false otherwise.
+ */

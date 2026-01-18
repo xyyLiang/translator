@@ -1,0 +1,10 @@
+    /**
+     * Set encoding and perform encoding conversion on value, Coding set 0-CHARSET_ISO_8859_1, 1-CHARSET_UTF_16,
+     * 2-CHARSET_UTF_16BE, 3-CHARSET_UTF_8.
+     * 
+     * @param textEncoding of Int8
+     * @param transcode of Bool
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

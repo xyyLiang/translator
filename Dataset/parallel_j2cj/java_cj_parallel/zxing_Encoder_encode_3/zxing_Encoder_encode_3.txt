@@ -1,0 +1,11 @@
+  /**
+   * Encodes the given binary content as an Aztec symbol
+   *
+   * @param data input data string
+   * @param minECCPercent minimal percentage of error check words (According to ISO/IEC 24778:2008,
+   *                      a minimum of 23% + 3 words is recommended)
+   * @param userSpecifiedLayers if non-zero, a user-specified value for the number of layers
+   * @param charset character set to mark using ECI; if null, no ECI code will be inserted, and the
+   *                default encoding of ISO/IEC 8859-1 will be assuming by readers.
+   * @return Aztec symbol matrix with metadata
+   */

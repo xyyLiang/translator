@@ -1,0 +1,6 @@
+    /**
+     * <p>
+     * Trigger the identified <code>{@link org.quartz.Job}</code> (execute it
+     * now) - with a non-volatile trigger.
+     * </p>
+     */

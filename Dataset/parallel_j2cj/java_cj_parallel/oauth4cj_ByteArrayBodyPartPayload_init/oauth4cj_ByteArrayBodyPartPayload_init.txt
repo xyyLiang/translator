@@ -1,0 +1,9 @@
+    /**
+     * Create a ByteArrayBodyPartPayload instance according to the parameters.
+     *
+     * @param payload of Array<UInt8>
+     * @param off of Int64
+     * @param len of Int64
+     * @param headers of HashMap<String, String>
+     * @since 0.37.2
+     */

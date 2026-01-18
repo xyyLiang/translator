@@ -1,0 +1,5 @@
+/**
+ * Builds the function pattern for the QR code.
+ * 
+ * @return The BitMatrix representing the function pattern.
+ */

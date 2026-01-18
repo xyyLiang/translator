@@ -1,0 +1,9 @@
+/**
+ * Creates the decoder result from the detection result.
+ * 
+ * @param detectionResult The detection result.
+ * @return The decoder result.
+ * @throws FormatException if the format is invalid.
+ * @throws ChecksumException if a checksum error is detected.
+ * @throws NotFoundException if the barcode cannot be found.
+ */

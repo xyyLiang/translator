@@ -1,0 +1,6 @@
+    /**
+     * Feed the detector with more data
+     * @param buf Buffer with the data
+     * @param offset initial position of data in buf
+     * @param length length of data
+     */

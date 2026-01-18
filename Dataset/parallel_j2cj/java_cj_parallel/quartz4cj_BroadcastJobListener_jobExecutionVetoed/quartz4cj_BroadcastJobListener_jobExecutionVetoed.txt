@@ -1,0 +1,5 @@
+/**
+ * Signals the scheduler that a job execution was vetoed by a trigger listener.
+ *
+ * @param context The context information related to the job execution
+ */

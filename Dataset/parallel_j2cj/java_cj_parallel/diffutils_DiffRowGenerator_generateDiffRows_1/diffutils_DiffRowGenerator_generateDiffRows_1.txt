@@ -1,0 +1,11 @@
+    /**
+     * Generates the DiffRows describing the difference between original and revised texts using the
+     * given patch. Useful for displaying side-by-side diff.
+     *
+     * @param original the original text
+     * @param revised the revised text
+     * @param patch the given patch
+     * @return the DiffRows between original and revised texts
+     * 
+     * @since 0.39.3
+     */

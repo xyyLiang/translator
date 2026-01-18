@@ -1,0 +1,6 @@
+/**
+ * Sets the channel mode based on the provided value.
+ * 
+ * @param channelMode The channel mode value extracted from the frame header.
+ * @throws InvalidDataException If the provided channel mode value is invalid.
+ */

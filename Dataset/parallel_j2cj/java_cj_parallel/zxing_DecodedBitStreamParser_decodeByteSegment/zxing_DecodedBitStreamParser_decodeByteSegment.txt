@@ -1,0 +1,11 @@
+/**
+ * Decodes a byte segment from the given BitSource.
+ *
+ * @param bits The BitSource to read from.
+ * @param result The StringBuilder to append the decoded result to.
+ * @param count The number of bytes to decode.
+ * @param currentCharacterSetECI The current character set ECI.
+ * @param byteSegments The collection to store the decoded byte segments.
+ * @param hints The decoding hints.
+ * @throws FormatException If the input cannot be decoded.
+ */

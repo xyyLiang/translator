@@ -1,0 +1,6 @@
+/**
+ * Compares the current IdentifiedTask with another task, ignoring their IDs.
+ * 
+ * @param another The other IdentifiedTask to compare with.
+ * @return {@code true} if the tasks are considered equal, ignoring their IDs; {@code false} otherwise.
+ */

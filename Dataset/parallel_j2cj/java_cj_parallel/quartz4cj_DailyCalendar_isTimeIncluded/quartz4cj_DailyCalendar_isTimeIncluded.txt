@@ -1,0 +1,8 @@
+    /**
+     * Determines whether the given time (in milliseconds) is 'included' by the
+     * <CODE>BaseCalendar</CODE>
+     * 
+     * @param timeInMillis the date/time to test
+     * @return a boolean indicating whether the specified time is 'included' by
+     *         the <CODE>BaseCalendar</CODE>
+     */

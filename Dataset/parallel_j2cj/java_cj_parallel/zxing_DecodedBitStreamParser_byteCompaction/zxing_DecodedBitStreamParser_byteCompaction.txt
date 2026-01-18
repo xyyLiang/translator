@@ -1,0 +1,11 @@
+  /**
+   * Byte Compaction mode (see 5.4.3) permits all 256 possible 8-bit byte values to be encoded.
+   * This includes all ASCII characters value 0 to 127 inclusive and provides for international
+   * character set support.
+   *
+   * @param mode      The byte compaction mode i.e. 901 or 924
+   * @param codewords The array of codewords (data + error)
+   * @param codeIndex The current index into the codeword array.
+   * @param result    The decoded data is appended to the result.
+   * @return The next index into the codeword array.
+   */

@@ -1,0 +1,8 @@
+    /**
+     * The Function is setBPM
+     * 
+     * @param bpm of Int32
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

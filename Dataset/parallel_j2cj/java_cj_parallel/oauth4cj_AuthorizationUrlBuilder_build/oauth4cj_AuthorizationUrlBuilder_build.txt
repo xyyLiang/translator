@@ -1,0 +1,5 @@
+    /**
+     * Build AuthorizationUrl String
+     *
+     * @return String Authorization Url String
+     */

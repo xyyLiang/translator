@@ -1,0 +1,7 @@
+/**
+ * Unschedules the triggers with the specified keys.
+ *
+ * @param triggerKeys the keys of the triggers to unschedule
+ * @return true if the triggers were successfully unscheduled, false otherwise
+ * @throws SchedulerException if there is an issue accessing or interacting with the scheduler
+ */

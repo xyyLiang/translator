@@ -1,0 +1,6 @@
+/**
+ * Checks if the specified CharSequence is empty or null.
+ *
+ * @param str The CharSequence to check for emptiness.
+ * @return {@code true} if the CharSequence is null or has a length of 0, {@code false} otherwise.
+ */

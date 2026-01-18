@@ -1,0 +1,9 @@
+/**
+ * Runs the Euclidean algorithm to find the error locator polynomial and error evaluator polynomial.
+ *
+ * @param a The first polynomial.
+ * @param b The second polynomial.
+ * @param R The size of the Galois field.
+ * @return An array containing the error locator polynomial and error evaluator polynomial.
+ * @throws ReedSolomonException If the Euclidean algorithm fails to find the polynomials.
+ */

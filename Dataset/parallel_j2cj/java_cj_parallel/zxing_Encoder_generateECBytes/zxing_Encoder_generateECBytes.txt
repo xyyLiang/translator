@@ -1,0 +1,7 @@
+/**
+ * Generate error correction bytes for the given data bytes.
+ * 
+ * @param dataBytes The input data bytes.
+ * @param numEcBytesInBlock The number of error correction bytes in each block.
+ * @return The generated error correction bytes.
+ */

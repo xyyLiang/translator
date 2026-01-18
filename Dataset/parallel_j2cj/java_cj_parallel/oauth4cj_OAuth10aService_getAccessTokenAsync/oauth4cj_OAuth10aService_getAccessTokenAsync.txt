@@ -1,0 +1,7 @@
+    /**
+     * Asynchronous acquisition of OAuth1AccessToken instance
+     *
+     * @param requestToken OAuth1RequestToken instance
+     * @param oauthVerifier oauth verifier string
+     * @return Future<OAuth1AccessToken> Future<OAuth1AccessToken> instance
+     */

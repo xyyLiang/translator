@@ -1,0 +1,5 @@
+/**
+ * Retrieves the current timestamp in seconds.
+ * 
+ * @return The current timestamp in seconds.
+ */

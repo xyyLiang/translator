@@ -1,0 +1,10 @@
+    /*
+     * For PAX Format 0.0, the sparse headers(GNU.sparse.offset and GNU.sparse.numbytes)
+     *
+     * @param inputStream input stream to read keys and values
+     * @param sparseHeaders used in PAX Format 0.0 &amp 0.1, as it may appear multiple times,
+     *                      the sparse headers need to be stored in an array, not a map
+     * @param globalPaxHeaders global PAX headers of the tar archive
+     * @param headerSize total size of the PAX header, will be ignored if negative
+     * @return map of PAX headers values found inside of the current (local or global) PAX headers tar entry.
+     */

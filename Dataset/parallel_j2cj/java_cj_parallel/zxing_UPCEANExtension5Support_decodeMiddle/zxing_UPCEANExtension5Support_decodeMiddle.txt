@@ -1,0 +1,6 @@
+/**
+ * Calculates the checksum for an UPC/EAN extension barcode.
+ *
+ * @param s The string representing the barcode.
+ * @return The calculated checksum.
+ */

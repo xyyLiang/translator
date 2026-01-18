@@ -1,0 +1,3 @@
+  /**
+   * gets the table corresponding to the char passed
+   */

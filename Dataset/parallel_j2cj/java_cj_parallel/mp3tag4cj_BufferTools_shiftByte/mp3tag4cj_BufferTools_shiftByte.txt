@@ -1,0 +1,7 @@
+/**
+ * Shifts the byte left or right by the specified number of places.
+ *
+ * @param c       the byte to shift
+ * @param places  the number of places to shift; a positive value shifts right, a negative value shifts left
+ * @return the shifted byte
+ */

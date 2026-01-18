@@ -1,0 +1,7 @@
+    /**
+     * Adds an OAuth4cj parameter.
+     *
+     * @param key of String, parameter name
+     * @param value of String, parameter value
+     * @since 0.37.2
+     */

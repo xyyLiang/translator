@@ -1,0 +1,6 @@
+    /**
+     * Get BearerSignatureAuthorizationRequestHeaderField instance
+     * 
+     * @return BearerSignatureAuthorizationRequestHeaderField instance
+     * @since 0.38.2
+     */

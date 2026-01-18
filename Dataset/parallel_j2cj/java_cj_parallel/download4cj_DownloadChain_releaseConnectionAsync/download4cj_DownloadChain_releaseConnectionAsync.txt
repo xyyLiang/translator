@@ -1,0 +1,5 @@
+/**
+ * Releases the connection asynchronously.
+ * This method submits a runnable task to an executor for asynchronous execution,
+ * which releases the connection.
+ */

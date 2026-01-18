@@ -1,0 +1,5 @@
+/**
+ * Checks if the cursor is at the end position.
+ * 
+ * @return {@code true} if the cursor is at or beyond the upper bound, {@code false} otherwise
+ */

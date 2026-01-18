@@ -1,0 +1,5 @@
+    /**
+     * get the charSet
+     *
+     * @return String - The charSet
+     */

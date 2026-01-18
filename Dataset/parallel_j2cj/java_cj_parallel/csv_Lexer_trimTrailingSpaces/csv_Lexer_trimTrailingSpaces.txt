@@ -1,0 +1,5 @@
+/**
+ * Remove trailing white space
+ *
+ * @param buffer the StringBuilder to trim
+ */

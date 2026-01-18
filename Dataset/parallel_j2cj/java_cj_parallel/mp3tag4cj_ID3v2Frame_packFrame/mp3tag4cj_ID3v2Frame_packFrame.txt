@@ -1,0 +1,7 @@
+/**
+ * Packs the frame into the provided byte array starting at the given offset.
+ * 
+ * @param bytes  The byte array to pack the frame into.
+ * @param offset The offset within the byte array to start packing from.
+ * @throws NotSupportedException If the operation is not supported.
+ */

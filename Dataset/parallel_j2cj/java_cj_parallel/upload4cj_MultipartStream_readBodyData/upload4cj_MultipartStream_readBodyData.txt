@@ -1,0 +1,6 @@
+    /**
+     * read BodyData
+     *
+     * @param outputStream - Option<OutputStream> the body OutputStream
+     * @return Int64 - read the size
+     */

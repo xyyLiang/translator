@@ -1,0 +1,6 @@
+/**
+ * Retrieves the MIME type based on the provided file name.
+ *
+ * @param fileName the name of the file
+ * @return the MIME type associated with the file name
+ */

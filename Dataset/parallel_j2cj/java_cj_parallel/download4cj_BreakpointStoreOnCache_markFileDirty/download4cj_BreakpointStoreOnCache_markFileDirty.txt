@@ -1,0 +1,6 @@
+/**
+ * Marks a file as dirty.
+ *
+ * @param id the ID of the file to mark as dirty.
+ * @return {@code true} if the file was successfully marked as dirty, {@code false} otherwise.
+ */

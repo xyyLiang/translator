@@ -1,0 +1,9 @@
+/**
+ * Retrieves the next pair from the row.
+ * 
+ * @param row            The BitArray representing the row.
+ * @param previousPairs  The list of previously decoded pairs.
+ * @param rowNumber      The number of the row.
+ * @return The next ExpandedPair object.
+ * @throws NotFoundException If decoding fails due to not finding a matching pattern.
+ */

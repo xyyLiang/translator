@@ -1,0 +1,5 @@
+    /**
+     * generate uuid
+     *
+     * @return uuid
+     */

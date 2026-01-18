@@ -1,0 +1,8 @@
+/**
+ * Unpacks the header of the ID3v2 tag from the given byte array.
+ *
+ * @param bytes the byte array containing the packed ID3v2 tag header
+ * @return the offset to the start of the tag's data in the byte array
+ * @throws UnsupportedTagException if the ID3v2 tag version is not supported or contains unrecognized bits
+ * @throws InvalidDataException    if the data in the byte array is invalid or corrupt
+ */

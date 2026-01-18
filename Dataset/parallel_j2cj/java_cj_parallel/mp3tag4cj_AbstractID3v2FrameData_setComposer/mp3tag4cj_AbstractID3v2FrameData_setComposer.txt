@@ -1,0 +1,8 @@
+    /**
+     * The Function is setComposer
+     * 
+     * @param composer of Option<String>
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

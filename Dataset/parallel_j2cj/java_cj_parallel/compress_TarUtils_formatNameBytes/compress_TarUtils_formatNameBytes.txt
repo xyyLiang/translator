@@ -1,0 +1,15 @@
+    /*
+     * Copy a name into a buffer.
+     * Copies characters from the name into the buffer
+     * starting at the specified offset.
+     * If the buffer is longer than the name, the buffer
+     * is filled with trailing NULs.
+     * If the name is longer than the buffer,
+     * the output is truncated.
+     *
+     * @param name The header name from which to copy the characters.
+     * @param buf The buffer where the name is to be stored.
+     * @param offset The starting offset into the buffer
+     * @param length The maximum number of header bytes to copy.
+     * @return The updated offset, i.e. offset + length
+     */

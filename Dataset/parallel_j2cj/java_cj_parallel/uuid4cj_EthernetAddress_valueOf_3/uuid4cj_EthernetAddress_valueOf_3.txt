@@ -1,0 +1,10 @@
+    /**
+     * Constructs a new EthernetAddress given the long int value (64-bit)
+     * representation of the ethernet address (of which 48 LSB contain
+     * the definition)
+     *
+     * Note that calling this method returns the same result as would
+     * using the matching constructor.
+     *
+     * @param addr - Int64 int representation of the ethernet address
+     */

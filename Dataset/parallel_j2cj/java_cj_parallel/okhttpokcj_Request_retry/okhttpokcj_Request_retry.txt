@@ -1,0 +1,7 @@
+/**
+ * Sets the maximum number of retries for this request.
+ *
+ * @param retryCount the maximum number of retries
+ * @return the request object
+ * @throws IllegalArgumentException if the retry count is less than 0
+ */

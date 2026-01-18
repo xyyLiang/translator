@@ -1,0 +1,8 @@
+    /**
+     * Extract specific types of tokens from the content of the HTTP response.
+     *
+     * @Param get token from the response
+     *
+     * @Return OAuth2AccessToken specific types of Token
+     * @throws IOException problem retrieving body from response
+     */

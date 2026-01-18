@@ -1,0 +1,5 @@
+/**
+ * Signals the scheduler that a job is about to be executed.
+ *
+ * @param context The context information related to the job execution
+ */

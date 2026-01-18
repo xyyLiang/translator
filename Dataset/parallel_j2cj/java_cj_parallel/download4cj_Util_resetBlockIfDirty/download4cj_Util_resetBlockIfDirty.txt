@@ -1,0 +1,5 @@
+/**
+ * Resets the provided BlockInfo if it is marked as dirty.
+ *
+ * @param info The BlockInfo to check and potentially reset.
+ */

@@ -1,0 +1,10 @@
+/**
+ * Adds values to the specified set based on the given parameters, such as the value, end, increment, and type.
+ * Throws a ParseException if the provided values are invalid for the specified type.
+ *
+ * @param val  The value to be added.
+ * @param end  The end value for the range.
+ * @param incr The increment value.
+ * @param type The type of the set (e.g., SECOND, MINUTE, HOUR).
+ * @throws ParseException If the provided values are invalid for the specified type.
+ */

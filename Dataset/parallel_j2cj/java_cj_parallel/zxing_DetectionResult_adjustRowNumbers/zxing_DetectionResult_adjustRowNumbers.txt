@@ -1,0 +1,4 @@
+  /**
+   * @return number of codewords which don't have a valid row number. Note that the count is not accurate as codewords
+   * will be counted several times. It just serves as an indicator to see when we can stop adjusting row numbers
+   */

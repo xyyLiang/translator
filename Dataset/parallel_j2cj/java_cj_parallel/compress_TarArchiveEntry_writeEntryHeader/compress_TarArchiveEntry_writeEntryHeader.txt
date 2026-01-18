@@ -1,0 +1,8 @@
+    /**
+     * Writes an entry's header information to a header buffer.
+     * <p>
+     * This method does not use the star/GNU tar/BSD tar extensions.
+     * </p>
+     *
+     * @param outbuf The tar entry header buffer to fill in.
+     */

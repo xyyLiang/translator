@@ -1,0 +1,8 @@
+/**
+ * Recursively inserts tokens before a specified token path in the Prism4j grammar.
+ *
+ * @param grammar The Prism4j grammar to insert tokens into.
+ * @param parts   The parts of the path to the target token.
+ * @param index   The current index of the path parts being processed.
+ * @param tokens  The tokens to insert before the target token.
+ */

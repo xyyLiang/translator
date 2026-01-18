@@ -1,0 +1,8 @@
+/**
+ * Copies a portion of the provided byte array into a new byte array.
+ *
+ * @param bytes   the source byte array
+ * @param offset  the starting offset in the source byte array
+ * @param length  the number of bytes to copy
+ * @return a new byte array containing the copied portion
+ */

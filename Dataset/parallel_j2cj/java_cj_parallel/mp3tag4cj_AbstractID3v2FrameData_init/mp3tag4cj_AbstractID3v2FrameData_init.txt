@@ -1,0 +1,7 @@
+    /**
+     * The Function is init constructor.
+     * 
+     * @param bytes of Array<Int8>
+     * @param obseleteFormat of Bool
+     * @since 0.32.5
+     */

@@ -1,0 +1,6 @@
+/**
+ * Flushes any remaining bits in the bit buffer to the output stream.
+ * This method is called when the BZip2 stream processing is finished.
+ *
+ * @throws IOException If an I/O error occurs while writing to the output stream.
+ */

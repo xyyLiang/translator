@@ -1,0 +1,8 @@
+    /**
+     * Determine whether the next characters constitute a delimiter through {@link ExtendedBufferedReader#lookAhead(char[])}.
+     *
+     * @param ch
+     *             the current character.
+     * @return true if the next characters constitute a delimiter.
+     * @throws IOException If an I/O error occurs.
+     */

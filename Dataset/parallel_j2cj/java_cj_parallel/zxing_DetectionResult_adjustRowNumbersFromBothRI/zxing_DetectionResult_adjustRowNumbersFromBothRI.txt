@@ -1,0 +1,5 @@
+/**
+ * Adjusts the row numbers of codewords using both the left and right row indicator columns.
+ * This method compares the row numbers of codewords in the left and right row indicator columns
+ * and adjusts the row numbers of codewords in other columns accordingly.
+ */

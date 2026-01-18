@@ -1,0 +1,9 @@
+/**
+ * Returns the index of the first occurrence of a terminator byte sequence in the byte array,
+ * starting the search at the specified index.
+ *
+ * @param bytes           the byte array
+ * @param fromIndex       the index to start the search from
+ * @param terminatorLength the length of the terminator sequence
+ * @return the index of the terminator sequence, or -1 if not found
+ */

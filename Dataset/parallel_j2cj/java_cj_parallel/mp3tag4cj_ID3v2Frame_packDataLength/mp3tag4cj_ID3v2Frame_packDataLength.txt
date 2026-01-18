@@ -1,0 +1,5 @@
+/**
+ * Packs the data length into a byte array.
+ * 
+ * @return The packed data length as a byte array.
+ */

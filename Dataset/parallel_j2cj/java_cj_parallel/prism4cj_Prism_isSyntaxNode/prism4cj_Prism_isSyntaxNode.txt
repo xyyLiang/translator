@@ -1,0 +1,6 @@
+/**
+ * Checks if the provided node is a syntax node.
+ *
+ * @param node The node to check.
+ * @return True if the node is a syntax node, false otherwise.
+ */

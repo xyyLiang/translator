@@ -1,0 +1,9 @@
+    /**
+     * The Function is matchGenreDescription, Get the sequence number corresponding to genres, Description: one of 147
+     * styles in the member genres
+     * 
+     * @param description of String
+     * 
+     * @return Type of Int32
+     * @since 0.31.4
+     */

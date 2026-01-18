@@ -1,0 +1,6 @@
+    /**
+     * <p>
+     * Pause the <code>{@link Trigger}</code> with the given name.
+     * </p>
+     *  
+     */

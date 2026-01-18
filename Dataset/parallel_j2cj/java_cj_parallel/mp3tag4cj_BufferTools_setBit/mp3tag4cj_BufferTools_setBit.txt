@@ -1,0 +1,8 @@
+/**
+ * Sets or clears the bit at the specified position in the byte based on the given value.
+ *
+ * @param b            the byte to modify
+ * @param bitPosition  the position of the bit to set or clear (0-indexed)
+ * @param value        true to set the bit, false to clear it
+ * @return the modified byte
+ */

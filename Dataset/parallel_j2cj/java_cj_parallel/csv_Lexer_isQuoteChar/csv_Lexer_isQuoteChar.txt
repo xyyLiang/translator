@@ -1,0 +1,3 @@
+    /**
+     *  Is the given symbol a reference symbol
+     */

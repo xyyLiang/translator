@@ -1,0 +1,7 @@
+/**
+ * Sets the bit at the specified position in the matrix to the given value.
+ *
+ * @param col The column index of the bit.
+ * @param row The row index of the bit.
+ * @param bit The value to set the bit to.
+ */

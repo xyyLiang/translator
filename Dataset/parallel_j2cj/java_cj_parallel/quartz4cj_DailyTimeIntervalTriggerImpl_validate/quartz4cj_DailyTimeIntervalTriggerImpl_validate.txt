@@ -1,0 +1,9 @@
+    /**
+     * <p>
+     * Validates whether the properties of the <code>JobDetail</code> are
+     * valid for submission into a <code>Scheduler</code>.
+     * 
+     * @throws IllegalStateException
+     *           if a required property (such as Name, Group, Class) is not
+     *           set.
+     */

@@ -1,0 +1,6 @@
+/**
+ * Retrieves the value of the specified header field from the HTTP response.
+ * 
+ * @param name The name of the header field to retrieve.
+ * @return An Option<String> containing the value of the header field if found; Option.None otherwise.
+ */

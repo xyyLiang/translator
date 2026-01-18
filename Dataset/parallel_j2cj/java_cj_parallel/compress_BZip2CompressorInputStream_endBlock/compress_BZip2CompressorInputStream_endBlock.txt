@@ -1,0 +1,5 @@
+/**
+ * Ends the current block and verifies its CRC.
+ * 
+ * @throws IOException If a CRC error is detected.
+ */

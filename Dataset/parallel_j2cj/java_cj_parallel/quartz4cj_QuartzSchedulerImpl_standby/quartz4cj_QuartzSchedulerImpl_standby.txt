@@ -1,0 +1,9 @@
+    /**
+     * <p>
+     * Temporarily halts the <code>QuartzScheduler</code>'s firing of <code>{@link org.quartz.Trigger}s</code>.
+     * </p>
+     * 
+     * <p>
+     * The scheduler is not destroyed, and can be re-started at any time.
+     * </p>
+     */

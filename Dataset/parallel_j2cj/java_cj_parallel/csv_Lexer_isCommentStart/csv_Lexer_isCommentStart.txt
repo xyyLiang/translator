@@ -1,0 +1,6 @@
+/**
+ * Checks if the given character marks the start of a comment.
+ *
+ * @param ch the character to check
+ * @return {@code true} if the character is the start of a comment, {@code false} otherwise
+ */

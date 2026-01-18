@@ -1,0 +1,6 @@
+    /**
+     * Factory method for constructing UUID generator that generates UUID using
+     * variant 6 (time+location based, reordered for DB locality).
+     *
+     * @return TimeBasedReorderedGenerator
+     */

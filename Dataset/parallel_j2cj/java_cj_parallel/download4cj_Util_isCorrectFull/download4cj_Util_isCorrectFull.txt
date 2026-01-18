@@ -1,0 +1,7 @@
+/**
+ * Checks if the fetched length matches the content length, indicating that the download is complete.
+ *
+ * @param fetchedLength The length of data fetched.
+ * @param contentLength The total length of the content.
+ * @return {@code true} if the fetched length matches the content length, {@code false} otherwise.
+ */

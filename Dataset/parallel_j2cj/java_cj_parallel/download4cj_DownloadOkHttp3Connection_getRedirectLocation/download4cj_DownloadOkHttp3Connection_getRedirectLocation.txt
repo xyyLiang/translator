@@ -1,0 +1,7 @@
+/**
+ * Retrieves the redirect location from the current response.
+ * This method checks if the prior response exists, if the current response is successful, and if the prior response
+ * is a redirect response. If these conditions are met, it returns the URL of the current request; otherwise, it returns null.
+ *
+ * @return The redirect location URL if the current response is a redirect response; null otherwise.
+ */

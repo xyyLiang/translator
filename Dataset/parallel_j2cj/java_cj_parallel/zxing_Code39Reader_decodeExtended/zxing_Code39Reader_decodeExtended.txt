@@ -1,0 +1,7 @@
+/**
+ * Decodes an extended ASCII character sequence into a string.
+ * 
+ * @param encoded The encoded character sequence.
+ * @return The decoded string.
+ * @throws FormatException If the input contains invalid characters or has an invalid format.
+ */

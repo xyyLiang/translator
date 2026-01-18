@@ -1,0 +1,4 @@
+    /**
+     * Returns an unbuffered input stream to read the last committed value,
+     * or null if no value has been committed.
+     */

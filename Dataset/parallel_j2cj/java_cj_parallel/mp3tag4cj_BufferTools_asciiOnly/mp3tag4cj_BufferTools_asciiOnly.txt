@@ -1,0 +1,7 @@
+/**
+ * Returns a new string that contains only ASCII characters from the input string.
+ * Non-ASCII characters are replaced with '?'.
+ *
+ * @param s the input string
+ * @return the new string containing only ASCII characters
+ */

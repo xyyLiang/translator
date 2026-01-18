@@ -1,0 +1,5 @@
+    /**
+     * get the value
+     *
+     * @return Option<Array<UInt8>> - the value
+     */

@@ -1,0 +1,7 @@
+/**
+ * Clones a Prism4j pattern recursively.
+ *
+ * @param context The cloning context.
+ * @param pattern The pattern to clone.
+ * @return The cloned Prism4j pattern.
+ */

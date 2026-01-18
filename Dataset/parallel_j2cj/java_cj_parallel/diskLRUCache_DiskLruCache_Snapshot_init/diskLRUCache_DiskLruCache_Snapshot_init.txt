@@ -1,0 +1,8 @@
+/**
+ * Constructs a new Snapshot with the given parameters.
+ * 
+ * @param key            The key of the entry.
+ * @param sequenceNumber The sequence number of the entry.
+ * @param ins            An array of InputStreams representing the entry's values.
+ * @param lengths        An array of long values representing the lengths of the entry's values.
+ */

@@ -1,0 +1,5 @@
+    /**
+     * Generate UUID through random OR SecureRandom
+     *
+     * @return UUID
+     */  

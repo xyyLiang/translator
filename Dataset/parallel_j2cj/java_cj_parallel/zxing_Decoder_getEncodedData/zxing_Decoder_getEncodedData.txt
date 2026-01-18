@@ -1,0 +1,5 @@
+  /**
+   * Gets the string encoded in the aztec code bits
+   *
+   * @return the decoded string
+   */

@@ -1,0 +1,7 @@
+/**
+ * Converts the specified byte array to an integer value.
+ * 
+ * @param buffer The byte array to convert.
+ * @param offset The offset in the byte array to start converting from.
+ * @return The integer value obtained from the byte array.
+ */

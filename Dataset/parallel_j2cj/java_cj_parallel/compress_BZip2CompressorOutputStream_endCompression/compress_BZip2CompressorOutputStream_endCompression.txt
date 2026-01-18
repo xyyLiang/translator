@@ -1,0 +1,6 @@
+/**
+ * Ends the compression process by writing a magic 48-bit number to indicate the end of the last block,
+ * followed by the combined CRC of all blocks, and finishes writing to the output stream.
+ *
+ * @throws IOException If an I/O error occurs while writing to the output stream.
+ */

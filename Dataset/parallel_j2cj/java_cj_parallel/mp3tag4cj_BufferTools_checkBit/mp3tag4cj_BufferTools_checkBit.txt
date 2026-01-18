@@ -1,0 +1,7 @@
+/**
+ * Checks if the specified bit at the given position in the byte is set.
+ *
+ * @param b            the byte to check
+ * @param bitPosition  the position of the bit to check (0-indexed)
+ * @return true if the specified bit is set, false otherwise
+ */

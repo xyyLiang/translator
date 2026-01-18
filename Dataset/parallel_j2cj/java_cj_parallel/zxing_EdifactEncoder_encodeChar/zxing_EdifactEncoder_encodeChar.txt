@@ -1,0 +1,6 @@
+/**
+ * Encodes the specified character and appends the encoded representation to the provided {@link StringBuilder}.
+ *
+ * @param c  The character to encode.
+ * @param sb The {@link StringBuilder} to append the encoded representation to.
+ */

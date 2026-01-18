@@ -1,0 +1,7 @@
+/**
+ * Retrieves the cache control directive from the provided cache control and pragma strings.
+ *
+ * @param cacheControl the cache control directive
+ * @param pragma       the pragma directive
+ * @return the cache control directive, or null if both cacheControl and pragma are null
+ */

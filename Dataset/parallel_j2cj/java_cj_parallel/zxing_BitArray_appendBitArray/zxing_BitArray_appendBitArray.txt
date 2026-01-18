@@ -1,0 +1,5 @@
+/**
+ * Appends the bits from another BitArray to the end of this BitArray.
+ * 
+ * @param other The BitArray containing the bits to append.
+ */

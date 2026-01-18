@@ -1,0 +1,6 @@
+    /**
+     * The Function is getBPM, TBPM or TBP Identify the corresponding data.
+     * 
+     * @return Type of Option<Int32>
+     * @since 0.32.5
+     */

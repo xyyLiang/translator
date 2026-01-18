@@ -1,0 +1,7 @@
+/**
+ * Finds the end index of a contiguous sequence of digits in the JSON string, starting from the specified index.
+ *
+ * @param start The starting index to begin searching for the digit run.
+ * @param limit The limit index specifying the end of the search range.
+ * @return The index immediately after the last digit in the contiguous sequence of digits, or the limit index if no digits are found.
+ */

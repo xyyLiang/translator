@@ -1,0 +1,6 @@
+/**
+ * Updates the trigger with a new calendar and computes the next fire time based on the given misfire threshold.
+ *
+ * @param calendar The new calendar to update the trigger with.
+ * @param misfireThreshold The threshold to determine misfire.
+ */

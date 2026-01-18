@@ -1,0 +1,6 @@
+/**
+ * Retrieves the value associated with the specified key from the headers map.
+ *
+ * @param key the key whose associated value is to be returned
+ * @return the value to which the specified key is mapped, or null if the map contains no mapping for the key
+ */

@@ -1,0 +1,4 @@
+  /**
+   * Deletes the contents of {@code dir}. Throws an IOException if any file
+   * could not be deleted, or if {@code dir} is not a readable directory.
+   */

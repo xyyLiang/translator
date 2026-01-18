@@ -1,0 +1,5 @@
+/**
+ * Parses a block of alphanumeric data starting from the current position.
+ *
+ * @return The parsed block result.
+ */

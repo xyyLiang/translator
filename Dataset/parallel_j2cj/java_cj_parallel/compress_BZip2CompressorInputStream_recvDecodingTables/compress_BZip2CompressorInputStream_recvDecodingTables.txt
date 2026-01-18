@@ -1,0 +1,4 @@
+/**
+ * Receives the decoding tables used for Huffman decoding.
+ * @throws IOException if an I/O error occurs or if the input is corrupted
+ */

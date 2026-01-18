@@ -1,0 +1,10 @@
+  /**
+   * Determines how closely a set of observed counts of runs of black/white
+   * values matches a given target pattern. This is reported as the ratio of
+   * the total variance from the expected pattern proportions across all
+   * pattern elements, to the length of the pattern.
+   *
+   * @param counters observed counters
+   * @param pattern expected pattern
+   * @return ratio of total variance between counters and pattern compared to total pattern size
+   */

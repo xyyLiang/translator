@@ -1,0 +1,8 @@
+/**
+ * Copies the elements from the temporary result array to the destination result array
+ * at the specified destination indexes.
+ * 
+ * @param result The destination result array.
+ * @param tmpResult The temporary result array.
+ * @param destinationIndexes The indexes where elements from the temporary result array should be copied.
+ */

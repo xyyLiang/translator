@@ -1,0 +1,8 @@
+/**
+ * Retrieves a property group based on the given prefix, optionally stripping the prefix from the keys.
+ *
+ * @param prefix0          The prefix to match
+ * @param stripPrefix      Flag indicating whether to strip the prefix from the keys
+ * @param excludedPrefixes An array of prefixes to exclude
+ * @return The property group
+ */

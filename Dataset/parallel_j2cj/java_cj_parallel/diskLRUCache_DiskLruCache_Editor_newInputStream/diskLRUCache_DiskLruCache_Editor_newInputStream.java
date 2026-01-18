@@ -1,0 +1,15 @@
+    public InputStream newInputStream(int index) throws IOException {
+      synchronized (DiskLruCache.this) {
+        if (entry.currentEditor != this) {
+          throw new IllegalStateException();
+        }
+        if (!entry.readable) {
+          return null;
+        }
+        try {
+          return new FileInputStream(entry.getCleanFile(index));
+        } catch (FileNotFoundException e) {
+          return null;
+        }
+      }
+    }

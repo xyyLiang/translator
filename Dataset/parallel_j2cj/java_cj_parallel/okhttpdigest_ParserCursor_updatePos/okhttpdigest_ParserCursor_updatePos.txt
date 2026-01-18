@@ -1,0 +1,6 @@
+/**
+ * Updates the position of the cursor.
+ * 
+ * @param pos the new position to set
+ * @throws IndexOutOfBoundsException if the new position is out of bounds
+ */

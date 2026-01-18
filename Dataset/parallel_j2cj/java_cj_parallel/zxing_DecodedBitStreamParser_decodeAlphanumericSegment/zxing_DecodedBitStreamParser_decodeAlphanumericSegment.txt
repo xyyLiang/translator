@@ -1,0 +1,9 @@
+/**
+ * Decodes an alphanumeric segment from the given BitSource.
+ *
+ * @param bits The BitSource to read from.
+ * @param result The StringBuilder to append the decoded result to.
+ * @param count The number of characters to decode.
+ * @param fc1InEffect Whether FNC1 is in effect.
+ * @throws FormatException If the input cannot be decoded.
+ */

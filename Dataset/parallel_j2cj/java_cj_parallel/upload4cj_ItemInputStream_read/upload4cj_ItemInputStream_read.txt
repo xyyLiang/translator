@@ -1,0 +1,6 @@
+    /**
+     * read the buffer array
+     *
+     * @param buffer - Array<Byte> The buffer array
+     * @return Int64 - the array size read
+     */

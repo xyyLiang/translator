@@ -1,0 +1,5 @@
+/**
+ * Copies all of the mappings from the specified parameters to this object.
+ *
+ * @param params the parameters whose mappings are to be copied to this object
+ */

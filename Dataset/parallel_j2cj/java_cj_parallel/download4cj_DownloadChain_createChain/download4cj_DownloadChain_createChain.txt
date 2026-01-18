@@ -1,0 +1,10 @@
+/**
+ * Creates a new instance of DownloadChain with the provided parameters.
+ * 
+ * @param blockIndex The index of the block.
+ * @param task       The DownloadTask object.
+ * @param info       The BreakpointInfo object.
+ * @param cache      The DownloadCache object.
+ * @param store      The DownloadStore object.
+ * @return           A new instance of DownloadChain.
+ */

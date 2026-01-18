@@ -1,0 +1,8 @@
+/**
+ * Encodes the given string minimally using the provided ECIEncoderSet and FNC1 character.
+ *
+ * @param stringToEncode The string to encode.
+ * @param encoderSet     The ECIEncoderSet to use for encoding.
+ * @param fnc1           The FNC1 character.
+ * @return An array of integers representing the encoded data.
+ */

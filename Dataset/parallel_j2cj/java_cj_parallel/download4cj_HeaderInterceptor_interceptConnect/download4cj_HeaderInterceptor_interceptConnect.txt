@@ -1,0 +1,7 @@
+/**
+ * Intercepts the connection establishment process during the download chain.
+ * 
+ * @param chain The DownloadChain representing the chain of interceptors.
+ * @return The connected DownloadConnection after processing the connection establishment.
+ * @throws IOException If an I/O error occurs during the connection establishment process.
+ */

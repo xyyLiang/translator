@@ -1,0 +1,5 @@
+    /**
+     * Drops bits until the next bits will be read from a byte boundary.
+     *
+     * @since 1.16
+     */

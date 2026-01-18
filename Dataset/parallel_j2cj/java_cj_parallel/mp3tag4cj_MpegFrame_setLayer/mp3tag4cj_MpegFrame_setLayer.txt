@@ -1,0 +1,6 @@
+/**
+ * Sets the MPEG audio layer based on the provided layer number.
+ * 
+ * @param layer The layer number indicating the MPEG audio layer.
+ * @throws InvalidDataException If the provided layer number is invalid.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Extracts the comment frame data from the ID3v2 tag.
+ *
+ * @param id     the ID of the comment frame to extract
+ * @param itunes {@code true} to extract only iTunes comment frames, {@code false} to extract any comment frame
+ * @return the comment frame data, or {@code null} if no matching comment frame is found
+ */

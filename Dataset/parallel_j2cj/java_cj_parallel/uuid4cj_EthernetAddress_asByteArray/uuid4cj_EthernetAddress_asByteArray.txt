@@ -1,0 +1,7 @@
+    /**
+     * Returns 6 byte byte array that contains the binary representation
+     * of this ethernet address; byte 0 is the most significant byte
+     * (and so forth)
+     *
+     * @return 6 UInt8 array that contains the binary representation
+     */

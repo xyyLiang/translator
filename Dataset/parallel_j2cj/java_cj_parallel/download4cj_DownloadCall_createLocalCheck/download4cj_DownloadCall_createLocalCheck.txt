@@ -1,0 +1,7 @@
+/**
+ * Creates a new instance of BreakpointLocalCheck for the provided BreakpointInfo and response instance length.
+ * 
+ * @param info                   The BreakpointInfo object.
+ * @param responseInstanceLength The response instance length.
+ * @return                       A new instance of BreakpointLocalCheck.
+ */

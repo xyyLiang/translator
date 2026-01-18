@@ -1,0 +1,5 @@
+    /**
+     * Check whether the response indicate the resource transfer encoding is chunked.
+     *
+     * @return {@code true} only if the response transfer encoding is chunked.
+     */

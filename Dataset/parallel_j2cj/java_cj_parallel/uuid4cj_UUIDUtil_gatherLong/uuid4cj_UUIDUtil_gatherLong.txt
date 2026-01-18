@@ -1,0 +1,7 @@
+/**
+ * Gathers a long value from a byte array starting at the specified offset.
+ * 
+ * @param buffer The byte array containing the long value.
+ * @param offset The starting offset in the byte array.
+ * @return The long value gathered from the byte array.
+ */

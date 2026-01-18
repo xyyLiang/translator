@@ -1,0 +1,6 @@
+/**
+ * Determines whether it is a moment to process the fetch for the given DownloadTask.
+ *
+ * @param task the DownloadTask to check.
+ * @return {@code true} if it is a moment to process the fetch, {@code false} otherwise.
+ */

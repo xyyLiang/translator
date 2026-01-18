@@ -1,0 +1,6 @@
+/**
+ * Checks if the given array of counters represents a finder pattern.
+ *
+ * @param counters The array of counters representing the pattern.
+ * @return True if the counters represent a finder pattern, otherwise false.
+ */

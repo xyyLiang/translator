@@ -1,0 +1,6 @@
+/**
+ * Encodes the maximal subset of characters in the provided {@link EncoderContext}.
+ * This method is used for encoding the message with maximum efficiency.
+ *
+ * @param context The {@link EncoderContext} containing the message to be encoded.
+ */

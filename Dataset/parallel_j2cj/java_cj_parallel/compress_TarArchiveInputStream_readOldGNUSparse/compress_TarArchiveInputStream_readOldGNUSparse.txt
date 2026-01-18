@@ -1,0 +1,5 @@
+    /**
+     * Adds the sparse chunks from the current entry to the sparse chunks, including any additional sparse entries following the current entry.
+     *
+     * @throws IOException on error
+     */

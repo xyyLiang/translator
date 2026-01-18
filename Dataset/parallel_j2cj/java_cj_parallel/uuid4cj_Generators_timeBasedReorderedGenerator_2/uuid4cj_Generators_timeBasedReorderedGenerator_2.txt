@@ -1,0 +1,9 @@
+    /**
+     * Factory method for constructing UUID generator that generates UUID using
+     * variant 6 (time+location based, reordered for DB locality), using specified
+     * Ethernet address as the location part of UUID
+     *
+     * @param ethernetAddress - Ethernet address
+     * @param timer - UUIDTimer
+     * @return TimeBasedReorderedGenerator 
+     */

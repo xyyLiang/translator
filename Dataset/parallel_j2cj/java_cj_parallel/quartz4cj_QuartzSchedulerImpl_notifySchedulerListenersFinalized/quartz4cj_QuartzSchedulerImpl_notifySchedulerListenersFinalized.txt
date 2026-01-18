@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a trigger has been finalized.
+ * 
+ * @param trigger The trigger that has been finalized.
+ */

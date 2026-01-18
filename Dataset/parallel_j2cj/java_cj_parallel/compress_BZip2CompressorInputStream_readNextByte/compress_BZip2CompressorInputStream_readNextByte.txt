@@ -1,0 +1,6 @@
+/**
+ * Reads the next byte from the provided BitInputStream.
+ * @param in the BitInputStream from which to read
+ * @return the next byte of data as an integer (0-255)
+ * @throws IOException if an I/O error occurs
+ */

@@ -1,0 +1,18 @@
+    /**
+     * <p>
+     * Add the given <code>Job</code> to the Scheduler - with no associated
+     * <code>Trigger</code>. The <code>Job</code> will be 'dormant' until
+     * it is scheduled with a <code>Trigger</code>, or <code>Scheduler.triggerJob()</code>
+     * is called for it.
+     * </p>
+     * 
+     * <p>
+     * The <code>Job</code> must by definition be 'durable', if it is not,
+     * SchedulerException will be thrown.
+     * </p>
+     * 
+     * @throws SchedulerException
+     *           if there is an internal Scheduler error, or if the Job is not
+     *           durable, or a Job with the same name already exists, and
+     *           <code>replace</code> is <code>false</code>.
+     */

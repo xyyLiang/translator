@@ -1,0 +1,7 @@
+/**
+ * Checks if a character can be encoded in the specified mode.
+ *
+ * @param mode The encoding mode.
+ * @param c The character to check.
+ * @return {@code true} if the character can be encoded in the specified mode, {@code false} otherwise.
+ */

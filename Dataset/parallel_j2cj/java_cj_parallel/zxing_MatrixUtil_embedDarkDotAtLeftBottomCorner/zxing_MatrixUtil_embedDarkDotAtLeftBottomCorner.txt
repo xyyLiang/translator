@@ -1,0 +1,1 @@
+  // Embed the lonely dark dot at left bottom corner. JISX0510:2004 (p.46)

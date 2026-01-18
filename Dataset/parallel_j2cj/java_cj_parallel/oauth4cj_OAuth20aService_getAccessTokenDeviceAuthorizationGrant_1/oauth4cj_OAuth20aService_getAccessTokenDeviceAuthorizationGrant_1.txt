@@ -1,0 +1,8 @@
+    /**
+     * Asynchronous execution to obtain device authorization code.
+     *
+     * @param deviceAuthorization of DeviceAuthorization, the device authorization response
+     * @param callback of Option<OAuthAsyncRequestCallback>, optional callback, the access async request callback
+     *
+     * @return Future<DeviceAuthorization> asynchronous execution revocation token.
+     */

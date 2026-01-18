@@ -1,0 +1,6 @@
+    /**
+     * Add the multipartPayload to this.bodyParts.
+     *
+     * @param bodyPartPayload of BodyPartPayload
+     * @since 0.37.2
+     */

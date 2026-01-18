@@ -1,0 +1,6 @@
+    /**
+     * Returns a URL that does not contain port and query string parts.
+     *
+     * @return Type of String
+     * @since 0.37.2
+     */

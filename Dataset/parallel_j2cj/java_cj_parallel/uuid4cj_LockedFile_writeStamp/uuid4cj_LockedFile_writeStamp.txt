@@ -1,0 +1,5 @@
+    /*
+     * write timeStamp
+     *
+     * @param stamp - Int64 timeStamp
+     */

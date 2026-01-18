@@ -1,0 +1,6 @@
+/**
+ * Converts the given array of counters into a pattern of narrow and wide bars.
+ *
+ * @param counters The array of counters to convert.
+ * @return The pattern representing the counters.
+ */

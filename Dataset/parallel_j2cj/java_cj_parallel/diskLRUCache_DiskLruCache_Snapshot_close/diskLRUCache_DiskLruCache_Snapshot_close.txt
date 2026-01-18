@@ -1,0 +1,3 @@
+/**
+ * Closes all InputStreams associated with this snapshot.
+ */

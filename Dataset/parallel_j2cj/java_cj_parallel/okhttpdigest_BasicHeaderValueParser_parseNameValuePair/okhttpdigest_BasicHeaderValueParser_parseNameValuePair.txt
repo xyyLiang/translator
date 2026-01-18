@@ -1,0 +1,8 @@
+/**
+ * Parses a name/value pair from a string.
+ *
+ * @param value  the string to parse
+ * @param parser the parser to use, or {@code null} to use the default
+ * @return the parsed name/value pair
+ * @throws ParseException if parsing fails due to invalid input
+ */

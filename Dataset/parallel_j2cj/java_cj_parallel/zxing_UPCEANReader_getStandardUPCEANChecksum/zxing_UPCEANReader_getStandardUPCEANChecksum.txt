@@ -1,0 +1,7 @@
+/**
+ * Calculates the standard UPC/EAN checksum for the given character sequence.
+ *
+ * @params The character sequence to calculate the checksum for.
+ * @return The calculated checksum.
+ * @throws FormatException if the character sequence contains invalid characters.
+ */

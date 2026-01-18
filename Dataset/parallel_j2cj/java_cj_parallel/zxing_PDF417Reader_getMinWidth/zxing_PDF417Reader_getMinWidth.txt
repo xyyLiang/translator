@@ -1,0 +1,7 @@
+/**
+ * Gets the minimum width between two ResultPoints.
+ * 
+ * @param p1 The first ResultPoint.
+ * @param p2 The second ResultPoint.
+ * @return The minimum width.
+ */

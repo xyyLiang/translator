@@ -1,0 +1,6 @@
+        /**
+         * Attempts to read more data.
+         *
+         * @return Number of available bytes
+         * @throws IOException An I/O error occurred.
+         */

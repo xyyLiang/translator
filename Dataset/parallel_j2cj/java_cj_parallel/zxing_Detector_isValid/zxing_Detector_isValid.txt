@@ -1,0 +1,7 @@
+/**
+ * Checks whether the specified coordinates (x, y) are within the bounds of the image.
+ * 
+ * @param x The x-coordinate.
+ * @param y The y-coordinate.
+ * @return {@code true} if the coordinates are valid within the image bounds, {@code false} otherwise.
+ */

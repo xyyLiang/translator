@@ -1,0 +1,5 @@
+/**
+ * Gets the flags byte representing the state of the chapter frame.
+ *
+ * @return The flags byte.
+ */

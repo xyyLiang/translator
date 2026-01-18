@@ -1,0 +1,6 @@
+/**
+ * Removes incorrect codewords from the codewords array based on the provided barcode metadata.
+ * 
+ * @param codewords The array of codewords.
+ * @param barcodeMetadata The barcode metadata.
+ */

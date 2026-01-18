@@ -1,0 +1,7 @@
+    /**
+     * The Function is init constructor
+     *
+     * @param lowerBound of Int32
+     * @param upperBound of Int32
+     * @since 30.4
+     */

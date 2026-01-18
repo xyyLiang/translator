@@ -1,0 +1,6 @@
+    /**
+     * Sign request
+     *
+     * @param accessToken of OAuth2AccessToken, OAuth2AccessToken instance
+     * @param request of OAuth4cjRequest, OAuth4cjRequest instance
+     */

@@ -1,0 +1,7 @@
+/**
+ * Packs the footer of the ID3v2 tag into the provided byte array starting at the specified offset.
+ *
+ * @param bytes   the byte array to pack the footer into
+ * @param offset  the offset within the byte array to start packing the footer
+ * @return the updated offset after packing the footer
+ */

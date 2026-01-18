@@ -1,0 +1,6 @@
+/**
+ * Retrieves property groups based on the given prefix.
+ *
+ * @param prefix0 The prefix to match
+ * @return An ArrayList containing the property groups
+ */

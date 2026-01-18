@@ -1,0 +1,6 @@
+    /**
+     * Sets the offset of the data for the tar entry.
+     *
+     * @param dataOffset the position of the data in the tar.
+     * @since 1.21
+     */

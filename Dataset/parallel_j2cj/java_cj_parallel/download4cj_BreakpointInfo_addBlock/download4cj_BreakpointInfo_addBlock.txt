@@ -1,0 +1,5 @@
+/**
+ * Adds a BlockInfo to the list of block information.
+ *
+ * @param blockInfo the BlockInfo to add.
+ */

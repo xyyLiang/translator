@@ -1,0 +1,2 @@
+  // Return the position of the most significant bit set (to one) in the "value". The most
+  // significant bit is position 32. If there is no bit set, return 0. 

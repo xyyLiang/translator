@@ -1,0 +1,6 @@
+    /**
+     * Get BearerSignatureURIQueryParameter instance
+     * 
+     * @return BearerSignatureURIQueryParameter instance
+     * @since 0.38.2
+     */

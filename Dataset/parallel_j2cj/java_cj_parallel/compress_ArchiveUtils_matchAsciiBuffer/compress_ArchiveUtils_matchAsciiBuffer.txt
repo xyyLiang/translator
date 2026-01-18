@@ -1,0 +1,9 @@
+    /**
+     * Check if buffer contents matches ASCII String.
+     *
+     * @param expected expected string
+     * @param buffer   the buffer
+     * @param offset   offset to read from
+     * @param length   length of the buffer
+     * @return {@code true} if buffer is the same as the expected string
+     */

@@ -1,0 +1,7 @@
+/**
+ * Retrieves the next state based on the current state and class.
+ *
+ * @param cls the class value
+ * @param currentState the current state
+ * @return the next state
+ */

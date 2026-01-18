@@ -1,0 +1,6 @@
+/**
+ * Adds a pair to the collection or increments the count of an existing pair if found.
+ * 
+ * @param possiblePairs The collection of pairs.
+ * @param pair The pair to add or tally.
+ */

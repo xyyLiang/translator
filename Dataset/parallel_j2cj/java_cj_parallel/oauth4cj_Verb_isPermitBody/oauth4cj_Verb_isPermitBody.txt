@@ -1,0 +1,7 @@
+    /**
+     * Whether permission is required
+     *
+     * @Return Bool The return value varies depending on the operation
+     *              GET=false POST=true PUT=true DELETE=true
+     *              HEAD=false OPTIONS=false TRACE=false PATCH=false
+     */

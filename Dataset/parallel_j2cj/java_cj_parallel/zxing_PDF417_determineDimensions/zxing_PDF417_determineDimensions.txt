@@ -1,0 +1,8 @@
+  /**
+   * Determine optimal nr of columns and rows for the specified number of
+   * codewords.
+   *
+   * @param sourceCodeWords number of code words
+   * @param errorCorrectionCodeWords number of error correction code words
+   * @return dimension object containing cols as width and rows as height
+   */

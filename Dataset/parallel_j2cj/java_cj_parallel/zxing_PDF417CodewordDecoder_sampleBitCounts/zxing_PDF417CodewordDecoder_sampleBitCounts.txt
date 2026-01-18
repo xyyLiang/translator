@@ -1,0 +1,6 @@
+/**
+ * Samples the bit counts to obtain a more balanced distribution.
+ * 
+ * @param moduleBitCount The array of module bit counts.
+ * @return The sampled bit counts.
+ */

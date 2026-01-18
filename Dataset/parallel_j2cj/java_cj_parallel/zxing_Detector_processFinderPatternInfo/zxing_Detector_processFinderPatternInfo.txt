@@ -1,0 +1,8 @@
+/**
+ * Processes the finder pattern information to detect the QR code.
+ * 
+ * @param info The finder pattern information.
+ * @return The detected result containing the BitMatrix and detected points.
+ * @throws NotFoundException If the QR code cannot be found.
+ * @throws FormatException If the QR code format is invalid.
+ */

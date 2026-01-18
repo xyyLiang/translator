@@ -1,0 +1,5 @@
+/**
+ * Finalizes the current block, computes its CRC, and writes block-related information to the output stream.
+ *
+ * @throws IOException If an I/O error occurs while writing to the output stream.
+ */

@@ -1,0 +1,9 @@
+/**
+ * Encodes low-level data into the BarcodeMatrix for a PDF417 symbol.
+ *
+ * @param fullCodewords        The full sequence of codewords to encode.
+ * @param c                    The number of columns in the symbol.
+ * @param r                    The number of rows in the symbol.
+ * @param errorCorrectionLevel The error correction level.
+ * @param logic                The BarcodeMatrix to encode the data into.
+ */

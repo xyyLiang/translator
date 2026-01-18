@@ -1,0 +1,6 @@
+/**
+ * Adds OAuth parameters to the given request.
+ * 
+ * @param request     The OAuth request to add parameters to.
+ * @param tokenSecret The token secret to use for signing.
+ */

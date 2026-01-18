@@ -1,0 +1,9 @@
+/**
+ * Finds another {@code BreakpointInfo} object in the store that is equal to the given {@code task}
+ * and not equal to the specified {@code ignored} {@code BreakpointInfo}.
+ *
+ * @param task    the download task to find a matching {@code BreakpointInfo} for.
+ * @param ignored the {@code BreakpointInfo} object to ignore during the comparison.
+ * @return another {@code BreakpointInfo} object in the store that matches the given {@code task}
+ *         and is not equal to the specified {@code ignored} object, or {@code null} if no such object is found.
+ */

@@ -1,0 +1,5 @@
+  /**
+   * <p>Like {@link #crossCheckVertical(int, int, int, int)}, and in fact is basically identical,
+   * except it reads horizontally instead of vertically. This is used to cross-cross
+   * check a vertical cross check and locate the real center of the alignment pattern.</p>
+   */

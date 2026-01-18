@@ -1,0 +1,7 @@
+    /*
+     * Parses the content of a PAX 1.0 sparse block.
+     * 
+     * @param buffer The buffer from which to parse.
+     * @param offset The offset into the buffer from which to parse.
+     * @return a parsed sparse struct
+     */

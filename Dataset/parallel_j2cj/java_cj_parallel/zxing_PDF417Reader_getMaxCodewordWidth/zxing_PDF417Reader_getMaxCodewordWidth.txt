@@ -1,0 +1,6 @@
+/**
+ * Gets the maximum codeword width based on the positions of ResultPoints.
+ * 
+ * @param p An array of ResultPoints.
+ * @return The maximum codeword width.
+ */

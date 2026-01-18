@@ -1,0 +1,7 @@
+/**
+ * Notifies the listeners that the job has completed execution.
+ *
+ * @param jobExCtxt the JobExecutionContext
+ * @param jobExEx   the JobExecutionException, if any
+ * @return true if the notification was successful, false otherwise
+ */

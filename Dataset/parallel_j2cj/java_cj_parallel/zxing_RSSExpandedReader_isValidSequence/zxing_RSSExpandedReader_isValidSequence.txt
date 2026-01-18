@@ -1,0 +1,7 @@
+/**
+ * Checks whether the given list of ExpandedPair objects forms a valid sequence.
+ * 
+ * @param pairs The list of ExpandedPair objects to be checked.
+ * @param complete Indicates whether the sequence is expected to be complete or not.
+ * @return true if the sequence is valid, false otherwise.
+ */

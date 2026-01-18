@@ -1,0 +1,12 @@
+    /**
+     * Gets the middle snake corresponding to two subsequences of the
+     * main sequences.
+     * The snake is found using the MYERS Algorithm (this algorithms has
+     * also been implemented in the GNU diff program). 
+     *
+     * @param start1  the begin of the first sequence to be compared
+     * @param end1  the end of the first sequence to be compared
+     * @param start2  the begin of the second sequence to be compared
+     * @param end2  the end of the second sequence to be compared
+     * @return The middle snake
+     */

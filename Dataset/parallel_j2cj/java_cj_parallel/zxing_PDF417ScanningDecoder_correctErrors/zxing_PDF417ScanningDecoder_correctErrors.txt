@@ -1,0 +1,9 @@
+  /**
+   * <p>Given data and error-correction codewords received, possibly corrupted by errors, attempts to
+   * correct the errors in-place.</p>
+   *
+   * @param codewords   data and error correction codewords
+   * @param erasures positions of any known erasures
+   * @param numECCodewords number of error correction codewords that are available in codewords
+   * @throws ChecksumException if error correction fails
+   */

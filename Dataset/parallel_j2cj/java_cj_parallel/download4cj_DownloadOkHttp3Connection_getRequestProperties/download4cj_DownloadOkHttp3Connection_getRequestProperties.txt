@@ -1,0 +1,7 @@
+/**
+ * Returns a map containing the request properties (headers) of the HTTP request.
+ * If the request object is not null, it retrieves the headers from the request; otherwise,
+ * it builds a temporary request to extract the headers from the request builder.
+ *
+ * @return A map containing the request properties, where keys are header names and values are lists of header values.
+ */

@@ -1,0 +1,11 @@
+  /**
+   * Encode parts of the message using Byte Compaction as described in ISO/IEC 15438:2001(E),
+   * chapter 4.4.3. The Unicode characters will be converted to binary using the cp437
+   * codepage.
+   *
+   * @param bytes     the message converted to a byte array
+   * @param startpos  the start position within the message
+   * @param count     the number of bytes to encode
+   * @param startmode the mode from which this method starts
+   * @param sb        receives the encoded codewords
+   */

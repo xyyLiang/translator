@@ -1,0 +1,9 @@
+    /**
+     * The Function is httpExchangeError.This method is called when the service access is fail.
+     *
+     * @param inspectorRequest of NetworkEventReporterInspectorRequest
+     * @param e of Exception
+     *
+     * @return Type of Unit
+     * @since 0.30.4
+     */

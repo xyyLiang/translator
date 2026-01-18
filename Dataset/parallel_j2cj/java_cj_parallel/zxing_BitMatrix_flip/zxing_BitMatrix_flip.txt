@@ -1,0 +1,6 @@
+  /**
+   * <p>Flips the given bit.</p>
+   *
+   * @param x The horizontal component (i.e. which column)
+   * @param y The vertical component (i.e. which row)
+   */

@@ -1,0 +1,6 @@
+    /**
+     * whether the OAuth1Token is empty
+     * 
+     * @return Bool if token is "" and tokenSecret is "" return true
+     * @since 0.37.2
+     */

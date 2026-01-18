@@ -1,0 +1,15 @@
+    /**
+     * <p>
+     * Pause all triggers - equivalent of calling <code>pauseTriggers(GroupMatcher)</code>
+     * with a matcher matching all known groups.
+     * </p>
+     * 
+     * <p>
+     * When <code>resumeAll()</code> is called (to un-pause), trigger misfire
+     * instructions WILL be applied.
+     * </p>
+     * 
+     * @see #resumeAll()
+     * @see #pauseTriggers(org.quartz.impl.matchers.GroupMatcher)
+     * @see #standby()
+     */

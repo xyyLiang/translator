@@ -1,0 +1,10 @@
+    /**
+     * init
+     *
+     * @param fieldName - String The fieldName
+     * @param contentType - String The contentType
+     * @param isFormField - Bool The isFormField
+     * @param fileName - String The fileName
+     * @param sizeThreshold - Int64 The sizeThreshold
+     * @param repository - Option<Directory> The repository
+     */

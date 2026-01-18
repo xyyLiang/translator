@@ -1,0 +1,7 @@
+/**
+ * Performs a fallback sort algorithm to refine the bucket order.
+ *
+ * @param fmap   the array pointing to the index of the starting point of a permutation inside the block of data in the current partially sorted order
+ * @param block  the original data block
+ * @param nblock the size of the block
+ */

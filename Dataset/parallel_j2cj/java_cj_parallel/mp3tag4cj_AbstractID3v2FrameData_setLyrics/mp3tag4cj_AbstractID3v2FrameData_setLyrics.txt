@@ -1,0 +1,5 @@
+/**
+ * Sets the lyrics in the ID3v2 tag.
+ *
+ * @param lyrics the lyrics text to set
+ */

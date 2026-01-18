@@ -1,0 +1,8 @@
+    /**
+     * overwrite equals
+     * 
+     * @Param object object to compare
+     * @return Bool if object is OAuth1AccessToken and token value is the same and 
+     *              tokenSecret value is the same return true 
+     * @since 0.37.2
+     */

@@ -1,0 +1,9 @@
+/**
+ * Decodes a data character from the provided row and finder pattern.
+ *
+ * @param row          The BitArray row to decode from.
+ * @param pattern      The FinderPattern.
+ * @param outsideChar  Indicates whether the character is outside the symbol.
+ * @return The decoded DataCharacter.
+ * @throws NotFoundException if the character cannot be decoded.
+ */

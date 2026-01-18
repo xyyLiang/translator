@@ -1,0 +1,7 @@
+    /**
+     * Binary constructor that constructs an instance given the 6 byte
+     *      * (48-bit) address. Useful if an address is saved in binary format
+     *      * (for saving space for example).
+     *
+     * @param addr - Array address
+     */

@@ -1,0 +1,7 @@
+/**
+ * Checks a boolean condition and throws an IllegalArgumentException with the specified error message if the condition is not met.
+ * 
+ * @param requirements The boolean condition to check.
+ * @param error        The error message to include in the exception if the condition is not met.
+ * @throws IllegalArgumentException If the condition is not met.
+ */

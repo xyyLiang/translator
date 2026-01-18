@@ -1,0 +1,6 @@
+/**
+ * Adds header fields to a DownloadConnection.
+ *
+ * @param headerFields The map of header fields to add.
+ * @param connection   The DownloadConnection to which the header fields will be added.
+ */

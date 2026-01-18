@@ -1,0 +1,7 @@
+/**
+ * Encodes a character into the provided StringBuilder according to the Code 128 encoding scheme.
+ * 
+ * @param c  The character to encode.
+ * @param sb The StringBuilder to append the encoded character to.
+ * @return The number of characters encoded (1 or 2).
+ */

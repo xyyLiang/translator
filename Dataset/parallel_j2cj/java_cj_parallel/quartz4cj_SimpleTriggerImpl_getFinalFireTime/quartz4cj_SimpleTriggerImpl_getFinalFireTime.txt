@@ -1,0 +1,10 @@
+    /**
+     * <p>
+     * Returns the final time at which the <code>SimpleTrigger</code> will
+     * fire, if repeatCount is REPEAT_INDEFINITELY, null will be returned.
+     * </p>
+     * 
+     * <p>
+     * Note that the return time may be in the past.
+     * </p>
+     */

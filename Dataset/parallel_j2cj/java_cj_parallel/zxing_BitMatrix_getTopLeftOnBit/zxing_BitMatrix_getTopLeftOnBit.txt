@@ -1,0 +1,5 @@
+  /**
+   * This is useful in detecting a corner of a 'pure' barcode.
+   *
+   * @return {@code x,y} coordinate of top-left-most 1 bit, or null if it is all white
+   */

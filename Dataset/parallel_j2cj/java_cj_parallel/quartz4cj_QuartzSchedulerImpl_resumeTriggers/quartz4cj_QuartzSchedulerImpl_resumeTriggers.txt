@@ -1,0 +1,12 @@
+    /**
+     * <p>
+     * Resume (un-pause) all of the <code>{@link Trigger}s</code> in the
+     * matching groups.
+     * </p>
+     * 
+     * <p>
+     * If any <code>Trigger</code> missed one or more fire-times, then the
+     * <code>Trigger</code>'s misfire instruction will be applied.
+     * </p>
+     *  
+     */

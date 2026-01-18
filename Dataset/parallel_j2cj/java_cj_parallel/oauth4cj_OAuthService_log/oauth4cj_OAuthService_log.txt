@@ -1,0 +1,5 @@
+/**
+ * Logs the given message if debug mode is enabled.
+ * 
+ * @param message The message to log.
+ */

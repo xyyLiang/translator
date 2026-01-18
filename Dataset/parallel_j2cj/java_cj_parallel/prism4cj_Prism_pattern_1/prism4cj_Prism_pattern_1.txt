@@ -1,0 +1,7 @@
+/**
+ * Creates a pattern with the specified regular expression and lookbehind flag.
+ *
+ * @param regex      The regular expression for the pattern.
+ * @param lookbehind Indicates whether the pattern should match using lookbehind.
+ * @return The created pattern.
+ */

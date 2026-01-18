@@ -1,0 +1,8 @@
+    /**
+     * <p>
+     * Get a handle to the next trigger to be fired, and mark it as 'reserved'
+     * by the calling scheduler.
+     * </p>
+     *
+     * @see #releaseAcquiredTrigger(OperableTrigger)
+     */

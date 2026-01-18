@@ -1,0 +1,6 @@
+/**
+ * Unpacks the data length from the provided byte array using synchsafe integer encoding.
+ * 
+ * @param buffer The byte array containing the data length.
+ * @param offset The offset at which the data length starts.
+ */

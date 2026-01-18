@@ -1,0 +1,17 @@
+    /**
+     * <p>
+     * Store the given <code>{@link org.quartz.Trigger}</code>.
+     * </p>
+     *
+     * @param newTrigger
+     *          The <code>Trigger</code> to be stored.
+     * @param replaceExisting
+     *          If <code>true</code>, any <code>Trigger</code> existing in
+     *          the <code>JobStore</code> with the same name and group should
+     *          be over-written.
+     * @throws ObjectAlreadyExistsException
+     *           if a <code>Trigger</code> with the same name/group already
+     *           exists, and replaceExisting is set to false.
+     *
+     * @see #pauseTriggers(org.quartz.impl.matchers.GroupMatcher)
+     */

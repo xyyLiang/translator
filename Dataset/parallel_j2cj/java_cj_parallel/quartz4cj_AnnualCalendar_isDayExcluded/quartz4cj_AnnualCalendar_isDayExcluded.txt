@@ -1,0 +1,5 @@
+    /**
+     * <p>
+     * Return true, if day is defined to be exluded.
+     * </p>
+     */

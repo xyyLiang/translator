@@ -1,0 +1,3 @@
+    /**
+     * Translator for unescaping escaped Comma Separated Value entries.
+     */

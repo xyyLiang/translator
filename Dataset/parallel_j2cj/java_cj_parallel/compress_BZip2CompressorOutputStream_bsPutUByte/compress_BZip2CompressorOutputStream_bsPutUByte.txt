@@ -1,0 +1,6 @@
+/**
+ * Writes an unsigned byte value to the bitstream.
+ *
+ * @param c The unsigned byte value to write.
+ * @throws IOException If an I/O error occurs while writing to the output stream.
+ */

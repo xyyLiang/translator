@@ -1,0 +1,8 @@
+/**
+ * Finds the index of the specified character within the specified range.
+ * 
+ * @param ch          the character to search for
+ * @param beginIndex  the index to start the search from
+ * @param endIndex    the index to end the search (exclusive)
+ * @return the index of the character, or -1 if not found
+ */

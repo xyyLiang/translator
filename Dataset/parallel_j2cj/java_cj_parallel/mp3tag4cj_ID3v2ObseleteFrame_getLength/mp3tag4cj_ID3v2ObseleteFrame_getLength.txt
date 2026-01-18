@@ -1,0 +1,6 @@
+    /**
+     * The Function is getLength, Get the length of the label frame.
+     * 
+     * @return Type of Int32
+     * @since 0.32.5
+     */

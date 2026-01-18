@@ -1,0 +1,6 @@
+    /**
+     * Starts the <code>QuartzScheduler</code>'s threads that fire <code>{@link org.quartz.Trigger}s</code>.
+     * 
+     * All <code>{@link org.quartz.Trigger}s</code> that have misfired will
+     * be passed to the appropriate TriggerListener(s).
+     */

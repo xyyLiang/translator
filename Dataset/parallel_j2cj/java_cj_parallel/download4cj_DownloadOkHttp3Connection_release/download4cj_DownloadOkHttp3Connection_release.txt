@@ -1,0 +1,4 @@
+/**
+ * Releases resources associated with the HTTP connection.
+ * Clears the request, closes the response if it is not null, and clears the reference to the response.
+ */

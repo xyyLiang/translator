@@ -1,0 +1,8 @@
+/**
+ * Recursively finds a token in the Prism4j grammar based on the specified path parts.
+ *
+ * @param grammar The Prism4j grammar to search in.
+ * @param parts   The parts of the path to the token.
+ * @param index   The current index of the path parts being processed.
+ * @return The found Prism4j token if exists, otherwise null.
+ */

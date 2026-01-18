@@ -1,0 +1,11 @@
+  /**
+   * <p>Attempts to locate an alignment pattern in a limited region of the image, which is
+   * guessed to contain it. This method uses {@link AlignmentPattern}.</p>
+   *
+   * @param overallEstModuleSize estimated module size so far
+   * @param estAlignmentX x coordinate of center of area probably containing alignment pattern
+   * @param estAlignmentY y coordinate of above
+   * @param allowanceFactor number of pixels in all directions to search from the center
+   * @return {@link AlignmentPattern} if found, or null otherwise
+   * @throws NotFoundException if an unexpected error occurs during detection
+   */

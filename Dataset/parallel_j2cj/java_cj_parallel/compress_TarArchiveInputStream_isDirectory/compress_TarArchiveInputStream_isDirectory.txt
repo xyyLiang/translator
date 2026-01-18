@@ -1,0 +1,5 @@
+/**
+ * Checks if the current entry represents a directory.
+ *
+ * @return true if the current entry is a directory, false otherwise
+ */

@@ -1,0 +1,5 @@
+/**
+ * Closes the BZip2 compressor and the underlying output stream.
+ *
+ * @throws IOException If an I/O error occurs while closing the output stream.
+ */

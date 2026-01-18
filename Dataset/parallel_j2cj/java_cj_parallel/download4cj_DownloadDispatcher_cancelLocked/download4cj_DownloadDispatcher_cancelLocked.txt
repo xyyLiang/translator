@@ -1,0 +1,6 @@
+/**
+ * Cancels an array of IdentifiedTasks in a synchronized manner.
+ * This method filters canceled calls from the tasks, handles canceled calls, and logs the operation duration.
+ *
+ * @param tasks The array of IdentifiedTasks to be canceled.
+ */

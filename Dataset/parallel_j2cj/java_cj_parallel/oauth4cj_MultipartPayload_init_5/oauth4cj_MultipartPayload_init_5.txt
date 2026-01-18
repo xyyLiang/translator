@@ -1,0 +1,8 @@
+    /**
+     * Create a MultipartPayload instance according to the parameters.
+     *
+     * @param subtype of String
+     * @param boundary of String
+     * @param headers of HashMap<String, String>
+     * @since 0.37.2
+     */

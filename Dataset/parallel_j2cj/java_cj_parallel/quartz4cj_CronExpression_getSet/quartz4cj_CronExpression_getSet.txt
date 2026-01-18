@@ -1,0 +1,6 @@
+/**
+ * Retrieves the set associated with the given type.
+ *
+ * @param type The type of the set to retrieve.
+ * @return The set associated with the specified type.
+ */

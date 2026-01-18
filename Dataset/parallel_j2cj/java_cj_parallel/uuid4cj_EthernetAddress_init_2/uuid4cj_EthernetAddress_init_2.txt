@@ -1,0 +1,9 @@
+    /**
+     * Another binary constructor; constructs an instance from
+     *
+     * the given
+     * long argument; the lowest 6 bytes contain the address.
+     *
+     * @param addr - Int64 that contains the MAC address in 6 least significant
+     *    bytes.
+     */

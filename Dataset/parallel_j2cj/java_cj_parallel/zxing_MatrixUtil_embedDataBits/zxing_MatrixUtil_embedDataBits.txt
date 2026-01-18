@@ -1,0 +1,3 @@
+  // Embed "dataBits" using "getMaskPattern". On success, modify the matrix and return true.
+  // For debugging purposes, it skips masking process if "getMaskPattern" is -1.
+  // See 8.7 of JISX0510:2004 (p.38) for how to embed data bits.

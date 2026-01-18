@@ -1,0 +1,5 @@
+/**
+ * Appends a CharArrayBuffer to the buffer.
+ * 
+ * @param b     the CharArrayBuffer to append
+ */

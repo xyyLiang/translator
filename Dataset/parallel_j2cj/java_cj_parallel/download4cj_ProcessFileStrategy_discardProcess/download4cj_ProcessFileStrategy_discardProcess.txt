@@ -1,0 +1,6 @@
+/**
+ * Discards the download process associated with the given DownloadTask by removing the target file, if it exists.
+ *
+ * @param task The DownloadTask associated with the download process to discard.
+ * @throws IOException If an I/O error occurs during the process of discarding the download.
+ */

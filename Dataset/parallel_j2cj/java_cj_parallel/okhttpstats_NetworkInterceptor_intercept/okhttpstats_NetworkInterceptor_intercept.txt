@@ -1,0 +1,10 @@
+    /**
+     * The Function is intercept.Implementation method of interceptor,According to the different states of chain.proceed,
+     * two different processing methods are provided, namely, the interpretresponsestream and interpreterror methods
+     * provided by networkinterpreter.
+     *
+     * @param chain of Chain
+     *
+     * @return Type of Response
+     * @since 0.30.4
+     */

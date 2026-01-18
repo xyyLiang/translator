@@ -1,0 +1,6 @@
+/**
+ * Parses the content range to extract the instance length.
+ *
+ * @param contentRange The content range string.
+ * @return The instance length extracted from the content range. If not found or parsing fails, returns {@link #CHUNKED_CONTENT_LENGTH}.
+ */

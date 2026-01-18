@@ -1,0 +1,7 @@
+/**
+ * Retrieves an integer value from the bit input stream.
+ * 
+ * @param bin The bit input stream.
+ * @return The integer value.
+ * @throws IOException If an I/O error occurs.
+ */

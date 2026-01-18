@@ -1,0 +1,3 @@
+    /**
+     * Get the exactly content-length, on this method we assume the range is from 0.
+     */

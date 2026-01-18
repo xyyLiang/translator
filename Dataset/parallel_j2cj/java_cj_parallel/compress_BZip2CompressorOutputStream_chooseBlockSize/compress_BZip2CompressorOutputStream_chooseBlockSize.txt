@@ -1,0 +1,8 @@
+    /**
+     * Chooses a blocksize based on the given length of the data to compress.
+     *
+     * @return The blocksize, between {@link #MIN_BLOCKSIZE} and {@link #MAX_BLOCKSIZE} both inclusive. For a negative {@code inputLength} this method returns
+     *         {@code MAX_BLOCKSIZE} always.
+     *
+     * @param inputLength The length of the data which will be compressed by {@code BZip2CompressorOutputStream}.
+     */

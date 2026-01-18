@@ -1,0 +1,9 @@
+  /**
+   * Efficient method to check if a range of bits is set, or not set.
+   *
+   * @param start start of range, inclusive.
+   * @param end end of range, exclusive
+   * @param value if true, checks that bits in range are set, otherwise checks that they are not set
+   * @return true iff all bits are set or not set in range, according to value argument
+   * @throws IllegalArgumentException if end is less than start or the range is not contained in the array
+   */

@@ -1,0 +1,6 @@
+/**
+ * Converts an OkHttp response to a custom Response object.
+ * 
+ * @param okHttpResponse The OkHttp response.
+ * @return The custom Response object.
+ */

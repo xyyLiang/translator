@@ -1,0 +1,7 @@
+/**
+ * Stores the given map of jobs and triggers in the scheduler's storage.
+ * 
+ * @param triggersAndJobs The map containing jobs as keys and their associated triggers as values.
+ * @param replace If true, existing jobs and triggers will be replaced, otherwise, an exception will be thrown in case of collision.
+ * @throws JobPersistenceException If there is an error storing the jobs and triggers.
+ */

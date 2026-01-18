@@ -1,0 +1,6 @@
+/**
+ * Encodes the provided {@link CharSequence} into a pair of codewords.
+ *
+ * @param sb The {@link CharSequence} to encode.
+ * @return A {@link String} representing the encoded codewords.
+ */

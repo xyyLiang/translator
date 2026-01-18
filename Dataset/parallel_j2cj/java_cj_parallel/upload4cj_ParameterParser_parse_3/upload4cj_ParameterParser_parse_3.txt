@@ -1,0 +1,9 @@
+    /**
+     * parse the Char array
+     *
+     * @param charArray - Option<Array<Char>> The char array need to parse
+     * @param offset - Int64 The offset
+     * @param length - Int64 The length
+     * @param separator - Char The separator char
+     * @return Map<String, Option<String>> - the result
+     */

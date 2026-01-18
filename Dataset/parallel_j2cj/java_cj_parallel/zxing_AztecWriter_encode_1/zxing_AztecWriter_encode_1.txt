@@ -1,0 +1,13 @@
+/**
+ * Encodes the given contents into a BitMatrix representation of an Aztec code.
+ * 
+ * @param contents The string to be encoded.
+ * @param format The barcode format (should be BarcodeFormat.AZTEC).
+ * @param width The width of the generated BitMatrix.
+ * @param height The height of the generated BitMatrix.
+ * @param charset The character set used for encoding the contents.
+ * @param eccPercent The percentage of error correction codewords to add.
+ * @param layers The number of layers in the Aztec code.
+ * @return The BitMatrix representation of the encoded Aztec code.
+ * @throws IllegalArgumentException If the format is not BarcodeFormat.AZTEC.
+ */

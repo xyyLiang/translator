@@ -1,0 +1,74 @@
+    public static func create(): Grammar {
+        return GrammarImpl(
+            "python",
+            ArrayList<Token>(
+                Prism.token(
+                    "comment",
+                    Prism.pattern(
+                        Regex("(^|[^\\\\])#.*"),
+                        true
+                    )
+                ),
+                Prism.token(
+                    "triple-quoted-string",
+                    Prism.pattern(
+                        Regex("(\"\"\"|''')[\\s\\S]+?\\1"),
+                        false,
+                        true,
+                        "string"
+                    )
+                ),
+                Prism.token(
+                    "string",
+                    Prism.pattern(
+                        Regex("(\"|')(?:\\\\.|(?!\\1)[^\\\\\\r\\n])*\\1"),
+                        false,
+                        true
+                    )
+                ),
+                Prism.token(
+                    "function",
+                    Prism.pattern(
+                        Regex("((?:^|\\s)def[ \\t]+)[a-zA-Z_]\\w*(?=\\s*\\()"),
+                        true
+                    )
+                ),
+                Prism.token(
+                    "class-name",
+                    Prism.pattern(
+                        Regex("(\\bclass\\s+)\\w+", RegexOption().ignoreCase()),
+                        true
+                    )
+                ),
+                Prism.token(
+                    "keyword",
+                    Prism.pattern(
+                        Regex(
+                        "\\b(?:as|assert|async|await|break|class|continue|def|del|elif|else|except|exec|finally|for|from|global|if|import|in|is|lambda|nonlocal|pass|print|raise|return|try|while|with|yield)\\b"
+                    ))
+                ),
+                Prism.token(
+                    "builtin",
+                    Prism.pattern(
+                        Regex(
+                        "\\b(?:__import__|abs|all|any|apply|ascii|basestring|bin|bool|buffer|bytearray|bytes|callable|chr|classmethod|cmp|coerce|Regex|complex|delattr|dict|dir|divmod|enumerate|eval|execfile|file|filter|float|format|frozenset|getattr|globals|hasattr|hash|help|hex|id|input|int|intern|isinstance|issubclass|iter|len|list|locals|long|map|max|memoryview|min|next|object|oct|open|ord|pow|property|range|raw_input|reduce|reload|repr|reversed|round|set|setattr|slice|sorted|staticmethod|str|sum|super|tuple|type|unichr|unicode|vars|xrange|zip)\\b"
+                    ))
+                ),
+                Prism.token("boolean", Prism.pattern(Regex("\\b(?:True|False|None)\\b"))),
+                Prism.token(
+                    "number",
+                    Prism.pattern(
+                        Regex(
+                            "(?:\\b(?=\\d)|\\B(?=\\.))(?:0[bo])?(?:(?:\\d|0x[\\da-f])[\\da-f]*\\.?\\d*|\\.\\d+)(?:e[+-]?\\d+)?j?\\b",
+                            RegexOption().ignoreCase()
+                        )
+                    )
+                ),
+                Prism.token(
+                    "operator",
+                    Prism.pattern(Regex("[-+%=]=?|!=|\\*\\*?=?|\\/\\/?=?|<[<=>]?|>[=>]?|[&|^~]|\\b(?:or|and|not)\\b"))
+                ),
+                Prism.token("punctuation", Prism.pattern(Regex("[{}\\[\\];(),.:]")))
+            )
+        )
+    }

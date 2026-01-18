@@ -1,0 +1,7 @@
+    /**
+     * Applies this delta as the patch for a given target
+     * 
+     * @param target the given target
+     *
+     * @since 0.39.3
+     */

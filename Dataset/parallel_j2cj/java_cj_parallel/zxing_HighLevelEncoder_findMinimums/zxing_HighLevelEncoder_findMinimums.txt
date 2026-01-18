@@ -1,0 +1,9 @@
+/**
+ * Finds the minimum counts among the given character counts and updates the minimum counts array.
+ * 
+ * @param charCounts     The array containing the character counts.
+ * @param intCharCounts  The array to store the integer counts.
+ * @param min            The current minimum count.
+ * @param mins           The array to store the positions of minimum counts.
+ * @return The updated minimum count.
+ */

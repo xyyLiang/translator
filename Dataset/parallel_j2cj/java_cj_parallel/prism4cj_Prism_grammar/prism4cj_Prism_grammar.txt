@@ -1,0 +1,6 @@
+/**
+ * Retrieves a grammar by name.
+ *
+ * @param name The name of the grammar to retrieve.
+ * @return The grammar corresponding to the provided name, or null if not found.
+ */

@@ -1,0 +1,39 @@
+  private void readJournal() throws IOException {
+    StrictLineReader reader = new StrictLineReader(new FileInputStream(journalFile), Util.US_ASCII);
+    try {
+      String magic = reader.readLine();
+      String version = reader.readLine();
+      String appVersionString = reader.readLine();
+      String valueCountString = reader.readLine();
+      String blank = reader.readLine();
+      if (!MAGIC.equals(magic)
+          || !VERSION_1.equals(version)
+          || !Integer.toString(appVersion).equals(appVersionString)
+          || !Integer.toString(valueCount).equals(valueCountString)
+          || !"".equals(blank)) {
+        throw new IOException("unexpected journal header: [" + magic + ", " + version + ", "
+            + valueCountString + ", " + blank + "]");
+      }
+
+      int lineCount = 0;
+      while (true) {
+        try {
+          readJournalLine(reader.readLine());
+          lineCount++;
+        } catch (EOFException endOfJournal) {
+          break;
+        }
+      }
+      redundantOpCount = lineCount - lruEntries.size();
+
+      // If we ended on a truncated line, rebuild the journal before appending to it.
+      if (reader.hasUnterminatedLine()) {
+        rebuildJournal();
+      } else {
+        journalWriter = new BufferedWriter(new OutputStreamWriter(
+            new FileOutputStream(journalFile, true), Util.US_ASCII));
+      }
+    } finally {
+      Util.closeQuietly(reader);
+    }
+  }

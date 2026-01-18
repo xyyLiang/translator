@@ -1,0 +1,5 @@
+/**
+ * Retrieves the row heights of the barcode.
+ * 
+ * @return An array containing the row heights of the barcode.
+ */

@@ -1,0 +1,14 @@
+    /**
+     * Create a CronScheduleBuilder with a cron-expression that sets the
+     * schedule to fire one per month on the given day of month at the given
+     * time (hour and minute).
+     * 
+     * @param dayOfMonth
+     *            the day of the month to fire
+     * @param hour
+     *            the hour of day to fire
+     * @param minute
+     *            the minute of the given hour to fire
+     * @return the new CronScheduleBuilder
+     * @see CronExpression
+     */

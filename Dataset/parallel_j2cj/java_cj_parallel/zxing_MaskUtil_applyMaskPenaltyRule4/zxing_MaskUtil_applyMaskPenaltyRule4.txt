@@ -1,0 +1,4 @@
+  /**
+   * Apply mask penalty rule 4 and return the penalty. Calculate the ratio of dark cells and give
+   * penalty if the ratio is far from 50%. It gives 10 penalty for 5% distance.
+   */

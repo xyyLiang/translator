@@ -1,0 +1,7 @@
+    /**
+     * Accepts a visitor. When an {@code InsertCommand} accepts a visitor,
+     * it calls its {@link CommandVisitor#visitInsertCommand visitInsertCommand}
+     * method.
+     *
+     * @param visitor  the visitor to be accepted
+     */

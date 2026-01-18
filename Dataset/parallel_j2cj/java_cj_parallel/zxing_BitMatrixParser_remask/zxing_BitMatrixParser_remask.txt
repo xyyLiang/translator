@@ -1,0 +1,3 @@
+  /**
+   * Revert the mask removal done while reading the code words. The bit matrix should revert to its original state.
+   */

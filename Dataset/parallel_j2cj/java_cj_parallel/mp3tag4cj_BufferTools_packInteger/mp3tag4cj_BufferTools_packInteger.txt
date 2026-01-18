@@ -1,0 +1,6 @@
+/**
+ * Packs the provided integer into a byte array in big-endian order.
+ *
+ * @param i  the integer to pack
+ * @return the byte array containing the packed integer
+ */

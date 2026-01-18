@@ -1,0 +1,8 @@
+/**
+ * Appends a portion of a CharArrayBuffer to the buffer.
+ * 
+ * @param b     the CharArrayBuffer to append
+ * @param off   the offset in the CharArrayBuffer to start from
+ * @param len   the number of characters to append
+ * @throws IndexOutOfBoundsException if the offset and length are invalid
+ */

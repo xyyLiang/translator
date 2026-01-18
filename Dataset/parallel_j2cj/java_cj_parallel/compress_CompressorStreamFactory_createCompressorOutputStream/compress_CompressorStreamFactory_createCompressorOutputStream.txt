@@ -1,0 +1,10 @@
+    /**
+     * Creates a compressor output stream from a compressor name and an output stream.
+     *
+     * @param name the compressor name, i.e. {@value #GZIP}, {@value #BZIP2}, {@value #XZ}, {@value #PACK200}, {@value #SNAPPY_FRAMED}, {@value #LZ4_BLOCK},
+     *             {@value #LZ4_FRAMED}, {@value #ZSTANDARD} or {@value #DEFLATE}
+     * @param out  the output stream
+     * @return the compressor output stream
+     * @throws CompressorException      if the archiver name is not known
+     * @throws IllegalArgumentException if the archiver name or stream is null
+     */

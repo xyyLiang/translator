@@ -1,0 +1,6 @@
+  /**
+   * Expands a UPC-E value back into its full, equivalent UPC-A code value.
+   *
+   * @param upce UPC-E code as string of digits
+   * @return equivalent UPC-A code as string of digits
+   */

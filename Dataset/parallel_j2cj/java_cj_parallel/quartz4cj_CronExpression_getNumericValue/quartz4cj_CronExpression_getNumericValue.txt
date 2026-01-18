@@ -1,0 +1,7 @@
+/**
+ * Extracts the numeric value from the string starting at the specified index.
+ *
+ * @param s The string containing the numeric value.
+ * @param i The starting index of the numeric value.
+ * @return The extracted numeric value.
+ */

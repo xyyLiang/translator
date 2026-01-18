@@ -1,0 +1,6 @@
+/**
+ * Parses or generates a boundary string from the provided headers.
+ * 
+ * @param headers The headers to parse the boundary from.
+ * @return The parsed or generated boundary string.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Inserts a string at the specified position in the sanitized JSON string.
+ *
+ * @param pos The position at which the string should be inserted.
+ * @param s   The string to be inserted.
+ */

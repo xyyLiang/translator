@@ -1,0 +1,9 @@
+/**
+ * Decodes a row of a UPC/EAN extension barcode.
+ *
+ * @param rowNumber             The row number.
+ * @param row                   The bit array representing the row.
+ * @param extensionStartRange   The range containing the start of the extension.
+ * @return The decoded result.
+ * @throws NotFoundException if the barcode cannot be found or decoded.
+ */

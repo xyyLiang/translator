@@ -1,0 +1,5 @@
+    /**
+     * Returns the signature service.
+     *
+     * @return signature service
+     */

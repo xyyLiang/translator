@@ -1,0 +1,6 @@
+/**
+ * Synchronous method for making requests and returning responses
+ *
+ * @param cacheEntity The cache entity
+ * @return The response
+ */

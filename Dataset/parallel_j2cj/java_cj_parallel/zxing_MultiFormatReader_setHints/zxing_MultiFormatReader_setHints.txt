@@ -1,0 +1,7 @@
+  /**
+   * This method adds state to the MultiFormatReader. By setting the hints once, subsequent calls
+   * to decodeWithState(image) can reuse the same set of readers without reallocating memory. This
+   * is important for performance in continuous scan clients.
+   *
+   * @param hints The set of hints to use for subsequent calls to decode(image)
+   */

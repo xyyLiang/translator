@@ -1,0 +1,7 @@
+/**
+ * Checks if the character is one of the specified characters.
+ * 
+ * @param ch    the character to check
+ * @param chs   an array of characters to check against
+ * @return true if the character is one of the specified characters, false otherwise
+ */

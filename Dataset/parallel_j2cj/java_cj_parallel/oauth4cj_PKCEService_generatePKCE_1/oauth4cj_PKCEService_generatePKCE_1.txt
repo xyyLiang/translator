@@ -1,0 +1,8 @@
+    /**
+     * Generate a new PKCE instance according to the parameter.
+     *
+     * @param randomBytes of Array<UInt8>
+     *
+     * @return Type of PKCE
+     * @since 0.38.2
+     */

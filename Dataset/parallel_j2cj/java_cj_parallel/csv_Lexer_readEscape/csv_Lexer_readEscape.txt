@@ -1,0 +1,3 @@
+    /**
+     * Read escape character
+     */

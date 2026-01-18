@@ -1,0 +1,9 @@
+    /**
+     * <p>
+     * Remove (delete) the <code>{@link org.quartz.Trigger}</code> with the
+     * given name.
+     * </p>
+     *
+     * @return <code>true</code> if a <code>Trigger</code> with the given
+     *         name and group was found and removed from the store.
+     */

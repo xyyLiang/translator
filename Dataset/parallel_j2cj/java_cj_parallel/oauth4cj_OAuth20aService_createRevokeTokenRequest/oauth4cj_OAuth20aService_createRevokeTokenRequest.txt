@@ -1,0 +1,7 @@
+/**
+ * Creates an OAuth request for revoking a token.
+ *
+ * @param tokenToRevoke The token to revoke.
+ * @param tokenTypeHint The type hint for the token to revoke. Can be {@code null}.
+ * @return An OAuth request for revoking a token.
+ */

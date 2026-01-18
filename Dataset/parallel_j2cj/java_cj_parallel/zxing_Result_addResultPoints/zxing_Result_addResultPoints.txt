@@ -1,0 +1,5 @@
+/**
+ * Adds new result points to the existing result points array.
+ *
+ * @param newPoints The new result points to add.
+ */

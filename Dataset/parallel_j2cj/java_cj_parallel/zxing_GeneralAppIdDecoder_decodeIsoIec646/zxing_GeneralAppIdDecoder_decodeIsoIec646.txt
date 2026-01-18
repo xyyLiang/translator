@@ -1,0 +1,7 @@
+/**
+ * Decodes an ISO/IEC 646 character starting from the given position.
+ *
+ * @param pos The starting position of the character to decode.
+ * @return The decoded ISO/IEC 646 character.
+ * @throws FormatException if decoding encounters an error.
+ */

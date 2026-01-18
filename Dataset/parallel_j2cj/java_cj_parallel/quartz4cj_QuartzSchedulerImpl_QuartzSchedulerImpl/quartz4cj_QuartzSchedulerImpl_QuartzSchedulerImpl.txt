@@ -1,0 +1,8 @@
+    /**
+     * <p>
+     * Create a <code>QuartzScheduler</code> with the given configuration
+     * properties.
+     * </p>
+     * 
+     * @see QuartzSchedulerResources
+     */

@@ -1,0 +1,5 @@
+/**
+ * Retrieves the length of the frame data.
+ *
+ * @return The length of the frame data.
+ */

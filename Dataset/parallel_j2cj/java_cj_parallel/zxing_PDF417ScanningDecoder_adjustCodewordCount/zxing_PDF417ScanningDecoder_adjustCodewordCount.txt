@@ -1,0 +1,7 @@
+/**
+ * Adjusts the codeword count based on the detection result and barcode matrix.
+ * 
+ * @param detectionResult The detection result.
+ * @param barcodeMatrix The barcode matrix.
+ * @throws NotFoundException if the barcode cannot be found.
+ */

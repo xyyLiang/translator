@@ -1,0 +1,35 @@
+    /**
+     * Creates a scheduler using the specified thread pool, job store, and
+     * plugins, and binds it to RMI.
+     *
+     * @param schedulerName
+     *          The name for the scheduler.
+     * @param schedulerInstanceId
+     *          The instance ID for the scheduler.
+     * @param threadPool
+     *          The thread pool for executing jobs
+     * @param threadExecutor
+     *          The thread executor for executing jobs
+     * @param jobStore
+     *          The type of job store
+     * @param schedulerPluginMap
+     *          Map from a <code>String</code> plugin names to
+     *          <code>{@link org.quartz.spi.SchedulerPlugin}</code>s.  Can use
+     *          "null" if no plugins are required.
+     * @param rmiRegistryHost
+     *          The hostname to register this scheduler with for RMI. Can use
+     *          "null" if no RMI is required.
+     * @param rmiRegistryPort
+     *          The port for RMI. Typically 1099.
+     * @param idleWaitTime
+     *          The idle wait time in milliseconds. You can specify "-1" for
+     *          the default value, which is currently 30000 ms.
+     * @param maxBatchSize
+     *          The maximum batch size of triggers, when acquiring them
+     * @param batchTimeWindow
+     *          The time window for which it is allowed to "pre-acquire" triggers to fire
+     * @param makeSchedThreadDaemon
+     *          Make the SchedulerThread a daemon thread.
+     * @throws SchedulerException
+     *           if initialization failed
+     */

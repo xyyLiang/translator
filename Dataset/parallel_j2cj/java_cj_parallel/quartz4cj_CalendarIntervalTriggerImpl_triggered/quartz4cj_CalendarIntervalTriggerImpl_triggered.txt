@@ -1,0 +1,10 @@
+    /**
+     * <p>
+     * Called when the <code>{@link Scheduler}</code> has decided to 'fire'
+     * the trigger (execute the associated <code>Job</code>), in order to
+     * give the <code>Trigger</code> a chance to update itself for its next
+     * triggering (if any).
+     * </p>
+     * 
+     * @see #executionComplete(JobExecutionContext, JobExecutionException)
+     */

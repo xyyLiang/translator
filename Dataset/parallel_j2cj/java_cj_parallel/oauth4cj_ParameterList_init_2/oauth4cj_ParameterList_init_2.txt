@@ -1,0 +1,6 @@
+    /**
+     * Create a ParameterList instance according to the parameter.
+     *
+     * @param map of HashMap<String, String>
+     * @since 0.37.2
+     */

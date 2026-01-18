@@ -1,0 +1,6 @@
+    /**
+     * Evaluates an entry's header format from a header buffer.
+     *
+     * @param header The tar entry header buffer to evaluate the format for.
+     * @return format type
+     */

@@ -1,0 +1,8 @@
+/**
+ * Retrieves the Prism4j grammar with the specified name from the Prism4j instance.
+ *
+ * @param prism4j The Prism4j instance.
+ * @param name    The name of the grammar to retrieve.
+ * @return The Prism4j grammar with the specified name.
+ * @throws IllegalStateException If the requested language is not found.
+ */

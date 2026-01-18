@@ -1,0 +1,4 @@
+  /**
+   * @return true if the number of input bits will fit in a code with the specified version and
+   * error correction level.
+   */

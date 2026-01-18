@@ -1,0 +1,6 @@
+    /**
+     * generate  hashCode
+     * 
+     * @return Type of Int64
+     * @since 0.33.3
+     */

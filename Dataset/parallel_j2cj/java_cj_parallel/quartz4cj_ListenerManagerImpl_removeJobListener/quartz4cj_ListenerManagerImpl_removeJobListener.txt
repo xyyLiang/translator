@@ -1,0 +1,6 @@
+    /**
+     * Remove the identified <code>{@link JobListener}</code> from the <code>Scheduler</code>.
+     * 
+     * @return true if the identified listener was found in the list, and
+     *         removed.
+     */

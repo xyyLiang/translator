@@ -1,0 +1,7 @@
+    /**
+     * Asynchronous acquisition of refresh token.
+     *
+     * @param refreshToken of String, the refresh token
+     *
+     * @return Future<OAuth2AccessToken> retrieve the return value of the refresh token asynchronously.
+     */

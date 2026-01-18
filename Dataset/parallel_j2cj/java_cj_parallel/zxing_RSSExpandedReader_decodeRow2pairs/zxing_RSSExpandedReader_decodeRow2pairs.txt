@@ -1,0 +1,8 @@
+/**
+ * Decodes the row into pairs of ExpandedPair objects.
+ * 
+ * @param rowNumber The row number.
+ * @param row The BitArray representing the row.
+ * @return A list of ExpandedPair objects representing the decoded pairs.
+ * @throws NotFoundException if the decoding fails.
+ */

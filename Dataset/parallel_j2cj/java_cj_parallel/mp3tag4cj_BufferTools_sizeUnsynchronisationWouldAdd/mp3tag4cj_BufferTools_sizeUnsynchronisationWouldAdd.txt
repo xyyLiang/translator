@@ -1,0 +1,9 @@
+/**
+ * Calculates the number of additional bytes required for unsynchronisation.
+ * Unsynchronisation replaces instances of:
+ * 11111111 111xxxxx with 11111111 00000000 111xxxxx and
+ * 11111111 00000000 with 11111111 00000000 00000000
+ *
+ * @param bytes the byte array to analyze
+ * @return the number of additional bytes required for unsynchronisation
+ */

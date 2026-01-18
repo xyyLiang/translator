@@ -1,0 +1,6 @@
+    /**
+     * Escape {@code input} according to the given {@link BaseTranslator}.
+     *
+     * @param input the String to escape
+     * @return {@code this}, to enable chaining
+     */

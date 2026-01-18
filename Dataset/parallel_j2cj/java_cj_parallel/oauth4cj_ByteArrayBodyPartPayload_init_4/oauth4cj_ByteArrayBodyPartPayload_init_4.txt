@@ -1,0 +1,6 @@
+    /**
+     * Create a ByteArrayBodyPartPayload instance according to the parameter.
+     *
+     * @param payload of Array<UInt8>
+     * @since 0.37.2
+     */

@@ -1,0 +1,6 @@
+/**
+ * Initializes the ID3v1 tag from the provided seekable byte channel.
+ *
+ * @param seekableByteChannel The seekable byte channel containing the audio data.
+ * @throws IOException If an I/O error occurs.
+ */

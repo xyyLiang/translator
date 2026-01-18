@@ -1,0 +1,6 @@
+    /**
+     * Returns the sorted new ParameterList object.
+     *
+     * @return Type of ParameterList
+     * @since 0.37.2
+     */

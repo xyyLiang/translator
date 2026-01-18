@@ -1,0 +1,4 @@
+    /**
+     * Creates a new instance of {@link FileItemHeaders}.
+     * @return The new instance.
+     */

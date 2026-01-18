@@ -1,0 +1,5 @@
+/**
+ * Checks if debug mode is enabled.
+ * 
+ * @return True if debug mode is enabled, false otherwise.
+ */

@@ -1,0 +1,10 @@
+    /**
+     * Parses out a token until any of the given terminators
+     * is encountered outside the quotation marks.
+     *
+     * @param terminators the array of terminating characters. Any of these
+     * characters when encountered outside the quotation marks signify the end
+     * of the token
+     *
+     * @return the token
+     */

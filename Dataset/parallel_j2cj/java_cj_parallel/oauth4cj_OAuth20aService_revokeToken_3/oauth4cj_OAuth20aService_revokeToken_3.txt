@@ -1,0 +1,9 @@
+    /**
+     * Asynchronous execution revocation token.
+     *
+     * @param tokenToRevoke of String, the token to revoke
+     * @param callback of Option<OAuthAsyncRequestCallback>, optional callback, the access async request callback
+     * @param tokenTypeHint of Option<TokenTypeHint>, the type of token to revoke
+     *
+     * @return Future<Unit> asynchronous execution revocation token.
+     */

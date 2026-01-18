@@ -1,0 +1,8 @@
+/**
+ * Sets the module (bit) at the specified position in the matrix based on the given parameters.
+ *
+ * @param row The row index of the module.
+ * @param col The column index of the module.
+ * @param pos The position in the codewords string.
+ * @param bit The bit position within the byte.
+ */

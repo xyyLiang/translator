@@ -1,0 +1,5 @@
+    /**
+     * Create a constructor with the given file and default buffer size
+     *
+     * @param  stream   file to read
+     */

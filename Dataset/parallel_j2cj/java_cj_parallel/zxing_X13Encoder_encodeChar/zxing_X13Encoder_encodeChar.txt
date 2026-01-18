@@ -1,0 +1,8 @@
+/**
+ * Encodes a single character into one or more codewords, appending the result to the provided
+ * StringBuilder.
+ *
+ * @param c The character to encode.
+ * @param sb The StringBuilder to append the encoded codewords to.
+ * @return The number of codewords consumed for encoding the character.
+ */

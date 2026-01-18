@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a job has been scheduled.
+ * 
+ * @param trigger The trigger associated with the scheduled job.
+ */

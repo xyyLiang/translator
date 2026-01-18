@@ -1,0 +1,5 @@
+    /**
+     * Asynchronous acquisition of OAuth1RequestToken instance
+     *
+     * @return Future<OAuth1RequestToken> Future<OAuth1RequestToken> instance
+     */

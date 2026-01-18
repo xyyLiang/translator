@@ -1,0 +1,8 @@
+/**
+ * Appends a portion of an array of characters to the buffer.
+ * 
+ * @param b     the array of characters to append
+ * @param off   the offset in the array of characters to start from
+ * @param len   the number of characters to append
+ * @throws IndexOutOfBoundsException if the offset and length are invalid
+ */

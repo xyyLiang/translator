@@ -1,0 +1,6 @@
+/**
+ * Appends the hexadecimal representation of an integer to the sanitized JSON string.
+ *
+ * @param n         The integer to convert to hexadecimal.
+ * @param nDigits   The number of hexadecimal digits to append.
+ */

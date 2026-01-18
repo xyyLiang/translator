@@ -1,0 +1,6 @@
+/**
+ * Elides a portion of the JSON string.
+ *
+ * @param start The start index of the portion to elide.
+ * @param end   The end index of the portion to elide.
+ */

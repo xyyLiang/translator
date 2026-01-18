@@ -1,0 +1,9 @@
+/**
+ * Copies a portion of the source byte array into the destination byte array starting from the specified offset.
+ *
+ * @param bytes       the source byte array
+ * @param offset      the starting offset in the source byte array
+ * @param length      the number of bytes to copy
+ * @param destBuffer  the destination byte array
+ * @param destOffset  the starting offset in the destination byte array
+ */

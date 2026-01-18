@@ -1,0 +1,18 @@
+  private void processJournal() throws IOException {
+    deleteIfExists(journalFileTmp);
+    for (Iterator<Entry> i = lruEntries.values().iterator(); i.hasNext(); ) {
+      Entry entry = i.next();
+      if (entry.currentEditor == null) {
+        for (int t = 0; t < valueCount; t++) {
+          size += entry.lengths[t];
+        }
+      } else {
+        entry.currentEditor = null;
+        for (int t = 0; t < valueCount; t++) {
+          deleteIfExists(entry.getCleanFile(t));
+          deleteIfExists(entry.getDirtyFile(t));
+        }
+        i.remove();
+      }
+    }
+  }

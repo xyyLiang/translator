@@ -1,0 +1,8 @@
+    /**
+     * Returns the processed string.
+     *
+     * @param codeVerifier of String to processed
+     *
+     * @return Type of String, returns the processed string.
+     * @since 0.38.2
+     */

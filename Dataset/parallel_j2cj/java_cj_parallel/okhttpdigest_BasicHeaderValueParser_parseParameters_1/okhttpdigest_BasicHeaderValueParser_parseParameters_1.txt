@@ -1,0 +1,8 @@
+/**
+ * Parses parameters from a {@link CharArrayBuffer}.
+ *
+ * @param buffer the buffer containing the input
+ * @param cursor the parser cursor indicating the current position in the buffer
+ * @return an array of parsed parameters
+ * @throws ParseException if parsing fails due to invalid input
+ */

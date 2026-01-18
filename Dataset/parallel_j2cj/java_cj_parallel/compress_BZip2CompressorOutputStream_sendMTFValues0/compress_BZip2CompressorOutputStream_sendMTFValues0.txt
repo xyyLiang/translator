@@ -1,0 +1,6 @@
+/**
+ * Generates initial coding tables for Move-To-Front (MTF) values.
+ *
+ * @param nGroups   the number of coding groups to generate.
+ * @param alphaSize the size of the alphabet.
+ */

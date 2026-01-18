@@ -1,0 +1,6 @@
+  // Embed basic patterns. On success, modify the matrix and return true.
+  // The basic patterns are:
+  // - Position detection patterns
+  // - Timing patterns
+  // - Dark dot at the left bottom corner
+  // - Position adjustment patterns, if need be

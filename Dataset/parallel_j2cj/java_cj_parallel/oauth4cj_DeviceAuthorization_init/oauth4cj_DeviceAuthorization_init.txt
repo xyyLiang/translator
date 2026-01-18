@@ -1,0 +1,8 @@
+    /**
+     * Constructor
+     *
+     * @Param deviceCode device code
+     * @Param userCode user code
+     * @Param verificationUri verification uri
+     * @Param expiresInSeconds validity time of the verification code
+     */

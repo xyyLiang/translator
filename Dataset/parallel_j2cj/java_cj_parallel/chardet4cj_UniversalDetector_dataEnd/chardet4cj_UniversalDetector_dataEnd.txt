@@ -1,0 +1,3 @@
+    /**
+     * Marks end of data reading. Finish calculations.
+     */

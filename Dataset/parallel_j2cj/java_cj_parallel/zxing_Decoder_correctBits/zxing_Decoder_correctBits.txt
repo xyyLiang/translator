@@ -1,0 +1,6 @@
+  /**
+   * <p>Performs RS error correction on an array of bits.</p>
+   *
+   * @return the corrected array
+   * @throws FormatException if the input contains too many errors
+   */

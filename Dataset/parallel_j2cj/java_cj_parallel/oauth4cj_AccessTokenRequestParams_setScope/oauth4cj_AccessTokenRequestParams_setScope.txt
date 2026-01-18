@@ -1,0 +1,6 @@
+    /**
+     * Set Scope
+     *
+     * @param scope scope string
+     * @return AccessTokenRequestParams AccessTokenRequestParams instance
+     */

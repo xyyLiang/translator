@@ -1,0 +1,12 @@
+    /**
+     * execute.
+     *
+     * @Param userAgent of String, the user agent
+     * @Param headers of HashMap<String, String>, the header
+     * @Param httpVerb of Verb, Verb is an enumeration that contains the most common types of HTTP requests.
+     * @Param completeUrl of String, the complete url
+     * @Param bodyContents of Array<UInt8>, the body content
+     *
+     * @Return Response The response returned after execution.
+     * @since 0.38.2
+     */

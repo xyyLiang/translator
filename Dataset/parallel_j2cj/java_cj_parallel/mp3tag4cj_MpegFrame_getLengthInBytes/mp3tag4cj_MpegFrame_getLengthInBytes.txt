@@ -1,0 +1,5 @@
+/**
+ * Calculates the length of the MPEG frame in bytes.
+ * 
+ * @return The length of the MPEG frame in bytes.
+ */

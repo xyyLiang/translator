@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a trigger has been paused.
+ * 
+ * @param triggerKey The key of the paused trigger.
+ */

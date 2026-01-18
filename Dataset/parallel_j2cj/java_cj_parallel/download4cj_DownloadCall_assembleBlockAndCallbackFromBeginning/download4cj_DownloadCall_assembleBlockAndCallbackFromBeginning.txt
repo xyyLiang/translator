@@ -1,0 +1,7 @@
+/**
+ * Assembles blocks and invokes the callback for downloading from the beginning.
+ * 
+ * @param info         The BreakpointInfo object.
+ * @param remoteCheck  The BreakpointRemoteCheck object.
+ * @param failedCause  The reason for resume failure.
+ */

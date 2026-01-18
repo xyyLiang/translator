@@ -1,0 +1,5 @@
+  /**
+   * Gets the color of a segment
+   *
+   * @return 1 if segment more than 90% black, -1 if segment is more than 90% white, 0 else
+   */

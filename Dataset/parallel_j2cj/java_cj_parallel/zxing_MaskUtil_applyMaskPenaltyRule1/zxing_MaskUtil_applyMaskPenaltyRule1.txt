@@ -1,0 +1,4 @@
+  /**
+   * Apply mask penalty rule 1 and return the penalty. Find repetitive cells with the same color and
+   * give penalty to them. Example: 00000 or 11111.
+   */

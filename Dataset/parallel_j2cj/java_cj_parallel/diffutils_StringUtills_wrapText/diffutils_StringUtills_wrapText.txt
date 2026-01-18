@@ -1,0 +1,9 @@
+    /**
+     * Wrap the text with the given column width
+     *
+     * @param list the text
+     * @param columnWidth the given column
+     * @return the wrapped text list
+     *
+     * @since 0.39.3
+     */

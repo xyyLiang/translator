@@ -1,0 +1,8 @@
+/**
+ * Decodes multiple PDF417 codes from the given BinaryBitmap image using the provided hints.
+ * 
+ * @param image The BinaryBitmap to decode.
+ * @param hints The hints to use during decoding.
+ * @return An array of decoded Results.
+ * @throws NotFoundException if no PDF417 code can be found.
+ */

@@ -1,0 +1,9 @@
+    /**
+     * Constructs a new EthernetAddress given a string representation of
+     * the ethernet address.
+     *
+     * Note that calling this method returns the same result as would
+     * using the matching constructor.
+     *
+     * @param addrStr - String representation of the ethernet address
+     */

@@ -1,0 +1,7 @@
+/**
+ * Finds the filename from the Content-Disposition response header.
+ *
+ * @param connected The connected download connection.
+ * @return The filename extracted from the Content-Disposition header, or {@code null} if not found.
+ * @throws IOException If an I/O error occurs while retrieving response information.
+ */

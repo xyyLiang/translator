@@ -1,0 +1,8 @@
+/**
+ * Performs a look-ahead test on the message to determine the appropriate encoding mode at the specified position.
+ *
+ * @param msg          The message to be encoded.
+ * @param startpos     The starting position for the look-ahead test.
+ * @param currentMode  The current encoding mode being used.
+ * @return The encoding mode determined after the look-ahead test.
+ */

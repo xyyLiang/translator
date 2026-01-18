@@ -1,0 +1,7 @@
+/**
+ * Initializes the BZip2 decompressor for processing the input stream.
+ * 
+ * @param isFirstStream Flag indicating whether it's the first stream being processed.
+ * @return True if initialization is successful, false otherwise.
+ * @throws IOException If an I/O error occurs.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Calculates the total number of bits in a layer of the Aztec code based on the number of layers and compactness.
+ * 
+ * @param layers  The number of layers in the Aztec code.
+ * @param compact Indicates whether the Aztec code is compact or full.
+ * @return The total number of bits in a layer of the Aztec code.
+ */

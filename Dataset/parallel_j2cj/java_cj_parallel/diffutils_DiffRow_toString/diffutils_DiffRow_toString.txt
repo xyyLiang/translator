@@ -1,0 +1,7 @@
+    /**
+     * Returns the String
+     *
+     * @return the String
+     *
+     * @since 0.39.3
+     */

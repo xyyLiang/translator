@@ -1,0 +1,6 @@
+/**
+ * Pops elements from the stack.
+ *
+ * @param sp the stack pointer
+ * @return an array containing the popped elements
+ */

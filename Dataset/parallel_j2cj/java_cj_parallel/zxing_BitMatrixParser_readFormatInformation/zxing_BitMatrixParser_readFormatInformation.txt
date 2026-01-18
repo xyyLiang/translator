@@ -1,0 +1,7 @@
+  /**
+   * <p>Reads format information from one of its two locations within the QR Code.</p>
+   *
+   * @return {@link FormatInformation} encapsulating the QR Code's format info
+   * @throws FormatException if both format information locations cannot be parsed as
+   * the valid encoding of format information
+   */

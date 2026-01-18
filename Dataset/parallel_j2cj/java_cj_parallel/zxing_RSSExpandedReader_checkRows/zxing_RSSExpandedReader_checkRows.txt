@@ -1,0 +1,6 @@
+/**
+ * Checks the rows for potential pairs in a specified direction.
+ * 
+ * @param reverse Indicates whether to check the rows in reverse order.
+ * @return A list of ExpandedPair objects if valid pairs are found, null otherwise.
+ */

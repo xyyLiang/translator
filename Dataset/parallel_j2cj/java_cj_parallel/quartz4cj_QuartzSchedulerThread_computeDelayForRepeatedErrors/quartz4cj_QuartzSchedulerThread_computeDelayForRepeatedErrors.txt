@@ -1,0 +1,7 @@
+/**
+ * Computes the delay for repeated errors during job acquisition.
+ * 
+ * @param jobStore the job store used for acquiring jobs
+ * @param acquiresFailed the number of failed job acquires
+ * @return the computed delay in milliseconds
+ */

@@ -1,0 +1,9 @@
+    /**
+     * Add client authentication to request
+     *
+     * @param request oauth request
+     * @param apiKey key
+     * @param apiSecret secret
+     *
+     * @since 0.38.2
+     */

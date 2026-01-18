@@ -1,0 +1,5 @@
+/**
+ * Increases the count of bytes for which no callback has been invoked.
+ * 
+ * @param increaseBytes The number of bytes to increase the count by
+ */

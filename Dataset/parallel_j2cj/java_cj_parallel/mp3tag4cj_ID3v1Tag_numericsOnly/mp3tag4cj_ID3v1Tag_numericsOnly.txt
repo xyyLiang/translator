@@ -1,0 +1,6 @@
+/**
+ * Removes non-numeric characters from the given string.
+ *
+ * @param s The input string.
+ * @return A string containing only numeric characters from the input string.
+ */

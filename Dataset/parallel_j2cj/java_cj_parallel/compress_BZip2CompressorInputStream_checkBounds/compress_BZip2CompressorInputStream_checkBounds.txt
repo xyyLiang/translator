@@ -1,0 +1,8 @@
+/**
+ * Checks if a value falls within the bounds specified by the limit.
+ * 
+ * @param checkVal        The value to check.
+ * @param limitExclusive The exclusive upper bound limit.
+ * @param name            The name of the value being checked.
+ * @throws IOException If the value is negative or exceeds the specified limit.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Creates an OAuth request for device authorization codes.
+ *
+ * @param scope The scope for the authorization request. Can be {@code null}.
+ * @return An OAuth request for device authorization codes.
+ */

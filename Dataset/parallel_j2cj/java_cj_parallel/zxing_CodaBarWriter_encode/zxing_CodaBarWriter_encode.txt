@@ -1,0 +1,7 @@
+  /**
+   * Encode the contents to boolean array expression of one-dimensional barcode.
+   * Start code and end code should be included in result, and side margins should not be included.
+   *
+   * @param contents barcode contents to encode
+   * @return a {@code boolean[]} of horizontal pixels (false = white, true = black)
+   */

@@ -1,0 +1,6 @@
+/**
+ * Starts the download process.
+ * 
+ * @throws IOException if an I/O error occurs during the process.
+ * @throws InterruptException if the process is interrupted.
+ */

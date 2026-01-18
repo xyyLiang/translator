@@ -1,0 +1,6 @@
+/**
+ * Retrieves the ID associated with the given DownloadTask.
+ * 
+ * @param task The DownloadTask for which to retrieve the ID.
+ * @return The ID associated with the task, or {@code null} if no ID is found.
+ */

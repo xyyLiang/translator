@@ -1,0 +1,7 @@
+/**
+ * Notifies all trigger listeners that the execution of a trigger has completed.
+ *
+ * @param jec the JobExecutionContext associated with the trigger
+ * @param instCode the completion instruction (e.g., whether to re-execute the job)
+ * @throws SchedulerException if a trigger listener encounters an error
+ */

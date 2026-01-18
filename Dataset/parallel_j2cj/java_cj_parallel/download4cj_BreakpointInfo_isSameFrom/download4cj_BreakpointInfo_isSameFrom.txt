@@ -1,0 +1,6 @@
+/**
+ * Checks if the provided DownloadTask has the same parent file, URL, and filename as this BreakpointInfo.
+ *
+ * @param task the DownloadTask to compare.
+ * @return {@code true} if the DownloadTask has the same parent file, URL, and filename as this BreakpointInfo, {@code false} otherwise.
+ */

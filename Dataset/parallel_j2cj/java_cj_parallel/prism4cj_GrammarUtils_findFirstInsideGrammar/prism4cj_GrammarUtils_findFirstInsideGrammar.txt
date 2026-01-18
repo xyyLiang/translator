@@ -1,0 +1,6 @@
+/**
+ * Finds the first inside grammar of the given Prism4j token.
+ *
+ * @param token The Prism4j token to find the inside grammar for.
+ * @return The found inside grammar if exists, otherwise null.
+ */

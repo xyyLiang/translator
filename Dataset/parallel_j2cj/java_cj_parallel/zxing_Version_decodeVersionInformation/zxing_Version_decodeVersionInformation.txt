@@ -1,0 +1,7 @@
+/**
+ * Decodes the version information from its bit representation.
+ * 
+ * @param versionBits The version information bits.
+ * @return The Version object corresponding to the version information bits.
+ *         Returns null if a suitable match is not found.
+ */

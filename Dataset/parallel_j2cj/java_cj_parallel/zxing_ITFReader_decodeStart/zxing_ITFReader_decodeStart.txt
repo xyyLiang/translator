@@ -1,0 +1,7 @@
+  /**
+   * Identify where the start of the middle / payload section starts.
+   *
+   * @param row row of black/white values to search
+   * @return Array, containing index of start of 'start block' and end of
+   *         'start block'
+   */

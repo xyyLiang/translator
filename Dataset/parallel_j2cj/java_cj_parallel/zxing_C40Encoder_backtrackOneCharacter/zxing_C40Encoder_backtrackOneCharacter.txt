@@ -1,0 +1,1 @@
+ * Backtracks one character in the encoding process and updates the necessary information.

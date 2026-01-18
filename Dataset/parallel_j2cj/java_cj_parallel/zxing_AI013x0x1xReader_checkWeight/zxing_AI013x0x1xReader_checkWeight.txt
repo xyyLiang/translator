@@ -1,0 +1,6 @@
+/**
+ * Checks the weight value and returns the remainder after dividing by 100000.
+ *
+ * @param weight The weight value to be checked.
+ * @return The remainder after dividing the weight by 100000.
+ */

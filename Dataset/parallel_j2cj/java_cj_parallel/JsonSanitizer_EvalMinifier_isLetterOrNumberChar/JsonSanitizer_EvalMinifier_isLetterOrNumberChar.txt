@@ -1,0 +1,8 @@
+/**
+ * Checks whether the given character is a letter, a digit, or one of the following special characters:
+ * '_', '$', '-', '.'. This method returns true if the character is a letter (a-z or A-Z), a digit (0-9),
+ * or one of the specified special characters; otherwise, it returns false.
+ *
+ * @param ch The character to check.
+ * @return true if the character is a letter, a digit, or one of the specified special characters; false otherwise.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Sets the bitrate based on the provided value and MPEG version and layer.
+ * 
+ * @param bitrate The bitrate value extracted from the frame header.
+ * @throws InvalidDataException If the provided bitrate value is invalid.
+ */

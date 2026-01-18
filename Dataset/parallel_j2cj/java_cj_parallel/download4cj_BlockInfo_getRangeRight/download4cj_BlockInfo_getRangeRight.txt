@@ -1,0 +1,5 @@
+/**
+ * Retrieves the right boundary of the range.
+ *
+ * @return the right boundary of the range
+ */

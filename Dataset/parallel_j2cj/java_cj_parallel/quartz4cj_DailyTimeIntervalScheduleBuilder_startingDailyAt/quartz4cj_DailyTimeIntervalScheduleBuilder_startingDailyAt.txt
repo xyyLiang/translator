@@ -1,0 +1,5 @@
+    /**
+     * Set the trigger to begin firing each day at the given time.
+     * 
+     * @return the updated DailyTimeIntervalScheduleBuilder
+     */

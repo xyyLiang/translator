@@ -1,0 +1,5 @@
+    /**
+     * discard BodyData
+     *
+     * @return Int64 - the byte size
+     */

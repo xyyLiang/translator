@@ -1,0 +1,5 @@
+/**
+ * Cancels the execution of the DownloadCall.
+ * 
+ * If the call has already finished or if the current thread is null, this method does nothing.
+ */

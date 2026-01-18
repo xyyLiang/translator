@@ -1,0 +1,7 @@
+    /**
+     * array equals tool
+     *
+     * @param a - Array<UInt8> UInt8 Array a
+     * @param b - Array<UInt8> UInt8 Array b
+     * @return Bool - true(equal) false(unequal)
+     */

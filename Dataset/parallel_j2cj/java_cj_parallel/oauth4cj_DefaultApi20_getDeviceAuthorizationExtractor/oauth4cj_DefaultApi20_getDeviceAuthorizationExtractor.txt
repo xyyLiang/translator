@@ -1,0 +1,5 @@
+    /**
+     * Returns DeviceAuthorizationJsonExtractor instance.
+     *
+     * @return DeviceAuthorizationJsonExtractor DeviceAuthorizationJsonExtractor instance
+     */

@@ -1,0 +1,7 @@
+/**
+ * Encodes the provided data array with error correction bytes using Reed-Solomon encoding.
+ *
+ * @param toEncode The array to encode (including both data and error correction bytes).
+ * @param ecBytes  The number of error correction bytes to add.
+ * @throws IllegalArgumentException If the number of error correction bytes is zero or if no data bytes are provided.
+ */

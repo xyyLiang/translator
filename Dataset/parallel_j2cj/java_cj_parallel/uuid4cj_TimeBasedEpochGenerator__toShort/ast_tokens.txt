@@ -1,0 +1,1 @@
+<AST_BEGIN> <AST_Program> <AST_MethodDecl> <AST_Modifiers> <AST_FormalParams> <AST_Dimensions> <AST_Block> <AST_Return> <AST_BinaryExpr> <AST_ParenExpr> <AST_BinaryExpr> <AST_ParenExpr> <AST_BinaryExpr> <AST_ArrayAccess> <AST_ParenExpr> <AST_BinaryExpr> <AST_ArrayAccess> <AST_UpdateExpr> <AST_END>

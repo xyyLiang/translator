@@ -1,0 +1,3 @@
+    private void bsPutUByte(final int c) throws IOException {
+        bsW(8, c);
+    }

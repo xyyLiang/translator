@@ -1,0 +1,6 @@
+    /**
+     * Generate UUID through name
+     *
+     * @param name - string
+     * @return UUID
+     */  

@@ -1,0 +1,6 @@
+/**
+ * Finishes the compression process by writing any remaining run-length encoded data, ending the current block,
+ * and ending the compression. Finally, it closes resources associated with the compression.
+ *
+ * @throws IOException If an I/O error occurs during the finishing process.
+ */

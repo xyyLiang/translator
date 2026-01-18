@@ -1,0 +1,8 @@
+    /**
+     * Determine whether two OAuth4cjResponseException objects are equal.
+     *
+     * @param that of OAuth4cjResponseException
+     *
+     * @return Type of Bool
+     * @since 0.37.2
+     */

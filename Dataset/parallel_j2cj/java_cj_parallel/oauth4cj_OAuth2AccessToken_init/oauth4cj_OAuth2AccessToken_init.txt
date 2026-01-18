@@ -1,0 +1,6 @@
+    /**
+     * Constructor
+     *
+     * @Param accessToken access token
+     * @since 0.37.2
+     */

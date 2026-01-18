@@ -1,0 +1,7 @@
+/**
+ * Replaces the characters between the specified start and end positions in the sanitized JSON string with the specified string.
+ *
+ * @param start The starting position of the substring to be replaced.
+ * @param end   The ending position of the substring to be replaced.
+ * @param s     The string with which to replace the substring.
+ */

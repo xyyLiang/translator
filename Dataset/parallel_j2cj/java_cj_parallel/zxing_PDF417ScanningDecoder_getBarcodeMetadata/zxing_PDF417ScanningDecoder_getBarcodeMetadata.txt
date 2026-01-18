@@ -1,0 +1,7 @@
+/**
+ * Gets the barcode metadata by comparing left and right row indicator columns.
+ * 
+ * @param leftRowIndicatorColumn The left row indicator column.
+ * @param rightRowIndicatorColumn The right row indicator column.
+ * @return The barcode metadata, or null if it cannot be determined.
+ */

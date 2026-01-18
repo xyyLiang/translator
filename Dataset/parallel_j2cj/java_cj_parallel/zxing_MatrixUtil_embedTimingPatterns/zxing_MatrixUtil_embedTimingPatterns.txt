@@ -1,0 +1,5 @@
+/**
+ * Embeds timing patterns into the provided ByteMatrix.
+ *
+ * @param matrix The ByteMatrix to embed timing patterns into.
+ */

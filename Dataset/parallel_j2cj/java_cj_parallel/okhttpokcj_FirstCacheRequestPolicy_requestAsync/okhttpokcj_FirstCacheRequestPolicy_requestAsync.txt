@@ -1,0 +1,6 @@
+/**
+ * Asynchronously executes the request and notifies the callback.
+ * 
+ * @param cacheEntity the cache entity
+ * @param callback the callback
+ */

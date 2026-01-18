@@ -1,0 +1,7 @@
+    /**
+     * Requesting a set of verification codes from an authorization server with default scope.
+     *
+     * @param scope of Option<String>, the scope
+     *
+     * @return DeviceAuthorization device authorization response.
+     */

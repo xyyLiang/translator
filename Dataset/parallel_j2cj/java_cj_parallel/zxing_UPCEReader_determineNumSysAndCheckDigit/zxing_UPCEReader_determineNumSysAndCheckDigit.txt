@@ -1,0 +1,8 @@
+/**
+ * Determines the number system and check digit based on the detected pattern.
+ * Inserts the number system and check digit into the result string.
+ *
+ * @param resultString   The StringBuilder representing the result string.
+ * @param lgPatternFound The detected pattern.
+ * @throws NotFoundException if the number system and check digit cannot be determined based on the detected pattern.
+ */

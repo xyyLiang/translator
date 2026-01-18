@@ -1,0 +1,6 @@
+/**
+ * Generates a unique key for the given DownloadTask based on its URL, URI, and filename.
+ * 
+ * @param task The DownloadTask for which to generate the key.
+ * @return The generated key.
+ */

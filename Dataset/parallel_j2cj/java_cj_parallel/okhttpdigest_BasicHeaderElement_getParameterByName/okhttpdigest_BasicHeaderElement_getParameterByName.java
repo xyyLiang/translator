@@ -1,0 +1,17 @@
+    public NameValuePair getParameterByName(String name) {
+        if (name == null) {
+            throw new IllegalArgumentException("Name may not be null");
+        } else {
+            NameValuePair found = null;
+
+            for (int i = 0; i < this.parameters.length; ++i) {
+                NameValuePair current = this.parameters[i];
+                if (current.getName().equalsIgnoreCase(name)) {
+                    found = current;
+                    break;
+                }
+            }
+
+            return found;
+        }
+    }

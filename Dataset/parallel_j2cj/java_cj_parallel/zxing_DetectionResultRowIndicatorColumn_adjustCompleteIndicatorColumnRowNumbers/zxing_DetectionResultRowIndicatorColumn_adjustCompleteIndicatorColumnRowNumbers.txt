@@ -1,0 +1,5 @@
+/**
+ * Adjusts the complete indicator column row numbers based on the provided barcode metadata.
+ * 
+ * @param barcodeMetadata The barcode metadata.
+ */

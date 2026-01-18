@@ -1,0 +1,6 @@
+    /**
+     * <p>
+     * Redefine the list of days excluded. The ArrayList 
+     * should contain <code>java.util.Calendar</code> objects. 
+     * </p>
+     */

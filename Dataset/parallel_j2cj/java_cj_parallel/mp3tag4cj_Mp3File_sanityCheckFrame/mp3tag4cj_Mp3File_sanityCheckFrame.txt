@@ -1,0 +1,7 @@
+/**
+ * Performs sanity checks on the MPEG frame to ensure consistency with the current audio file.
+ *
+ * @param frame  The MPEG frame to check.
+ * @param offset The offset of the frame within the file.
+ * @throws InvalidDataException If the frame header is inconsistent or extends beyond the end of the file.
+ */

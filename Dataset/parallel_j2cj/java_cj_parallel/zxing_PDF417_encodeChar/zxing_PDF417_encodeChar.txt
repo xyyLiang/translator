@@ -1,0 +1,7 @@
+/**
+ * Encodes a character pattern with a specified length into the provided BarcodeRow.
+ *
+ * @param pattern The pattern to encode.
+ * @param len     The length of the pattern.
+ * @param logic   The BarcodeRow to encode the pattern into.
+ */

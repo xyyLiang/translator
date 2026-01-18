@@ -1,0 +1,10 @@
+/**
+ * Decodes a byte array into a {@link DecoderResult}.
+ *
+ * @param bytes The byte array to decode.
+ * @param version The QR Code version.
+ * @param ecLevel The error correction level.
+ * @param hints The decoding hints.
+ * @return The decoded result.
+ * @throws FormatException If the input cannot be decoded.
+ */

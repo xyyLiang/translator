@@ -1,0 +1,7 @@
+/**
+ * Adjusts the row numbers of codewords using the right row indicator column.
+ * This method adjusts the row numbers of codewords in other columns based on the row numbers
+ * in the right row indicator column.
+ * 
+ * @return The number of unadjusted codewords after adjustment.
+ */

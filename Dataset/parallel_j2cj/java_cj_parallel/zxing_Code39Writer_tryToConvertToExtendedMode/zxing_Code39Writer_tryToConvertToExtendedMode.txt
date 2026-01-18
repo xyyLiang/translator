@@ -1,0 +1,7 @@
+/**
+ * Tries to convert the given string to extended mode by replacing certain characters with special escape sequences.
+ *
+ * @param contents The input string to convert.
+ * @return The converted string in extended mode.
+ * @throws IllegalArgumentException If the input contains a non-encodable character.
+ */

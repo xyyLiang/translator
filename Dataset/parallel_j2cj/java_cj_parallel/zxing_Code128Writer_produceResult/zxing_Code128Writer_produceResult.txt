@@ -1,0 +1,8 @@
+/**
+ * Produces the final encoded result by computing the checksum, appending it to the patterns, and adding the stop code.
+ * 
+ * @param patterns The collection of patterns representing the encoded data.
+ * @param checkSum The computed checksum value.
+ * @return An array of booleans representing the final encoded result.
+ * @throws IllegalArgumentException if unable to compute a valid input checksum.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Decodes a PDF417 codeword array into a DecoderResult.
+ * 
+ * @param codewords The codewords to decode.
+ * @param ecLevel The error correction level.
+ * @return The decoded result.
+ * @throws FormatException If decoding fails.
+ */

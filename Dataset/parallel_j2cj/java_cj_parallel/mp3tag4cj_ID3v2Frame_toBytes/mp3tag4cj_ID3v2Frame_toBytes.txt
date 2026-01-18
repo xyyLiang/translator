@@ -1,0 +1,6 @@
+    /**
+     * The Function is toBytes, Convert label frame object to byte data.
+     * 
+     * @return Type of Array<Int8>
+     * @since 0.32.5
+     */

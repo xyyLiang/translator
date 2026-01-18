@@ -1,0 +1,8 @@
+/**
+ * Detects the character set encoding from the Byte Order Mark (BOM) in the given byte array,
+ * starting from the specified offset.
+ *
+ * @param buf the byte array containing the data
+ * @param offset the starting index in the byte array
+ * @return the detected character set encoding, or null if no BOM is found or the BOM is unrecognized
+ */

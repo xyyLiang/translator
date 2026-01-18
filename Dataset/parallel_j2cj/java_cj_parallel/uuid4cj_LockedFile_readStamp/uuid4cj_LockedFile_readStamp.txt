@@ -1,0 +1,5 @@
+    /*
+     * read timeStamp
+     *
+     * @return timeStamp
+     */

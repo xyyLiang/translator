@@ -1,0 +1,5 @@
+/**
+ * Retrieves the detection result columns after adjusting the indicator column row numbers.
+ * 
+ * @return An array containing the adjusted detection result columns.
+ */

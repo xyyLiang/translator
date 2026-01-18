@@ -1,0 +1,5 @@
+/**
+ * Increases the current offset by the specified length.
+ *
+ * @param increaseLength the length by which to increase the current offset
+ */

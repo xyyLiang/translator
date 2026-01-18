@@ -1,0 +1,7 @@
+/**
+ * Analyzes the response, handles 304 code, and executes callbacks accordingly on a new thread.
+ * 
+ * @param call the call
+ * @param response the response
+ * @return true if the response code is 304, false otherwise
+ */

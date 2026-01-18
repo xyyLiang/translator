@@ -1,0 +1,7 @@
+/**
+ * Constructs a URL by concatenating the provided parameters to the base URL.
+ *
+ * @param url    the base URL
+ * @param params the parameters to be appended to the URL
+ * @return the concatenated URL string
+ */

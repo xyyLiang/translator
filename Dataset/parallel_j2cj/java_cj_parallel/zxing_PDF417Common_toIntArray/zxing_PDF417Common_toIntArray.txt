@@ -1,0 +1,6 @@
+/**
+ * Converts a collection of integers to an array of integers.
+ * 
+ * @param list The collection of integers.
+ * @return The array of integers.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Retrieves the appropriate Galois Field (GF) based on the word size.
+ * 
+ * @param wordSize The size of each word.
+ * @return The appropriate GenericGF object based on the word size.
+ * @throws IllegalArgumentException If the word size is not supported.
+ */

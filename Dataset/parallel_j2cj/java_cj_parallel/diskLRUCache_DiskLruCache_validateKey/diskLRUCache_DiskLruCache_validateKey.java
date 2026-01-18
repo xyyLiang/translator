@@ -1,0 +1,7 @@
+  private void validateKey(String key) {
+    Matcher matcher = LEGAL_KEY_PATTERN.matcher(key);
+    if (!matcher.matches()) {
+      throw new IllegalArgumentException("keys must match regex "
+              + STRING_KEY_PATTERN + ": \"" + key + "\"");
+    }
+  }

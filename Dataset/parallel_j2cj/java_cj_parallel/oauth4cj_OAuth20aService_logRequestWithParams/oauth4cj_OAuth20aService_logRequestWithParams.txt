@@ -1,0 +1,6 @@
+/**
+ * Logs the request parameters for debugging purposes.
+ * 
+ * @param requestDescription The description of the request.
+ * @param request            The OAuth request.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Logs a message with a specific message type and identifier.
+ *
+ * @param id      The identifier for the log
+ * @param type    The type of the log message
+ * @param message The message to be logged
+ */

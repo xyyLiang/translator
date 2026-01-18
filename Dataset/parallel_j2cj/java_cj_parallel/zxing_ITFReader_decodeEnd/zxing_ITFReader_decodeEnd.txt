@@ -1,0 +1,7 @@
+  /**
+   * Identify where the end of the middle / payload section ends.
+   *
+   * @param row row of black/white values to search
+   * @return Array, containing index of start of 'end block' and end of 'end
+   *         block'
+   */

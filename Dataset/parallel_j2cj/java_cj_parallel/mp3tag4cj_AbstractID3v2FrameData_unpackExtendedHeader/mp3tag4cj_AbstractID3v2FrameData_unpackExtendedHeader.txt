@@ -1,0 +1,7 @@
+/**
+ * Unpacks the extended header of the ID3v2 tag from the given byte array.
+ *
+ * @param bytes  the byte array containing the packed extended header
+ * @param offset the offset to the start of the extended header in the byte array
+ * @return the length of the unpacked extended header, including the header's size field
+ */

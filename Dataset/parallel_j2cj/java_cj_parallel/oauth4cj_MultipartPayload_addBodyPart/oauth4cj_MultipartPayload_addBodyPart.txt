@@ -1,0 +1,6 @@
+    /**
+     * Add the bodyPartPayload to bodyParts.
+     *
+     * @param bodyPartPayload of BodyPartPayload
+     * @since 0.37.2
+     */

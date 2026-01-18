@@ -1,0 +1,3 @@
+  /**
+   * Reads a code of length 8 in an array of bits, padding with zeros
+   */

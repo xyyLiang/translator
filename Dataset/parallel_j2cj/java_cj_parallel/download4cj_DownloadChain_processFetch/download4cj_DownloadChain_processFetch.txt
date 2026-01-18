@@ -1,0 +1,6 @@
+/**
+ * Processes fetch operation and returns the result.
+ * 
+ * @return The result of the fetch operation.
+ * @throws IOException If an I/O error occurs during the fetch operation.
+ */

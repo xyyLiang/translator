@@ -1,0 +1,6 @@
+/**
+ * Sets the file to upload and determines the media type based on the file extension.
+ * 
+ * @param file the file to upload
+ * @return the current instance of the class
+ */

@@ -1,0 +1,5 @@
+  /**
+   * Looks for a literal character or escape sequence at left in s.
+   * Packs the char into the lowest 16 bytes of the output and the
+   * count of characters in the sequence in the remaining bits
+   */

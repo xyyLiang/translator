@@ -1,0 +1,5 @@
+/**
+ * Removes the breakpoint information associated with the given ID.
+ *
+ * @param id the ID of the breakpoint information to remove.
+ */

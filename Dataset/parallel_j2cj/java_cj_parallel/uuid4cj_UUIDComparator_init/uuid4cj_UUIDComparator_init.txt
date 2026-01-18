@@ -1,0 +1,7 @@
+    /**
+     * init UUIDTimer
+     *
+     * @param rnd = SecureRandom
+     * @param sync = Option<FileBasedTimestampSynchronizer>
+     * @param clock = UUIDClock
+     */

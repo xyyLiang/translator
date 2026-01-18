@@ -1,0 +1,6 @@
+/**
+ * Deactivates the given LockedFiles, releasing any resources they hold.
+ * 
+ * @param lf1 The first LockedFile to deactivate.
+ * @param lf2 The second LockedFile to deactivate.
+ */

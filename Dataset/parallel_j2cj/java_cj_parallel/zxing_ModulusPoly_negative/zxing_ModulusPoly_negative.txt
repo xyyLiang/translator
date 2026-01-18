@@ -1,0 +1,5 @@
+/**
+ * Returns the negation of this polynomial.
+ * 
+ * @return The negation of this polynomial.
+ */

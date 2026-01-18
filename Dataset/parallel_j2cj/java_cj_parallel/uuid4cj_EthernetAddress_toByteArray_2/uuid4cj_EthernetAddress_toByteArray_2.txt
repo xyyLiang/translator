@@ -1,0 +1,6 @@
+    /**
+     * Synonym to 'toByteArray'
+     *
+     * @param array - Array<UInt8>
+     * @return Unit
+     */

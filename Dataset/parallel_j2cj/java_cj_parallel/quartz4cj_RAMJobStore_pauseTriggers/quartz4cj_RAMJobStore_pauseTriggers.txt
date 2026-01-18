@@ -1,0 +1,12 @@
+    /**
+     * <p>
+     * Pause all of the known <code>{@link Trigger}s</code> matching.
+     * </p>
+     *
+     * <p>
+     * The JobStore should "remember" the groups paused, and impose the
+     * pause on any new triggers that are added to one of these groups while the group is
+     * paused.
+     * </p>
+     *
+     */

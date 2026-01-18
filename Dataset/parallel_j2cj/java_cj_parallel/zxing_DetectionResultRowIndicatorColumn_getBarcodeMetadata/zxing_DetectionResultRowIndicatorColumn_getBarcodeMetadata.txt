@@ -1,0 +1,5 @@
+/**
+ * Retrieves the barcode metadata.
+ * 
+ * @return The barcode metadata.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Checks if the specified barcode column is valid within the given DetectionResult.
+ *
+ * @param detectionResult The DetectionResult containing the barcode information.
+ * @param barcodeColumn   The column index to check.
+ * @return True if the barcode column is valid, false otherwise.
+ */

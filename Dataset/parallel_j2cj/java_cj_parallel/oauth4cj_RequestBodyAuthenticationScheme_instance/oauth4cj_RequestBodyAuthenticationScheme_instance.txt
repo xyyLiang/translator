@@ -1,0 +1,6 @@
+    /**
+     * Get RequestBodyAuthenticationScheme instance
+     * 
+     * @return RequestBodyAuthenticationScheme instance
+     * @since 0.38.2
+     */

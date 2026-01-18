@@ -1,0 +1,6 @@
+/**
+ * Retrieves the output stream.
+ *
+ * @return The output stream.
+ * @throws IllegalArgumentException If the output stream is null.
+ */

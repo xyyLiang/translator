@@ -1,0 +1,5 @@
+/**
+ * Sends the MTF values.
+ *
+ * @throws IOException If an I/O error occurs
+ */

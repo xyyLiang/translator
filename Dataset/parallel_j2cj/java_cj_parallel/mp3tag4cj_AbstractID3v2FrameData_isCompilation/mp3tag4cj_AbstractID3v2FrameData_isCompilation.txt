@@ -1,0 +1,6 @@
+    /**
+     * The Function is isCompilation,TCMP or TCP Identify the corresponding data.
+     * 
+     * @return Type of Bool
+     * @since 0.32.5
+     */

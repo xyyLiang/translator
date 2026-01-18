@@ -1,0 +1,6 @@
+/**
+ * Adds a key-value pair to the headers map if both key and value are not null.
+ *
+ * @param key   the key to be added
+ * @param value the value corresponding to the key
+ */

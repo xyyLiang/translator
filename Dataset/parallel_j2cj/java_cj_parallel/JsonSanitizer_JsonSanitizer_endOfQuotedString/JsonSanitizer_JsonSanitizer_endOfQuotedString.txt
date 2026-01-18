@@ -1,0 +1,5 @@
+  /**
+   * The position past the last character within the quotes of the quoted
+   * string starting at {@code s.charAt(start)}.  Does not assume that the
+   * quoted string is properly closed.
+   */

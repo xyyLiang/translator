@@ -1,0 +1,14 @@
+    /**
+     * async execute.
+     *
+     * @Param userAgent of String, the user agent
+     * @Param headers of HashMap<String, String>, the header
+     * @Param httpVerb of Verb, Verb is an enumeration that contains the most common types of HTTP requests.
+     * @Param completeUrl of String, the complete url
+     * @Param bodyContents of File, the body content
+     * @Param callback of Option<OAuthAsyncRequestCallback>, the oAuth async request callback
+     * @Param converter of Option<ResponseConverter>, the response converter
+     *
+     * @Return Future<Any> the result of async execute.
+     * @since 0.38.2
+     */

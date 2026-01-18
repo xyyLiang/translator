@@ -1,0 +1,6 @@
+/**
+ * Retrieves the numeric representation of the month from the provided string.
+ *
+ * @param s The string representation of the month.
+ * @return The numeric representation of the month, or -1 if the string is not a valid month.
+ */

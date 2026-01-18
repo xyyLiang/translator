@@ -1,0 +1,7 @@
+    /**
+     * Generate an OAuth "Authorization" HTTP header as a signature to include in the request.
+     *
+     * @Param check the request and generate the header
+     *
+     * @Return String the Http header value
+     */

@@ -1,0 +1,7 @@
+    /**
+     * The Function is init constructor.
+     * 
+     * @param textEncoding of Int8, Coding set 0-CHARSET_ISO_8859_1, 1-CHARSET_UTF_16, 2-CHARSET_UTF_16BE, 3-CHARSET_UTF_8
+     * @param value of Array<Int8>, Byte data
+     * @since 0.32.5
+     */

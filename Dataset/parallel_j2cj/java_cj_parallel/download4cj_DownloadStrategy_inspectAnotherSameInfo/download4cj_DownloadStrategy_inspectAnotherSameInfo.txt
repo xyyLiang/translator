@@ -1,0 +1,11 @@
+/**
+ * Checks if there is another idle task with the same filename and potentially same file content.
+ * This method is applicable only if the current task has a filename derived from the response.
+ * If another idle task with the same filename is found and meets certain conditions (e.g., total offset, ETag, file length),
+ * its information is reused to potentially accelerate the download process.
+ *
+ * @param task           The DownloadTask for which to inspect another idle task.
+ * @param info           The BreakpointInfo containing information about the current download task.
+ * @param instanceLength The length of the file being downloaded.
+ * @return {@code true} if another idle task with the same filename is found and its information is reused; {@code false} otherwise.
+ */

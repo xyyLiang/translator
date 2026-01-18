@@ -1,0 +1,6 @@
+/**
+ * Sends MTF values.
+ *
+ * @param nGroups    The number of groups
+ * @param alphaSize  The size of the alphabet
+ */

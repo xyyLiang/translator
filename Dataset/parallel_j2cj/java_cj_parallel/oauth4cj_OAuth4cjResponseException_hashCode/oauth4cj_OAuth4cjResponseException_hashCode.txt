@@ -1,0 +1,6 @@
+    /**
+     * Get hash code.
+     *
+     * @return Type of Int64
+     * @since 0.37.2
+     */

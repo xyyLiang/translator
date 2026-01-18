@@ -1,0 +1,3 @@
+  /**
+   * Takes encoder, accounts for width/height, and retrieves bit matrix
+   */

@@ -1,0 +1,5 @@
+/**
+ * Adds a record value to the record list.
+ * 
+ * @param lastRecord indicates whether this is the last record
+ */

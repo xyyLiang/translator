@@ -1,0 +1,4 @@
+    /*
+     * Keeps track of the last bytes written and implicitly performs
+     * run-length encoding as the first step of the bzip2 algorithm.
+     */

@@ -1,0 +1,6 @@
+/**
+ * Checks if the given character is unsafe.
+ *
+ * @param ch The character to check.
+ * @return True if the character is unsafe, otherwise false.
+ */

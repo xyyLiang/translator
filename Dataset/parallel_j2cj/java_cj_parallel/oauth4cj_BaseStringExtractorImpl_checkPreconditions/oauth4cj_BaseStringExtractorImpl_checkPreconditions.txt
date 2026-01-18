@@ -1,0 +1,6 @@
+/**
+ * Checks preconditions before extracting the OAuth base string from the request.
+ * 
+ * @param request The OAuth request.
+ * @throws OAuthParametersMissingException If OAuth parameters are missing in the request.
+ */

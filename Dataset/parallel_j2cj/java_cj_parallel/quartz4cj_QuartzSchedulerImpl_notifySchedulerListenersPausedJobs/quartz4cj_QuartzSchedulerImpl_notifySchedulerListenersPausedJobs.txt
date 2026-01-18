@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that jobs in the specified group have been paused.
+ *
+ * @param group the group of paused jobs
+ */

@@ -1,0 +1,9 @@
+    /*
+     * Resolve referenced flags
+     * The reference identifier is surrounded by a given reference string, and the reference symbol itself may pass through double syntax(example "",'')
+     * or escape characters are included in the identifier.
+     * White space characters surrounding the reference identifier are ignored. The reference ID ends in one of the following two cases：
+     * 1.Encountered an unescaped reference symbol followed by an optional white space character,
+     * Then the delimiter (indicating touken) or the end of the line (end of record)
+     * 2.End of stream encountered
+     */

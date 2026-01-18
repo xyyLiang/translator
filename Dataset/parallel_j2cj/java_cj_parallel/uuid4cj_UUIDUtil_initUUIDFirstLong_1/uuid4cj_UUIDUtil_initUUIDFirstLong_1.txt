@@ -1,0 +1,6 @@
+     * Initialize the least significant 64 bits of the 128 bit value of this UUID based on type
+     * 
+     * @param l1 - the least significant 64 bits of this UUID's 128 bit value.
+     * @param rawType - UUIDType.raw()
+     * @return Int64
+     */

@@ -1,0 +1,6 @@
+    /**
+     * parse request
+     *
+     * @param ctx - RequestContext The RequestContext
+     * @return Option<ArrayList<FileItem>> - the FileItem ArrayList
+     */

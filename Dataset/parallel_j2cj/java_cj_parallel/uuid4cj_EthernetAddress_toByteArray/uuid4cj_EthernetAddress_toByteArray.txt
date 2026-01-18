@@ -1,0 +1,5 @@
+    /**
+     * Synonym to 'asByteArray()'
+     *
+     * @return 6 UInt8 array that contains the binary representation
+     */

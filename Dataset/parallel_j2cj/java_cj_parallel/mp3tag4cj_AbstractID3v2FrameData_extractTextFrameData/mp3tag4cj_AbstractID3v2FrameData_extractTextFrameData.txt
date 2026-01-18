@@ -1,0 +1,6 @@
+/**
+ * Extracts text frame data associated with the specified frame ID.
+ *
+ * @param id the ID of the frame to extract text data from
+ * @return the extracted text frame data, or {@code null} if no data is found or an error occurs
+ */

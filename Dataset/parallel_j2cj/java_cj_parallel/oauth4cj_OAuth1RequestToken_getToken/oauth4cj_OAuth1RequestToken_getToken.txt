@@ -1,0 +1,6 @@
+    /**
+     * get token
+     *
+     * @Return String token
+     * @since 0.37.2
+     */

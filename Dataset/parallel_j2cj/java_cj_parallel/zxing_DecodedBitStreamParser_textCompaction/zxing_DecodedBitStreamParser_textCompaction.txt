@@ -1,0 +1,10 @@
+  /**
+   * Text Compaction mode (see 5.4.1.5) permits all printable ASCII characters to be
+   * encoded, i.e. values 32 - 126 inclusive in accordance with ISO/IEC 646 (IRV), as
+   * well as selected control characters.
+   *
+   * @param codewords The array of codewords (data + error)
+   * @param codeIndex The current index into the codeword array.
+   * @param result    The decoded data is appended to the result.
+   * @return The next index into the codeword array.
+   */

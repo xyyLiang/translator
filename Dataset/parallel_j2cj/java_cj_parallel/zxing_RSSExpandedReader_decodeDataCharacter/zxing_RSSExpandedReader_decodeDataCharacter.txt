@@ -1,0 +1,10 @@
+/**
+ * Decodes a data character from the given row using the specified pattern and properties.
+ * 
+ * @param row        The BitArray representing the row.
+ * @param pattern    The FinderPattern object.
+ * @param isOddPattern  Whether the pattern number is odd.
+ * @param leftChar   Whether the character is a left character.
+ * @return The decoded DataCharacter object.
+ * @throws NotFoundException If decoding fails.
+ */

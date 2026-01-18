@@ -1,0 +1,4 @@
+    /**
+     * Aborts this edit. This releases the edit lock so another edit may be
+     * started on the same key.
+     */

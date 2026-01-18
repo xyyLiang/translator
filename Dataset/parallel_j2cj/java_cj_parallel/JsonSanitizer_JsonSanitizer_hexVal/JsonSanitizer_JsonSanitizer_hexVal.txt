@@ -1,0 +1,6 @@
+/**
+ * Returns the decimal value of a hexadecimal digit.
+ *
+ * @param ch The hexadecimal digit character ('0' to '9', 'a' to 'f', or 'A' to 'F').
+ * @return The decimal value of the hexadecimal digit.
+ */

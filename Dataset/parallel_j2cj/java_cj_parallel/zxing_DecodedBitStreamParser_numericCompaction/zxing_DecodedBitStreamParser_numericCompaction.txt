@@ -1,0 +1,8 @@
+  /**
+   * Numeric Compaction mode (see 5.4.4) permits efficient encoding of numeric data strings.
+   *
+   * @param codewords The array of codewords (data + error)
+   * @param codeIndex The current index into the codeword array.
+   * @param result    The decoded data is appended to the result.
+   * @return The next index into the codeword array.
+   */

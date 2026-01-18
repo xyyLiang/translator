@@ -1,0 +1,8 @@
+/**
+ * Synchronizes the provided byte array if unsynchronization is enabled and then unpacks the frame data.
+ * If unsynchronization is enabled and synchronization is required, the byte array is synchronized before unpacking.
+ * If unsynchronization is disabled or no synchronization is required, the byte array is directly unpacked.
+ *
+ * @param bytes the byte array containing the frame data
+ * @throws InvalidDataException if the frame data is invalid
+ */

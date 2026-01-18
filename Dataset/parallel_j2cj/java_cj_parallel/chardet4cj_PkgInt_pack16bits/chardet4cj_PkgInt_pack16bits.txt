@@ -1,0 +1,7 @@
+/**
+ * Packs two 16-bit integers into a single 32-bit integer.
+ *
+ * @param a the first 16-bit integer (lower 16 bits)
+ * @param b the second 16-bit integer (upper 16 bits)
+ * @return the 32-bit integer containing the packed values
+ */

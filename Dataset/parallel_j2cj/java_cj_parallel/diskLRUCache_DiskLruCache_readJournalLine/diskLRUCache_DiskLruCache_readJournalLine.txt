@@ -1,0 +1,6 @@
+/**
+ * Parses a single line from the journal file and updates the cache accordingly.
+ * 
+ * @param line The line to parse.
+ * @throws IOException If an I/O error occurs while parsing the journal line or updating the cache.
+ */

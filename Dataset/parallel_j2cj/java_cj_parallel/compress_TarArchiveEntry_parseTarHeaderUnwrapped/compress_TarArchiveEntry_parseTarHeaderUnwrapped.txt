@@ -1,0 +1,10 @@
+/**
+ * Parses the tar header fields from the provided byte array, taking into account various options and encoding.
+ *
+ * @param globalPaxHeaders a map of global PAX headers
+ * @param header the byte array containing the tar header
+ * @param encoding the encoding to use for parsing string fields
+ * @param oldStyle true if using old-style parsing, false otherwise
+ * @param lenient true if lenient parsing is allowed, false otherwise
+ * @throws IOException if an I/O error occurs
+ */

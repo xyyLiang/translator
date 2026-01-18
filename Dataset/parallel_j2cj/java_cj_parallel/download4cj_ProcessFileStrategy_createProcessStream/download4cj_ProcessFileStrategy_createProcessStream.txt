@@ -1,0 +1,8 @@
+/**
+ * Creates a MultiPointOutputStream for the specified DownloadTask, BreakpointInfo, and DownloadStore.
+ *
+ * @param task  The DownloadTask for which the MultiPointOutputStream is created.
+ * @param info  The BreakpointInfo containing information about the download.
+ * @param store The DownloadStore used for managing download-related data.
+ * @return The MultiPointOutputStream created for the specified task, info, and store.
+ */

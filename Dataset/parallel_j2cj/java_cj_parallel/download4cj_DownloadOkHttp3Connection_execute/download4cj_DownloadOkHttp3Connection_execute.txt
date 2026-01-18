@@ -1,0 +1,7 @@
+/**
+ * Executes the HTTP request synchronously.
+ * Builds the request using the request builder, sends it using the HTTP client, and returns the resulting connection.
+ *
+ * @return The connection representing the response to the executed request.
+ * @throws IOException If an I/O error occurs while executing the request.
+ */

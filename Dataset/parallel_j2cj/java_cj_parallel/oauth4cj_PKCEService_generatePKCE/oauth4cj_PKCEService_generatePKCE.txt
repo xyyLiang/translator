@@ -1,0 +1,6 @@
+    /**
+     * Generate a new PKCE instance.
+     *
+     * @return Type of PKCE
+     * @since 0.38.2
+     */

@@ -1,0 +1,14 @@
+  /**
+   * We're going to examine rows from the middle outward, searching alternately above and below the
+   * middle, and farther out each time. rowStep is the number of rows between each successive
+   * attempt above and below the middle. So we'd scan row middle, then middle - rowStep, then
+   * middle + rowStep, then middle - (2 * rowStep), etc.
+   * rowStep is bigger as the image is taller, but is always at least 1. We've somewhat arbitrarily
+   * decided that moving up and down by about 1/16 of the image is pretty good; we try more of the
+   * image if "trying harder".
+   *
+   * @param image The image to decode
+   * @param hints Any hints that were requested
+   * @return The contents of the decoded barcode
+   * @throws NotFoundException Any spontaneous errors which occur
+   */

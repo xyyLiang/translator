@@ -1,0 +1,8 @@
+/**
+ * Swap elements between two arrays.
+ * 
+ * @param fmap The array containing the elements to be swapped.
+ * @param p1   The starting index of the first array.
+ * @param p2   The starting index of the second array.
+ * @param n    The number of elements to swap.
+ */

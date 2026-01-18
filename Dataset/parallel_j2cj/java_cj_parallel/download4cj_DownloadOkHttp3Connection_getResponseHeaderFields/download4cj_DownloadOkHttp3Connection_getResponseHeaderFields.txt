@@ -1,0 +1,7 @@
+/**
+ * Returns a map containing the response header fields of the executed request.
+ * If the response object is not null, it retrieves the headers from the response;
+ * otherwise, it returns null to indicate that no response is available.
+ *
+ * @return A map containing the response header fields, where keys are header names and values are lists of header values.
+ */

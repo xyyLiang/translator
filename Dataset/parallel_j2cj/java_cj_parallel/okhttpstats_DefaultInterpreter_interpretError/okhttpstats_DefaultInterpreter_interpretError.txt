@@ -1,0 +1,11 @@
+    /**
+     * The Function is interpretError.Provide Chain.proceed failed call method.
+     *
+     * @param requestId of Int64
+     * @param timeInfo of NetworkInterceptorTimeInfo
+     * @param request of Request
+     * @param e of Exception
+     *
+     * @return Type of Unit
+     * @since 0.30.4
+     */

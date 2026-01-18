@@ -1,0 +1,3 @@
+    /**
+     * Compute the table used for Knuth-Morris-Pratt search algorithm.
+     */

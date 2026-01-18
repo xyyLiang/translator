@@ -1,0 +1,6 @@
+    /**
+     * Create a OAuth4cjResponseException instance according to the parameter.
+     *
+     * @param map of Response
+     * @since 0.37.2
+     */

@@ -1,0 +1,8 @@
+    /**
+     * Overload the operator '==' to return the comparison results of two OAuth4cjParameter instances.
+     *
+     * @param that of OAuth4cjParameter
+     *
+     * @return Type of Bool
+     * @since 0.37.2
+     */

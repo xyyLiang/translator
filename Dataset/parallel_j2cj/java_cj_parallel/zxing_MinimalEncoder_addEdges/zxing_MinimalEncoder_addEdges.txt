@@ -1,0 +1,8 @@
+/**
+ * Adds edges to the version's edge array based on the encoders and the characters in the string to encode.
+ * 
+ * @param version   The QR code version.
+ * @param edges     The array of edges to add to.
+ * @param from      The starting index in the string to encode.
+ * @param previous  The previous edge in the sequence.
+ */

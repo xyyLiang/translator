@@ -1,0 +1,7 @@
+/**
+ * Subtracts another polynomial from this polynomial.
+ * 
+ * @param other The polynomial to be subtracted.
+ * @return The result of subtracting the other polynomial from this polynomial.
+ * @throws IllegalArgumentException If the other polynomial does not have the same ModulusGF field.
+ */

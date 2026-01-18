@@ -1,0 +1,10 @@
+    /**
+     * The Function is byteBufferToString, Gets the data of the specified offset and length in the byte array
+     * 
+     * @param bytes of Array<Byte>, Get byte array of data
+     * @param offset of Int32, Offset of source data
+     * @param length of Int32, Data length
+     * 
+     * @return Type of String
+     * @since 0.31.4
+     */

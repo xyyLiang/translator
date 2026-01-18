@@ -1,0 +1,6 @@
+    /**
+     * Set Extra Parameters.
+     *
+     * @param extraParameters extra parameters map
+     * @return AccessTokenRequestParams AccessTokenRequestParams instance
+     */

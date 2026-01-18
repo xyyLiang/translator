@@ -1,0 +1,7 @@
+/**
+ * Adds or subtracts another polynomial from this polynomial.
+ *
+ * @param other The polynomial to add or subtract.
+ * @return The result of the addition or subtraction operation.
+ * @throws IllegalArgumentException If the other polynomial does not have the same field.
+ */

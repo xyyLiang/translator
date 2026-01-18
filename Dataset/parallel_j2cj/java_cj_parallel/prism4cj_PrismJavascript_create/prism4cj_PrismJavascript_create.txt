@@ -1,0 +1,6 @@
+/**
+ * Creates a Prism4j grammar for JavaScript language.
+ * 
+ * @param prism4j The Prism4j instance.
+ * @return The Prism4j grammar for JavaScript language.
+ */

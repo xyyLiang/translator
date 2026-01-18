@@ -1,0 +1,5 @@
+    /**
+     * Get Api instance
+     *
+     * @return DefaultApi10a DefaultApi10a instance
+     */

@@ -1,0 +1,8 @@
+    /**
+     * Method for determining which type of UUID given UUID is.
+     * 
+     * @param uuid - UUID to check
+     * 
+     * @return UUIDType - UUIDType
+     *                    NoneValueException  
+     */

@@ -1,0 +1,6 @@
+/**
+ * Deletes the specified file if it exists.
+ * 
+ * @param file The file to delete.
+ * @throws IOException If an I/O error occurs while attempting to delete the file.
+ */

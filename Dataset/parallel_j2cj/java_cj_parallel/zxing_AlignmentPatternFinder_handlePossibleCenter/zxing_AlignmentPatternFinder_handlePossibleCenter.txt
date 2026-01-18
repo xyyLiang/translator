@@ -1,0 +1,11 @@
+  /**
+   * <p>This is called when a horizontal scan finds a possible alignment pattern. It will
+   * cross check with a vertical scan, and if successful, will see if this pattern had been
+   * found on a previous horizontal scan. If so, we consider it confirmed and conclude we have
+   * found the alignment pattern.</p>
+   *
+   * @param stateCount reading state module counts from horizontal scan
+   * @param i row where alignment pattern may be found
+   * @param j end of possible alignment pattern in row
+   * @return {@link AlignmentPattern} if we have found the same pattern twice, or null if not
+   */

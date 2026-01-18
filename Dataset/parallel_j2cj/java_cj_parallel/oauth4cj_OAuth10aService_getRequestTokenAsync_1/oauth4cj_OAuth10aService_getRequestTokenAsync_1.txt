@@ -1,0 +1,6 @@
+    /**
+     * Asynchronous acquisition of OAuth1RequestToken instance
+     *
+     * @param callback OAuthAsyncRequestCallback instance
+     * @return Future<OAuth1RequestToken> Future<OAuth1RequestToken> instance
+     */

@@ -1,0 +1,5 @@
+/**
+ * Appends a counter value to the array of counters and expands the array if necessary.
+ *
+ * @param e The counter value to append.
+ */

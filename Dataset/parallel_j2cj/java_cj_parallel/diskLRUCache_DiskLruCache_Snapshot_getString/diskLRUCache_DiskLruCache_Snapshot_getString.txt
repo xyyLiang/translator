@@ -1,0 +1,1 @@
+    /** Returns the string value for {@code index}. */

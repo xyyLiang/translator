@@ -1,0 +1,6 @@
+  /**
+   * Encodes the given string content as an Aztec symbol (without ECI code)
+   *
+   * @param data input data string; must be encodable as ISO/IEC 8859-1 (Latin-1)
+   * @return Aztec symbol matrix with metadata
+   */

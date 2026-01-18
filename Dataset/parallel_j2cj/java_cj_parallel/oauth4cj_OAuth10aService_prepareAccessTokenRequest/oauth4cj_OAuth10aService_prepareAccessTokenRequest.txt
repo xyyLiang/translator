@@ -1,0 +1,7 @@
+/**
+ * Prepares an OAuth request for obtaining an access token.
+ * 
+ * @param requestToken The request token obtained during the authorization process.
+ * @param oauthVerifier The verifier obtained during the authorization process.
+ * @return The prepared OAuth request.
+ */

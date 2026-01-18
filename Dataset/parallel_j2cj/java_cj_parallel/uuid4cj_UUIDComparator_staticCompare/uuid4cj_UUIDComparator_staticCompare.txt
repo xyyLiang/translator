@@ -1,0 +1,4 @@
+    /**
+     * Static helper method that can be used instead of instantiating comparator
+     * (used by unit tests, can be used by code too)
+     */

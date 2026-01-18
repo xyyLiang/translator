@@ -1,0 +1,6 @@
+        /**
+         * Creates a new instance.
+         *
+         * @param ctx The request context.
+         * @param fileupLoadBase The FileUploadBase
+         */

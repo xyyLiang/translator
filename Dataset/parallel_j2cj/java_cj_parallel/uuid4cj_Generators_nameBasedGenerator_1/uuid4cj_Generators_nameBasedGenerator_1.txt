@@ -1,0 +1,12 @@
+    /**
+     * Factory method for constructing UUID generator that uses specified
+     * random number generator for constructing UUIDs according to standard
+     * method number 5, with specified namespace (or without one if null
+     * is specified).
+     * Digester to use will be SHA-1 as recommened by UUID spec.
+     * 
+     * @param namespace UUID that represents namespace to use; see
+     *   {@link NameBasedGenerator} for 'standard' namespaces specified by
+     *   UUID specs
+     * @return NameBasedGenerator
+     */

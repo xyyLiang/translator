@@ -1,0 +1,6 @@
+    /**
+     * Parses an entry's header information from a header buffer.
+     *
+     * @param header The tar entry header buffer to get information from.
+     * @throws IllegalArgumentException if any of the numeric fields have an invalid format
+     */

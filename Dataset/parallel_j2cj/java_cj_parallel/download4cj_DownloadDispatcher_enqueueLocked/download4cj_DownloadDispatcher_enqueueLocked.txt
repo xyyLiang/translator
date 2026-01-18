@@ -1,0 +1,7 @@
+/**
+ * Enqueues an array of DownloadTasks in a synchronized manner.
+ * This method performs various operations including sorting tasks, inspecting network availability,
+ * handling completed tasks, conflicts, and network errors, and updating the list of ready asynchronous calls.
+ *
+ * @param tasks The array of DownloadTasks to be enqueued.
+ */

@@ -1,0 +1,8 @@
+    /**
+     * Cancel this delta for a given revised text. The action is opposite to
+     * patch.
+     * 
+     * @param target the given revised text
+     *
+     * @since 0.39.3
+     */

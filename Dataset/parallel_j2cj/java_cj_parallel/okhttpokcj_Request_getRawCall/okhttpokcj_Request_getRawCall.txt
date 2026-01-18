@@ -1,0 +1,7 @@
+/**
+ * Retrieves the synchronous call object from OkHttpClient.
+ *
+ * This method constructs the request body and returns the call object.
+ *
+ * @return the synchronous call object
+ */

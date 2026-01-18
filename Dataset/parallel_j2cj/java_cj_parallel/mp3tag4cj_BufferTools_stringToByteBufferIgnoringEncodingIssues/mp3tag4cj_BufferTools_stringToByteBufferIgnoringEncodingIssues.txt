@@ -1,0 +1,11 @@
+    /**
+     * The Function is stringToByteBufferIgnoringEncodingIssues, According to the length of the string,
+     * the offset gets the byte array
+     * 
+     * @param s of String, Source string
+     * @param offset of Int64, Start offset
+     * @param length of Int64, Data length
+     * 
+     * @return Type of Option<Array<Byte>>
+     * @since 0.31.4
+     */

@@ -1,0 +1,17 @@
+/**
+ * Encodes the specified content into a Data Matrix barcode represented as a BitMatrix.
+ *
+ * @param contents The content to encode.
+ * @param format   The barcode format, must be BarcodeFormat.DATA_MATRIX.
+ * @param width    The requested width of the barcode.
+ * @param height   The requested height of the barcode.
+ * @param hints    A map of hints to be used during the encoding process. Can include hints such as
+ *                 EncodeHintType.DATA_MATRIX_SHAPE, EncodeHintType.MIN_SIZE,
+ *                 EncodeHintType.MAX_SIZE, EncodeHintType.DATA_MATRIX_COMPACT,
+ *                 EncodeHintType.GS1_FORMAT, EncodeHintType.CHARACTER_SET, and
+ *                 EncodeHintType.FORCE_C40.
+ * @return The BitMatrix representing the encoded Data Matrix barcode.
+ * @throws IllegalArgumentException if the content is empty, the barcode format is not
+ *                                  BarcodeFormat.DATA_MATRIX, or negative dimensions are requested.
+ * @throws NotFoundException        if the requested dimensions cannot be found.
+ */

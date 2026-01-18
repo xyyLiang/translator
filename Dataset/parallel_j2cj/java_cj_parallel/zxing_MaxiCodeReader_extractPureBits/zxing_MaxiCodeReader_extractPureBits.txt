@@ -1,0 +1,6 @@
+  /**
+   * This method detects a code in a "pure" image -- that is, pure monochrome image
+   * which contains only an unrotated, unskewed, image of a code, with some white border
+   * around it. This is a specialized method that works exceptionally fast in this special
+   * case.
+   */

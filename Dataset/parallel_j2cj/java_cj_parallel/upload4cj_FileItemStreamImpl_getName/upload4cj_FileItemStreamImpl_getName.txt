@@ -1,0 +1,5 @@
+    /**
+     * get the name
+     *
+     * @return Option<String> - The name
+     */

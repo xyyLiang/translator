@@ -1,0 +1,13 @@
+    /**
+     * generateUnifiedDiff takes a Patch and some other arguments, returning the
+     * Unified Diff format text representing the Patch.
+     * 
+     * @param original Filename of the original (unrevised file)
+     * @param revised Filename of the revised file
+     * @param originalLines Lines of the original file
+     * @param patch Patch created by the diff() function
+     * @param contextSize - number of lines of context output around each difference in the file.
+     * @return List of strings representing the Unified Diff representation of the Patch argument.
+     *   
+     * @since 0.39.3
+     */

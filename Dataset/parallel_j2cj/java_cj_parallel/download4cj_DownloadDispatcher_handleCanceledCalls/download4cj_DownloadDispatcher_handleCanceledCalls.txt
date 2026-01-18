@@ -1,0 +1,8 @@
+/**
+ * Handles canceled calls by canceling them and dispatching cancel events to the appropriate callback.
+ * This method iterates through the list of calls needing cancellation, cancels each call, and removes it from the callback list if the cancel operation fails.
+ * Then, it dispatches cancel events to the appropriate callback based on the number of callback calls.
+ *
+ * @param needCallbackCalls The list of calls needing a callback.
+ * @param needCancelCalls   The list of calls needing cancellation.
+ */

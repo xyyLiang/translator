@@ -1,0 +1,6 @@
+/**
+ * Creates a pattern with the specified regular expression.
+ *
+ * @param regex The regular expression for the pattern.
+ * @return The created pattern.
+ */

@@ -1,0 +1,8 @@
+    /**
+     * The Function is setFooter, Only the id3v24 version supports setting label footers. Other version settings are invalid.
+     * 
+     * @param footer of Bool
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

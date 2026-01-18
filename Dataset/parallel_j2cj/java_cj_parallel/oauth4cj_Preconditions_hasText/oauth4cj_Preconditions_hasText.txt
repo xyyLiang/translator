@@ -1,0 +1,11 @@
+    /**
+     * Check if the string is empty,
+     * and then determine if the characters in the string are Unicode whitespace characters.
+     *
+     * @param checks the string.
+     *
+     * @return Type of Bool,
+     *        if the string is not empty and the characters in the string are not Unicode whitespace characters,
+     *        return true; otherwise, return false.
+     * @since 0.37.2
+     */

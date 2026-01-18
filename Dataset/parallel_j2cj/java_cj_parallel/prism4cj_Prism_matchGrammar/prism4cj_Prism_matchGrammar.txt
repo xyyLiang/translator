@@ -1,0 +1,11 @@
+/**
+ * Matches the grammar against the provided text, updating the list of nodes accordingly.
+ *
+ * @param text          The text to match against.
+ * @param entries       The list of nodes representing the text.
+ * @param grammar       The grammar to match against.
+ * @param index         The index to start matching from.
+ * @param startPosition The starting position for matching.
+ * @param oneShot       Indicates whether only one match should be attempted.
+ * @param target        The target token to match.
+ */

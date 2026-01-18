@@ -1,0 +1,11 @@
+  /**
+   * <p>After a horizontal scan finds a potential finder pattern, this method
+   * "cross-checks" by scanning down vertically through the center of the possible
+   * finder pattern to see if the same proportion is detected.</p>
+   *
+   * @param startI row where a finder pattern was detected
+   * @param centerJ center of the section that appears to cross a finder pattern
+   * @param maxCount maximum reasonable number of modules that should be
+   * observed in any reading state, based on the results of the horizontal scan
+   * @return vertical center of finder pattern, or {@link Float#NaN} if not found
+   */

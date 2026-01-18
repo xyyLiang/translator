@@ -1,0 +1,9 @@
+/**
+ * Determines the size of a module in the QR code image by scanning horizontally from the given left-top black
+ * module position until encountering a white module, then returning the width of the black module cluster.
+ * 
+ * @param leftTopBlack  The array containing the coordinates of the left-top black module.
+ * @param image         The BitMatrix representing the QR code image.
+ * @return The size of a module in the QR code image.
+ * @throws NotFoundException if the module size cannot be determined.
+ */

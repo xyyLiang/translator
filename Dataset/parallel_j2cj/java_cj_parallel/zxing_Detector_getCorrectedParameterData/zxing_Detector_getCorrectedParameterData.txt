@@ -1,0 +1,8 @@
+  /**
+   * Corrects the parameter bits using Reed-Solomon algorithm.
+   *
+   * @param parameterData parameter bits
+   * @param compact true if this is a compact Aztec code
+   * @return the corrected parameter
+   * @throws NotFoundException if the array contains too many errors
+   */

@@ -1,0 +1,5 @@
+    /**
+     * Constructor that uses default values for names of files to use
+     * (files will get created in the current working directory), as
+     * well as for the update frequency value (10 seconds).
+     */

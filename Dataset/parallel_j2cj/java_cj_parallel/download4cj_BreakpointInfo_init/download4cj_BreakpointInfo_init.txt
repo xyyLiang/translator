@@ -1,0 +1,8 @@
+/**
+ * Constructs a BreakpointInfo object with the specified parameters.
+ *
+ * @param id         the ID of the breakpoint.
+ * @param url        the URL of the download.
+ * @param parentFile the parent directory of the downloaded file.
+ * @param filename   the name of the downloaded file.
+ */

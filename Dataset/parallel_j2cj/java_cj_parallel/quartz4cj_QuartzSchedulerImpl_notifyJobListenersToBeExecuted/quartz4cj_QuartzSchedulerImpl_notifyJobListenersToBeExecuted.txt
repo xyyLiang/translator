@@ -1,0 +1,6 @@
+/**
+ * Notifies all job listeners that a job is about to be executed.
+ *
+ * @param jec the JobExecutionContext associated with the job
+ * @throws SchedulerException if a job listener encounters an error
+ */

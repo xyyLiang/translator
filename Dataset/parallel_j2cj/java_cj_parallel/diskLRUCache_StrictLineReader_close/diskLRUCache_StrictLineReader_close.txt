@@ -1,0 +1,6 @@
+  /**
+   * Closes the reader by closing the underlying {@code InputStream} and
+   * marking this reader as closed.
+   *
+   * @throws IOException for errors when closing the underlying {@code InputStream}.
+   */

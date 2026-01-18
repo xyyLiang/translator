@@ -1,0 +1,5 @@
+/**
+ * Clears the given worker thread from the busy workers list.
+ * 
+ * @param wt The worker thread to clear from the busy workers list.
+ */

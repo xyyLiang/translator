@@ -1,0 +1,7 @@
+/**
+ * Returns the character set for the specified text encoding.
+ *
+ * @param textEncoding the text encoding
+ * @return the character set corresponding to the text encoding
+ * @throws IllegalArgumentException if the text encoding is invalid
+ */

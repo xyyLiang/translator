@@ -1,0 +1,7 @@
+  /**
+   * Encode the contents following specified format.
+   * {@code width} and {@code height} are required size. This method may return bigger size
+   * {@code BitMatrix} when specified size is too small. The user can set both {@code width} and
+   * {@code height} to zero to get minimum size barcode. If negative value is set to {@code width}
+   * or {@code height}, {@code IllegalArgumentException} is thrown.
+   */

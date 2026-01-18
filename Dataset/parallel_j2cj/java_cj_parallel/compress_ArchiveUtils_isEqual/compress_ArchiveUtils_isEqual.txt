@@ -1,0 +1,12 @@
+    /**
+     * Compare byte buffers, optionally ignoring trailing nulls
+     *
+     * @param buffer1             first buffer
+     * @param offset1             first offset
+     * @param length1             first length
+     * @param buffer2             second buffer
+     * @param offset2             second offset
+     * @param length2             second length
+     * @param ignoreTrailingNulls whether to ignore trailing nulls
+     * @return {@code true} if buffer1 and buffer2 have same contents, having regard to trailing nulls
+     */

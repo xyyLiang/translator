@@ -1,0 +1,9 @@
+  private DiskLruCache(File directory, int appVersion, int valueCount, long maxSize) {
+    this.directory = directory;
+    this.appVersion = appVersion;
+    this.journalFile = new File(directory, JOURNAL_FILE);
+    this.journalFileTmp = new File(directory, JOURNAL_FILE_TEMP);
+    this.journalFileBackup = new File(directory, JOURNAL_FILE_BACKUP);
+    this.valueCount = valueCount;
+    this.maxSize = maxSize;
+  }

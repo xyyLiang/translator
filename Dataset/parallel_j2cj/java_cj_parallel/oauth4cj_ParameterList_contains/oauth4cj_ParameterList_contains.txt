@@ -1,0 +1,8 @@
+    /**
+     * Determine whether the current ParameterList object contains a param object.
+     *
+     * @param param of OAuth4cjParameter, determine whether to include this param object.
+     *
+     * @return Type of Bool
+     * @since 0.37.2
+     */

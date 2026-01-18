@@ -1,0 +1,5 @@
+/**
+ * Sets the provided BreakpointInfo to the DownloadTask.
+ * 
+ * @param info The BreakpointInfo object.
+ */

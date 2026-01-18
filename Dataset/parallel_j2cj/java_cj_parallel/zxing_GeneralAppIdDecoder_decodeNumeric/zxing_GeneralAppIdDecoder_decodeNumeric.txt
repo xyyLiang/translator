@@ -1,0 +1,7 @@
+/**
+ * Decodes a numeric value starting from the specified position.
+ *
+ * @param pos The starting position to decode from.
+ * @return The decoded numeric information.
+ * @throws FormatException if decoding encounters an error.
+ */

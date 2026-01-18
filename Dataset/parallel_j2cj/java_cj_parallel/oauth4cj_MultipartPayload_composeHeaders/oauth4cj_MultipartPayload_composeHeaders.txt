@@ -1,0 +1,9 @@
+/**
+ * Composes headers for a multipart request.
+ * 
+ * @param subtype   The subtype of the multipart content.
+ * @param boundary  The boundary string for separating parts.
+ * @param headersIn The input headers to include in the composed headers.
+ * @return The composed headers.
+ * @throws IllegalArgumentException If the boundary syntax is invalid or if different boundaries are passed.
+ */

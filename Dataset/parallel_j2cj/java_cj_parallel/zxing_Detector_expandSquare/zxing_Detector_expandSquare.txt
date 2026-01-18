@@ -1,0 +1,8 @@
+  /**
+   * Expand the square represented by the corner points by pushing out equally in all directions
+   *
+   * @param cornerPoints the corners of the square, which has the bull's eye at its center
+   * @param oldSide the original length of the side of the square in the target bit matrix
+   * @param newSide the new length of the size of the square in the target bit matrix
+   * @return the corners of the expanded square
+   */

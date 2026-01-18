@@ -1,0 +1,2 @@
+  // Create the state identical to this one, but we are no longer in
+  // Binary Shift mode.

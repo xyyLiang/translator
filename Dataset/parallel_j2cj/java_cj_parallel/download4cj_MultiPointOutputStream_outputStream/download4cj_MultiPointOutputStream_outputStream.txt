@@ -1,0 +1,12 @@
+/**
+ * Returns the DownloadOutputStream for a specific block. If the stream does not exist, it creates a new one.
+ * It checks if the task's URI is a file scheme. If so, it creates a new file if it doesn't exist and sets the URI to the file's URI.
+ * Then, it creates a new DownloadOutputStream with the URI and a specified buffer size.
+ * If the output stream supports seeking, it seeks to the start point of the block.
+ * If this is the first output stream and the info is not chunked, it pre-allocates the total length of the info to the output stream.
+ * Finally, it puts the output stream and a new AtomicLong into their respective maps.
+ *
+ * @param blockIndex The index of the block for which the output stream is to be returned.
+ * @return The DownloadOutputStream for the specified block.
+ * @throws IOException If an I/O error occurs.
+ */

@@ -1,0 +1,13 @@
+    /**
+     * Ensures that the given run of characters is a valid JSON number.  This is
+     * less aggressive than {@link #canonicalizeNumber} since it can be called
+     * on inputs that are valid JSON so is on the fast path.
+     *
+     * JS numbers differ from JSON numbers in several ways:<ul>
+     * <li>They can have '+' as a sign prefix:  +1
+     * <li>They allow a 0x... hexadecimal form: 0xA4
+     * <li>They allow a 0... octal form:        012
+     * <li>The integer part can be empty:       .5
+     * <li>The fraction part can be empty:      1.
+     * </ul>
+     */

@@ -1,0 +1,10 @@
+/**
+ * Formats a long value into a binary representation and writes it into the specified byte buffer.
+ *
+ * @param value the long value to format
+ * @param buf the byte buffer to write to
+ * @param offset the starting index in the buffer
+ * @param length the length of the binary representation
+ * @param negative true if the value is negative, false otherwise
+ * @throws IllegalArgumentException if the value is too large for the specified field length
+ */

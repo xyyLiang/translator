@@ -1,0 +1,6 @@
+/**
+ * Sets the sample rate based on the provided value and MPEG version.
+ * 
+ * @param sampleRate The sample rate value extracted from the frame header.
+ * @throws InvalidDataException If the provided sample rate value is invalid.
+ */

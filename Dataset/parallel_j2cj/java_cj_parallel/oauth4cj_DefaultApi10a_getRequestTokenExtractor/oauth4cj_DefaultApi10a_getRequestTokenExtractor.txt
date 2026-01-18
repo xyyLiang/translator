@@ -1,0 +1,5 @@
+    /**
+     * Returns the request token extractor.
+     *
+     * @return request token extractor
+     */

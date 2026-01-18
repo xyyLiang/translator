@@ -1,0 +1,8 @@
+    /*
+     * Fill buffer with unsigned octal number, padded with leading zeroes.
+     *
+     * @param value number to convert to octal - treated as unsigned
+     * @param buffer destination buffer
+     * @param offset starting offset in buffer
+     * @param length length of buffer to fill
+     */

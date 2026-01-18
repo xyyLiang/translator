@@ -1,0 +1,6 @@
+/**
+ * Retrieves the BlockInfo at the specified index.
+ *
+ * @param blockIndex the index of the block to retrieve.
+ * @return the BlockInfo at the specified index.
+ */

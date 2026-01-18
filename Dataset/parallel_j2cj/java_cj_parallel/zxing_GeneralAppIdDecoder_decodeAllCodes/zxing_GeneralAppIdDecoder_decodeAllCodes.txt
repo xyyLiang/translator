@@ -1,0 +1,9 @@
+/**
+ * Decodes all codes starting from the specified initial position.
+ *
+ * @param buff            The StringBuilder to append the decoded information.
+ * @param initialPosition The initial position to start decoding.
+ * @return The decoded information as a string.
+ * @throws NotFoundException if decoding encounters an error.
+ * @throws FormatException   if the format of the data is invalid.
+ */

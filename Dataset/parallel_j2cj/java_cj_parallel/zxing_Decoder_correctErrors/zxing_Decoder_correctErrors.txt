@@ -1,0 +1,11 @@
+/**
+ * Corrects errors in the given codeword bytes using Reed-Solomon error correction.
+ *
+ * @param codewordBytes The array of codeword bytes to correct.
+ * @param start The start index of the codeword bytes to correct.
+ * @param dataCodewords The number of data codewords to correct.
+ * @param ecCodewords The number of error correction codewords to correct.
+ * @param mode The mode indicating whether to correct all codewords or only even/odd ones.
+ * @return The number of errors corrected.
+ * @throws ChecksumException If a checksum error is detected during error correction.
+ */

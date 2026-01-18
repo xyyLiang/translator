@@ -1,0 +1,12 @@
+    /**
+     * Retrieve the field information of the error response from the response body,
+     * encapsulate it into an OAuth2AccessTokenErrorResponseException exception, and throw it.
+     *
+     * @Param check get error message from the response
+     *
+     * @throws IOException If an error occurs when obtaining the response body as a string,
+     *                     an IOException will be thrown.
+     * @throws OAuth2AccessTokenErrorResponseException
+     *                     Obtain the field information of the error response from the response body,
+     *                     encapsulate and throw OAuth2AccessTokenErrorResponseException.
+     */

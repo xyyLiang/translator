@@ -1,0 +1,5 @@
+/**
+ * Flushes the output stream associated with the compression.
+ *
+ * @throws IOException If an I/O error occurs while flushing the output stream.
+ */

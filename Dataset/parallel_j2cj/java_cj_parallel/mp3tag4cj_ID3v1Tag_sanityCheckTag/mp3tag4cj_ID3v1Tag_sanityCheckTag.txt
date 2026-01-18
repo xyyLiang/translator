@@ -1,0 +1,6 @@
+/**
+ * Performs a sanity check on the provided tag bytes.
+ *
+ * @param bytes The bytes representing the tag.
+ * @throws NoSuchTagException If the tag bytes are invalid or do not match the expected tag.
+ */

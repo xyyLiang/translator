@@ -1,0 +1,8 @@
+/**
+ * Encodes numeric data from the specified range of characters in the ECIInput object.
+ * 
+ * @param input The ECIInput object containing the input data.
+ * @param startpos The starting index of the data to encode.
+ * @param count The number of characters to encode.
+ * @param sb The StringBuilder to which the encoded data will be appended.
+ */

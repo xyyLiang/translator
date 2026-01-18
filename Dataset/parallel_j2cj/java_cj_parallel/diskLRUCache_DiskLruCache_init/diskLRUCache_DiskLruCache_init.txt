@@ -1,0 +1,8 @@
+/**
+ * Constructs a new DiskLruCache instance with the provided parameters.
+ * 
+ * @param directory   The directory where the cache will be stored.
+ * @param appVersion  The application version.
+ * @param valueCount  The number of values per cache entry.
+ * @param maxSize     The maximum size of the cache in bytes.
+ */

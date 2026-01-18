@@ -1,0 +1,9 @@
+/**
+ * Decodes a macro block.
+ * 
+ * @param codewords The codewords to decode.
+ * @param codeIndex The index to start decoding from.
+ * @param resultMetadata The result metadata object to populate.
+ * @return The updated code index.
+ * @throws FormatException If decoding fails.
+ */

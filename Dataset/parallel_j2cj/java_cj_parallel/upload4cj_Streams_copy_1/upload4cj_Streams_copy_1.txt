@@ -1,0 +1,10 @@
+    /**
+     * copy the InputStream
+     *
+     * @param inputStream - Option<InputStream> The InputStream
+     * @param outputStream - Option<OutputStream> The OutputStream
+     * @param closeOutputStream - Bool close OutputStream or not
+     * @param buffer - Array<UInt8> the buffer array
+     *
+     * @return Int64 - The size
+     */

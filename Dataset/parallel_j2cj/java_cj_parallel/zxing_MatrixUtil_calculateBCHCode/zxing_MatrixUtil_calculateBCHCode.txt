@@ -1,0 +1,2 @@
+  // Calculate BCH (Bose-Chaudhuri-Hocquenghem) code for "value" using polynomial "poly". The BCH
+  // code is used for encoding type information and version information.

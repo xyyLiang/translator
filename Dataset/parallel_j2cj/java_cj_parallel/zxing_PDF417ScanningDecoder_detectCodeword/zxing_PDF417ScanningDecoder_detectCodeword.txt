@@ -1,0 +1,13 @@
+/**
+ * Detects a codeword in the specified region of the image.
+ *
+ * @param image            The BitMatrix representing the image.
+ * @param minColumn        The minimum column index for the detection region.
+ * @param maxColumn        The maximum column index for the detection region.
+ * @param leftToRight      True if reading is in the left-to-right direction, false otherwise.
+ * @param startColumn      The start column for detecting the codeword.
+ * @param imageRow         The row index of the image where the codeword is expected to be found.
+ * @param minCodewordWidth The minimum expected width of the codeword.
+ * @param maxCodewordWidth The maximum expected width of the codeword.
+ * @return The detected Codeword object, or null if no codeword is found.
+ */

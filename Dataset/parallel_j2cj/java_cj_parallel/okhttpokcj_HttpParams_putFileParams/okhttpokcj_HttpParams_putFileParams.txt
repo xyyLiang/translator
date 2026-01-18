@@ -1,0 +1,6 @@
+/**
+ * Adds multiple file parameters with the specified key to this object.
+ *
+ * @param key   the key for the file parameters
+ * @param files the list of files to be added
+ */

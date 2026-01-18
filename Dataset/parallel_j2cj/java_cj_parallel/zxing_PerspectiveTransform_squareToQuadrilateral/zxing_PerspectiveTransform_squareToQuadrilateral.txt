@@ -1,0 +1,13 @@
+/**
+ * Computes a perspective transformation from a square to a quadrilateral.
+ *
+ * @param x0 The x-coordinate of the first corner of the square.
+ * @param y0 The y-coordinate of the first corner of the square.
+ * @param x1 The x-coordinate of the second corner of the square.
+ * @param y1 The y-coordinate of the second corner of the square.
+ * @param x2 The x-coordinate of the third corner of the square.
+ * @param y2 The y-coordinate of the third corner of the square.
+ * @param x3 The x-coordinate of the fourth corner of the square.
+ * @param y3 The y-coordinate of the fourth corner of the square.
+ * @return The perspective transformation.
+ */

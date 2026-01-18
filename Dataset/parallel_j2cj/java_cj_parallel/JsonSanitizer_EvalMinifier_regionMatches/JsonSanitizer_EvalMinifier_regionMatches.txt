@@ -1,0 +1,14 @@
+/**
+ * Compares two regions of the specified character sequences. The regions to be compared are defined by the
+ * starting and ending indices {@code as} (inclusive) and {@code ae} (exclusive) for sequence {@code a},
+ * and {@code bs} (inclusive) and {@code be} (exclusive) for sequence {@code b}. Returns true if the
+ * specified regions of the two character sequences are equal; otherwise, returns false.
+ *
+ * @param a  the first character sequence
+ * @param as the starting index of the region in the first character sequence (inclusive)
+ * @param ae the ending index of the region in the first character sequence (exclusive)
+ * @param b  the second character sequence
+ * @param bs the starting index of the region in the second character sequence (inclusive)
+ * @param be the ending index of the region in the second character sequence (exclusive)
+ * @return true if the specified regions of the two character sequences are equal; false otherwise
+ */

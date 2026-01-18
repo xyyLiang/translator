@@ -1,0 +1,19 @@
+    /**
+     * Returns the string content in the gzip stream.
+     * Read and decompress the data from the InputStream stream to be decompressed,
+     * and convert it to string format.
+     *
+     * @param ins is input stream.
+     *
+     * @return The return type of String, returns the string content in the gzip stream.
+     * @since 0.37.2
+     */
+    /*
+    * GZIPInputStream:
+    *    This class implements a stream filter for reading compressed data in GZIP file format.
+    * GZIPInputStream.read:
+    *    Decompresses bytes into the specified buffer. Returns the actual number of bytes after decompression.
+    * DecompressInputStream. read (outBuf: Array<Byte>):
+    *  Read and decompress data from the InputStream stream to be decompressed,
+    *  and place it in the outBuf array.
+    */

@@ -1,0 +1,6 @@
+    /**
+     * revocation token.
+     *
+     * @param tokenToRevoke of String, the token to revoke
+     * @param tokenTypeHint of Option<TokenTypeHint>, the type of token to revoke
+     */

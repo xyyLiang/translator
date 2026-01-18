@@ -1,0 +1,7 @@
+/**
+ * Checks the given boolean expression and throws an {@code IllegalArgumentException} if it evaluates to false.
+ * 
+ * @param expression The boolean expression to check.
+ * @param message    The error message to include in the exception if the expression is false.
+ * @throws IllegalArgumentException if the expression is false.
+ */

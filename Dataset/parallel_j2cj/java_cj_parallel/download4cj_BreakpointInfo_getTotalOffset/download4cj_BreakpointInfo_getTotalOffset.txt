@@ -1,0 +1,5 @@
+/**
+ * Returns the total offset of all blocks.
+ *
+ * @return the total offset of all blocks.
+ */

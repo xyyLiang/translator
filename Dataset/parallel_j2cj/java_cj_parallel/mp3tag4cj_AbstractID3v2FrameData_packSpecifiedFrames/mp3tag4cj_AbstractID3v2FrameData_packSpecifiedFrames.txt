@@ -1,0 +1,11 @@
+/**
+ * Packs the specified frames of the ID3v2 tag into the provided byte array starting at the specified offset.
+ * Only frames with the specified ID (if provided) and frames without the specified ID (if provided) will be packed.
+ *
+ * @param bytes   the byte array to pack the frames into
+ * @param offset  the offset within the byte array to start packing the frames
+ * @param onlyId  the ID of the frames to be packed (null to pack all frames)
+ * @param notId   the ID of the frames not to be packed (null to pack all frames)
+ * @return the updated offset after packing the frames
+ * @throws NotSupportedException if the specified ID is not supported
+ */

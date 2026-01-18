@@ -1,0 +1,6 @@
+  /**
+   * Drops the entry for {@code key} if it exists and can be removed. Entries
+   * actively being edited cannot be removed.
+   *
+   * @return true if an entry was removed.
+   */

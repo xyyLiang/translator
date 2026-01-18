@@ -1,0 +1,7 @@
+/**
+ * Retrieves the specified row from the delegate and inverts the pixel values.
+ *
+ * @param y   The row index.
+ * @param row The byte array representing the row.
+ * @return The inverted row byte array.
+ */

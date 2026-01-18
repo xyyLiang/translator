@@ -1,0 +1,5 @@
+/**
+ * Visits each node in the provided list, invoking the appropriate visit method based on the node type.
+ *
+ * @param nodes The list of nodes to visit.
+ */

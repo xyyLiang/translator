@@ -1,0 +1,9 @@
+/**
+ * Scans the block of bytes for the start of an MPEG frame.
+ * 
+ * @param bytes         The array of bytes to scan.
+ * @param bytesRead     The number of bytes read in the buffer.
+ * @param absoluteOffset The absolute offset of the block within the file.
+ * @param offset        The current offset within the block.
+ * @return The offset of the start of the MPEG frame within the block, or the current offset if no frame start is found.
+ */

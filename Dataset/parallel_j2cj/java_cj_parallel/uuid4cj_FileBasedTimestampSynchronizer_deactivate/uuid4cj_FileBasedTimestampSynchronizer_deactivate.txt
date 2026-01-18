@@ -1,0 +1,5 @@
+/**
+ * Deactivates this timestamp synchronizer, releasing any resources it holds.
+ * 
+ * @throws IOException If an I/O error occurs while deactivating the timestamp synchronizer.
+ */

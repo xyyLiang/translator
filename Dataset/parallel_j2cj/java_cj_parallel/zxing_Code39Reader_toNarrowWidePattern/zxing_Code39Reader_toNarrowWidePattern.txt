@@ -1,0 +1,6 @@
+/**
+ * Converts an array of counters into a narrow-wide pattern.
+ *
+ * @param counters An array of counter values.
+ * @return The narrow-wide pattern represented as an integer, or {@code -1} if the pattern cannot be determined.
+ */

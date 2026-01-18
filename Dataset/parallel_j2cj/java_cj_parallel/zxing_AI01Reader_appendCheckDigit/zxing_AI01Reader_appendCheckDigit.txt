@@ -1,0 +1,7 @@
+/**
+ * Appends the check digit to the provided StringBuilder.
+ * The check digit is calculated based on the GTIN information encoded in the StringBuilder.
+ *
+ * @param buf             The StringBuilder containing the GTIN information.
+ * @param currentPos      The current position in the StringBuilder where encoding starts.
+ */

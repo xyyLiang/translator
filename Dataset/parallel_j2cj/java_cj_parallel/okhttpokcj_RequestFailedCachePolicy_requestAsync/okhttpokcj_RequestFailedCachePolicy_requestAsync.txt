@@ -1,0 +1,6 @@
+/**
+ * Asynchronous method for making requests and handling responses with a callback
+ *
+ * @param cacheEntity The cache entity
+ * @param callback    The callback
+ */

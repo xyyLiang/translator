@@ -1,0 +1,9 @@
+/**
+ * Fills a byte array with the specified integer value.
+ *
+ * @param value the integer value to fill the array with
+ * @param offset the starting index in the array
+ * @param outbuf the byte array to fill
+ * @param length the number of bytes to fill
+ * @return the index after the last filled byte
+ */

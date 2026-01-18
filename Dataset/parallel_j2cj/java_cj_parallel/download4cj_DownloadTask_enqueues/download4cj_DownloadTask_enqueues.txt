@@ -1,0 +1,8 @@
+    /**
+     * Enqueue a bunch of {@code tasks} with the listener to the downloader dispatcher.
+     * This operation is specially optimize for handle tasks instead of single task.
+     *
+     * @param tasks    the tasks will be executed when resources is available on the dispatcher
+     *                 thread-pool.
+     * @param listener the listener is used for listen each {@code tasks} lifecycle.
+     */

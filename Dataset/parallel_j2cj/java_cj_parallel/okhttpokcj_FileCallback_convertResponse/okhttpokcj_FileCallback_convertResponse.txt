@@ -1,0 +1,7 @@
+/**
+ * Converts the response to a file and closes the response.
+ * 
+ * @param response the response to convert
+ * @return the converted file
+ * @throws Throwable if an error occurs during conversion
+ */

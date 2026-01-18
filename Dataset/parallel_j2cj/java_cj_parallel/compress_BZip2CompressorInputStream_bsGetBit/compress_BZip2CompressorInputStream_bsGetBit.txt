@@ -1,0 +1,7 @@
+/**
+ * Retrieves a single bit from the bit input stream.
+ * 
+ * @param bin The bit input stream.
+ * @return True if the bit is set, false otherwise.
+ * @throws IOException If an I/O error occurs.
+ */

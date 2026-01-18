@@ -1,0 +1,5 @@
+/**
+ * Retrieves the entire matrix from the delegate and inverts the pixel values.
+ *
+ * @return The inverted matrix byte array.
+ */

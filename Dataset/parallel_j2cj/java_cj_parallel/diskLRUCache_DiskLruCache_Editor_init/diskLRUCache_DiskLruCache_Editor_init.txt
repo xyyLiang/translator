@@ -1,0 +1,5 @@
+/**
+ * Constructs a new Editor associated with the given entry.
+ * 
+ * @param entry The entry to associate the editor with.
+ */

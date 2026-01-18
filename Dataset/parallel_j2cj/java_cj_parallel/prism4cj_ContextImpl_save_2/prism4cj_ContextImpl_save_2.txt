@@ -1,0 +1,6 @@
+/**
+ * Saves the cloned Prism4j pattern into the cache.
+ *
+ * @param origin The original Prism4j pattern.
+ * @param clone  The cloned Prism4j pattern to save.
+ */

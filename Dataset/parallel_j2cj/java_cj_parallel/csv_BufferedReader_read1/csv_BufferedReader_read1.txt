@@ -1,0 +1,10 @@
+    /**
+     * Reads characters into a portion of an array, reading from the underlying
+     * stream if necessary.
+     *
+     * @param  cbuf  An array to store read contents
+     *
+     * @param  off   Start position of array
+     *
+     * @param  len  Number of bytes read
+     */

@@ -1,0 +1,10 @@
+/**
+ * Parses the found finder pattern from the provided row.
+ *
+ * @param row          The BitArray row to parse from.
+ * @param rowNumber    The row number.
+ * @param right        Indicates whether the right finder pattern is being parsed.
+ * @param startEnd     An array containing the start and end positions of the finder pattern.
+ * @return The parsed FinderPattern.
+ * @throws NotFoundException if the finder pattern cannot be parsed.
+ */

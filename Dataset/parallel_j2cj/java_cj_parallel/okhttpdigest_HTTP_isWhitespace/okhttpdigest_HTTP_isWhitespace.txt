@@ -1,0 +1,6 @@
+/**
+ * Checks if the character is whitespace.
+ * 
+ * @param ch the character to check
+ * @return true if the character is whitespace, false otherwise
+ */

@@ -1,0 +1,8 @@
+/**
+ * Parses parameters of the form name/value pairs.
+ *
+ * @param value  the string to parse
+ * @param parser the parser to use, or {@code null} to use the default
+ * @return an array of parsed parameters
+ * @throws ParseException if parsing fails due to invalid input
+ */

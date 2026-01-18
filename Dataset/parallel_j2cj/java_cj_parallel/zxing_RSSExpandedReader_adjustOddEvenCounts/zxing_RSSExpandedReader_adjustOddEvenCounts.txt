@@ -1,0 +1,6 @@
+/**
+ * Adjusts the odd and even counts based on the number of modules.
+ * 
+ * @param numModules The number of modules.
+ * @throws NotFoundException If adjustment fails.
+ */

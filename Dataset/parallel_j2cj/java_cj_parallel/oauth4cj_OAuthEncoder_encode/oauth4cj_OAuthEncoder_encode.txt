@@ -1,0 +1,9 @@
+    /**
+     * Convert strings to application/x-wwwww-form-urlencoded format using a specific character set.
+     * only supported UTF-8 Character Set.
+     *
+     * @param the string to be encoded.
+     *
+     * @return The return type of String, returns the encoded string.
+     * @since 0.37.2
+     */

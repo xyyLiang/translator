@@ -1,0 +1,12 @@
+    /**
+     * Parses the header-part and returns as key/value
+     * pairs.
+     *
+     * If there are multiple headers of the same names, the name
+     * will map to a comma-separated list containing the values.
+     *
+     * @param headerPart The  header-part  of the current
+     *                   encapsulation.
+     *
+     * @return A Map containing the parsed HTTP request headers.
+     */

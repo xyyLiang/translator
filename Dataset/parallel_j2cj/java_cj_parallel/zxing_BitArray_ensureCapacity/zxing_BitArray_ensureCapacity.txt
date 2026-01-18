@@ -1,0 +1,6 @@
+/**
+ * Ensures that the internal storage array has sufficient capacity to accommodate the specified size.
+ * If the specified size exceeds the current capacity, the internal array is resized accordingly.
+ *
+ * @param newSize The new size to ensure capacity for.
+ */

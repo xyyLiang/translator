@@ -1,0 +1,9 @@
+/**
+ * Decodes a single row of a Codabar barcode into a {@link Result} object.
+ *
+ * @param rowNumber The row number of the row being decoded.
+ * @param row       The BitArray representing the row to decode.
+ * @param hints     The decoding hints, if any.
+ * @return The decoded result.
+ * @throws NotFoundException If no valid Codabar pattern is found.
+ */

@@ -1,0 +1,17 @@
+    /**
+     * <p>
+     * Determines whether the date and (optionally) time of the given Calendar 
+     * instance falls on a scheduled fire-time of this trigger.
+     * </p>
+     * 
+     * <p>
+     * Note that the value returned is NOT validated against the related
+     * org.quartz.Calendar (if any)
+     * </p>
+     * 
+     * @param test the date to compare
+     * @param dayOnly if set to true, the method will only determine if the
+     * trigger will fire during the day represented by the given Calendar
+     * (hours, minutes and seconds will be ignored).
+     * @see #willFireOn(Calendar)
+     */

@@ -1,0 +1,6 @@
+/**
+ * Calculates the number of running asynchronous download calls.
+ * This method subtracts the count of asynchronously canceled flying calls from the total count of running asynchronous calls.
+ *
+ * @return The number of running asynchronous download calls.
+ */

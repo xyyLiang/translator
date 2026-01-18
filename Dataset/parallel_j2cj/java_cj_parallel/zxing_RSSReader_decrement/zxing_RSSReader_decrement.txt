@@ -1,0 +1,6 @@
+/**
+ * Decrements the value in the array at the index with the lowest error value.
+ *
+ * @param array  The array to be decremented.
+ * @param errors The array containing error values.
+ */

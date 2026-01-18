@@ -1,0 +1,6 @@
+/**
+ * Returns the clean file associated with the specified index for this entry.
+ * 
+ * @param i The index of the value.
+ * @return The clean file associated with the specified index.
+ */

@@ -1,0 +1,10 @@
+/**
+ * Assembles block information for a download task based on the instance length and whether the server accepts range requests.
+ * Determines the number of blocks to be used for downloading, resets the block information in the provided BreakpointInfo,
+ * and calculates the start offset and content length for each block.
+ *
+ * @param task           The DownloadTask to assemble blocks for.
+ * @param info           The BreakpointInfo containing information about the download.
+ * @param instanceLength The total length of the downloadable content.
+ * @param isAcceptRange  Indicates whether the server supports range requests.
+ */

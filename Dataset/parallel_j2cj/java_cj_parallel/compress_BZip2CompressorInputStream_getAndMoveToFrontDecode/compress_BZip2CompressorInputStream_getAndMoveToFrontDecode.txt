@@ -1,0 +1,5 @@
+/**
+ * Decodes the MTF (Move To Front) encoded data.
+ * 
+ * @throws IOException If an I/O error occurs.
+ */

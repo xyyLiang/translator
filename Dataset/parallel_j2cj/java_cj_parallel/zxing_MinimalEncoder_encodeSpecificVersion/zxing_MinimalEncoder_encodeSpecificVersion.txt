@@ -1,0 +1,7 @@
+/**
+ * Encodes the string using a specific QR code version.
+ *
+ * @param version The QR code version to use for encoding.
+ * @return The result list containing the encoded data.
+ * @throws WriterException If an error occurs during encoding.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Randomizes the state of a character using a pseudo-random algorithm based on the provided codeword position.
+ *
+ * @param ch               The character to be randomized.
+ * @param codewordPosition The position of the codeword in the encoding.
+ * @return The randomized character.
+ */

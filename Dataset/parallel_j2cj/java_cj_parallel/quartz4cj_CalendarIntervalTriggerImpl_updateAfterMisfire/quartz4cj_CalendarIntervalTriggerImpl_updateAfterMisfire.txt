@@ -1,0 +1,14 @@
+    /**
+     * <p>
+     * Updates the <code>DateIntervalTrigger</code>'s state based on the
+     * MISFIRE_INSTRUCTION_XXX that was selected when the <code>DateIntervalTrigger</code>
+     * was created.
+     * </p>
+     * 
+     * <p>
+     * If the misfire instruction is set to MISFIRE_INSTRUCTION_SMART_POLICY,
+     * then the following scheme will be used: </p>
+     * <ul>
+     * <li>The instruction will be interpreted as <code>MISFIRE_INSTRUCTION_FIRE_ONCE_NOW</code>
+     * </ul>
+     */

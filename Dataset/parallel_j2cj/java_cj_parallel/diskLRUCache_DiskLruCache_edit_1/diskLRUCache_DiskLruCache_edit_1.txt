@@ -1,0 +1,8 @@
+/**
+ * Begins editing the value associated with the given key.
+ * 
+ * @param key                    The key of the entry to edit.
+ * @param expectedSequenceNumber The expected sequence number of the entry, or {@link #ANY_SEQUENCE_NUMBER} if any sequence number is accepted.
+ * @return The editor for the entry, or null if the snapshot is stale or another edit is in progress.
+ * @throws IOException If an I/O error occurs while editing the entry.
+ */

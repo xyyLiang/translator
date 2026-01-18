@@ -1,0 +1,9 @@
+/**
+ * Packs four 8-bit integers into a single 32-bit integer.
+ *
+ * @param a the first 8-bit integer (lower 8 bits)
+ * @param b the second 8-bit integer (next 8 bits)
+ * @param c the third 8-bit integer (next 8 bits)
+ * @param d the fourth 8-bit integer (upper 8 bits)
+ * @return the 32-bit integer containing the packed values
+ */

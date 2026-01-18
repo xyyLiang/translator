@@ -1,0 +1,7 @@
+/**
+ * Updates the stored information with the provided breakpoint information.
+ *
+ * @param breakpointInfo the BreakpointInfo object containing the updated information.
+ * @return true if the update is successful, false otherwise.
+ * @throws NullPointerException if the provided breakpointInfo is null.
+ */

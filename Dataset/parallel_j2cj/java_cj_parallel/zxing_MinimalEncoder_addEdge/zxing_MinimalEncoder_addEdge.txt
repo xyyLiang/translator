@@ -1,0 +1,7 @@
+/**
+ * Adds an edge to the specified position in the edges array.
+ *
+ * @param edges The array of edges.
+ * @param position The position to add the edge to.
+ * @param edge The edge to add.
+ */

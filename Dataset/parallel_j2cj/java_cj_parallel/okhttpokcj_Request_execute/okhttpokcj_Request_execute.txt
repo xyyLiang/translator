@@ -1,0 +1,5 @@
+/**
+ * Non-blocking method for asynchronous requests, but callbacks are executed in a separate thread.
+ * This method sets up the callback and executes the call asynchronously.
+ * @param callback the callback for handling the response
+ */

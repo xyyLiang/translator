@@ -1,0 +1,3 @@
+    /**
+     * Clears the cache of bits that have been read from the underlying stream but not yet provided via {@link #readBits}.
+     */

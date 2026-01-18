@@ -1,0 +1,8 @@
+/**
+ * Sets the "Compilation" frame in the ID3v2 tag to indicate whether the audio file
+ * is part of a compilation album.
+ * If the compilation parameter is true, it indicates that the audio file is part of
+ * a compilation album; otherwise, it indicates that it is not part of a compilation.
+ *
+ * @param compilation true if the audio file is part of a compilation album, false otherwise
+ */

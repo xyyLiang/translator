@@ -1,0 +1,16 @@
+    /**
+     * Ensures that the output corresponding to {@code jsonish[start:end]} is a
+     * valid JSON string that has the same meaning when parsed by Javascript
+     * {@code eval}.
+     * <ul>
+     *   <li>Making sure that it is fully quoted with double-quotes.
+     *   <li>Escaping any Javascript newlines : CR, LF, U+2028, U+2029
+     *   <li>Escaping HTML special characters to allow it to be safely embedded
+     *       in HTML `script` elements and XML {@code <!CDATA[...]]>}
+     *       sections.
+     *   <li>Rewrite hex, octal, and other escapes that are valid in Javascript
+     *       but not in JSON.
+     * </ul>
+     * @param start inclusive
+     * @param end   exclusive
+     */

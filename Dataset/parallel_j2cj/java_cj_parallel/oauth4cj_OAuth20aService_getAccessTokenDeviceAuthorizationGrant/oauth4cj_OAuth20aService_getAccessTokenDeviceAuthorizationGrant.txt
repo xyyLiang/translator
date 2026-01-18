@@ -1,0 +1,7 @@
+    /**
+     * Obtaining device authorization codes through device authorization.
+     *
+     * @param deviceAuthorization of DeviceAuthorization, the device authorization response
+     *
+     * @return OAuth2AccessToken return the OAuth2AccessToken.
+     */

@@ -1,0 +1,6 @@
+/**
+ * Adds the specified ID3v2 frame to the tag, optionally replacing any existing frames with the same ID.
+ *
+ * @param frame   the ID3v2 frame to add
+ * @param replace {@code true} to replace any existing frames with the same ID, {@code false} to append the frame
+ */

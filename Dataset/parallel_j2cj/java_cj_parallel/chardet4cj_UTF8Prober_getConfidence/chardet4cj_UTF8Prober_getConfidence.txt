@@ -1,0 +1,5 @@
+    /**
+     * Calculates the confidence level of the detected encoding.
+     *
+     * @return the confidence level of the detected encoding
+     */

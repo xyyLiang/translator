@@ -1,0 +1,10 @@
+/**
+ * Scans a block of bytes for MPEG frames and updates frame-related information.
+ *
+ * @param bytes          The byte array containing the block of bytes to scan.
+ * @param bytesRead      The number of bytes read into the byte array.
+ * @param absoluteOffset The absolute offset in the file where the block starts.
+ * @param offset         The offset within the byte array to start scanning from.
+ * @return The offset after scanning the block.
+ * @throws InvalidDataException If invalid data is encountered during scanning.
+ */

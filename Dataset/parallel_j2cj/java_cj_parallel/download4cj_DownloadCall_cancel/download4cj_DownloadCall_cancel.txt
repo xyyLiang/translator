@@ -1,0 +1,5 @@
+/**
+ * Attempts to cancel the download task.
+ *
+ * @return True if the cancellation attempt is successful, false otherwise.
+ */

@@ -1,0 +1,8 @@
+  /**
+   * Samples a line.
+   *
+   * @param p1   start point (inclusive)
+   * @param p2   end point (exclusive)
+   * @param size number of bits
+   * @return the array of bits as an int (first bit is high-order bit of result)
+   */

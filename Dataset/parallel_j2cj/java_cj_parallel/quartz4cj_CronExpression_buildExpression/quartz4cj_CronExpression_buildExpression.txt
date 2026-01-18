@@ -1,0 +1,6 @@
+/**
+ * Builds the expression by parsing the provided expression string.
+ * 
+ * @param expression the cron expression string
+ * @throws ParseException if there is an error parsing the expression
+ */

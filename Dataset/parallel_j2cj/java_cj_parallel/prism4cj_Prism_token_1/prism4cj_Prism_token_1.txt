@@ -1,0 +1,7 @@
+/**
+ * Creates a token with the given name and patterns.
+ *
+ * @param name     The name of the token.
+ * @param patterns The patterns associated with the token.
+ * @return The created token.
+ */

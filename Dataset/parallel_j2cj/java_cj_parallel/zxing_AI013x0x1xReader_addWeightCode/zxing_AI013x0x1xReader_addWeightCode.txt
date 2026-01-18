@@ -1,0 +1,6 @@
+/**
+ * Adds the weight code to the provided StringBuilder.
+ *
+ * @param buf    The StringBuilder to which the weight code will be appended.
+ * @param weight The weight value to be encoded.
+ */

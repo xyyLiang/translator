@@ -1,0 +1,5 @@
+/**
+ * Callback method invoked when the request encounters an error.
+ * 
+ * @param error the error response
+ */

@@ -1,0 +1,2 @@
+  // Create a new state representing this state, with a temporary shift
+  // to a different mode to output a single value.

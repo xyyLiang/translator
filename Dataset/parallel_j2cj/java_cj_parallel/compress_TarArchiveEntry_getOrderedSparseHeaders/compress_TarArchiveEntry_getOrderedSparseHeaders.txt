@@ -1,0 +1,7 @@
+    /**
+     * Gets this entry's sparse headers ordered by offset with all empty sparse sections at the start filtered out.
+     *
+     * @return immutable list of this entry's sparse headers, never null
+     * @since 1.21
+     * @throws IOException if the list of sparse headers contains blocks that overlap
+     */

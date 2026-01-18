@@ -1,0 +1,13 @@
+    /**
+     * If the status code of the response is 200,
+     * obtain the field information corresponding to the device authorization response from the response body,
+     * encapsulate it into a DeviceAuthorization object, and return it.
+     * If the status code of the response is not 200, the generateError function is called,
+     * throwing an exception OAuth2AccessTokenErrorResponseException.
+     *
+     * @Param check get messages from the response
+     *
+     * @Return DeviceAuthorization returns the generated DeviceAuthorization instance.
+     * @throws IOException If an error occurs when obtaining the response body as a string,
+     *                     an IOException will be thrown.
+     */

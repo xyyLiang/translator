@@ -1,0 +1,8 @@
+/**
+ * Replaces all occurrences of a specified substring in a string with another substring.
+ *
+ * @param s          the original string
+ * @param replaceThis the substring to be replaced
+ * @param withThis    the substring to replace all occurrences of replaceThis
+ * @return the resulting string after substitution
+ */

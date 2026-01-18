@@ -1,0 +1,11 @@
+    /**
+     * <p>
+     * Returns a handle to the Scheduler produced by this factory.
+     * </p>
+     *
+     * <p>
+     * If one of the <code>initialize</code> methods has not be previously
+     * called, then the default (no-arg) <code>initialize()</code> method
+     * will be called by this method.
+     * </p>
+     */

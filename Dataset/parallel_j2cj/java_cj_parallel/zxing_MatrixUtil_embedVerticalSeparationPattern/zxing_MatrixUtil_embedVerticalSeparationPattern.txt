@@ -1,0 +1,8 @@
+/**
+ * Embeds a vertical separation pattern into the ByteMatrix.
+ *
+ * @param xStart The x-coordinate of the starting position.
+ * @param yStart The y-coordinate of the starting position.
+ * @param matrix The ByteMatrix to embed the pattern into.
+ * @throws WriterException if the pattern cannot be embedded due to non-empty cells.
+ */

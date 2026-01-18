@@ -1,0 +1,6 @@
+/**
+ * Synchronously executes the request and returns the response.
+ * 
+ * @param cacheEntity the cache entity
+ * @return the response
+ */

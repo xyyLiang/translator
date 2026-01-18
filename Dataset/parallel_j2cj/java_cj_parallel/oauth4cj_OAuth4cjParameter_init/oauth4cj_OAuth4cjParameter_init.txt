@@ -1,0 +1,7 @@
+    /**
+     * Create a OAuth4cjParameter instance according to the parameter.
+     *
+     * @param key of String
+     * @param value of String
+     * @since 0.37.2
+     */

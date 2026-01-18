@@ -1,0 +1,8 @@
+/**
+ * Returns a trimmed substring of the buffer.
+ * 
+ * @param beginIndex  the beginning index (inclusive)
+ * @param endIndex    the ending index (exclusive)
+ * @return the trimmed substring of the buffer
+ * @throws IndexOutOfBoundsException if the indices are invalid
+ */

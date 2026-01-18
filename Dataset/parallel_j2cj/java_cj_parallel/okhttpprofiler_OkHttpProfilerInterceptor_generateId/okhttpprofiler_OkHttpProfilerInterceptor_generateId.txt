@@ -1,0 +1,5 @@
+    /**
+     * Generates unique string id via a day and time
+     * Based on a current time.
+     * @return string id
+     */

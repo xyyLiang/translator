@@ -1,0 +1,12 @@
+    /*
+     * Maps the given file name to the name
+     * that the file should have after compression.
+     * Common file types with custom suffixes for compressed versions
+     * are automatically detected and correctly mapped.
+     * For example the name "package.tar" is mapped to "package.tgz".
+     * If no custom mapping is applicable, then
+     * the default ".gz" suffix is appended to the file name.
+     *
+     * @param fileName name of a file
+     * @return name of the corresponding compressed file
+     */

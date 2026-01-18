@@ -1,0 +1,5 @@
+  /**
+   * @param from index to start looking for unset bit
+   * @return index of next unset bit, or {@code size} if none are unset until the end
+   * @see #getNextSet(int)
+   */

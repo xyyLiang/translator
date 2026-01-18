@@ -1,0 +1,8 @@
+    /**
+     * init
+     *
+     * @param input - InputStream The InputStream
+     * @param boundary - Option<Array<UInt8>> The data Array
+     * @param bufSize - Int64 The buffer size
+     * @param pNotifier - Option<ProgressNotifier> The ProgressNotifier
+     */

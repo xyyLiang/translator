@@ -1,0 +1,6 @@
+/**
+ * Extracts the lyrics frame data from the specified ID.
+ *
+ * @param id the ID of the frame containing the lyrics
+ * @return the lyrics frame data, or {@code null} if no such frame is found or an error occurs
+ */

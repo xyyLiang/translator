@@ -1,0 +1,6 @@
+/**
+ * Clones a Prism4j grammar.
+ *
+ * @param grammar The grammar to clone.
+ * @return The cloned Prism4j grammar.
+ */

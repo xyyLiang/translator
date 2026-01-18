@@ -1,0 +1,5 @@
+/**
+ * Executes the download task.
+ *
+ * @throws InterruptedException If the execution is interrupted.
+ */

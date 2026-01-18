@@ -1,0 +1,6 @@
+/**
+ * Looks up the country identifier based on the product code prefix.
+ *
+ * @param productCode The product code.
+ * @return The country identifier associated with the product code prefix.
+ */

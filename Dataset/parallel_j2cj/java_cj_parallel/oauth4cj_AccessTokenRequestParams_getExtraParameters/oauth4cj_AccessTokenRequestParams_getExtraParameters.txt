@@ -1,0 +1,5 @@
+    /**
+     * Get Extra Parameters.
+     *
+     * @return HashMap<String, String> extra parameters map
+     */

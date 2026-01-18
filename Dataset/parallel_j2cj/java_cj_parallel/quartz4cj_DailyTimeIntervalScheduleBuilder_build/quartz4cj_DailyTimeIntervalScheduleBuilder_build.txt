@@ -1,0 +1,7 @@
+    /**
+     * Build the actual Trigger -- NOT intended to be invoked by end users,
+     * but will rather be invoked by a TriggerBuilder which this 
+     * ScheduleBuilder is given to.
+     * 
+     * @see TriggerBuilder#withSchedule(ScheduleBuilder)
+     */

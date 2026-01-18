@@ -1,0 +1,10 @@
+    /**
+     * Writes an entry's header information to a header buffer.
+     *
+     * @param outbuf   The tar entry header buffer to fill in.
+     * @param encoding encoding to use when writing the file name.
+     * @param starMode whether to use the star/GNU tar/BSD tar extension for numeric fields if their value doesn't fit in the maximum size of standard tar
+     *                 archives
+     * @since 1.4
+     * @throws IOException on error
+     */

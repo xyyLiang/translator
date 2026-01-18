@@ -1,0 +1,5 @@
+/**
+ * Trims the cache to the maximum size by evicting least recently used entries.
+ * 
+ * @throws IOException If an I/O error occurs while evicting entries.
+ */

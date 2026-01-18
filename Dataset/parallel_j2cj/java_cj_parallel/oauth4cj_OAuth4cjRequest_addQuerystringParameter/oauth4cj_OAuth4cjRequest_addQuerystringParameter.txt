@@ -1,0 +1,7 @@
+    /**
+     * Add a QueryString parameter.
+     *
+     * @param key of String, key the parameter name
+     * @param value of String, value the parameter value
+     * @since 0.37.2
+     */

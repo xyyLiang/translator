@@ -1,0 +1,6 @@
+/**
+ * Parses the extension 5 string of an UPC/EAN extension barcode.
+ *
+ * @param raw The raw extension string.
+ * @return The parsed extension 5 string.
+ */

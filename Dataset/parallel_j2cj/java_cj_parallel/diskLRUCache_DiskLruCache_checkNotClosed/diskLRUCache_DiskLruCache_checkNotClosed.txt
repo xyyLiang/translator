@@ -1,0 +1,5 @@
+/**
+ * Checks if the cache is closed and throws an exception if it is.
+ * 
+ * @throws IllegalStateException If the cache is closed.
+ */

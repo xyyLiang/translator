@@ -1,0 +1,8 @@
+/**
+ * Multiplies this polynomial by a monomial, represented by a degree and a coefficient.
+ *
+ * @param degree      The degree of the monomial.
+ * @param coefficient The coefficient of the monomial.
+ * @return The result of the multiplication by the monomial.
+ * @throws IllegalArgumentException If the degree is negative.
+ */

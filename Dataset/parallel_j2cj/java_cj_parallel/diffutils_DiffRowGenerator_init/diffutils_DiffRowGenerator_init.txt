@@ -1,0 +1,7 @@
+    /**
+     * Creates a DiffRowGenerator
+     * 
+     * @param The Builder
+     * 
+     * @since 0.39.3
+     */

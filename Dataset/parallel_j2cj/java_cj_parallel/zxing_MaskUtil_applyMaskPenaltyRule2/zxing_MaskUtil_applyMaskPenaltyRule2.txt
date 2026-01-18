@@ -1,0 +1,5 @@
+  /**
+   * Apply mask penalty rule 2 and return the penalty. Find 2x2 blocks with the same color and give
+   * penalty to them. This is actually equivalent to the spec's rule, which is to find MxN blocks and give a
+   * penalty proportional to (M-1)x(N-1), because this is the number of 2x2 blocks inside such a block.
+   */

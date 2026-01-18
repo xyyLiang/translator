@@ -1,0 +1,9 @@
+    /**
+     * Start the request to retrieve the access token. 
+     * The optionally provided callback will be called with the Token when it is available.
+     *
+     * @param requestToken request token (obtained previously or null)
+     * @param oauthVerifier oauth_verifier
+     * @param callback OAuthAsyncRequestCallback instance
+     * @return Future<OAuth1AccessToken> Future<OAuth1AccessToken> instance
+     */

@@ -1,0 +1,9 @@
+    /**
+     * sets up the utility with a map of known compressed to uncompressed suffix mappings and the default extension of the format.
+     *
+     * @param uncompressSuffix Map from common file name suffixes of compressed files to the corresponding suffixes of uncompressed files. For example: from
+     *                         ".tgz" to ".tar". This map also contains format-specific suffixes like ".gz" and "-z". These suffixes are mapped to the empty
+     *                         string, as they should simply be removed from the file name when the file is uncompressed.
+     *
+     * @param defaultExtension the format's default extension like ".gz"
+     */

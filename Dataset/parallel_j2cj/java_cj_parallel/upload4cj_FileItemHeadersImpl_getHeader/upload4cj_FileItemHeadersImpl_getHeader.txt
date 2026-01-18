@@ -1,0 +1,6 @@
+    /**
+     * get Header
+     *
+     * @param name - String The header name
+     * @return Option<String> - The header
+     */

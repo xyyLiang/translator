@@ -1,0 +1,5 @@
+/**
+ * Checks if the download process is interrupted.
+ *
+ * @return True if the download process is interrupted, false otherwise.
+ */

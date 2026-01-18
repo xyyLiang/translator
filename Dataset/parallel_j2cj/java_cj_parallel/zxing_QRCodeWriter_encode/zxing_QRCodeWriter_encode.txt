@@ -1,0 +1,11 @@
+/**
+ * Encodes the given contents into a QR Code matrix with the specified dimensions.
+ *
+ * @param contents The string to encode.
+ * @param format The barcode format (must be BarcodeFormat.QR_CODE).
+ * @param width The desired width of the QR Code matrix.
+ * @param height The desired height of the QR Code matrix.
+ * @param hints Additional hints to the encoder (optional).
+ * @return The BitMatrix representing the QR Code matrix.
+ * @throws WriterException If an error occurs during encoding.
+ */

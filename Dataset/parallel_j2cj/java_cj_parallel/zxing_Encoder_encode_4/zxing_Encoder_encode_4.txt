@@ -1,0 +1,9 @@
+/**
+ * Encodes the given content into a QR code.
+ * 
+ * @param content The content to encode.
+ * @param ecLevel The error correction level to use.
+ * @param hints Additional hints for the encoding process.
+ * @return The encoded QR code.
+ * @throws WriterException If encoding fails.
+ */

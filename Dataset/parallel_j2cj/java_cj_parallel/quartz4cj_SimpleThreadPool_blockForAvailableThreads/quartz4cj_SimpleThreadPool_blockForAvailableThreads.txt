@@ -1,0 +1,5 @@
+/**
+ * Blocks until there are available threads in the pool.
+ * 
+ * @return The number of available threads in the pool.
+ */

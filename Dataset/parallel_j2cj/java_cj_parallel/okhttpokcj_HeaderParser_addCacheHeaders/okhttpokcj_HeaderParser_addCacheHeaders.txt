@@ -1,0 +1,15 @@
+/**
+ * Adds default request headers for each request and returns the cache entity if available.
+ * Cache-Control: max-age=0                            (in seconds)
+ * If-Modified-Since: Mon, 19 Nov 2012 08:38:01 GMT    Last modified time of the cached file.
+ * If-None-Match: "0693f67a67cc1:0"                    ETag value of the cached file.
+ * Cache-Control: no-cache                             Do not use cache.
+ * Pragma: no-cache                                    Do not use cache.
+ * Accept-Language: zh-CN,zh;q=0.8                     Supported languages.
+ * User-Agent:                                         User agent, including hardware platform, system software, application software, and user preferences.
+ * Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+ *
+ * @param request     the request object
+ * @param cacheEntity the cache entity object
+ * @param cacheMode   the cache mode
+ */

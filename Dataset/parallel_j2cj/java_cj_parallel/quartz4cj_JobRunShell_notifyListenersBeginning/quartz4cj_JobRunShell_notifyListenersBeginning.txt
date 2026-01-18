@@ -1,0 +1,7 @@
+/**
+ * Notifies the listeners that the job is beginning execution.
+ *
+ * @param jobExCtxt the JobExecutionContext
+ * @return true if the job execution is not vetoed by any listener, false otherwise
+ * @throws VetoedException if the job execution is vetoed by a listener
+ */

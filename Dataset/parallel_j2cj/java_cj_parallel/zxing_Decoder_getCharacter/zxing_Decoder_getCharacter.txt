@@ -1,0 +1,6 @@
+  /**
+   * Gets the character (or string) corresponding to the passed code in the given table
+   *
+   * @param table the table used
+   * @param code the code of the character
+   */

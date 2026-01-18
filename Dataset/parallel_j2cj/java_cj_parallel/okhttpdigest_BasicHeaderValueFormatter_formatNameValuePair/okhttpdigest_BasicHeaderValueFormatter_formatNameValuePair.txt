@@ -1,0 +1,8 @@
+/**
+ * Formats the given name-value pair and appends it to the provided StringBuilder.
+ *
+ * @param charBuffer The StringBuilder to which the formatted name-value pair will be appended.
+ * @param nvp The name-value pair to format.
+ * @param quote Flag indicating whether to quote the value.
+ * @return The StringBuilder with the formatted name-value pair appended.
+ */

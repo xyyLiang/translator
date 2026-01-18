@@ -1,0 +1,8 @@
+    /**
+     * Retrieves the boundary from the <code>Content-type</code> header.
+     *
+     * @param contentType The value of the content type header from which to
+     *                    extract the boundary value.
+     *
+     * @return The boundary, as a byte array.
+     */

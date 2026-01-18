@@ -1,0 +1,5 @@
+    /**
+     * get the FileItemHeaders
+     *
+     * @return FileItemHeaders - The FileItemHeaders
+     */

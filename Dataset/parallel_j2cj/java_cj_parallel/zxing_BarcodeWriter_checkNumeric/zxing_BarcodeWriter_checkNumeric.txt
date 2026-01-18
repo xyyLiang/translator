@@ -1,0 +1,4 @@
+  /**
+   * @param contents string to check for numeric characters
+   * @throws IllegalArgumentException if input contains characters other than digits 0-9.
+   */

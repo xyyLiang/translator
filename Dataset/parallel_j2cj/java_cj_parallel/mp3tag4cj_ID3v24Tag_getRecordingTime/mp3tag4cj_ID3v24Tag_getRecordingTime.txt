@@ -1,0 +1,5 @@
+/**
+ * Gets the recording time from the ID3v2 tag.
+ * 
+ * @return The recording time string.
+ */

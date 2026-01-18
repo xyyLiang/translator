@@ -1,0 +1,5 @@
+/**
+ * Reads the journal file, parsing its contents to reconstruct the cache entries.
+ * 
+ * @throws IOException If an I/O error occurs while reading the journal file or parsing its contents.
+ */

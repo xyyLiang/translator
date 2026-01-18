@@ -1,0 +1,6 @@
+/**
+ * Gets the closest decoded value based on the module bit counts.
+ * 
+ * @param moduleBitCount The array of module bit counts.
+ * @return The closest decoded value.
+ */

@@ -1,0 +1,7 @@
+    /**
+     * Returns true if the first N bytes of an array are all zero
+     *
+     * @param a    The array to check
+     * @param size The number of characters to check (not the size of the array)
+     * @return true if the first N bytes are zero
+     */

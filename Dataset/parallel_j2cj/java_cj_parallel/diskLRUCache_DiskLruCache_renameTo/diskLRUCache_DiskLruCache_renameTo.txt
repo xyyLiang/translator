@@ -1,0 +1,8 @@
+/**
+ * Renames a file, optionally deleting the destination file if it exists.
+ * 
+ * @param from              The source file to rename.
+ * @param to                The destination file to rename to.
+ * @param deleteDestination If true, the destination file will be deleted if it exists.
+ * @throws IOException If an I/O error occurs while renaming the file.
+ */

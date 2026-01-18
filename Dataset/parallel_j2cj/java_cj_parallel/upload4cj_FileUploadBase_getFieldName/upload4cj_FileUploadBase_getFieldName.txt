@@ -1,0 +1,8 @@
+    /**
+     * Retrieves the field name from the Content-disposition
+     * header.
+     *
+     * @param headers A Map containing the HTTP request headers.
+     *
+     * @return The field name for the current encapsulation.
+     */

@@ -1,0 +1,9 @@
+    /**
+     * copy the InputStream
+     *
+     * @param inputStream - Option<InputStream> The InputStream
+     * @param outputStream - Option<OutputStream> The OutputStream
+     * @param closeOutputStream - Bool close OutputStream or not
+     *
+     * @return Int64 - The size
+     */

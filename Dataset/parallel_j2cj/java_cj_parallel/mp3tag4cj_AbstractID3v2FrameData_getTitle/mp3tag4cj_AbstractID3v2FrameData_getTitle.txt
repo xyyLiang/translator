@@ -1,0 +1,6 @@
+    /**
+     * The Function is getTitle, TIT2 or TT2 Identify the corresponding data.
+     * 
+     * @return Type of Option<String>
+     * @since 0.32.5
+     */

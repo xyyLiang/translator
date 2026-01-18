@@ -1,0 +1,3 @@
+/**
+ * Constructs the mapping arrays used in the decompression process.
+ */

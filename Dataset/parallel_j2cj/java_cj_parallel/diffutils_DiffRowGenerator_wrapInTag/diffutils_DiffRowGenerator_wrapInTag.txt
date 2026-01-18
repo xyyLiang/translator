@@ -1,0 +1,10 @@
+    /**
+     * Wrap the given line with the given tag
+     *
+     * @param line the given line
+     * @param tag the tag name without angle brackets, just a word
+     * @param cssClass the optional css class
+     * @return the wrapped string
+     * 
+     * @since 0.39.3
+     */

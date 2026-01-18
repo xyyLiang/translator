@@ -1,0 +1,6 @@
+/**
+ * Checks if the scheduler has started.
+ * It returns true if the scheduler is not shutting down, not closed, not in standby mode, and has been initially started.
+ *
+ * @return true if the scheduler is started, false otherwise
+ */

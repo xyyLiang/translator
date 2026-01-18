@@ -1,0 +1,8 @@
+/**
+ * Merges the left and right row indicator columns to create a single detection result.
+ * 
+ * @param leftRowIndicatorColumn The left row indicator column.
+ * @param rightRowIndicatorColumn The right row indicator column.
+ * @return The merged detection result, or null if both row indicator columns are null.
+ * @throws NotFoundException if the barcode metadata cannot be obtained.
+ */

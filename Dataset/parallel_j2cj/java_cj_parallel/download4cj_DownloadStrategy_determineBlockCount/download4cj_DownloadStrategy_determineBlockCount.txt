@@ -1,0 +1,9 @@
+/**
+ * Determines the number of blocks (connections) to be used for downloading a file based on the total length of the file.
+ * If the connection count is explicitly set in the task, it returns the set value. Otherwise, it calculates the
+ * connection count based on predefined upper limit thresholds.
+ *
+ * @param task        The DownloadTask for which to determine the block count.
+ * @param totalLength The total length of the file to be downloaded.
+ * @return The number of blocks (connections) to be used for downloading the file.
+ */

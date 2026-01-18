@@ -1,0 +1,5 @@
+/**
+ * Method for handling error responses asynchronously
+ *
+ * @param error The error response
+ */

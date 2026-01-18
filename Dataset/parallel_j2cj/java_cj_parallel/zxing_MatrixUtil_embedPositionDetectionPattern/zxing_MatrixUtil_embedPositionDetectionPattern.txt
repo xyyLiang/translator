@@ -1,0 +1,7 @@
+/**
+ * Embeds a position detection pattern into the ByteMatrix.
+ *
+ * @param xStart The x-coordinate of the starting position.
+ * @param yStart The y-coordinate of the starting position.
+ * @param matrix The ByteMatrix to embed the pattern into.
+ */

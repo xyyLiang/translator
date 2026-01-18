@@ -1,0 +1,4 @@
+  /**
+   * @param contents barcode contents to encode. It should not be encoded for extended characters.
+   * @return a {@code boolean[]} of horizontal pixels (false = white, true = black)
+   */

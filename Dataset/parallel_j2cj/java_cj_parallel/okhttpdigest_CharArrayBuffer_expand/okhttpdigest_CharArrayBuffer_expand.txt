@@ -1,0 +1,5 @@
+/**
+ * Expands the internal buffer to accommodate the specified length.
+ * 
+ * @param newlen    the new length of the buffer
+ */

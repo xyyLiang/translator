@@ -1,0 +1,6 @@
+/**
+ * Associates the given DownloadTask with the specified ID in the mapping.
+ * 
+ * @param task The DownloadTask to be associated with the ID.
+ * @param id   The ID to be associated with the task.
+ */

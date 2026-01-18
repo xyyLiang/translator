@@ -1,0 +1,1 @@
+<AST_BEGIN> <AST_Program> <AST_MethodDecl> <AST_Modifiers> <AST_FormalParams> <AST_Block> <AST_LocalVariableDecl> <AST_Call> <AST_ArgList> <AST_ForEach> <AST_Block> <AST_Try> <AST_Block> <AST_ExprStmt> <AST_Call> <AST_ArgList> <AST_Catch> <AST_Block> <AST_ExprStmt> <AST_Call> <AST_Call> <AST_ArgList> <AST_ArgList> <AST_END>

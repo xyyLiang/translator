@@ -1,0 +1,7 @@
+/**
+ * Retrieves the value of the specified bit from the byte array.
+ *
+ * @param bit The index of the bit to retrieve.
+ * @param bytes The byte array containing the bits.
+ * @return The value of the specified bit (0 or 1).
+ */

@@ -1,0 +1,6 @@
+    /**
+     * check FileName
+     *
+     * @param fileName - Option<String> The fileName
+     * @return Option<String> - the fileName checked
+     */

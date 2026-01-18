@@ -1,0 +1,1 @@
+    /** Returns the unbuffered stream with the value for {@code index}. */

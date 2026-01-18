@@ -1,0 +1,7 @@
+/**
+ * Executes an asynchronous HTTP request using OkHttp.
+ * 
+ * @param <T>           The type of the response.
+ * @param userAgent     The User-Agent header for the request.
+ * @param headers       The headers for the request.
+ * @param httpVerb      The HTTP verb (GET, POST,

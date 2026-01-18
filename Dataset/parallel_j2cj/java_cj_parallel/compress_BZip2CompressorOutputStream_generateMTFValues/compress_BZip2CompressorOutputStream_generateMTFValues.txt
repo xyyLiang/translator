@@ -1,0 +1,5 @@
+    /*
+     * Performs Move-To-Front on the Burrows-Wheeler transformed buffer, storing the MTFed data in data.sfmap in RUNA/RUNB run-length-encoded form.
+     *
+     * <p>Keeps track of byte frequencies in data.mtfFreq at the same time.</p>
+     */

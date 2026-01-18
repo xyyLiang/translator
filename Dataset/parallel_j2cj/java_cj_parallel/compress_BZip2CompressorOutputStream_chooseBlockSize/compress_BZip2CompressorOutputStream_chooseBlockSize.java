@@ -1,0 +1,3 @@
+    public static int chooseBlockSize(final long inputLength) {
+        return inputLength > 0 ? (int) Math.min(inputLength / 132000 + 1, 9) : MAX_BLOCKSIZE;
+    }

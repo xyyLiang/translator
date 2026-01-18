@@ -1,0 +1,6 @@
+    /**
+     * read bits from the input stream
+     * @param n the number of bits to read, must not exceed 32?
+     * @return the requested bits combined into an int
+     * @throw IOException
+     */

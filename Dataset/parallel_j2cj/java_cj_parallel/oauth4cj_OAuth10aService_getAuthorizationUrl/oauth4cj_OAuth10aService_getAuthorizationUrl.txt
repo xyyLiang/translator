@@ -1,0 +1,6 @@
+    /**
+     * Returns the URL where you should redirect your users to authenticate your application.
+     *
+     * @param requestToken the request token you need to authorize
+     * @return the URL where you should redirect your users
+     */

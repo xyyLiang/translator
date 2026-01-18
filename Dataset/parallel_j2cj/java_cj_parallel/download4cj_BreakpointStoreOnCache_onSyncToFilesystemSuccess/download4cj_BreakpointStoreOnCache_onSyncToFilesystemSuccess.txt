@@ -1,0 +1,9 @@
+/**
+ * Called when synchronization to the filesystem is successful for a specific block of a BreakpointInfo.
+ *
+ * @param info the BreakpointInfo object associated with the synchronization.
+ * @param blockIndex the index of the block within the BreakpointInfo.
+ * @param increaseLength the length by which the current offset of the block has been increased.
+ * @throws IOException if an I/O error occurs.
+ * @throws NullPointerException if the provided info is null.
+ */

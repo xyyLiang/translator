@@ -1,0 +1,8 @@
+  /**
+   * @param target output to append to
+   * @param pos start position
+   * @param pattern pattern to append
+   * @param startColor unused
+   * @return 9
+   * @deprecated without replacement; intended as an internal-only method
+   */

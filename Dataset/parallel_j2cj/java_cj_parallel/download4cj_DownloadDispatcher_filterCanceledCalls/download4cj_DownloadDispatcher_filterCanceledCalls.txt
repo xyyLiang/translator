@@ -1,0 +1,9 @@
+/**
+ * Filters canceled calls associated with the given IdentifiedTask.
+ * This method iterates through the lists of ready async calls, running async calls, and running sync calls,
+ * identifies the calls associated with the given task, and adds them to the appropriate lists for callback or cancellation.
+ *
+ * @param task               The IdentifiedTask to filter canceled calls for.
+ * @param needCallbackCalls  The list to store calls needing a callback.
+ * @param needCancelCalls    The list to store calls needing cancellation.
+ */

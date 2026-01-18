@@ -1,0 +1,7 @@
+/**
+ * Cancels an IdentifiedTask in a synchronized manner.
+ * This method filters canceled calls from the task, handles canceled calls, and returns whether any calls were canceled or need a callback.
+ *
+ * @param task The IdentifiedTask to be canceled.
+ * @return {@code true} if any calls were canceled or need a callback, {@code false} otherwise.
+ */

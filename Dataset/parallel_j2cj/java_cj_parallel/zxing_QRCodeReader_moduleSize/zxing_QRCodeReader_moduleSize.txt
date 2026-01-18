@@ -1,0 +1,8 @@
+/**
+ * Calculates the size of a module in the QR code image.
+ *
+ * @param leftTopBlack The coordinates of the top-left black module.
+ * @param image The BitMatrix representing the QR code image.
+ * @return The size of a module in the QR code image.
+ * @throws NotFoundException If the module size cannot be determined.
+ */

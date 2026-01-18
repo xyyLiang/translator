@@ -1,0 +1,15 @@
+/**
+ * This method compares two triggers based on their next fire time, priority, and trigger key.
+ * If either next fire time is null, it prioritizes the trigger with a non-null next fire time.
+ * If both next fire times are non-null, it compares them and prioritizes the trigger with an earlier next fire time.
+ * If both next fire times are equal (or null), it compares the triggers based on their priorities.
+ * If the priorities are equal, it compares the triggers based on their trigger keys.
+ *
+ * @param nextFireTime1 The next fire time of the first trigger.
+ * @param priority1     The priority of the first trigger.
+ * @param key1          The key of the first trigger.
+ * @param nextFireTime2 The next fire time of the second trigger.
+ * @param priority2     The priority of the second trigger.
+ * @param key2          The key of the second trigger.
+ * @return -1 if the first trigger should be executed before the second trigger, 1 if vice versa, or 0 if they are equal.
+ */

@@ -1,0 +1,6 @@
+    /**
+     * update file
+     *
+     * @param now - Int64
+     * @return timeStamp
+     */

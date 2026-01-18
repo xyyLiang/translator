@@ -1,0 +1,2 @@
+  // Make bit vector of type information. On success, store the result in "bits" and return true.
+  // Encode error correction level and mask pattern. 

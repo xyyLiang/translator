@@ -1,0 +1,6 @@
+  /**
+   * <p>Sets the given bit to true.</p>
+   *
+   * @param x The horizontal component (i.e. which column)
+   * @param y The vertical component (i.e. which row)
+   */

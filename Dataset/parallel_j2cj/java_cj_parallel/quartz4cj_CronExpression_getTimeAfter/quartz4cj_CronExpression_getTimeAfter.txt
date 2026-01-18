@@ -1,0 +1,6 @@
+/**
+ * Calculates the next valid firing time after the given time.
+ *
+ * @param afterTime The time after which the next firing time should be calculated.
+ * @return The next valid firing time, or null if the computation encounters an issue.
+ */

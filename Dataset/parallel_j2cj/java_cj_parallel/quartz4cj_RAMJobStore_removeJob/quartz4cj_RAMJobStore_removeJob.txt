@@ -1,0 +1,10 @@
+    /**
+     * <p>
+     * Remove (delete) the <code>{@link org.quartz.Job}</code> with the given
+     * name, and any <code>{@link org.quartz.Trigger}</code> s that reference
+     * it.
+     * </p>
+     *
+     * @return <code>true</code> if a <code>Job</code> with the given name and
+     *         group was found and removed from the store.
+     */

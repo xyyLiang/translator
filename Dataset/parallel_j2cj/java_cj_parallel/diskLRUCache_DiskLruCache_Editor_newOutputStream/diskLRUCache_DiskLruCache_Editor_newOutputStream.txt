@@ -1,0 +1,7 @@
+    /**
+     * Returns a new unbuffered output stream to write the value at
+     * {@code index}. If the underlying output stream encounters errors
+     * when writing to the filesystem, this edit will be aborted when
+     * {@link #commit} is called. The returned output stream does not throw
+     * IOExceptions.
+     */

@@ -1,0 +1,5 @@
+  /**
+   * @param raw raw content of extension
+   * @return formatted interpretation of raw content as a {@link Map} mapping
+   *  one {@link ResultMetadataType} to appropriate value, or {@code null} if not known
+   */

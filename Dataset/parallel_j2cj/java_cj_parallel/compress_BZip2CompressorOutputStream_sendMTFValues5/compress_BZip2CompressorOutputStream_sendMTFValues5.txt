@@ -1,0 +1,7 @@
+/**
+ * Sends MTF values.
+ *
+ * @param nGroups    The number of groups
+ * @param nSelectors The number of selectors
+ * @throws IOException If an I/O error occurs
+ */

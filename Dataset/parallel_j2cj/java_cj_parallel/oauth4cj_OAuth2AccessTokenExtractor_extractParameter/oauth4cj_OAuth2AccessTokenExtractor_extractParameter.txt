@@ -1,0 +1,9 @@
+/**
+ * Extracts a parameter from the response using the provided regex pattern.
+ * 
+ * @param response      The response string to extract from.
+ * @param regexPattern  The regex pattern to match against the response string.
+ * @param required      Indicates whether the parameter is required.
+ * @return The extracted parameter, or null if not found and not required.
+ * @throws OAuthException If the response body is incorrect and the parameter is required.
+ */

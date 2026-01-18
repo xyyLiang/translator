@@ -1,0 +1,7 @@
+/**
+ * Maybe returns a UPC-A result by removing the leading '0' character from the given result's text.
+ *
+ * @param result The result to process.
+ * @return A UPC-A result if the first character of the input result's text is '0', otherwise throws a FormatException.
+ * @throws FormatException if the first character of the input result's text is not '0'.
+ */

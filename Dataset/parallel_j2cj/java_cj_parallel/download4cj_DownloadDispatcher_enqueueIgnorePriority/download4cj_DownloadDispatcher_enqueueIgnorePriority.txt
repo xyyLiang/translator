@@ -1,0 +1,7 @@
+/**
+ * Enqueues a DownloadTask regardless of its priority in a synchronized manner.
+ * This method creates a DownloadCall for the task and adds it to either the running async calls list
+ * or the ready async calls list based on the current running async calls count.
+ *
+ * @param task The DownloadTask to be enqueued.
+ */

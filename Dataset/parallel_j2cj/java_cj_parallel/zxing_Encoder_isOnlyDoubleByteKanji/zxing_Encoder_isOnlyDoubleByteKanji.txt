@@ -1,0 +1,6 @@
+/**
+ * Checks if the content consists only of double-byte Shift JIS characters (Kanji).
+ * 
+ * @param content The content to check.
+ * @return True if the content consists only of double-byte Kanji characters, false otherwise.
+ */

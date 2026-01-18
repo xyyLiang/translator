@@ -1,0 +1,5 @@
+    /**
+     * Create AuthorizationUrlBuilder instance.
+     *
+     * @param oauth20Service OAuth20Service instance
+     */

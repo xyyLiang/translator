@@ -1,0 +1,9 @@
+/**
+ * Sends an access token request synchronously and returns the result.
+ * 
+ * @param request The OAuth request for obtaining the access token.
+ * @return The OAuth2AccessToken obtained from the request.
+ * @throws IOException            If an I/O error occurs during the request.
+ * @throws InterruptedException If the current thread is interrupted while waiting.
+ * @throws ExecutionException   If the computation threw an exception.
+ */

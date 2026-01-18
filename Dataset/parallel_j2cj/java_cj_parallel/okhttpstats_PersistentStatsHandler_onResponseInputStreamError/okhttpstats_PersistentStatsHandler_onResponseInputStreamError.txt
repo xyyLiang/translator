@@ -1,0 +1,10 @@
+    /**
+     * The Function is onResponseInputStreamError.Provide call when the access is successful, but responseboyd Call when
+     * getsource reports an error.
+     *
+     * @param requestStats of RequestStats
+     * @param e of Exception
+     *
+     * @return Type of Unit
+     * @since 0.30.4
+     */

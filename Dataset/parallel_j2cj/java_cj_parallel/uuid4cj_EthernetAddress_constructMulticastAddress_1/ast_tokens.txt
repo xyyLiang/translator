@@ -1,0 +1,1 @@
+<AST_BEGIN> <AST_Program> <AST_MethodDecl> <AST_Modifiers> <AST_FormalParams> <AST_Block> <AST_LocalVariableDecl> <AST_Dimensions> <AST_NewArray> <AST_Synchronized> <AST_ParenExpr> <AST_Block> <AST_ExprStmt> <AST_Call> <AST_ArgList> <AST_ExprStmt> <AST_Assign> <AST_ArrayAccess> <AST_CastExpr> <AST_Return> <AST_NewClass> <AST_ArgList> <AST_END>

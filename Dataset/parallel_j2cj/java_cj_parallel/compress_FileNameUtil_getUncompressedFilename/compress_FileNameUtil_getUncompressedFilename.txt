@@ -1,0 +1,13 @@
+    /*
+     * Maps the given name of a compressed file to the name
+     * that the file should have after uncompression.
+     * Commonly used file type specific suffixes like ".tgz" or ".svgz"
+     * are automatically detected and correctly mapped.
+     * For example the name "package.tgz" is mapped to "package.tar".
+     * And any file names with the generic ".gz" suffix
+     * (or any other generic gzip suffix) is mapped to a name without that suffix.
+     * If no format suffix is detected, then the file name is returned unmapped.
+     *
+     * @param fileName name of a file
+     * @return name of the corresponding uncompressed file
+     */

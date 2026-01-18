@@ -1,0 +1,7 @@
+    /**
+     * Constructor
+     *
+     * @Param accessToken access token
+     * @Param rawResponse raw response information
+     * @since 0.37.2
+     */

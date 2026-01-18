@@ -1,0 +1,7 @@
+/**
+ * Reads the entire content from a Reader and returns it as a String.
+ * 
+ * @param reader The Reader to read from.
+ * @return The content read from the Reader as a String.
+ * @throws IOException If an I/O error occurs while reading from the Reader.
+ */

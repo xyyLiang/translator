@@ -1,0 +1,5 @@
+    /**
+     * Returns the unix timestamp in seconds.
+     *
+     * @Return String timestamp
+     */

@@ -1,0 +1,1 @@
+    /** Returns the byte length of the value for {@code index}. */

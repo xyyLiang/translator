@@ -1,0 +1,8 @@
+/**
+ * Constructs a Result object from a list of ExpandedPair objects.
+ * 
+ * @param pairs The list of ExpandedPair objects.
+ * @return The constructed Result object.
+ * @throws NotFoundException If decoding fails due to not finding a matching pattern.
+ * @throws FormatException   If decoding fails due to an invalid format.
+ */

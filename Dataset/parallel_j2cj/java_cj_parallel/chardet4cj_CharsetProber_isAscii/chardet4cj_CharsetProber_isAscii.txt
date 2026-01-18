@@ -1,0 +1,1 @@
+//return true if the byte is Ascii else false

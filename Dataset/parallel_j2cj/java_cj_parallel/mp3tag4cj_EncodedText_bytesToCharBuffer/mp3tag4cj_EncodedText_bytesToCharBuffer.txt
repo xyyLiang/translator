@@ -1,0 +1,8 @@
+/**
+ * Converts the given byte array to a character buffer using the specified character set.
+ * 
+ * @param bytes        The byte array to be converted to a character buffer.
+ * @param characterSet The character set to use for decoding the bytes.
+ * @return The character buffer representing the byte array.
+ * @throws CharacterCodingException If the byte array cannot be decoded using the specified character set.
+ */

@@ -1,0 +1,9 @@
+    /**
+     * Given JSON-like content, produces a string of JSON that is safe to embed,
+     * safe to pass to JavaScript's {@code eval} operator.
+     *
+     * @param jsonish JSON-like content.
+     * @param maximumNestingDepth maximum nesting depth.
+     * @param logging enable slow logging
+     * @return embeddable JSON
+     */

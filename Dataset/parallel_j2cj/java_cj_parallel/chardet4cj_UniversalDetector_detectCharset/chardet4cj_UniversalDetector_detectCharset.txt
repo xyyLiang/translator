@@ -1,0 +1,7 @@
+    /**
+     * Gets the charset of a Path.
+     *
+     * @param path The path to file to check charset for
+     * @return The charset of the file, null if cannot be determined
+     * @throws IOException if some IO error occurs
+     */

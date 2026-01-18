@@ -1,0 +1,9 @@
+    /**
+     * Factory method for constructing UUID generator that generates UUID using
+     * variant 7 (time+random based), using specified Ethernet address
+     * as the location part of UUID.
+     * No additional external synchronization is used.
+     *
+     * @param random - Random
+     * @return TimeBasedEpochGenerator
+     */

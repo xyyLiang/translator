@@ -1,0 +1,15 @@
+  /**
+   * <p>Checks a set of points that have been transformed to sample points on an image against
+   * the image's dimensions to see if the point are even within the image.</p>
+   *
+   * <p>This method will actually "nudge" the endpoints back onto the image if they are found to be
+   * barely (less than 1 pixel) off the image. This accounts for imperfect detection of finder
+   * patterns in an image where the QR Code runs all the way to the image border.</p>
+   *
+   * <p>For efficiency, the method will check points from either end of the line until one is found
+   * to be within the image. Because the set of points are assumed to be linear, this is valid.</p>
+   *
+   * @param image image into which the points should map
+   * @param points actual points in x1,y1,...,xn,yn form
+   * @throws NotFoundException if an endpoint is lies outside the image boundaries
+   */

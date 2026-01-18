@@ -1,0 +1,9 @@
+    /**
+     * The Function is init constructor
+     *
+     * @param unsynchronisation of Bool
+     * @param language of Option<String>
+     * @param description of Option<EncodedText>
+     * @param comment of Option<EncodedText>
+     * @since 0.33.3
+     */

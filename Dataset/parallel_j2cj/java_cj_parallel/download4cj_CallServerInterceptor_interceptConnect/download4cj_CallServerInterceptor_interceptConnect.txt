@@ -1,0 +1,9 @@
+/**
+ * Intercepts the connection process in the download chain.
+ * This method inspects the network status, specifically checking if the device is connected to a Wi-Fi network
+ * and if the network is available.
+ *
+ * @param chain The download chain.
+ * @return The connected download connection.
+ * @throws IOException If an I/O error occurs.
+ */

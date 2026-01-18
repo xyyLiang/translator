@@ -1,0 +1,7 @@
+/**
+ * Notifies all trigger listeners that a trigger has fired.
+ *
+ * @param jec the JobExecutionContext associated with the trigger
+ * @return true if any trigger listener vetoes the job execution, false otherwise
+ * @throws SchedulerException if a trigger listener encounters an error
+ */

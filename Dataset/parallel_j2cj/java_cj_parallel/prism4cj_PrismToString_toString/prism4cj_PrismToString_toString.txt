@@ -1,0 +1,6 @@
+/**
+ * Generates a string representation of the given Prism4j grammar.
+ *
+ * @param grammar The Prism4j grammar to generate a string representation for.
+ * @return A string representation of the Prism4j grammar.
+ */

@@ -1,0 +1,6 @@
+    /**
+     * Constructs a {@code UnicodeEscaper} above the specified value (exclusive).
+     *
+     * @param codePoint above which to escape
+     * @return The newly created {@code UnicodeEscaper} instance
+     */

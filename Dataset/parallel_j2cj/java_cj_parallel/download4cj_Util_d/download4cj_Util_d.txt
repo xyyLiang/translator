@@ -1,0 +1,6 @@
+/**
+ * Logs a debug message.
+ *
+ * @param tag The tag identifying the source of the log message.
+ * @param msg The message to log.
+ */

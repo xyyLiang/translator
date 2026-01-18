@@ -1,0 +1,7 @@
+    /**
+     * Returns is the Chunk are same
+     *
+     * @return the Bool
+     *
+     * @since 0.38.2
+     */

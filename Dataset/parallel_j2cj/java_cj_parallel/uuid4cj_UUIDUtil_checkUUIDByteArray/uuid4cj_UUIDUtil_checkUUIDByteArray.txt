@@ -1,0 +1,8 @@
+/**
+ * Checks if the byte array and offset are valid for constructing a UUID.
+ * 
+ * @param bytes  The byte array to check.
+ * @param offset The offset to check.
+ * @throws IllegalArgumentException If the byte array is null, the offset is negative,
+ *                                  or there is not enough room in the byte array for a UUID.
+ */

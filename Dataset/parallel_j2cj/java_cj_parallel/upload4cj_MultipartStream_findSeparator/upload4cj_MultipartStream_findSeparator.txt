@@ -1,0 +1,7 @@
+    /**
+     * Searches for the boundary in the buffer
+     * region delimited by head and tail.
+     *
+     * @return The position of the boundary found, counting from the
+     *         beginning of the buffer, or -1 if not found.
+     */

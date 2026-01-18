@@ -1,0 +1,6 @@
+  /**
+   * @param row          row of black/white values to search
+   * @param payloadStart offset of start pattern
+   * @param resultString {@link StringBuilder} to append decoded chars to
+   * @throws NotFoundException if decoding could not complete successfully
+   */

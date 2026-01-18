@@ -1,0 +1,7 @@
+  /**
+   * Encode the given symbol info to a bit matrix.
+   *
+   * @param placement  The DataMatrix placement.
+   * @param symbolInfo The symbol info to encode.
+   * @return The bit matrix generated.
+   */

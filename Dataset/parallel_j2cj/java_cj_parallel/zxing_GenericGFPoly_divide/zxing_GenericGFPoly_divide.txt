@@ -1,0 +1,7 @@
+/**
+ * Divides this polynomial by another polynomial.
+ *
+ * @param other The polynomial to divide by.
+ * @return An array containing the quotient and remainder of the division.
+ * @throws IllegalArgumentException If the other polynomial does not have the same field or if attempting to divide by zero.
+ */

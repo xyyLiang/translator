@@ -1,0 +1,11 @@
+/**
+ * Calculates the cost of applying a binary shift operation based on the number of bytes to be shifted.
+ * The cost varies depending on the number of bytes to be shifted:
+ * - If the byte count exceeds 62, the cost is 21.
+ * - If the byte count exceeds 31, but is less than or equal to 62, the cost is 20.
+ * - If the byte count is greater than 0 but less than or equal to 31, the cost is 10.
+ * - Otherwise, if no bytes are to be shifted, the cost is 0.
+ *
+ * @param binaryShiftByteCount The number of bytes to be shifted.
+ * @return The calculated cost of the binary shift operation.
+ */

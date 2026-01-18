@@ -1,0 +1,8 @@
+  /**
+   * Locates and decodes a MaxiCode in an image.
+   *
+   * @return a String representing the content encoded by the MaxiCode
+   * @throws NotFoundException if a MaxiCode cannot be found
+   * @throws FormatException if a MaxiCode cannot be decoded
+   * @throws ChecksumException if error correction fails
+   */

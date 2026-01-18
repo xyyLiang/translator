@@ -1,0 +1,5 @@
+/**
+ * Stores a row of ExpandedPair objects.
+ * 
+ * @param rowNumber The row number of the row to be stored.
+ */

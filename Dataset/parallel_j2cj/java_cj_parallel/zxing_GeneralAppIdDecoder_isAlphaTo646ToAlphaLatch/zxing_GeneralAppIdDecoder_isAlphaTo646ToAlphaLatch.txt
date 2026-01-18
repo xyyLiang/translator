@@ -1,0 +1,6 @@
+/**
+ * Checks if the next character is an ISO/IEC 646 character followed by an alphanumeric character.
+ * 
+ * @param pos The position to check.
+ * @return true if the next character is an ISO/IEC 646 character followed by an alphanumeric character, false otherwise.
+ */

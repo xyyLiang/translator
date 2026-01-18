@@ -1,0 +1,7 @@
+/**
+ * Finds the length of the run of backslashes preceding the character at the specified position in the string.
+ *
+ * @param jsonish The input string.
+ * @param pos     The position of the character for which to find the preceding backslash run.
+ * @return The length of the run of backslashes preceding the character at the specified position.
+ */

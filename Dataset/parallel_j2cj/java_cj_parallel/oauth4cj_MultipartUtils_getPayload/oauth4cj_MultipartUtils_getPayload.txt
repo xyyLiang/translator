@@ -1,0 +1,8 @@
+    /**
+     * Process the information in the MultipartPayload, encapsulate it into a ByteArrayStream, and return it。
+     *
+     * @param multipartPayload of MultipartPayload, process the information in the MultipartPayload.
+     *
+     * @return Type of ByteArrayStream
+     * @since 0.37.2
+     */

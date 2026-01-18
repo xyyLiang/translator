@@ -1,0 +1,5 @@
+/**
+ * Adds all the headers from the given HttpHeaders object to this object's headers map.
+ *
+ * @param headers the HttpHeaders object containing headers to be added
+ */

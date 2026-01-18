@@ -1,0 +1,13 @@
+    /**
+     * <p>
+     * Pause all of the <code>{@link org.quartz.JobDetail}s</code> in the
+     * given group - by pausing all of their <code>Trigger</code>s.
+     * </p>
+     *
+     *
+     * <p>
+     * The JobStore should "remember" that the group is paused, and impose the
+     * pause on any new jobs that are added to the group while the group is
+     * paused.
+     * </p>
+     */

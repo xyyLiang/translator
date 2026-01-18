@@ -1,0 +1,9 @@
+    /**
+     * Unpatch the revised text for a given patch
+     * 
+     * @param revised the revised text
+     * @param patch the given patch
+     * @return the original text
+     *   
+     * @since 0.39.3
+     */

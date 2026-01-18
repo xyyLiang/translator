@@ -1,0 +1,1 @@
+  // Embed position detection patterns and surrounding vertical/horizontal separators.

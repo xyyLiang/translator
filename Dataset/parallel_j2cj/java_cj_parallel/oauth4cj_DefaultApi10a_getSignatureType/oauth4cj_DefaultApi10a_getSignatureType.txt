@@ -1,0 +1,5 @@
+    /**
+     * Returns the signature type.
+     * 
+     * @return the signature type, choose between header, querystring, etc. Defaults to Header
+     */

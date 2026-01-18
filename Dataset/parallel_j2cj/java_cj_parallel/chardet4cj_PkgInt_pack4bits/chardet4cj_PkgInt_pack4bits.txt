@@ -1,0 +1,13 @@
+/**
+ * Packs eight 4-bit integers into a single 32-bit integer.
+ *
+ * @param a the first 4-bit integer (lower 4 bits)
+ * @param b the second 4-bit integer (next 4 bits)
+ * @param c the third 4-bit integer (next 4 bits)
+ * @param d the fourth 4-bit integer (next 4 bits)
+ * @param e the fifth 4-bit integer (next 4 bits)
+ * @param f the sixth 4-bit integer (next 4 bits)
+ * @param g the seventh 4-bit integer (next 4 bits)
+ * @param h the eighth 4-bit integer (upper 4 bits)
+ * @return the 32-bit integer containing the packed values
+ */

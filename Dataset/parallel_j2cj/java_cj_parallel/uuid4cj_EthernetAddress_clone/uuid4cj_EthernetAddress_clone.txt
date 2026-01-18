@@ -1,0 +1,3 @@
+    /**
+     * Default cloning behaviour (bitwise copy) is just fine...
+     */

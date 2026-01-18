@@ -1,0 +1,9 @@
+/**
+ * Decodes the code pattern from the given row using the specified counters and row offset.
+ * 
+ * @param row The row from which to decode the code pattern.
+ * @param counters The counters array.
+ * @param rowOffset The row offset.
+ * @return The decoded code pattern.
+ * @throws NotFoundException if the code pattern cannot be decoded.
+ */

@@ -1,0 +1,5 @@
+  /**
+   * Creates a BitMatrix by sampling the provided image.
+   * topLeft, topRight, bottomRight, and bottomLeft are the centers of the squares on the
+   * diagonal just outside the bull's eye.
+   */

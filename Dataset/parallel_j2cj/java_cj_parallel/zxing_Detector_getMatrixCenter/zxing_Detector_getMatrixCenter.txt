@@ -1,0 +1,5 @@
+  /**
+   * Finds a candidate center point of an Aztec code from an image
+   *
+   * @return the center point
+   */

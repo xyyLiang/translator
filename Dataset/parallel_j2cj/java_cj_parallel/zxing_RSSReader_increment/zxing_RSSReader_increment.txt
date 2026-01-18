@@ -1,0 +1,6 @@
+/**
+ * Increments the value in the array at the index with the highest error value.
+ *
+ * @param array  The array to be incremented.
+ * @param errors The array containing error values.
+ */

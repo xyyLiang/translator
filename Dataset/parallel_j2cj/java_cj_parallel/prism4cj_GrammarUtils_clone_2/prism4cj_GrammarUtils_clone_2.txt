@@ -1,0 +1,6 @@
+/**
+ * Clones the given Prism4j pattern.
+ *
+ * @param pattern The Prism4j pattern to clone.
+ * @return A new instance of the cloned Prism4j pattern.
+ */

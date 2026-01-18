@@ -1,0 +1,6 @@
+    /**
+     * Constructs a new Lexer instance.
+     *
+     * @param format the CSV format configuration
+     * @param reader the input reader
+     */

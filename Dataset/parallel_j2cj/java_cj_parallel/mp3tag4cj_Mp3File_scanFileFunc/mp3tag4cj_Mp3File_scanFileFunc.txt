@@ -1,0 +1,7 @@
+/**
+ * Scans the file using the provided SeekableByteChannel.
+ * 
+ * @param seekableByteChannel The SeekableByteChannel to read from.
+ * @throws IOException        If an I/O error occurs.
+ * @throws InvalidDataException If invalid data is encountered during scanning.
+ */

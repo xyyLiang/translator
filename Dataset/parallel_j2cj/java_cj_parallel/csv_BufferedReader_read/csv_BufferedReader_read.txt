@@ -1,0 +1,4 @@
+    /**
+     * Reads a single character.
+     *
+     */

@@ -1,0 +1,8 @@
+    /**
+     * Decode a string of text obtained from a mail header into
+     * its proper form.  The text generally will consist of a
+     * string of tokens, some of which may be encoded using
+     * base64 encoding.
+     * @param text - String the Text
+     * @return Option<String> - the Text decoded
+     */

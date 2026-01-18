@@ -1,0 +1,5 @@
+    /**
+     * Tests if the given character is the escape character.
+     *
+     * @return true if the given character is the escape character.
+     */

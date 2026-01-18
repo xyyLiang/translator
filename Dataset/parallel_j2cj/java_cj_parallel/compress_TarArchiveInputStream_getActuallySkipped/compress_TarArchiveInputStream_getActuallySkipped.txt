@@ -1,0 +1,9 @@
+    /**
+     * For FileInputStream, the skip always return the number you input, so we need the available bytes to determine how many bytes are actually skipped
+     *
+     * @param available available bytes returned by inputStream.available()
+     * @param skipped   skipped bytes returned by inputStream.skip()
+     * @param expected  bytes expected to skip
+     * @return number of bytes actually skipped
+     * @throws IOException if a truncated tar archive is detected
+     */

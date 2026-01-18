@@ -1,0 +1,6 @@
+/**
+ * Creates an OAuth request for obtaining an access token.
+ * 
+ * @param params The parameters for the access token request.
+ * @return The created OAuth request.
+ */

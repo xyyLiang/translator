@@ -1,0 +1,5 @@
+/**
+ * Makes the given worker thread available for executing tasks.
+ * 
+ * @param wt The worker thread to make available.
+ */

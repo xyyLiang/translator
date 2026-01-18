@@ -1,0 +1,8 @@
+/**
+ * Parses consecutive blocks of data starting from the current position.
+ * This method determines the type of each block (numeric, alpha, or ISO/IEC 646),
+ * decodes the block, and appends the decoded information to the buffer.
+ *
+ * @return The decoded information from the parsed blocks.
+ * @throws FormatException if parsing encounters an error.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Checks if there are still ISO/IEC 646 characters to decode starting from the given position.
+ *
+ * @param pos The starting position to check.
+ * @return true if there are still ISO/IEC 646 characters to decode, false otherwise.
+ */

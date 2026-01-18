@@ -1,0 +1,9 @@
+/**
+ * Constructs a JsonSanitizer object with the specified JSON string and maximum nesting depth.
+ * Limits the maximum nesting depth to a value between 1 and MAXIMUM_NESTING_DEPTH (inclusive).
+ * If SUPER_VERBOSE_AND_SLOW_LOGGING is enabled, prints the JSON string to stderr for debugging purposes.
+ *
+ * @param jsonish              The JSON string to sanitize.
+ * @param maximumNestingDepth  The maximum allowed nesting depth for the JSON structure.
+ *                             Should be between 1 and MAXIMUM_NESTING_DEPTH (inclusive).
+ */

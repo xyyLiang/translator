@@ -1,0 +1,6 @@
+    /**
+     * Sync request execute
+     * 
+     * @param request OAuth4cjRequest instance
+     * @return Response response data
+     */

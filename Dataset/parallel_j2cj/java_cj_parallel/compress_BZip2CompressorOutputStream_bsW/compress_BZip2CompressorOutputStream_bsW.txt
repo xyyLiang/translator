@@ -1,0 +1,7 @@
+/**
+ * Writes a value to the bitstream using the specified number of bits.
+ *
+ * @param n The number of bits to write.
+ * @param v The value to write.
+ * @throws IOException If an I/O error occurs while writing to the output stream.
+ */

@@ -1,0 +1,10 @@
+    /**
+     * Return the signature.
+     *
+     * @Param the url encoding string to sign
+     * @Param your application api Secret
+     * @Param Token Secret (empty string of request token step)
+     *
+     * @Return String the signature
+     * @throws OAuth4cjSignatureException failed to obtain signature
+     */

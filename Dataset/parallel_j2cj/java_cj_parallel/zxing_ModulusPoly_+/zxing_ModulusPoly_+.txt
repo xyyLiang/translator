@@ -1,0 +1,7 @@
+/**
+ * Adds another polynomial to this polynomial.
+ * 
+ * @param other The polynomial to be added.
+ * @return The result of adding the other polynomial to this polynomial.
+ * @throws IllegalArgumentException If the other polynomial does not have the same ModulusGF field.
+ */

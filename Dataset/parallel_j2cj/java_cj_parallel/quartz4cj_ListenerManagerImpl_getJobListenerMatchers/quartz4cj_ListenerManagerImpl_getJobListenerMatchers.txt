@@ -1,0 +1,8 @@
+    /**
+     * Get the set of Matchers for which the listener
+     * will receive events if ANY of the matchers match.
+     * 
+     *  
+     * @param listenerName the name of the listener to add the matcher to
+     * @return the matchers registered for selecting events for the identified listener
+     */

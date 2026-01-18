@@ -1,0 +1,15 @@
+  /**
+   * The start & end patterns must be pre/post fixed by a quiet zone. This
+   * zone must be at least 10 times the width of a narrow line.  Scan back until
+   * we either get to the start of the barcode or match the necessary number of
+   * quiet zone pixels.
+   *
+   * Note: Its assumed the row is reversed when using this method to find
+   * quiet zone after the end pattern.
+   *
+   * ref: http://www.barcode-1.net/i25code.html
+   *
+   * @param row bit array representing the scanned barcode.
+   * @param startPattern index into row of the start or end pattern.
+   * @throws NotFoundException if the quiet zone cannot be found
+   */

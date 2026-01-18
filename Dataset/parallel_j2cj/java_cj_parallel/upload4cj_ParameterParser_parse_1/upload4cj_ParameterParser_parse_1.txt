@@ -1,0 +1,7 @@
+    /**
+     * parse the text
+     *
+     * @param str - Option<String> The str need to parse
+     * @param separator - Char The separator char
+     * @return Map<String, Option<String>> - the result
+     */

@@ -1,0 +1,11 @@
+    /**
+     * Simple utility method to use to wait for couple of milliseconds,
+     * to let system clock hopefully advance closer to the virtual
+     * timestamps used. Delay is kept to just a millisecond or two,
+     * to prevent excessive blocking; but that should be enough to
+     * eventually synchronize physical clock with virtual clock values
+     * used for UUIDs.
+     *
+     * @param actDiff Number of milliseconds to wait for from current 
+     *    time point, to catch up
+     */

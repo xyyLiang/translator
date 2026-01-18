@@ -1,0 +1,6 @@
+/**
+ * Generates a string representation of the given Prism4j pattern.
+ *
+ * @param pattern The Prism4j pattern to generate a string representation for.
+ * @return A string representation of the Prism4j pattern.
+ */

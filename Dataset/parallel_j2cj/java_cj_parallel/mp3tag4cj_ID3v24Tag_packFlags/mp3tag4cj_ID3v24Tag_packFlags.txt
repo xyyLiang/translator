@@ -1,0 +1,6 @@
+/**
+ * Packs the flags into the provided byte array at the specified offset.
+ * 
+ * @param bytes  The byte array to pack the flags into.
+ * @param offset The offset at which to start packing the flags.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Checks the status of the download task by executing a trial connection.
+ * Determines if the server supports range requests and if the response is chunked.
+ * Sets various attributes of the download information based on the trial results.
+ * Throws exceptions if certain conditions are met, such as file conflicts or server cancellation.
+ *
+ * @throws IOException if an I/O error occurs during the trial connection or if certain conditions are met.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Retrieves the parameter with the specified name.
+ *
+ * @param name The name of the parameter to retrieve.
+ * @return The parameter with the specified name, or null if not found.
+ * @throws IllegalArgumentException If the provided name is null.
+ */

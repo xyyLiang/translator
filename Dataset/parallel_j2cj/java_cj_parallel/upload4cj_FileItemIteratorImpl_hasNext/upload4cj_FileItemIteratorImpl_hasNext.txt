@@ -1,0 +1,5 @@
+    /**
+     * iterator have next value or not
+     *
+     * @return Bool - have or not
+     */

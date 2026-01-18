@@ -1,0 +1,6 @@
+/**
+ * Retrieves the QR code version corresponding to a given size category.
+ *
+ * @param versionSize The size category of the QR code version to retrieve.
+ * @return The QR code version corresponding to the specified size category.
+ */

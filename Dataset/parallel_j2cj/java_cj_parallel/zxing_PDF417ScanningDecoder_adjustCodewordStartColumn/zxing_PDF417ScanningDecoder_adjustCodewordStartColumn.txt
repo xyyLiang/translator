@@ -1,0 +1,11 @@
+/**
+ * Adjusts the start column for detecting a codeword based on the image content.
+ *
+ * @param image              The BitMatrix representing the image.
+ * @param minColumn          The minimum column index for the detection region.
+ * @param maxColumn          The maximum column index for the detection region.
+ * @param leftToRight        True if reading is in the left-to-right direction, false otherwise.
+ * @param codewordStartColumn The initial start column for detecting the codeword.
+ * @param imageRow           The row index of the image.
+ * @return The adjusted start column for detecting the codeword.
+ */

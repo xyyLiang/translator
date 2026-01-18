@@ -1,0 +1,7 @@
+/**
+ * Decodes the Aztec code from the provided detector result.
+ * 
+ * @param detectorResult The detector result containing the Aztec code information.
+ * @return The decoded result.
+ * @throws FormatException If the format of the Aztec code is invalid.
+ */

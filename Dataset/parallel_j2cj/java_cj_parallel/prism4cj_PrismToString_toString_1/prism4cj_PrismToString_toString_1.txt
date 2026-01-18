@@ -1,0 +1,6 @@
+/**
+ * Generates a string representation of the given Prism4j token.
+ *
+ * @param token The Prism4j token to generate a string representation for.
+ * @return A string representation of the Prism4j token.
+ */

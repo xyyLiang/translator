@@ -1,0 +1,6 @@
+/**
+ * Gets the minimum codeword width based on the positions of ResultPoints.
+ * 
+ * @param p An array of ResultPoints.
+ * @return The minimum codeword width.
+ */

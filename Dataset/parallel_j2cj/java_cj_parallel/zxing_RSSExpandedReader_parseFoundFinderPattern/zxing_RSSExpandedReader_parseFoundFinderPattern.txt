@@ -1,0 +1,9 @@
+/**
+ * Parses the found finder pattern in the given row.
+ * 
+ * @param row            The BitArray representing the row.
+ * @param rowNumber      The number of the row.
+ * @param oddPattern     Whether the pattern number is odd.
+ * @param previousPairs  The list of previously decoded pairs.
+ * @return The FinderPattern object if found, otherwise null.
+ */

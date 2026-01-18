@@ -1,0 +1,6 @@
+  /**
+   * Applies a rotation to the supplied BitMatrix.
+   * @param matrix bit matrix to apply rotation to
+   * @param rotation the degrees of rotation to apply
+   * @return BitMatrix with applied rotation
+   */

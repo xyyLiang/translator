@@ -1,0 +1,5 @@
+    /**
+     * Converts a run of characters that form a JS number to its canonical form
+     * which happens to also be a valid JSON number.
+     * @return true when the number could be canonicalized.
+     */

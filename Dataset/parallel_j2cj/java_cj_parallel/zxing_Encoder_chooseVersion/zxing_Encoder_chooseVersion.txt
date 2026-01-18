@@ -1,0 +1,8 @@
+/**
+ * Chooses the appropriate QR code version based on the number of input bits and error correction level.
+ * 
+ * @param numInputBits The number of input bits.
+ * @param ecLevel The error correction level.
+ * @return The chosen QR code version.
+ * @throws WriterException If the data is too big to fit in any version.
+ */

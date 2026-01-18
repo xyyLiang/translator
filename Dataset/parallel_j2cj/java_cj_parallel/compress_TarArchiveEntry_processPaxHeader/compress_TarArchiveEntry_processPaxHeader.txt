@@ -1,0 +1,7 @@
+    /**
+     * Processes one pax header, using the entries extraPaxHeaders map as source for extra headers used when handling entries for sparse files.
+     *
+     * @param key
+     * @param val
+     * @since 1.15
+     */

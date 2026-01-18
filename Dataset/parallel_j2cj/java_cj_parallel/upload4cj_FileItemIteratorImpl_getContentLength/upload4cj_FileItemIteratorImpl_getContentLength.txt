@@ -1,0 +1,6 @@
+/**
+ * Extracts the content length from the provided {@code FileItemHeaders}.
+ *
+ * @param pHeaders The file item headers containing the content length information.
+ * @return The content length as a {@code long} value if available, or {@code -1} if not found or unable to parse.
+ */

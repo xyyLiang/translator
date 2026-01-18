@@ -1,0 +1,7 @@
+/**
+ * Executes a DownloadTask synchronously.
+ * This method creates a DownloadCall for the task, adds it to the running synchronous calls list,
+ * and then synchronously executes the call.
+ *
+ * @param task The DownloadTask to be executed.
+ */

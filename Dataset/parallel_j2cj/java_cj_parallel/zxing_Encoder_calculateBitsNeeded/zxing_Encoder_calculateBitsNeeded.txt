@@ -1,0 +1,9 @@
+/**
+ * Calculates the total number of bits needed for encoding the given data.
+ * 
+ * @param mode The encoding mode.
+ * @param headerBits The header bits.
+ * @param dataBits The data bits.
+ * @param version The QR code version.
+ * @return The total number of bits needed.
+ */

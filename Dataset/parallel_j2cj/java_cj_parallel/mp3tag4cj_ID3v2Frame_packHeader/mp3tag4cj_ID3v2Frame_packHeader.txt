@@ -1,0 +1,6 @@
+/**
+ * Packs the header into the provided byte array at the given offset.
+ * 
+ * @param bytes The byte array to pack the header into.
+ * @param offset The offset within the byte array to start packing from.
+ */

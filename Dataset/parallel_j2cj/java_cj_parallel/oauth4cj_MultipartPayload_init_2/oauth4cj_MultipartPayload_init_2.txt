@@ -1,0 +1,7 @@
+    /**
+     * Create a MultipartPayload instance according to the parameters.
+     *
+     * @param subtype of String
+     * @param boundary of String
+     * @since 0.37.2
+     */

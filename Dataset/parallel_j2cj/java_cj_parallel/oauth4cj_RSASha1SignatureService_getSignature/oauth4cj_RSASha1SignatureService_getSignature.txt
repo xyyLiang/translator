@@ -1,0 +1,10 @@
+    /**
+     * Return the signature.
+     *
+     * @Param the url encoding string to sign
+     * @Param in the subclass RSASha1SignatureService, this parameter is not used
+     * @Param in the subclass RSASha1SignatureService, this parameter is not used
+     *
+     * @Return String the signature
+     * @throws OAuth4cjSignatureException failed to obtain signature
+     */

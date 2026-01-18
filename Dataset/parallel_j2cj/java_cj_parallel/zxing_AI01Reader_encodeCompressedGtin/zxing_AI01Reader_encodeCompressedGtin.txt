@@ -1,0 +1,7 @@
+/**
+ * Encodes the compressed GTIN (Global Trade Item Number) information into the provided StringBuilder
+ * with the Application Identifier (AI) included.
+ *
+ * @param buf         The StringBuilder to which the encoded GTIN information will be appended.
+ * @param currentPos  The current position in the bit array from which to start encoding.
+ */

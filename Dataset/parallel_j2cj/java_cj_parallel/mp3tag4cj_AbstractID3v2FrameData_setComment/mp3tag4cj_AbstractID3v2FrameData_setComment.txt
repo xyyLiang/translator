@@ -1,0 +1,5 @@
+/**
+ * Sets the comment associated with this ID3v2 tag.
+ *
+ * @param comment the comment text to set
+ */

@@ -1,0 +1,5 @@
+  /**
+   * Gets the array of bits from an Aztec Code matrix
+   *
+   * @return the array of bits
+   */

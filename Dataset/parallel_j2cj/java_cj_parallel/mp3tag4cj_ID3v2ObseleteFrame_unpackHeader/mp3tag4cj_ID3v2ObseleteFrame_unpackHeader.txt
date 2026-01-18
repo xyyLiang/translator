@@ -1,0 +1,7 @@
+/**
+ * Unpacks the header information from the given buffer at the specified offset.
+ * 
+ * @param buffer The byte array containing the header information.
+ * @param offset The offset in the buffer where the header information starts.
+ * @return The new offset after unpacking the header information.
+ */

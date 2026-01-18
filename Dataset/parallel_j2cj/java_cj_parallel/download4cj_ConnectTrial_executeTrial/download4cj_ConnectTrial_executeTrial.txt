@@ -1,0 +1,10 @@
+/**
+ * Executes a trial connection to the server to determine various properties of the download task,
+ * such as the network status, etag, instance length, and response filename.
+ * This method inspects the network status, specifically checking if the device is connected to a Wi-Fi network
+ * and if the network is available. It then establishes a connection to the server and retrieves information
+ * such as the response code, accept range, instance length, etag, and response filename.
+ * If necessary, this method may also perform a trial HEAD method to determine the instance length.
+ *
+ * @throws IOException If an I/O error occurs.
+ */

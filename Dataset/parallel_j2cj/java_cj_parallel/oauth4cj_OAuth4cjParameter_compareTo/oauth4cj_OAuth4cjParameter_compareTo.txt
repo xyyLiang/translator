@@ -1,0 +1,10 @@
+    /**
+     * Determine the relationship between a OAuth4cjParameter instance and another OAuth4cjParameter instance.
+     *
+     * @param parameter of OAuth4cjParameter, another OAuth4cjParameter instance for comparison.
+     *
+     * @return Type of Ordering, If greater than, Ordering.GT is returned;
+     *                           If equal, Ordering.EQ is returned;
+     *                           If less than, Ordering.LT is returned.
+     * @since 0.37.2
+     */

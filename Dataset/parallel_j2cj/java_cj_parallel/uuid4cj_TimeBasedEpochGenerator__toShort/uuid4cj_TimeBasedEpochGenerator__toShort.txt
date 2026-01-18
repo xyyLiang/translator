@@ -1,0 +1,7 @@
+/**
+ * Converts the specified byte array to a short value.
+ * 
+ * @param buffer The byte array to convert.
+ * @param offset The offset in the byte array to start converting from.
+ * @return The short value obtained from the byte array.
+ */

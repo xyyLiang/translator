@@ -1,0 +1,8 @@
+    /**
+     * Add accessToken to request
+     *
+     * @param accessToken access token
+     * @param request oauth request
+     *
+     * @since 0.38.2
+     */

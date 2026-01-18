@@ -1,0 +1,5 @@
+    /**
+     * Returns the verb for the request token endpoint (defaults to POST)
+     *
+     * @return request token endpoint verb
+     */

@@ -1,0 +1,5 @@
+/**
+ * Closes a Closeable object quietly, suppressing any exceptions that may occur during the closing process.
+ * 
+ * @param closeable The Closeable object to close.
+ */

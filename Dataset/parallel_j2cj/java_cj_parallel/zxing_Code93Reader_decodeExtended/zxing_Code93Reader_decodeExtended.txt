@@ -1,0 +1,7 @@
+/**
+ * Decodes the given extended mode encoded string.
+ * 
+ * @param encoded The string to decode.
+ * @return The decoded string.
+ * @throws FormatException If the input is not a valid extended mode encoded string.
+ */

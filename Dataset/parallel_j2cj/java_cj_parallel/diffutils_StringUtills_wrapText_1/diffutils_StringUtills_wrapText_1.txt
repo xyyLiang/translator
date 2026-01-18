@@ -1,0 +1,9 @@
+    /**
+     * Wrap the text with the given column width
+     *
+     * @param line the text
+     * @param columnWidth the given column
+     * @return the wrapped text
+     *
+     * @since 0.39.3
+     */

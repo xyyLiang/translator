@@ -1,0 +1,7 @@
+/**
+ * Creates a DeviceAuthorization object from the raw response.
+ * 
+ * @param rawResponse The raw response string.
+ * @return The created DeviceAuthorization object.
+ * @throws IOException If an I/O error occurs while parsing the raw response.
+ */

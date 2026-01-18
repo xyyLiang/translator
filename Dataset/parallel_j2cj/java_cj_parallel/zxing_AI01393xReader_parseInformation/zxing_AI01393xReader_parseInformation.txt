@@ -1,0 +1,7 @@
+/**
+ * Parses the information from the barcode.
+ *
+ * @return The parsed information from the barcode.
+ * @throws NotFoundException    if the barcode information cannot be found.
+ * @throws FormatException      if the barcode format is invalid.
+ */

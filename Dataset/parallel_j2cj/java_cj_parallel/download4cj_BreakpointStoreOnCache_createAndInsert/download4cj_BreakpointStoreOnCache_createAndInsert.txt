@@ -1,0 +1,7 @@
+/**
+ * Creates a new BreakpointInfo object associated with the provided DownloadTask and inserts it into the repository.
+ *
+ * @param task the DownloadTask associated with the BreakpointInfo object to be created and inserted.
+ * @return the newly created BreakpointInfo object.
+ * @throws NullPointerException if the provided task is null.
+ */

@@ -1,0 +1,6 @@
+/**
+ * Determines the text encoding for bytes from the Byte Order Mark (BOM) value.
+ *
+ * @param value the byte array containing the BOM value
+ * @return the text encoding for the given BOM value
+ */

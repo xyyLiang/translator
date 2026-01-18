@@ -1,0 +1,5 @@
+/**
+ * Packs the frame data into a byte array and unsynchronizes it if unsynchronization is enabled.
+ *
+ * @return the packed and unsynchronized byte array containing the frame data
+ */

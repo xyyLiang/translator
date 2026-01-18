@@ -1,0 +1,8 @@
+/**
+ * Creates a new instance of a Job based on the given bundle and scheduler.
+ * 
+ * @param bundle The TriggerFiredBundle containing the details of the job to be created.
+ * @param scheduler The Scheduler instance.
+ * @return The newly created Job instance.
+ * @throws SchedulerException If there is an error creating the job.
+ */

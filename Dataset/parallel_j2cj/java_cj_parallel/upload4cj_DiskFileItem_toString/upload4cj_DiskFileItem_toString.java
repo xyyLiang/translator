@@ -1,0 +1,6 @@
+    @Override
+    public String toString() {
+        return format("name=%s, StoreLocation=%s, size=%s bytes, isFormField=%s, FieldName=%s",
+                      getName(), getStoreLocation(), Long.valueOf(getSize()),
+                      Boolean.valueOf(isFormField()), getFieldName());
+    }

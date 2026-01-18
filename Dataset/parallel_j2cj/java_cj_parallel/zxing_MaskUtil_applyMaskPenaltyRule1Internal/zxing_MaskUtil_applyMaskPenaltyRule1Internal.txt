@@ -1,0 +1,4 @@
+  /**
+   * Helper function for applyMaskPenaltyRule1. We need this for doing this calculation in both
+   * vertical and horizontal orders respectively.
+   */

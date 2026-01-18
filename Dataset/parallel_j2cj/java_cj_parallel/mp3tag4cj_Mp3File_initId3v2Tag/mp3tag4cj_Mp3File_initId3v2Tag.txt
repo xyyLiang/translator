@@ -1,0 +1,8 @@
+/**
+ * Initializes the ID3v2 tag based on the information obtained from the file.
+ * 
+ * @param seekableByteChannel The seekable byte channel of the file.
+ * @throws IOException           If an I/O error occurs while reading the file.
+ * @throws UnsupportedTagException If the tag in the file is unsupported.
+ * @throws InvalidDataException   If the data read from the file is invalid.
+ */

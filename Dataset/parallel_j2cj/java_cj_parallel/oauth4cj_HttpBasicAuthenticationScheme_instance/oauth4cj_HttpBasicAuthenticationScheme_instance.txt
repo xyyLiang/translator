@@ -1,0 +1,6 @@
+    /**
+     * Get HttpBasicAuthenticationScheme instance
+     * 
+     * @return HttpBasicAuthenticationScheme instance
+     * @since 0.38.2
+     */

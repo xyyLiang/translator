@@ -1,0 +1,6 @@
+    /**
+     * Iterator to get the value of each column
+     *
+     * @return Type of Iterator<String>
+     * @since 0.29.3
+     */

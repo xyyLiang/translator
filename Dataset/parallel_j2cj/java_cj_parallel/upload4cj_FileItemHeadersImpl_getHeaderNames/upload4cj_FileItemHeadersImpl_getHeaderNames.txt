@@ -1,0 +1,5 @@
+    /**
+     * get the Header Names Iterator
+     *
+     * @return Iterator<String> - the Header Names Iterator
+     */

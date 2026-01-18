@@ -1,0 +1,6 @@
+/**
+ * Calculates the maximum possible end offset of MPEG frames within the file,
+ * considering the file's length and the presence of an ID3v1 tag.
+ *
+ * @return The maximum end offset of MPEG frames.
+ */

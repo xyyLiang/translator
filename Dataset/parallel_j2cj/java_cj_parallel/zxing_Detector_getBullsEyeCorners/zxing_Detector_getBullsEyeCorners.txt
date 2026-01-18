@@ -1,0 +1,9 @@
+  /**
+   * Finds the corners of a bull-eye centered on the passed point.
+   * This returns the centers of the diagonal points just outside the bull's eye
+   * Returns [topRight, bottomRight, bottomLeft, topLeft]
+   *
+   * @param pCenter Center point
+   * @return The corners of the bull-eye
+   * @throws NotFoundException If no valid bull-eye can be found
+   */

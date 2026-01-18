@@ -1,0 +1,11 @@
+  /**
+   * Calculates the number of pad codewords as described in 4.9.2 of ISO/IEC 15438:2001(E).
+   *
+   * @param m the number of source codewords prior to the additional of the Symbol Length
+   *          Descriptor and any pad codewords
+   * @param k the number of error correction codewords
+   * @param c the number of columns in the symbol in the data region (excluding start, stop and
+   *          row indicator codewords)
+   * @param r the number of rows in the symbol
+   * @return the number of pad codewords
+   */

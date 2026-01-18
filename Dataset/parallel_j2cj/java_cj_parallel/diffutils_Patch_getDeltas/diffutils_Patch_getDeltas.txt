@@ -1,0 +1,7 @@
+    /**
+     * Returns the deltas
+     *
+     * @return the deltas
+     *
+     * @since 0.38.2
+     */

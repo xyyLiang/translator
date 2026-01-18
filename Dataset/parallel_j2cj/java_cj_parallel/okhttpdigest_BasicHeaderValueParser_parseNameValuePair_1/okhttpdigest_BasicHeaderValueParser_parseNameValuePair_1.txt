@@ -1,0 +1,7 @@
+/**
+ * Parses a name/value pair from a {@link CharArrayBuffer}.
+ * 
+ * @param buffer     the buffer containing the input
+ * @param cursor     the parser cursor indicating the current position in the buffer
+ * @return the parsed name/value pair
+ */

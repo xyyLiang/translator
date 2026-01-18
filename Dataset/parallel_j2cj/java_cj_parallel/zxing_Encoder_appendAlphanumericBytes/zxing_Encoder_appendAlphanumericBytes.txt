@@ -1,0 +1,7 @@
+/**
+ * Append alphanumeric bytes to the given {@link BitArray}.
+ *
+ * @param content The input alphanumeric content.
+ * @param bits The {@link BitArray} to which the alphanumeric bytes will be appended.
+ * @throws WriterException if the input content contains characters that cannot be encoded as alphanumeric.
+ */

@@ -1,0 +1,5 @@
+/**
+ * Appends the signature to the OAuth request according to the signature type.
+ * 
+ * @param request The OAuth request to which the signature is appended.
+ */

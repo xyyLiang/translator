@@ -1,0 +1,8 @@
+    /**
+     * Show inline diffs in generating diff rows or not.
+     *
+     * @param val the value to set. Default: false.
+     * @return builder with configured showInlineDiff parameter
+     *
+     * @since 0.39.3
+     */

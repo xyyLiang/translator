@@ -1,0 +1,6 @@
+/**
+ * Retrieves the character length for a given class.
+ *
+ * @param cls the class value
+ * @return the character length
+ */

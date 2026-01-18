@@ -1,0 +1,6 @@
+    /**
+     * Add the other to this ParameterList object.
+     *
+     * @param other of ParameterList
+     * @since 0.37.2
+     */

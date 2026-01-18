@@ -1,0 +1,6 @@
+    /**
+     * Encode the information in this OAuth4cjParameter object according to OAuthEncoder and splice it into a string.
+     *
+     * @return Type of String, return the spliced String.
+     * @since 0.37.2
+     */

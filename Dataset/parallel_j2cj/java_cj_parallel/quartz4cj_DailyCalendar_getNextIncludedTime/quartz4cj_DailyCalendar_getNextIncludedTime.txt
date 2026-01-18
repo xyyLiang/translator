@@ -1,0 +1,9 @@
+    /**
+     * Determines the next time included by the <CODE>DailyCalendar</CODE>
+     * after the specified time.
+     * 
+     * @param timeInMillis the initial date/time after which to find an 
+     *                     included time
+     * @return the time in milliseconds representing the next time included
+     *         after the specified time.
+     */

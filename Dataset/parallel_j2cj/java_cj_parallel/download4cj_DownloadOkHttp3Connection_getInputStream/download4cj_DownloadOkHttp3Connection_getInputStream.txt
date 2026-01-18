@@ -1,0 +1,7 @@
+/**
+ * Returns an input stream from the response body of the executed request.
+ * Throws an IOException if the response object is null or if no body is found in the response.
+ *
+ * @return An input stream from the response body.
+ * @throws IOException If the response object is null or if no body is found in the response.
+ */

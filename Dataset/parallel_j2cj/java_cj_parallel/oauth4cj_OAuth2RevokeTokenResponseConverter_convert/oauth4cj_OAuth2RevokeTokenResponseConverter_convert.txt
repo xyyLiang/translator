@@ -1,0 +1,5 @@
+    /**
+     * revoke token check 
+     * 
+     * @Param response revoke operation response information
+     */

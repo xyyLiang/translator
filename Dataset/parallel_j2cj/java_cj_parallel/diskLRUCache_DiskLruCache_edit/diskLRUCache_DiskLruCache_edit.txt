@@ -1,0 +1,4 @@
+  /**
+   * Returns an editor for the entry named {@code key}, or null if another
+   * edit is in progress.
+   */

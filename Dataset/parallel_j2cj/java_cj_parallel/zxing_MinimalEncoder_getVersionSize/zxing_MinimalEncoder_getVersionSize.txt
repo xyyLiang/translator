@@ -1,0 +1,6 @@
+/**
+ * Determines the size category of a QR code version.
+ *
+ * @param version The QR code version to determine the size for.
+ * @return The size category of the QR code version.
+ */

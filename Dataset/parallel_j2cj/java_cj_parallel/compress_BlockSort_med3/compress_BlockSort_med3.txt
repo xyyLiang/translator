@@ -1,0 +1,8 @@
+/**
+ * Returns the median of three integers.
+ * 
+ * @param a The first integer.
+ * @param b The second integer.
+ * @param c The third integer.
+ * @return The median value.
+ */

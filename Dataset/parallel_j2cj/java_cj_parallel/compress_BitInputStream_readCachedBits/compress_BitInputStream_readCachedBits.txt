@@ -1,0 +1,6 @@
+/**
+ * Reads cached bits from the internal state and adjusts the state variables accordingly.
+ *
+ * @param count the number of bits to read
+ * @return the read bits as a long value
+ */

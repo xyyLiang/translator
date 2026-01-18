@@ -1,0 +1,6 @@
+    /**
+     * The Function is getLength, Get the length of a real id3v2 tag
+     * 
+     * @return Type of Int32
+     * @since 0.32.5
+     */

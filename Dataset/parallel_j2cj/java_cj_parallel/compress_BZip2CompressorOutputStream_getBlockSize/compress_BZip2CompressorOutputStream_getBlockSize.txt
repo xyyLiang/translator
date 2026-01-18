@@ -1,0 +1,5 @@
+    /**
+     * Returns the blocksize parameter specified at construction time.
+     *
+     * @return the blocksize parameter specified at construction time
+     */

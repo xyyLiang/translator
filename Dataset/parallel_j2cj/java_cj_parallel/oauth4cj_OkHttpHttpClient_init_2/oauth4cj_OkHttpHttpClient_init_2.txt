@@ -1,0 +1,6 @@
+    /**
+     * Create a OkHttpHttpClient instance according to the parameter.
+     *
+     * @param client of httpclient4cj.HttpClient.
+     * @since 0.38.2
+     */

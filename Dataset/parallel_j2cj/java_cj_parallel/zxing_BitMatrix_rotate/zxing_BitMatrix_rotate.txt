@@ -1,0 +1,5 @@
+  /**
+   * Modifies this {@code BitMatrix} to represent the same but rotated the given degrees (0, 90, 180, 270)
+   *
+   * @param degrees number of degrees to rotate through counter-clockwise (0, 90, 180, 270)
+   */

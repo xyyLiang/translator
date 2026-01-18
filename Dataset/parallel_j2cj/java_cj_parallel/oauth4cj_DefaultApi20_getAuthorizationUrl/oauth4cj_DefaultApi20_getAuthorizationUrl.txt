@@ -1,0 +1,11 @@
+    /**
+     * Returns the URL where you should redirect your users to authenticate your application.
+     *
+     * @param responseType response type
+     * @param apiKey api key
+     * @param additionalParams any additional GET params to add to the URL
+     * @param callback callback url
+     * @param state state string
+     * @param scope scope string
+     * @return the URL where you should redirect your users
+     */

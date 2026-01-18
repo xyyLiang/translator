@@ -1,0 +1,6 @@
+/**
+ * Creates a new instance of BreakpointRemoteCheck for the provided BreakpointInfo.
+ * 
+ * @param info The BreakpointInfo object.
+ * @return     A new instance of BreakpointRemoteCheck.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Packs the provided integer into a synchsafe byte array starting from the specified offset in big-endian order.
+ *
+ * @param i       the integer to pack
+ * @param bytes   the byte array to store the packed integer
+ * @param offset  the starting offset in the byte array
+ */

@@ -1,0 +1,1 @@
+<AST_BEGIN> <AST_Program> <AST_MethodDecl> <AST_Modifiers> <AST_FormalParams> <AST_Modifiers> <AST_Block> <AST_LocalVariableDecl> <AST_Modifiers> <AST_BinaryExpr> <AST_FieldAccess> <AST_ExprStmt> <AST_Call> <AST_ArgList> <AST_END>

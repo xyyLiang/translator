@@ -1,0 +1,7 @@
+  /**
+   * Convert a list of Numeric Compacted codewords from Base 900 to Base 10.
+   *
+   * @param codewords The array of codewords
+   * @param count     The number of codewords
+   * @return The decoded string representing the Numeric data.
+   */

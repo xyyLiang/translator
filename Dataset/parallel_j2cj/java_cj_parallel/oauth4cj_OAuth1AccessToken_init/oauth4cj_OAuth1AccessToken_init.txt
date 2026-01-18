@@ -1,0 +1,7 @@
+    /**
+     * Constructor
+     *
+     * @Param token token
+     * @Param tokenSecret tokenSecret
+     * @since 0.37.2
+     */

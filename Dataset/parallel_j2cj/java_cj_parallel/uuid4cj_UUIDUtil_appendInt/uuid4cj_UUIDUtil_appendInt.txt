@@ -1,0 +1,7 @@
+/**
+ * Appends an integer value to a byte array at the specified offset.
+ * 
+ * @param value  The integer value to append.
+ * @param buffer The byte array to which the integer value is appended.
+ * @param offset The offset at which to append the integer value in the byte array.
+ */

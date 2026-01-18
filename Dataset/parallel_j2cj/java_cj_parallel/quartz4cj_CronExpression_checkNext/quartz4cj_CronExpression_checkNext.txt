@@ -1,0 +1,10 @@
+/**
+ * Checks the next value in the expression after the specified position.
+ *
+ * @param pos     the current position in the expression
+ * @param s       the expression string
+ * @param val     the current value
+ * @param type    the type of field (e.g., SECOND, MINUTE, HOUR, etc.)
+ * @return the new position after processing
+ * @throws ParseException if there is an error parsing the expression
+ */

@@ -1,0 +1,10 @@
+/**
+ * Decodes the codewords and returns the decoded result.
+ *
+ * @param codewords The array of codewords to decode.
+ * @param ecLevel   The error correction level.
+ * @param erasures  The array containing the positions of erasures.
+ * @return The decoded result.
+ * @throws FormatException     If the format is invalid.
+ * @throws ChecksumException   If a checksum error occurs.
+ */

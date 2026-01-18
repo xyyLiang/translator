@@ -1,0 +1,6 @@
+/**
+ * Decodes an alphanumeric character starting from the given position.
+ *
+ * @param pos The starting position of the character to decode.
+ * @return The decoded alphanumeric character.
+ */

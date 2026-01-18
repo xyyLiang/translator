@@ -1,0 +1,12 @@
+    /**
+     * Parses a simple token.
+     * Simple tokens are tokens that are not surrounded by encapsulators. A simple token might contain escaped
+     * delimiters (as \, or \;). The token is finished when one of the following conditions becomes true:
+     * The end of line has been reached (EORECORD)</li>
+     * The end of stream has been reached (EOF)</li>
+     * An unescaped delimiter has been reached (TOKEN)</li>
+     *
+     * @param  token     the current token
+     * @param  ch        the current character
+     * @return the filled token
+     */

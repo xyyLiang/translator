@@ -1,0 +1,6 @@
+/**
+ * Retrieves the parameter at the specified index.
+ *
+ * @param index The index of the parameter to retrieve.
+ * @return The parameter at the specified index.
+ */

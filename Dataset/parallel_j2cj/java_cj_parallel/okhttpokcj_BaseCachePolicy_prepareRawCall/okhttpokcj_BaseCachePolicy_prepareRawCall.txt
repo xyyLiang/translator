@@ -1,0 +1,7 @@
+/**
+ * Prepares the raw HTTP call.
+ * 
+ * @return the prepared raw HTTP call
+ * @throws Throwable if an error occurs during preparation
+ * @throws HttpException if the call has already been executed
+ */

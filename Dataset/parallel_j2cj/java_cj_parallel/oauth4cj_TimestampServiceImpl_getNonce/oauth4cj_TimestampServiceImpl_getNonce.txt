@@ -1,0 +1,5 @@
+    /**
+     * Returns a nonce (unique value for each request).
+     *
+     * @return nonce
+     */

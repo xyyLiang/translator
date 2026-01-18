@@ -1,0 +1,11 @@
+/**
+ * Checks if the trial connection should pass under special circumstances.
+ * This occurs when the response code is 416 (Range Not Satisfiable),
+ * the instance length is non-negative, and the download is resumable.
+ * In such cases, the trial connection is considered to be successful.
+ *
+ * @param responseCode   the HTTP response code from the server.
+ * @param instanceLength the length of the resource instance provided by the server.
+ * @param isResumable    indicates whether the download is resumable.
+ * @return true if the trial connection should pass under special circumstances; otherwise, false.
+ */

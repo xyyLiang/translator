@@ -1,0 +1,6 @@
+/**
+ * Removes partial rows from the collection of ExpandedRow objects.
+ * 
+ * @param pairs The collection of ExpandedPair objects.
+ * @param rows The collection of ExpandedRow objects.
+ */

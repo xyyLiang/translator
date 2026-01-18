@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that a job has been added to the scheduler.
+ *
+ * @param jobDetail the JobDetail of the added job
+ */

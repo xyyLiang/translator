@@ -1,0 +1,8 @@
+/**
+ * Extracts a sub-array of bytes from the given ECIInput object.
+ * 
+ * @param input The ECIInput object.
+ * @param start The starting index (inclusive).
+ * @param end The ending index (exclusive).
+ * @return The sub-array of bytes.
+ */

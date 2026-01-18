@@ -1,0 +1,6 @@
+/**
+ * Retrieves the sanitized URL from the OAuth request.
+ * 
+ * @param request The OAuth request.
+ * @return The sanitized URL.
+ */

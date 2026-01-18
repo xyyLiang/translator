@@ -1,0 +1,6 @@
+    /**
+     * Calculate and set the endTimeOfDay using count, interval and starTimeOfDay. This means
+     * that these must be set before this method is call.
+     * 
+     * @return the updated DailyTimeIntervalScheduleBuilder
+     */

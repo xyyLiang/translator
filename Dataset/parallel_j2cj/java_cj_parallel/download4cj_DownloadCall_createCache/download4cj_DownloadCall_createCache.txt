@@ -1,0 +1,6 @@
+/**
+ * Creates a download cache using the given breakpoint information.
+ *
+ * @param info The breakpoint information.
+ * @return The created download cache.
+ */

@@ -1,0 +1,10 @@
+/**
+ * Signs the given string using the provided key string.
+ * 
+ * @param toSign     The string to sign.
+ * @param keyString  The key string used for signing.
+ * @return The signed string.
+ * @throws UnsupportedEncodingException If the encoding is not supported.
+ * @throws NoSuchAlgorithmException    If the algorithm is not available.
+ * @throws InvalidKeyException         If the key is invalid.
+ */

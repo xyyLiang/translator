@@ -1,0 +1,6 @@
+    /**
+     * Construction
+     *
+     * @param ethAddr - Hardware address to use for generating
+     * @param timer - Object used for synchronizing access to timestamps
+     */

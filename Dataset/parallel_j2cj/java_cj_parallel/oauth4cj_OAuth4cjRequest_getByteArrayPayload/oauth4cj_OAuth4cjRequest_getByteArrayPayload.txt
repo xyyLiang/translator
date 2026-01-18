@@ -1,0 +1,7 @@
+    /**
+     * Returns the body of the request.
+     * set in function setPayload(payload: Array<UInt8>) or function addBodyParameter.
+     *
+     * @return Type of Array<UInt8>
+     * @since 0.37.2
+     */

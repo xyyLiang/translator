@@ -1,0 +1,16 @@
+  /**
+   * Performs high-level encoding of a PDF417 message using the algorithm described in annex P
+   * of ISO/IEC 15438:2001(E). If byte compaction has been selected, then only byte compaction
+   * is used.
+   *
+   * @param msg the message
+   * @param compaction compaction mode to use
+   * @param encoding character encoding used to encode in default or byte compaction
+   *  or {@code null} for default / not applicable
+   * @param autoECI encode input minimally using multiple ECIs if needed
+   *   If autoECI encoding is specified and additionally {@code encoding} is specified, then the encoder
+   *   will use the specified {@link Charset} for any character that can be encoded by it, regardless
+   *   if a different encoding would lead to a more compact encoding. When no {@code encoding} is specified
+   *   then charsets will be chosen so that the byte representation is minimal.
+   * @return the encoded message (the char values range from 0 to 928)
+   */

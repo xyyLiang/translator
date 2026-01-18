@@ -1,0 +1,6 @@
+    /**
+     * Update the entry using a map of pax headers.
+     *
+     * @param headers
+     * @since 1.15
+     */

@@ -1,0 +1,9 @@
+/**
+ * Adds missing rows to the bounding box.
+ * 
+ * @param missingStartRows  The number of missing rows to add to the top of the bounding box.
+ * @param missingEndRows    The number of missing rows to add to the bottom of the bounding box.
+ * @param isLeft            Indicates whether the missing rows should be added to the left side of the bounding box.
+ * @return                  The bounding box with missing rows added.
+ * @throws NotFoundException If the calculated coordinates exceed the image height.
+ */

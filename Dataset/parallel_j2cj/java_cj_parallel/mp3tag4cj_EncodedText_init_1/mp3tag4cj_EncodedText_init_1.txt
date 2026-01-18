@@ -1,0 +1,6 @@
+    /**
+     * The Function is init constructor.
+     * 
+     * @param string of String
+     * @since 0.32.5
+     */

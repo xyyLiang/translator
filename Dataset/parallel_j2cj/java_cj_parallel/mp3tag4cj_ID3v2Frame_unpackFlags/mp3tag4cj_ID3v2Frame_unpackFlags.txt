@@ -1,0 +1,6 @@
+/**
+ * Unpacks the flags from the buffer.
+ * 
+ * @param buffer The buffer containing the flags.
+ * @param offset The offset within the buffer to start unpacking from.
+ */

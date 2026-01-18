@@ -1,0 +1,9 @@
+/**
+ * Renders the QR Code matrix from the encoded QRCode object.
+ *
+ * @param code The encoded QRCode object.
+ * @param width The desired width of the QR Code matrix.
+ * @param height The desired height of the QR Code matrix.
+ * @param quietZone The size of the quiet zone.
+ * @return The BitMatrix representing the QR Code matrix.
+ */

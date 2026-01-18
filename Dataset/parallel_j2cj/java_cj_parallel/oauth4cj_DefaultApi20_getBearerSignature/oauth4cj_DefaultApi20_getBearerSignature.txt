@@ -1,0 +1,5 @@
+    /**
+     * Returns BearerSignature instance.
+     *
+     * @return BearerSignature BearerSignature instance
+     */

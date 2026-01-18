@@ -1,0 +1,5 @@
+/**
+ * Encodes the content of the provided EncoderContext.
+ *
+ * @param context The EncoderContext containing the message and encoding information.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Chooses the appropriate code set for encoding the character at the specified position in the provided CharSequence.
+ * 
+ * @param value The CharSequence containing the character.
+ * @param start The position of the character in the CharSequence.
+ * @param oldCode The code set used for encoding the previous character.
+ * @return The code set to be used for encoding the character at the specified position.
+ */

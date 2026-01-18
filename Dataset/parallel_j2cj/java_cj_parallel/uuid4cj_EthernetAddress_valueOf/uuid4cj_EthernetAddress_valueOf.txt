@@ -1,0 +1,9 @@
+    /**
+     * Constructs a new EthernetAddress given the byte array that contains
+     * binary representation of the address.
+     *
+     * Note that calling this method returns the same result as would
+     * using the matching constructor.
+     *
+     * @param addr - Array representation of the ethernet address
+     */

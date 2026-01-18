@@ -1,0 +1,6 @@
+/**
+ * Returns the dirty file associated with the specified index for this entry.
+ * 
+ * @param i The index of the value.
+ * @return The dirty file associated with the specified index.
+ */

@@ -1,0 +1,5 @@
+/**
+ * Notifies all scheduler listeners that triggers within a specific group have been resumed.
+ * 
+ * @param group The group of triggers that have been resumed.
+ */

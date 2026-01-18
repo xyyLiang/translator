@@ -1,0 +1,7 @@
+/**
+ * Handles the end-of-data condition during encoding, ensuring that the appropriate symbol information
+ * is updated and any necessary unlatch codewords are written.
+ *
+ * @param context The encoder context.
+ * @param buffer The StringBuilder containing the encoded data so far.
+ */

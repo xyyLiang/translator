@@ -1,0 +1,12 @@
+    /**
+     * The Function is stringIntoByteBuffer, string into the specified byte array
+     * 
+     * @param s of String, Source string
+     * @param offset of Int64, Start offset
+     * @param length of Int64, Data length
+     * @param bytes of Array<Byte>, Target byte array
+     * @param destOffset of Int64, Target byte array offset
+     * 
+     * @return Type of Unit
+     * @since 0.31.4
+     */

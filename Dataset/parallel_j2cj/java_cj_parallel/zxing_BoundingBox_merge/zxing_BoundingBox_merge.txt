@@ -1,0 +1,8 @@
+/**
+ * Merges two bounding boxes into a single bounding box.
+ * 
+ * @param leftBox   The left bounding box to merge.
+ * @param rightBox  The right bounding box to merge.
+ * @return          The merged bounding box.
+ * @throws NotFoundException If either of the input bounding boxes is null.
+ */

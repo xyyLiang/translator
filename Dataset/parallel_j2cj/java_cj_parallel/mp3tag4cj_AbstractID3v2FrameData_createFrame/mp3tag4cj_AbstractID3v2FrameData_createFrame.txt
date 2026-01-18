@@ -1,0 +1,8 @@
+/**
+ * Creates a new ID3v2 frame object from the provided byte array and current offset.
+ *
+ * @param bytes         the byte array containing the packed frame data
+ * @param currentOffset the current offset to the start of the frame data in the byte array
+ * @return an ID3v2Frame object created from the specified byte array and offset
+ * @throws InvalidDataException if the frame data is invalid or cannot be parsed
+ */

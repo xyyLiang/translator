@@ -1,0 +1,9 @@
+    /**
+     * Creates a DiffRow
+     * 
+     * @param The Tag
+     * @param The oldLine
+     * @param The newLine
+     * 
+     * @since 0.39.3
+     */

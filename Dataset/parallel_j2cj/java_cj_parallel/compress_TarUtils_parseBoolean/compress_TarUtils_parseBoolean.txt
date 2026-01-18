@@ -1,0 +1,9 @@
+    /*
+     * Parse a boolean byte from a buffer.
+     * Leading spaces and NUL are ignored.
+     * The buffer may contain trailing spaces or NULs.
+     *
+     * @param buffer The buffer from which to parse.
+     * @param offset The offset into the buffer from which to parse.
+     * @return The boolean value of the bytes.
+     */

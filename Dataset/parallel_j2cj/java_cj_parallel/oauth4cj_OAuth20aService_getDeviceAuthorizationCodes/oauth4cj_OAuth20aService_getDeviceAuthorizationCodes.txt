@@ -1,0 +1,5 @@
+    /**
+     * Requesting a set of verification codes from an authorization server with default scope.
+     *
+     * @return DeviceAuthorization device authorization response.
+     */

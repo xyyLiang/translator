@@ -1,0 +1,11 @@
+    /**
+     * processDeltas takes a list of Deltas and outputs them together in a
+     * single block of Unified-Diff-format text.
+     * 
+     * @param origLines - the lines of the original file
+     * @param deltas - the Deltas to be output as a single block
+     * @param contextSize - the number of lines of context to place around block
+     * @return List of strings representing the Unified Diff representation of the Patch argument.
+     *   
+     * @since 0.39.3
+     */

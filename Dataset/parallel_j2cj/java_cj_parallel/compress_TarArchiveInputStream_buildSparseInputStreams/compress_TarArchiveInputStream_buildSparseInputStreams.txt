@@ -1,0 +1,6 @@
+    /**
+     * Build the input streams consisting of all-zero input streams and non-zero input streams. When reading from the non-zero input streams, the data is
+     * actually read from the original input stream. The size of each input stream is introduced by the sparse headers.
+     *
+     * NOTE : Some all-zero input streams and non-zero input streams have the size of 0. We DO NOT store the 0 size input streams because they are meaningless.
+     */

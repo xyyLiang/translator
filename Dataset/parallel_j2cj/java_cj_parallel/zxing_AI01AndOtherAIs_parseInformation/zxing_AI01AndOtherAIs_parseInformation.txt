@@ -1,0 +1,8 @@
+/**
+ * Parses the information encoded in the barcode. This method decodes the information encoded in the barcode,
+ * specifically the GTIN (Global Trade Item Number).
+ *
+ * @return The parsed information, typically the GTIN (Global Trade Item Number).
+ * @throws NotFoundException If the information cannot be found in the barcode.
+ * @throws FormatException  If the barcode format is invalid.
+ */

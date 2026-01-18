@@ -1,0 +1,13 @@
+    /**
+     * The Function is interpretResponseStream.Provide Chain.proceed successful call method,Get responseboyd Whether there is
+     * an exception in getsource will be handled by responseinputstreamerror and responsereceived methods in networkeventreporter
+     * interface respectively.
+     *
+     * @param requestId of Int64
+     * @param timeInfo of NetworkInterceptorTimeInfo
+     * @param request of Request
+     * @param response of Response
+     *
+     * @return Type of Response
+     * @since 0.30.4
+     */

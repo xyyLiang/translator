@@ -1,0 +1,7 @@
+    /**
+     * Returns the previous Snake node
+     *
+     * @return the PathNode
+     *
+     * @since 0.38.2
+     */

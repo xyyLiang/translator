@@ -1,0 +1,7 @@
+/**
+ * Converts a pattern encoding into the corresponding character.
+ *
+ * @param pattern The pattern encoding.
+ * @return The character corresponding to the pattern encoding.
+ * @throws NotFoundException If the pattern encoding does not correspond to any known character.
+ */

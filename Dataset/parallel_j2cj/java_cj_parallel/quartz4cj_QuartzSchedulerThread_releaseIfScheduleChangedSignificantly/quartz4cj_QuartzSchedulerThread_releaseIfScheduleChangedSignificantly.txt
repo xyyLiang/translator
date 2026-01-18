@@ -1,0 +1,7 @@
+/**
+ * Releases acquired triggers if the schedule has changed significantly.
+ * 
+ * @param triggers the list of triggers to check
+ * @param triggerTime the new trigger time
+ * @return true if triggers are released, false otherwise
+ */

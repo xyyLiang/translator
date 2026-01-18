@@ -1,0 +1,5 @@
+/**
+ * Returns the shared UUIDTimer instance, creating it if necessary.
+ * 
+ * @return The shared UUIDTimer instance.
+ */

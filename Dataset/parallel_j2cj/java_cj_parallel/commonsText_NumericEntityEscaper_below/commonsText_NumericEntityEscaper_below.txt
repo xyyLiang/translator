@@ -1,0 +1,6 @@
+    /**
+     * Constructs a {@code NumericEntityEscaper} below the specified value (exclusive).
+     *
+     * @param codePoint below which to escape
+     * @return The newly created {@code NumericEntityEscaper} instance
+     */

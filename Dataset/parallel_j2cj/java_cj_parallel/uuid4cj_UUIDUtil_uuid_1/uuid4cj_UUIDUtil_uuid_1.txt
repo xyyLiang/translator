@@ -1,0 +1,8 @@
+    /**
+     * Factory method for constructing {@link UUID} instance from given 16 bytes.
+     * NOTE: since absolutely no validation is done for contents, this method should
+     * only be used if contents are known to be valid.
+     *
+     * @param bytes - Valid arrays
+     * @return UUID
+     */

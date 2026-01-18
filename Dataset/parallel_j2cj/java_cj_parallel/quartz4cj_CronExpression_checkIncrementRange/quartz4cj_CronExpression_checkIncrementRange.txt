@@ -1,0 +1,8 @@
+/**
+ * Checks if the specified increment is within the allowed range for the given type.
+ *
+ * @param incr    the increment value to check
+ * @param type    the type of field (e.g., SECOND, MINUTE, HOUR, etc.)
+ * @param idxPos  the index position in the expression
+ * @throws ParseException if the increment value exceeds the allowed range
+ */

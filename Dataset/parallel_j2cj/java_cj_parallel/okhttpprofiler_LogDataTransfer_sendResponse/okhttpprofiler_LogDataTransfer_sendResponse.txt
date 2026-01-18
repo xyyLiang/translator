@@ -1,0 +1,6 @@
+/**
+ * Sends a response and logs the details of the response.
+ *
+ * @param id       The identifier for the response
+ * @param response The response to be sent
+ */

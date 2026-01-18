@@ -1,0 +1,5 @@
+    /**
+     * Returns the current line number
+     *
+     * @return the current line number
+     */

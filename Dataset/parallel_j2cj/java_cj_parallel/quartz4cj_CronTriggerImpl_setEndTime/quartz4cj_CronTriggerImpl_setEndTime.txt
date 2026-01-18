@@ -1,0 +1,6 @@
+/**
+ * Sets the end time for the trigger.
+ *
+ * @param endTime The end time to set for the trigger.
+ * @throws IllegalArgumentException If the end time is before the start time.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Deletes the jobs identified by the given list of job keys.
+ *
+ * @param jobKeys the list of job keys to delete
+ * @return true if any jobs were deleted, false otherwise
+ * @throws SchedulerException if there is an issue accessing or interacting with the scheduler
+ */

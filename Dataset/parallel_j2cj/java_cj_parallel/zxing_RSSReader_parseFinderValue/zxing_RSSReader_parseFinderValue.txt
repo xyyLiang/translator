@@ -1,0 +1,8 @@
+/**
+ * Parses the finder pattern value based on the given counters and finder patterns.
+ *
+ * @param counters       The array of counters representing the pattern.
+ * @param finderPatterns The array of arrays representing possible finder patterns.
+ * @return The parsed finder pattern value.
+ * @throws NotFoundException if no matching finder pattern is found.
+ */

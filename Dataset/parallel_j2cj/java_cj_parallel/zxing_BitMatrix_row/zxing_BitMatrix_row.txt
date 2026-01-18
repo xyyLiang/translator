@@ -1,0 +1,8 @@
+  /**
+   * A fast method to retrieve one row of data from the matrix as a BitArray.
+   *
+   * @param y The row to retrieve
+   * @param row An optional caller-allocated BitArray, will be allocated if null or too small
+   * @return The resulting BitArray - this reference should always be used even when passing
+   *         your own row
+   */

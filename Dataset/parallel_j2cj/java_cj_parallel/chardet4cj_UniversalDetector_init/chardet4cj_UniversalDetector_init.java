@@ -1,0 +1,3 @@
+    public UniversalDetector() {
+     this(null);
+    }

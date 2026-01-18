@@ -1,0 +1,10 @@
+/**
+ * Chooses the best mask pattern for the QR code.
+ * 
+ * @param bits The input bit array.
+ * @param ecLevel The error correction level.
+ * @param version The QR code version.
+ * @param matrix The matrix to build.
+ * @return The best mask pattern.
+ * @throws WriterException If an error occurs during the mask pattern selection.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Generates the check words for the given BitArray using Reed-Solomon encoding.
+ * 
+ * @param bitArray  The input BitArray to generate check words for.
+ * @param totalBits The total number of bits to generate (including data and check bits).
+ * @param wordSize  The size of each word in bits.
+ * @return The BitArray containing the generated check words.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Sets the genre of the audio file in the ID3v2 tag. The genre is represented by an integer
+ * genre number. If the provided genre number is valid (non-negative), it is used to create
+ * a genre description, and the genre information is added to the tag. If the genre number is
+ * negative, the method does nothing.
+ *
+ * @param genre the integer genre number to be set in the tag
+ */

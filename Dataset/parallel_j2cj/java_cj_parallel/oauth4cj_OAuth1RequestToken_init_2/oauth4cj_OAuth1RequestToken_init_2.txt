@@ -1,0 +1,9 @@
+    /**
+     * Constructor
+     *
+     * @Param token token
+     * @Param tokenSecret tokenSecret
+     * @Param oauthCallbackConfirmed oauth callback confirmed flag
+     * @Param rawResponse raw response information
+     * @since 0.37.2
+     */

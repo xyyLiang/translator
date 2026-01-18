@@ -1,0 +1,6 @@
+/**
+ * Parses a block of ISO/IEC 646 character data starting from the current position.
+ *
+ * @return The parsed block result.
+ * @throws FormatException if parsing encounters an error.
+ */

@@ -1,0 +1,5 @@
+  /**
+   * @return true if we have found at least 3 finder patterns that have been detected
+   *         at least {@link #CENTER_QUORUM} times each, and, the estimated module size of the
+   *         candidates is "pretty similar"
+   */

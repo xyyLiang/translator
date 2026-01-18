@@ -1,0 +1,5 @@
+/**
+ * Adjusts the indicator column row numbers for the given detection result column.
+ * 
+ * @param detectionResultColumn The detection result column to adjust.
+ */

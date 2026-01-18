@@ -1,0 +1,6 @@
+    /**
+     * Obtain the string representation of the OAuth4cjRequest object.
+     *
+     * @return Type of String, converted string
+     * @since 0.37.2
+     */

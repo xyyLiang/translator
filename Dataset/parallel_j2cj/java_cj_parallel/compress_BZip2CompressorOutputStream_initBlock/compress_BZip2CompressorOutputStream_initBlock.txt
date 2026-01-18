@@ -1,0 +1,3 @@
+/**
+ * Initializes a new block for compression.
+ */

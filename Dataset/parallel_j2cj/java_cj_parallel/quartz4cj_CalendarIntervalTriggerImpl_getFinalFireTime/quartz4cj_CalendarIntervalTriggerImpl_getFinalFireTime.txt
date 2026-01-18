@@ -1,0 +1,10 @@
+    /**
+     * <p>
+     * Returns the final time at which the <code>DateIntervalTrigger</code> will
+     * fire, if there is no end time set, null will be returned.
+     * </p>
+     * 
+     * <p>
+     * Note that the return time may be in the past.
+     * </p>
+     */

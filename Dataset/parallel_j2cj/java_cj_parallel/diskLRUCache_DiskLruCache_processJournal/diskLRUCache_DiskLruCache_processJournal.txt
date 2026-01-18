@@ -1,0 +1,4 @@
+  /**
+   * Computes the initial size and collects garbage as a part of opening the
+   * cache. Dirty entries are assumed to be inconsistent and will be deleted.
+   */

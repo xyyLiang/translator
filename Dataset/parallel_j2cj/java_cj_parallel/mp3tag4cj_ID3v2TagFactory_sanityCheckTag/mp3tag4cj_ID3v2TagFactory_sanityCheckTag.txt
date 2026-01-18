@@ -1,0 +1,7 @@
+/**
+ * Performs a sanity check on the provided byte array to ensure it contains a valid ID3v2 tag.
+ * 
+ * @param bytes The byte array to check.
+ * @throws NoSuchTagException    If the tag cannot be found in the byte array.
+ * @throws UnsupportedTagException If the tag version is not supported.
+ */

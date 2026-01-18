@@ -1,0 +1,7 @@
+    /**
+     * UUID comparator
+     *
+     * @param u1 - UUID
+     * @param u2 - UUID
+     * @return Int32
+     */

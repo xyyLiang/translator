@@ -1,0 +1,5 @@
+    /**
+     * Adapt fallbackSort to the expected interface of the rest of the
+     * code, in particular deal with the fact that block starts at
+     * offset 1 (in libbzip2 1.0.6 it starts at 0).
+     */

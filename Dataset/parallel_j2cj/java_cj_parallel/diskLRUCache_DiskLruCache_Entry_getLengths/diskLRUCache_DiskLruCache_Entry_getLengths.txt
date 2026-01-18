@@ -1,0 +1,6 @@
+/**
+ * Returns a string representation of the lengths of the entry's values.
+ * 
+ * @return A string containing the lengths of the entry's values.
+ * @throws IOException If an I/O error occurs while retrieving the lengths.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Starts the download process with the given cache and breakpoint information.
+ *
+ * @param cache The download cache.
+ * @param info  The breakpoint information.
+ * @throws InterruptedException If the operation is interrupted.
+ */

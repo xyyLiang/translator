@@ -1,0 +1,7 @@
+        /**
+         * Returns the number of bytes, which are currently
+         * available, without blocking.
+         *
+         * @throws IOException An I/O error occurs.
+         * @return Number of bytes in the buffer.
+         */

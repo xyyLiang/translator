@@ -1,0 +1,6 @@
+    /**
+     * init
+     *
+     * @param sizeThreshold - Int64 The threshold
+     * @param repository - Option<Directory> The data repository
+     */

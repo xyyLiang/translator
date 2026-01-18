@@ -1,0 +1,7 @@
+    /**
+     * get the OAuth2AccessToken.
+     *
+     * @param params of AccessTokenRequestParams, the access token request params
+     *
+     * @return OAuth2AccessToken return the OAuth2AccessToken.
+     */

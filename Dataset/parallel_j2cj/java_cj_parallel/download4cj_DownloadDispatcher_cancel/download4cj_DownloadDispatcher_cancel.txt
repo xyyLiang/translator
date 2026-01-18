@@ -1,0 +1,6 @@
+/**
+ * Cancels an array of IdentifiedTasks.
+ * Increments the count of skipped proceed calls, cancels the tasks, then decrements the count and processes calls.
+ *
+ * @param tasks The array of IdentifiedTasks to be canceled.
+ */

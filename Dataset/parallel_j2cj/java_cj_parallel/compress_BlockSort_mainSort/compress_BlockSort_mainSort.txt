@@ -1,0 +1,6 @@
+/**
+ * Performs the main sorting process.
+ * 
+ * @param dataShadow The data object shadow.
+ * @param lastShadow The last shadow.
+ */

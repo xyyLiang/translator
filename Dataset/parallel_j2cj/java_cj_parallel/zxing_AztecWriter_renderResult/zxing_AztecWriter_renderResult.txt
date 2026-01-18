@@ -1,0 +1,9 @@
+/**
+ * Renders the Aztec code represented by the provided AztecCode object into a BitMatrix of the specified width and height.
+ *
+ * @param code The AztecCode object representing the Aztec code to render.
+ * @param width The desired width of the output BitMatrix.
+ * @param height The desired height of the output BitMatrix.
+ * @return The BitMatrix representation of the rendered Aztec code.
+ * @throws IllegalStateException If the input BitMatrix of the Aztec code is null.
+ */

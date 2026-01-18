@@ -1,0 +1,9 @@
+/**
+ * Determines the next character that could appear in an identifier based on the given character.
+ * An identifier typically starts with a letter (uppercase or lowercase), underscore, or dollar sign,
+ * followed by letters, digits, underscores, or dollar signs.
+ *
+ * @param ch          the current character
+ * @param allowDigits true if digits are allowed in the identifier, false otherwise
+ * @return the next character that could appear in an identifier, or -1 if no such character exists
+ */

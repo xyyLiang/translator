@@ -1,0 +1,7 @@
+    /**
+     * Factory method for constructing UUID generator that uses default (shared)
+     * random number generator for constructing UUIDs according to standard
+     * method number 4.
+     * 
+     * @return RandomBasedGenerator
+     */

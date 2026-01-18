@@ -1,0 +1,12 @@
+/**
+ * Finds rows in the bit matrix with a given pattern.
+ * 
+ * @param matrix The bit matrix to search.
+ * @param height The height of the matrix.
+ * @param width The width of the matrix.
+ * @param startRow The starting row for the search.
+ * @param startColumn The starting column for the search.
+ * @param minHeight The minimum height of a row containing the pattern.
+ * @param pattern The pattern to search for.
+ * @return An array of result points representing the found rows with the pattern.
+ */

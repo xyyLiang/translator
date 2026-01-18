@@ -1,0 +1,8 @@
+/**
+ * Returns an unmodifiable sorted map of available compressor input stream providers.
+ * If the map has not been initialized yet, it will be lazily initialized by calling
+ * {@code findAvailableCompressorInputStreamProviders()} and then wrapped with
+ * {@code Collections.unmodifiableSortedMap()} to make it unmodifiable.
+ *
+ * @return an unmodifiable sorted map of available compressor input stream providers.
+ */

@@ -1,0 +1,9 @@
+/**
+ * Gets the start column for detecting a codeword in a specific row of the image.
+ *
+ * @param detectionResult The DetectionResult containing the barcode information.
+ * @param barcodeColumn   The column index where the codeword is expected to be found.
+ * @param imageRow        The row index of the image where the codeword is expected to be found.
+ * @param leftToRight     True if reading is in the left-to-right direction, false otherwise.
+ * @return The start column for detecting the codeword.
+ */

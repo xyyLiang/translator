@@ -1,0 +1,7 @@
+/**
+ * Generates a string representation of the Prism4j token recursively.
+ *
+ * @param builder The StringBuilder to append the string representation to.
+ * @param cache   The cache used to track visited elements during recursion.
+ * @param token   The Prism4j token to generate a string representation for.
+ */

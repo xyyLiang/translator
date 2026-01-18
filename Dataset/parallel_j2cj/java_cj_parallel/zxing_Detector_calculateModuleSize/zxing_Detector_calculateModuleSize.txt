@@ -1,0 +1,9 @@
+  /**
+   * <p>Computes an average estimated module size based on estimated derived from the positions
+   * of the three finder patterns.</p>
+   *
+   * @param topLeft detected top-left finder pattern center
+   * @param topRight detected top-right finder pattern center
+   * @param bottomLeft detected bottom-left finder pattern center
+   * @return estimated module size
+   */

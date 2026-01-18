@@ -1,0 +1,8 @@
+/**
+ * Records the pattern in reverse in the provided row starting from the given position.
+ *
+ * @param row       The BitArray row containing the pattern.
+ * @param start     The starting position in the row.
+ * @param counters  The array to store the pattern counters.
+ * @throws NotFoundException If the pattern cannot be found.
+ */

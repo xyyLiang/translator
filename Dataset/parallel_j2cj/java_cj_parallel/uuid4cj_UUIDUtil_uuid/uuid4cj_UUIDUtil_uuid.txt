@@ -1,0 +1,9 @@
+    /**
+     * Factory method for creating UUIDs from the canonical string representation.
+     *
+     * @param id - String that contains the canonical representation of the UUID to build;
+     *             36-char string. Hex-chars may be in upper-case too; 
+     *             UUID class will always output them in lowercase.
+     *              
+     * @return UUID
+     */

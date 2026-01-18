@@ -1,0 +1,7 @@
+/**
+ * Creates an OAuth2AccessToken object from the raw response.
+ * 
+ * @param rawResponse The raw response string.
+ * @return The created OAuth2AccessToken object.
+ * @throws IOException If an I/O error occurs while parsing the raw response.
+ */

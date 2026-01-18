@@ -1,0 +1,9 @@
+    /**
+     * Visits the script. The script implements the <em>visitor</em> design
+     * pattern, this method is the entry point to which the user supplies its
+     * own visitor, the script will be responsible to drive it through the
+     * commands in order and call the appropriate method as each command is
+     * encountered.
+     *
+     * @param visitor  the visitor that will visit all commands in turn
+     */

@@ -1,0 +1,5 @@
+/**
+ * Prepares an OAuth request for obtaining a request token.
+ * 
+ * @return The prepared OAuth request.
+ */

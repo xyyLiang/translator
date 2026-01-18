@@ -1,0 +1,6 @@
+/**
+ * Unpacks the ID3 tag data from the given byte array.
+ * 
+ * @param bytes The byte array containing the ID3 tag data.
+ * @throws NoSuchTagException If the byte array does not contain a valid ID3 tag.
+ */

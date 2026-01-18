@@ -1,0 +1,6 @@
+/**
+ * Retrieves an instance of the HttpClient based on the provided configuration.
+ * 
+ * @param config The configuration for the HttpClient.
+ * @return An instance of the HttpClient.
+ */

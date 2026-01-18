@@ -1,0 +1,51 @@
+/**
+ * Reads up to {@code len} bytes of data from the input stream into
+ * an array of bytes. An attempt is made to read as many as {@code len} bytes,
+ * but a smaller number may be read. The number of bytes actually read is
+ * returned as an integer.
+ *
+ * <p>This method blocks until input data is available, end of file is
+ * detected, or an exception is thrown.
+ *
+ * <p>If {@code len} is zero, then no bytes are read and {@code 0} is returned;
+ * otherwise, there is an attempt to read at least one byte. If no byte is
+ * available because the stream is at end of file, the value {@code -1} is
+ * returned; otherwise, at least one byte is read and stored into {@code buf}.
+ *
+ * <p>The first byte read is stored into element {@code buf[off]}, the
+ * next one into {@code buf[off+1]}, and so on. The number of bytes read
+ * is, at most, equal to {@code len}. Let {@code k} be the number of
+ * bytes actually read; these bytes will be stored in elements
+ * {@code buf[off]} through {@code buf[off+k-1]}, leaving elements
+ * {@code buf[off+k]} through {@code buf[off+len-1]} unaffected.
+ *
+ * <p>In every case, elements {@code buf[0]} through {@code buf[off]} and
+ * elements {@code buf[off+len]} through {@code buf[buf.length-1]} are unaffected.
+ *
+ * <p>The {@code read(buf, off, len)} method for class {@code InputStream}
+ * simply calls the method {@code read()} repeatedly. If the first such call
+ * results in an {@code IOException}, that exception is returned from the
+ * call to the {@code read(buf, off, len)} method. If any subsequent call to
+ * {@code read()} results in a {@code IOException}, the exception is caught
+ * and treated as if it were end of file; the bytes read up to that point
+ * are stored into {@code buf} and the number of bytes read before the
+ * exception occurred is returned. The default implementation of this method
+ * blocks until the requested amount of input data {@code len} has been read,
+ * end of file is detected, or an exception is thrown. Subclasses are encouraged
+ * to provide a more efficient implementation of this method.
+ *
+ * @param buf the buffer into which the data is read.
+ * @param off the start offset in array {@code buf} at which the data is written.
+ * @param len the maximum number of bytes to read.
+ * @return the total number of bytes read into the buffer, or
+ * {@code -1} if there is no more data because the end of
+ * the stream has been reached.
+ * @exception IOException If the first byte cannot be read for any reason
+ * other than end of file, or if the input stream has been closed, or if
+ * some other I/O error occurs.
+ * @exception NullPointerException If {@code buf} is {@code null}.
+ * @exception IndexOutOfBoundsException If {@code off} is negative,
+ * {@code len} is negative, or {@code len} is greater than
+ * {@code buf.length - off}
+ * @see java.io.InputStream#read()
+ */

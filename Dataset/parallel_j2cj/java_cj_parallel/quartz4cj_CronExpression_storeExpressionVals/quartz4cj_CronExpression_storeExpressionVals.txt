@@ -1,0 +1,9 @@
+/**
+ * Stores the expression values based on the given position, string, and type.
+ * 
+ * @param pos the position to start storing the values
+ * @param s the string containing the values
+ * @param type the type of expression (e.g., seconds, minutes, etc.)
+ * @return the new position after storing the values
+ * @throws ParseException if there is an error parsing the values
+ */

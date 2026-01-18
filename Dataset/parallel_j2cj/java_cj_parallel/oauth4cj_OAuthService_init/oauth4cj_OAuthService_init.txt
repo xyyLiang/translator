@@ -1,0 +1,12 @@
+    /**
+     * Create OAuthService instance.
+     *
+     * @param apiKey api key
+     * @param apiSecret api secret
+     * @param callbackUrl callback url
+     * @param debugStream debug mode outputstream, set Option<OutputStream>.None when not in use
+     * @param userAgent user agent
+     * @param httpClientConfig Http Client Config
+     * @param httpClient HTTP Client instance
+     * @param httpClientProvider HTTP Client Provider instance
+     */

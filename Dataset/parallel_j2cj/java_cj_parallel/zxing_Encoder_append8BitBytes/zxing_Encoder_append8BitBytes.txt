@@ -1,0 +1,7 @@
+/**
+ * Append 8-bit bytes to the given {@link BitArray}.
+ *
+ * @param content The input content.
+ * @param bits The {@link BitArray} to which the 8-bit bytes will be appended.
+ * @param encoding The charset encoding used for converting the input content to bytes.
+ */

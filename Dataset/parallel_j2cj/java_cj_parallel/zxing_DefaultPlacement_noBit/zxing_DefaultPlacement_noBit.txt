@@ -1,0 +1,7 @@
+/**
+ * Checks if there is no bit set at the specified position in the matrix.
+ *
+ * @param col The column index of the bit.
+ * @param row The row index of the bit.
+ * @return {@code true} if there is no bit set at the specified position, {@code false} otherwise.
+ */

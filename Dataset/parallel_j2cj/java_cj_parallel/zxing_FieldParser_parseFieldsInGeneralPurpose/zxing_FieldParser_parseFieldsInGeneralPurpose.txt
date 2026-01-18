@@ -1,0 +1,7 @@
+/**
+ * Parses the fields in the general purpose format from the provided raw information.
+ *
+ * @param rawInformation The raw information to parse.
+ * @return The parsed fields.
+ * @throws NotFoundException if the fields cannot be parsed.
+ */

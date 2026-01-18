@@ -1,0 +1,8 @@
+ public static byte[] packInteger(int i) {
+  byte[] bytes = new byte[4];
+  bytes[3] = (byte) (i & 0xff);
+  bytes[2] = (byte) ((i >> 8) & 0xff);
+  bytes[1] = (byte) ((i >> 16) & 0xff);
+  bytes[0] = (byte) ((i >> 24) & 0xff);
+  return bytes;
+ }

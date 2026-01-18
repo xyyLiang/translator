@@ -1,0 +1,7 @@
+/**
+ * Converts the text data to a byte array, optionally including the Byte Order Mark (BOM) and terminator characters.
+ * 
+ * @param includeBom        Flag indicating whether to include the BOM in the byte array.
+ * @param includeTerminator Flag indicating whether to include the terminator in the byte array.
+ * @return The byte array representation of the text data.
+ */

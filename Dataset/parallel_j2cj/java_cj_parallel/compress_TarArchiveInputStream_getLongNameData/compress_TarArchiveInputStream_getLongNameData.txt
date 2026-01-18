@@ -1,0 +1,6 @@
+    /**
+     * Gets the next entry in this tar archive as long name data.
+     *
+     * @return The next entry in the archive as long name data, or null.
+     * @throws IOException on error
+     */

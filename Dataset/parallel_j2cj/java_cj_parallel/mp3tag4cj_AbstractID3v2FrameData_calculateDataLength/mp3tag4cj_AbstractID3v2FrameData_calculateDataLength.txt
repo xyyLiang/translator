@@ -1,0 +1,6 @@
+/**
+ * Calculates the total length of the data section in the ID3v2 tag.
+ * This includes the extended header, footer, padding, and the lengths of all frames.
+ *
+ * @return the total length of the data section
+ */

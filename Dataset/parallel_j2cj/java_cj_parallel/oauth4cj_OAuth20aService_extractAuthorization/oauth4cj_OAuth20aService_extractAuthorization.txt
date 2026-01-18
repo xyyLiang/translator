@@ -1,0 +1,7 @@
+    /**
+     * extract authorization.
+     *
+     * @param redirectLocation of String, redirect location.
+     *
+     * @return OAuth2Authorization the OAuth2 authorization
+     */

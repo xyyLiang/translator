@@ -1,0 +1,8 @@
+/**
+ * Finds the error magnitudes using the error evaluator polynomial, error locator polynomial, and error locations.
+ * 
+ * @param errorEvaluator The error evaluator polynomial.
+ * @param errorLocator The error locator polynomial.
+ * @param errorLocations The error locations.
+ * @return An array containing the error magnitudes.
+ */

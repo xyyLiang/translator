@@ -1,0 +1,5 @@
+/**
+ * Checks the state of the object by evaluating various conditions.
+ * Updates the values of internal variables based on the evaluation results.
+ * Sets the {@code dirty} flag if any of the conditions are not met.
+ */

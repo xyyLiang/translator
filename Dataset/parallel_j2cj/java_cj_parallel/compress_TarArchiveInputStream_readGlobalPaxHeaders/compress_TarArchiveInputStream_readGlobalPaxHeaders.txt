@@ -1,0 +1,5 @@
+/**
+ * Reads global PAX headers from the input stream.
+ *
+ * @throws IOException if an I/O error occurs or if an error is detected while parsing the PAX header
+ */

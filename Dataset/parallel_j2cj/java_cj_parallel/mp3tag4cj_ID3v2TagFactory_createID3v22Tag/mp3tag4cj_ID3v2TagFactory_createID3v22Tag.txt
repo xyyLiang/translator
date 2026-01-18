@@ -1,0 +1,9 @@
+/**
+ * Creates an ID3v22Tag object from the provided byte array.
+ * 
+ * @param bytes The byte array containing the tag data.
+ * @return An ID3v22Tag object representing the tag.
+ * @throws NoSuchTagException    If the tag cannot be found in the byte array.
+ * @throws UnsupportedTagException If the tag version is not supported.
+ * @throws InvalidDataException If the tag data is invalid.
+ */

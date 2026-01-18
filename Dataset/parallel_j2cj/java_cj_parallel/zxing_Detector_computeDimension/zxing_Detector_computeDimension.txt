@@ -1,0 +1,4 @@
+  /**
+   * <p>Computes the dimension (number of modules on a size) of the QR Code based on the position
+   * of the finder patterns and estimated module size.</p>
+   */

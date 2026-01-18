@@ -1,0 +1,7 @@
+    /**
+     * Add the key and value to this.
+     *
+     * @param key of String
+     * @param value of String
+     * @since 0.37.2
+     */

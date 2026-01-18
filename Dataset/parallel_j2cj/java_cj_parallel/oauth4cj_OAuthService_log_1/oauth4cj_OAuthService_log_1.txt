@@ -1,0 +1,6 @@
+/**
+ * Logs a formatted message with parameters if debug mode is enabled.
+ * 
+ * @param messagePattern The pattern of the message to log.
+ * @param params         The parameters to be formatted into the message.
+ */

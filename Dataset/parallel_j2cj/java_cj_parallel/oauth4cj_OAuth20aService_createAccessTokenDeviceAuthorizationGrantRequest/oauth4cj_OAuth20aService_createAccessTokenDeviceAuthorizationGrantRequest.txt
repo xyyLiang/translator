@@ -1,0 +1,6 @@
+/**
+ * Creates an OAuth request for access token using device authorization grant.
+ *
+ * @param deviceAuthorization The device authorization information.
+ * @return An OAuth request for access token using device authorization grant.
+ */

@@ -1,0 +1,7 @@
+/**
+ * Stuffs the input BitArray with additional bits according to the specified word size.
+ * 
+ * @param bits     The input BitArray to stuff with additional bits.
+ * @param wordSize The size of each word in bits.
+ * @return A new BitArray with the input bits stuffed with additional bits as needed.
+ */

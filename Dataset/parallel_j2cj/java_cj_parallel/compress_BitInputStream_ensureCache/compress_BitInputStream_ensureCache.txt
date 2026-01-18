@@ -1,0 +1,7 @@
+    /**
+     * Fills the cache up to 56 bits
+     *
+     * @param count
+     * @return return true, when EOF
+     * @throws IOException
+     */

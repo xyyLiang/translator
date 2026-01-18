@@ -1,0 +1,9 @@
+    /**
+     * Builds a snake.
+     *
+     * @param start  the value of the start of the snake
+     * @param diag  the value of the diagonal of the snake
+     * @param end1  the value of the end of the first sequence to be compared
+     * @param end2  the value of the end of the second sequence to be compared
+     * @return The snake built
+     */

@@ -1,0 +1,10 @@
+    /**
+     * The Function is responseReceived.This method is called when the service access is successful and responseBody.getSource
+     * has no exceptions.
+     *
+     * @param inspectorRequest of NetworkEventReporterInspectorRequest
+     * @param inspectorResponse of NetworkEventReporterInspectorResponse
+     *
+     * @return Type of Unit
+     * @since 0.30.4
+     */

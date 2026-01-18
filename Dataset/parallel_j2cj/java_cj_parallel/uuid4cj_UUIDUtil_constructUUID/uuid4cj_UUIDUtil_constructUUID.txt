@@ -1,0 +1,7 @@
+    /**
+     * Helper method for constructing UUID instances with appropriate type
+     * 
+     * @param types - UUIDType
+     * @param uuidBytes - 16 bytes array
+     * @return UUID
+     */

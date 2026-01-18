@@ -1,0 +1,13 @@
+    /**
+     * The version number associated with this {@code UUID}.  The version
+     * number describes how this {@code UUID} was generated.
+     *
+     * The version number has the following meaning:
+     * 
+     * 1  Time-based UUID
+     * 2  DCE security UUID
+     * 3  Name-based UUID
+     * 4  Randomly generated UUID
+     *
+     * @return Int32 - The version number of this {@code UUID}
+     */

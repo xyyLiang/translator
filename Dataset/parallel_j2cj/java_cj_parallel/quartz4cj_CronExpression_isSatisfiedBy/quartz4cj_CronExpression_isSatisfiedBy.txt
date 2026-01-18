@@ -1,0 +1,9 @@
+    /**
+     * Indicates whether the given date satisfies the cron expression. Note that
+     * milliseconds are ignored, so two Dates falling on different milliseconds
+     * of the same second will always have the same result here.
+     * 
+     * @param date the date to evaluate
+     * @return a boolean indicating whether the given date satisfies the cron
+     *         expression
+     */

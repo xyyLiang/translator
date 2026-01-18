@@ -1,0 +1,7 @@
+    /**
+     * @param ethAddr Hardware address (802.1) to use for generating
+     *   spatially unique part of UUID. If system has more than one NIC
+     *
+     * @param ethAddr - Option<EthernetAddress>
+     * @param timer - UUIDTimer
+     */

@@ -1,0 +1,9 @@
+/**
+ * Unpacks a 32-bit integer from the provided bytes in big-endian order.
+ *
+ * @param b1  the most significant byte
+ * @param b2  the second most significant byte
+ * @param b3  the third most significant byte
+ * @param b4  the least significant byte
+ * @return the unpacked integer value
+ */

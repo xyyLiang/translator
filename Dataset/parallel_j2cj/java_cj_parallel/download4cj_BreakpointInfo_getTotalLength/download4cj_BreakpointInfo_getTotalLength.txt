@@ -1,0 +1,5 @@
+/**
+ * Returns the total length of all blocks.
+ *
+ * @return the total length of all blocks.
+ */

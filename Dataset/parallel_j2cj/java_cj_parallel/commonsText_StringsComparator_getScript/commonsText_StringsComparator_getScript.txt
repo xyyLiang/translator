@@ -1,0 +1,13 @@
+    /**
+     * Gets the {@link EditScript} object.
+     * 
+     * It is guaranteed that the objects embedded in the {@link InsertCommand
+     * insert commands} come from the second sequence and that the objects
+     * embedded in either the {@link DeleteCommand delete commands} or
+     * {@link KeepCommand keep commands} come from the first sequence. This can
+     * be important if subclassing is used for some elements in the first
+     * sequence and the {@code equals} method is specialized.
+     *
+     * @return The edit script resulting from the comparison of the two
+     *         sequences
+     */

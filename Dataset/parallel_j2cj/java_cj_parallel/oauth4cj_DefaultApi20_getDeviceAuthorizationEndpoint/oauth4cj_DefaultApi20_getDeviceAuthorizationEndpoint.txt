@@ -1,0 +1,5 @@
+    /**
+     * RFC 8628 OAuth 2.0 Device Authorization Grant
+     *
+     * @return the device authorization endpoint
+     */

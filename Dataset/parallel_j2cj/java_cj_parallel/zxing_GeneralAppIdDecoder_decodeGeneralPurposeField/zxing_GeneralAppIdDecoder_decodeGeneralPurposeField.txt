@@ -1,0 +1,8 @@
+/**
+ * Decodes a general-purpose field starting from the specified position.
+ *
+ * @param pos       The starting position to decode from.
+ * @param remaining The remaining string from a previous decoding operation.
+ * @return The decoded information.
+ * @throws FormatException if decoding encounters an error.
+ */

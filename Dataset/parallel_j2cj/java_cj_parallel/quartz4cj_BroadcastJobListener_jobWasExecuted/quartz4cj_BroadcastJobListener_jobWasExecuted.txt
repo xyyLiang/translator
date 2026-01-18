@@ -1,0 +1,6 @@
+/**
+ * Signals the scheduler that a job was executed.
+ *
+ * @param context      The context information related to the job execution
+ * @param jobException The exception that occurred during job execution (if any)
+ */

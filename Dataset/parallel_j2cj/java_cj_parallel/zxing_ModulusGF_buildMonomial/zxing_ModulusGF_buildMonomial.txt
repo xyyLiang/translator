@@ -1,0 +1,8 @@
+/**
+ * Builds a monomial polynomial with the specified degree and coefficient.
+ * 
+ * @param degree The degree of the monomial polynomial.
+ * @param coefficient The coefficient of the monomial polynomial.
+ * @return The built monomial polynomial.
+ * @throws IllegalArgumentException If the degree is negative.
+ */

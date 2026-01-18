@@ -1,0 +1,4 @@
+  /**
+   * @return true if the border of the rectangle passed in parameter is compound of white points only
+   *         or black points only
+   */

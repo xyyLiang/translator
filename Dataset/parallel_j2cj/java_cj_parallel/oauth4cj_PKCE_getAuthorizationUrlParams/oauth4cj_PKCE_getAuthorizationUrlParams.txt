@@ -1,0 +1,7 @@
+    /**
+     * Create a HashMap<String, String> instance,
+     * put the code_challenge and code_challenge_method key value pairs to it.
+     *
+     * @return Type of HashMap<String, String>
+     * @since 0.38.2
+     */

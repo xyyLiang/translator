@@ -1,0 +1,13 @@
+    /*
+     * Writes an octal value into a buffer.
+     *
+     * Uses {@link #formatUnsignedOctalString} to format
+     * the value as an octal string with leading zeros.
+     * The converted number is followed by NUL and then space.
+     *
+     * @param value The value to convert
+     * @param buf The destination buffer
+     * @param offset The starting offset into the buffer.
+     * @param length The size of the buffer.
+     * @return The updated value of offset, i.e. offset+length
+     */

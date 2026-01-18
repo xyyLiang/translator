@@ -1,0 +1,7 @@
+    /**
+     * Creates a chunk and saves a copy of affected lines
+     *
+     * @param position the start position
+     * @param lines the affected lines
+     * @param changePosition the positions of changed lines
+     */

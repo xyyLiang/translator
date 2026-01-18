@@ -1,0 +1,6 @@
+    /**
+     * Accepts a visitor. When a {@code KeepCommand} accepts a visitor, it
+     * calls its {@link CommandVisitor#visitKeepCommand visitKeepCommand} method.
+     *
+     * @param visitor  the visitor to be accepted
+     */

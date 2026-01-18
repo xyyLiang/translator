@@ -1,0 +1,8 @@
+/**
+ * Reads the file mode and sets properties accordingly.
+ *
+ * @param file the path to the file
+ * @param normalizedName the normalized name of the file
+ * @param options optional link options
+ * @throws IOException if an I/O error occurs
+ */

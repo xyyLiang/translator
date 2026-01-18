@@ -1,0 +1,5 @@
+    /**
+     * The last record block should be written at the full size, so skip any additional space used to fill a record after an entry.
+     *
+     * @throws IOException if a truncated tar archive is detected
+     */

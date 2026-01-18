@@ -1,0 +1,8 @@
+/**
+ * Creates a pattern with the specified regular expression, lookbehind flag, and greediness.
+ *
+ * @param regex      The regular expression for the pattern.
+ * @param lookbehind Indicates whether the pattern should match using lookbehind.
+ * @param greedy     Indicates whether the pattern should match greedily.
+ * @return The created pattern.
+ */

@@ -1,0 +1,6 @@
+    /**
+     * Generate UUID through name
+     *
+     * @param nameBytes - Array<UInt8>
+     * @return UUID
+     */

@@ -1,0 +1,6 @@
+/**
+ * Validates a cache key against the allowed key pattern.
+ * 
+ * @param key The cache key to validate.
+ * @throws IllegalArgumentException If the key does not match the allowed pattern.
+ */

@@ -1,0 +1,9 @@
+/**
+ * Encodes the compressed weight information into the provided StringBuilder.
+ * This method is responsible for encoding the compressed weight information from the barcode,
+ * appending it to the given StringBuilder.
+ *
+ * @param buf         The StringBuilder to which the encoded weight information will be appended.
+ * @param currentPos  The current position in the bit array from which to start encoding.
+ * @param weightSize  The size of the weight information to encode.
+ */

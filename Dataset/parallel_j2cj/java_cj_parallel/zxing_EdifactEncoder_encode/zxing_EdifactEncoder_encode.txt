@@ -1,0 +1,6 @@
+/**
+ * Encodes the message in the provided {@link EncoderContext} according to the specified encoding mode.
+ * This method encodes the message into codewords using the QR Code encoding rules.
+ *
+ * @param context The {@link EncoderContext} containing the message to be encoded.
+ */

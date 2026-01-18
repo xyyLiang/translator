@@ -1,0 +1,7 @@
+    /**
+     * parse the Char array
+     *
+     * @param charArray - Option<Array<Char>> The char array need to parse
+     * @param separator - Char The separator char
+     * @return Map<String, Option<String>> - the result
+     */

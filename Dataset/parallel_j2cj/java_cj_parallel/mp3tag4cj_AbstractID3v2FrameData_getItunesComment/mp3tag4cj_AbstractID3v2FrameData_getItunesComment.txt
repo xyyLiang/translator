@@ -1,0 +1,5 @@
+/**
+ * Retrieves the iTunes comment associated with this ID3v2 tag.
+ *
+ * @return the iTunes comment text, or {@code null} if no iTunes comment is found or an error occurs
+ */

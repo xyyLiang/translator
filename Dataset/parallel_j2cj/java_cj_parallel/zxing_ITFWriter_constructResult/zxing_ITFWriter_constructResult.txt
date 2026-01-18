@@ -1,0 +1,7 @@
+/**
+ * Constructs a Result object using the provided left and right pairs.
+ *
+ * @param leftPair  The left pair.
+ * @param rightPair The right pair.
+ * @return The constructed Result object.
+ */

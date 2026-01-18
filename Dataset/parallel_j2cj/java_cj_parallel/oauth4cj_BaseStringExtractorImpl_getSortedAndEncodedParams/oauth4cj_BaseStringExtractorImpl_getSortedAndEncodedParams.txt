@@ -1,0 +1,6 @@
+/**
+ * Retrieves the sorted and encoded parameters from the OAuth request.
+ * 
+ * @param request The OAuth request.
+ * @return The sorted and encoded parameters as an OAuth base string.
+ */

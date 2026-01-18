@@ -1,0 +1,8 @@
+/**
+ * Decodes a Hanzi segment from the given BitSource.
+ *
+ * @param bits The BitSource to read from.
+ * @param result The StringBuilder to append the decoded result to.
+ * @param count The number of characters to decode.
+ * @throws FormatException If the input cannot be decoded.
+ */

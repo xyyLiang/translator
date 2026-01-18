@@ -1,0 +1,8 @@
+        /**
+         * Skips the given number of bytes.
+         *
+         * @param bytes Number of bytes to skip.
+         * @return The number of bytes, which have actually been
+         *   skipped.
+         * @throws IOException An I/O error occurred.
+         */

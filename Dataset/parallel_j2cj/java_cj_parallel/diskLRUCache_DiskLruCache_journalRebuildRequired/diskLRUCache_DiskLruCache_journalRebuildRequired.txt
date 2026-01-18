@@ -1,0 +1,4 @@
+  /**
+   * We only rebuild the journal when it will halve the size of the journal
+   * and eliminate at least 2000 ops.
+   */

@@ -1,0 +1,7 @@
+/**
+ * Adjusts the row numbers of codewords in the given barcode column at the specified row.
+ * 
+ * @param barcodeColumn The index of the barcode column.
+ * @param codewordsRow The row index.
+ * @param codewords The array of codewords.
+ */

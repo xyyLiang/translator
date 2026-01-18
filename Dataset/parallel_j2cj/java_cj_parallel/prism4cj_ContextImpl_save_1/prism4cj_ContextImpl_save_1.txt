@@ -1,0 +1,6 @@
+/**
+ * Saves the cloned Prism4j token into the cache.
+ *
+ * @param origin The original Prism4j token.
+ * @param clone  The cloned Prism4j token to save.
+ */

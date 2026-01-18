@@ -1,0 +1,6 @@
+/**
+ * Checks if the data at the specified position is still numeric.
+ *
+ * @param pos The position to check.
+ * @return {@code true} if the data is still numeric, {@code false} otherwise.
+ */

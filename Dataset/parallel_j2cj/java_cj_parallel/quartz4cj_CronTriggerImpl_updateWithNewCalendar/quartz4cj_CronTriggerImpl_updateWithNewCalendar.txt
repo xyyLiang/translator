@@ -1,0 +1,6 @@
+/**
+ * Updates the trigger with a new calendar and a misfire threshold.
+ * 
+ * @param calendar The new calendar to update the trigger with.
+ * @param misfireThreshold The misfire threshold.
+ */

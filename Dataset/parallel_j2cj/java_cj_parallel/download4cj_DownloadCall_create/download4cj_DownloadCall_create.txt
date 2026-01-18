@@ -1,0 +1,8 @@
+/**
+ * Creates a new DownloadCall instance.
+ *
+ * @param task            The download task.
+ * @param asyncExecuted   True if the call is executed asynchronously, false otherwise.
+ * @param store           The download store.
+ * @return A new DownloadCall instance.
+ */

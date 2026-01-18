@@ -1,0 +1,5 @@
+/**
+ * Aborts the edit unless it has been committed.
+ * 
+ * If the edit has not been committed, it will be aborted.
+ */

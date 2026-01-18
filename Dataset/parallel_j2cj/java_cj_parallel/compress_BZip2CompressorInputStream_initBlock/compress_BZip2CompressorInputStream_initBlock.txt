@@ -1,0 +1,5 @@
+/**
+ * Initializes the current block for decompression.
+ * 
+ * @throws IOException If an I/O error occurs or if the block header is invalid.
+ */

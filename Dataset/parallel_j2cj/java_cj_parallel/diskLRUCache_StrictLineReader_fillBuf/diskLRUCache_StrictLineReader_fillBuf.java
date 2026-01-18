@@ -1,0 +1,8 @@
+  private void fillBuf() throws IOException {
+    int result = in.read(buf, 0, buf.length);
+    if (result == -1) {
+      throw new EOFException();
+    }
+    pos = 0;
+    end = result;
+  }

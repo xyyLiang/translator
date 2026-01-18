@@ -1,0 +1,5 @@
+    /**
+     * set the boundary
+     *
+     * @param boundary - Array<UInt8> the boundary(byte array)
+     */

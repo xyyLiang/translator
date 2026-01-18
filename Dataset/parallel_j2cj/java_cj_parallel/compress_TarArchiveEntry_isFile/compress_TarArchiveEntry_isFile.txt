@@ -1,0 +1,6 @@
+    /**
+     * Tests whether this is a "normal file"
+     *
+     * @since 1.2
+     * @return whether this is a "normal file"
+     */

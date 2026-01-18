@@ -1,0 +1,9 @@
+/**
+ * Minifies the given JSON string by replacing repeated string values with shorter identifiers.
+ * This method uses a pool to store unique string values encountered in the JSON string and replaces
+ * repeated occurrences with identifiers. It calculates potential savings and only performs minification
+ * if the potential savings exceed a certain threshold.
+ *
+ * @param json The JSON string to minify.
+ * @return The minified JSON string.
+ */

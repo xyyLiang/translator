@@ -1,0 +1,6 @@
+    /**
+     * Process the information in the ParameterList object and encode it according to OAuthEncoder.
+     *
+     * @return Type of String, returns a processed and encoded string.
+     * @since 0.37.2
+     */

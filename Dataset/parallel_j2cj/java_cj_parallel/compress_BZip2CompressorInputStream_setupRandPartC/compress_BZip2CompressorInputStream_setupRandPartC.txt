@@ -1,0 +1,5 @@
+/**
+ * Sets up the decoding process when block randomization is enabled (part C).
+ * @return the next character to decode
+ * @throws IOException if an I/O error occurs or if the stream is corrupted
+ */

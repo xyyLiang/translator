@@ -1,0 +1,12 @@
+/**
+ * Creates an OAuth2AccessToken object with the provided parameters.
+ * 
+ * @param accessToken The access token string.
+ * @param tokenType   The token type string.
+ * @param expiresIn   The expiration duration of the access token in seconds.
+ * @param refreshToken The refresh token string.
+ * @param scope       The scope of the access token.
+ * @param response    The JSON response node.
+ * @param rawResponse The raw response string.
+ * @return The created OAuth2AccessToken object.
+ */

@@ -1,0 +1,8 @@
+    /**
+     * Get a ParameterList with query string parameters.
+     *
+     * @return Type of ParameterList, a ParameterList containing query string parameters.
+     *
+     * @throws OAuth4cjException ,invalid request URL。
+     * @since 0.37.2
+     */

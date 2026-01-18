@@ -1,0 +1,6 @@
+/**
+ * Retrieves the HTTP verb (method) used in the OAuth request.
+ * 
+ * @param request The OAuth request.
+ * @return The HTTP verb used in the request.
+ */

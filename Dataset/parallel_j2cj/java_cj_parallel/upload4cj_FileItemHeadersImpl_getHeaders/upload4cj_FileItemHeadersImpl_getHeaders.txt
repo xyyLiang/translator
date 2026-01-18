@@ -1,0 +1,6 @@
+    /**
+     * get Headers
+     *
+     * @param name - String The header name
+     * @return Iterator<String> - The header Iterator
+     */

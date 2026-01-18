@@ -1,0 +1,6 @@
+  /**
+   * Records the size of all runs of white and black pixels, starting with white.
+   * This is just like recordPattern, except it records all the counters, and
+   * uses our builtin "counters" member for storage.
+   * @param row row to count from
+   */

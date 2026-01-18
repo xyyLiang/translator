@@ -1,0 +1,7 @@
+  /**
+   * Skip all whitespace until we get to the first black line.
+   *
+   * @param row row of black/white values to search
+   * @return index of the first black line.
+   * @throws NotFoundException Throws exception if no black lines are found in the row
+   */

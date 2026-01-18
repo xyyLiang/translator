@@ -1,0 +1,5 @@
+    /**
+     * <p>
+     * Get the time at which the <code>CronTrigger</code> should occur.
+     * </p>
+     */

@@ -1,0 +1,6 @@
+/**
+ * Appends the hexadecimal representation of the specified integer to the given StringBuilder.
+ * 
+ * @param sb The StringBuilder to append the hexadecimal representation to.
+ * @param hex The integer to be converted to hexadecimal.
+ */

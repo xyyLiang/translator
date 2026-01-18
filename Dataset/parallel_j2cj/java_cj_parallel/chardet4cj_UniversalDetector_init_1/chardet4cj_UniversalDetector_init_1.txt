@@ -1,0 +1,5 @@
+/**
+ * Constructs a new UniversalDetector with the specified charset listener.
+ *
+ * @param listener a listener object that is notified of the detected encoding. Can be null.
+ */

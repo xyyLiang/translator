@@ -1,0 +1,7 @@
+    /**
+     * Get the Array of UUID
+     * 
+     * @param uuid - UUID to check
+     * 
+     * @return Array<Int8>
+     */

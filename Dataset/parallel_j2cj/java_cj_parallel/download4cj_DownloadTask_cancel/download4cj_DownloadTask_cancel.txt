@@ -1,0 +1,8 @@
+    /**
+     * Cancel the current task, if there is another same id task, it would be canceled too.
+     * <p>
+     * If the task is canceled all resourced about this task will be recycled.
+     * <p>
+     * If there are more than one task need to cancel, please using {@link #cancel(DownloadTask[])}
+     * instead, because the performance is optimized to handle bunch of tasks cancel.
+     */

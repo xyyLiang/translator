@@ -1,0 +1,6 @@
+/**
+ * Sets the mode extension based on the provided value.
+ * 
+ * @param modeExtension The mode extension value extracted from the frame header.
+ * @throws InvalidDataException If the provided mode extension value is invalid.
+ */

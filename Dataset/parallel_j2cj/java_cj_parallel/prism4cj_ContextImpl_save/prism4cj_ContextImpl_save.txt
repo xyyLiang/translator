@@ -1,0 +1,6 @@
+/**
+ * Saves the cloned Prism4j grammar into the cache.
+ *
+ * @param origin The original Prism4j grammar.
+ * @param clone  The cloned Prism4j grammar to save.
+ */

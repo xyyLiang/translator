@@ -1,0 +1,6 @@
+/**
+ * Builds the generator polynomial for error correction of the specified degree.
+ *
+ * @param degree The degree of the generator polynomial.
+ * @return The generator polynomial.
+ */

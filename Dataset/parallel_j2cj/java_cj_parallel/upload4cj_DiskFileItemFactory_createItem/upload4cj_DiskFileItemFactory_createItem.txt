@@ -1,0 +1,10 @@
+    /**
+     * create the Item
+     *
+     * @param fieldName - String fieldName
+     * @param contentType - String contentType
+     * @param isFormField - Bool isFormField or not
+     * @param fileName - String fileName
+     *
+     * @return FileItem - the Item
+     */

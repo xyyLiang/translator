@@ -1,0 +1,5 @@
+    /**
+     * get contentType
+     *
+     * @return Option<String> - The contentType
+     */

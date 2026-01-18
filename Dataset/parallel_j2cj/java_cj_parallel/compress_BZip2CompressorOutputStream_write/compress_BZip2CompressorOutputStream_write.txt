@@ -1,0 +1,6 @@
+/**
+ * Writes a byte to the output stream.
+ *
+ * @param b The byte to be written
+ * @throws IOException If an I/O error occurs
+ */

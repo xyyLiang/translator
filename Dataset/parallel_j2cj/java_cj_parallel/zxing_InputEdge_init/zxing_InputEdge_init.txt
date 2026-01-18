@@ -1,0 +1,9 @@
+/**
+ * Constructs a new InputEdge object.
+ *
+ * @param c            The character to encode.
+ * @param encoderSet   The ECIEncoderSet to use for encoding.
+ * @param encoderIndex The index of the encoder.
+ * @param previous     The previous InputEdge.
+ * @param fnc1         The FNC1 character.
+ */

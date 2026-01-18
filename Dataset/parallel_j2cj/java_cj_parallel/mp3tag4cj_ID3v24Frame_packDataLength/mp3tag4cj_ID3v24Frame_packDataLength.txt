@@ -1,0 +1,5 @@
+/**
+ * Packs the data length into a byte array using synchsafe integer encoding.
+ * 
+ * @return The byte array containing the packed data length.
+ */

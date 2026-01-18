@@ -1,0 +1,9 @@
+    /**
+     * Given fireTime time determine if it is on a valid day of week. If so, simply return it unaltered,
+     * if not, advance to the next valid week day, and set the time of day to the start time of day
+     * 
+     * @param fireTime - given next fireTime.
+     * @param forceToAdvanceNextDay - flag to whether to advance day without check existing week day. This scenario
+     * can happen when a caller determine fireTime has passed the endTimeOfDay that fireTime should move to next day anyway.
+     * @return a next day fireTime.
+     */

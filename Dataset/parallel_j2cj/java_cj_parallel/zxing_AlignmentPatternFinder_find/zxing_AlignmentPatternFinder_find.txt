@@ -1,0 +1,7 @@
+  /**
+   * <p>This method attempts to find the bottom-right alignment pattern in the image. It is a bit messy since
+   * it's pretty performance-critical and so is written to be fast foremost.</p>
+   *
+   * @return {@link AlignmentPattern} if found
+   * @throws NotFoundException if not found
+   */

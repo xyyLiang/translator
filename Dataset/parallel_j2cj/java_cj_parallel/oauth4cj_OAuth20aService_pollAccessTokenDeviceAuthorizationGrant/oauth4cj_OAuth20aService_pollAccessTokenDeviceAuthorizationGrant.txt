@@ -1,0 +1,7 @@
+    /**
+     * Obtain device authorization code (waiting for user consent). Only synchronize versions.
+     *
+     * @param deviceAuthorization of DeviceAuthorization, the device authorization response
+     *
+     * @return OAuth2AccessToken return the OAuth2AccessToken.
+     */

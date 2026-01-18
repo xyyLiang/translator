@@ -1,0 +1,7 @@
+/**
+ * Terminate bits as described in 8.4.8 and 8.4.9 of JISX0510:2004 (p.24).
+ * 
+ * @param numDataBytes The number of data bytes.
+ * @param bits The bit array to terminate.
+ * @throws WriterException If an error occurs during the termination process.
+ */

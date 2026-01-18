@@ -1,0 +1,5 @@
+/**
+ * Encodes the input data into a Data Matrix barcode represented as a series of codewords.
+ *
+ * @param context The encoder context to use for encoding.
+ */

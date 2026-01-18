@@ -1,0 +1,9 @@
+    /**
+     * The Function is unpackFrame, Extract byte data.
+     * 
+     * @param buffer of Array<Int8>, Offset from label start.
+     * @param offset of Int32, Offset from label start.
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

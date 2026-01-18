@@ -1,0 +1,6 @@
+/**
+ * Retrieves the cached Prism4j grammar.
+ *
+ * @param origin The original Prism4j grammar.
+ * @return The cached Prism4j grammar if found, otherwise null.
+ */

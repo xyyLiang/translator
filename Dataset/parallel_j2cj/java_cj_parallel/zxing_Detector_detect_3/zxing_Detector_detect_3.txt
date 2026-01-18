@@ -1,0 +1,8 @@
+  /**
+   * <p>Detects a QR Code in an image.</p>
+   *
+   * @param hints optional hints to detector
+   * @return {@link DetectorResult} encapsulating results of detecting a QR Code
+   * @throws NotFoundException if QR Code cannot be found
+   * @throws FormatException if a QR Code cannot be decoded
+   */

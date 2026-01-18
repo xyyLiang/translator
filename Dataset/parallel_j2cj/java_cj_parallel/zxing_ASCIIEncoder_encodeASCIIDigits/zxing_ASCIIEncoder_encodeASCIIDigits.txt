@@ -1,0 +1,8 @@
+/**
+ * Encodes two ASCII digits into a single character.
+ *
+ * @param digit1 The first ASCII digit to be encoded.
+ * @param digit2 The second ASCII digit to be encoded.
+ * @return The encoded character representing the two digits.
+ * @throws IllegalArgumentException if either digit1 or digit2 is not a digit.
+ */

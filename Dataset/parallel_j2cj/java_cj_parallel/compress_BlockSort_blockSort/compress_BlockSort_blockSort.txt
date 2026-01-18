@@ -1,0 +1,6 @@
+/**
+ * Performs block sorting using the BZip2 algorithm.
+ *
+ * @param data the data object containing sorting information
+ * @param last the index of the last element in the block
+ */

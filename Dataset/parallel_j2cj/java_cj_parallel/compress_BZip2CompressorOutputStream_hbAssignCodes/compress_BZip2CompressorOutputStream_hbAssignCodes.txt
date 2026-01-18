@@ -1,0 +1,9 @@
+/**
+ * Assigns Huffman codes to symbols based on their lengths.
+ * 
+ * @param code      An array to store the assigned Huffman codes for each symbol.
+ * @param length    An array containing the lengths of Huffman codes for each symbol.
+ * @param minLen    The minimum length of Huffman codes to consider.
+ * @param maxLen    The maximum length of Huffman codes to consider.
+ * @param alphaSize The size of the alphabet (number of symbols).
+ */

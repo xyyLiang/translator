@@ -1,0 +1,8 @@
+/**
+ * Packs the given string value into the specified byte array at the given offset.
+ *
+ * @param bytes     The byte array to pack the string into.
+ * @param value     The string value to pack.
+ * @param maxLength The maximum length of the string.
+ * @param offset    The offset in the byte array to start packing from.
+ */

@@ -1,0 +1,8 @@
+/**
+ * Recursively checks the rows for valid sequences of ExpandedPair objects.
+ * 
+ * @param collectedRows A list of ExpandedRow objects collected so far.
+ * @param currentRow The index of the current row being processed.
+ * @return A list of ExpandedPair objects if a valid sequence is found, null otherwise.
+ * @throws NotFoundException if the decoding fails.
+ */

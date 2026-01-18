@@ -1,0 +1,6 @@
+    /**
+     * Get error string
+     *
+     * @return String error string
+     * @since 0.38.2
+     */

@@ -1,0 +1,7 @@
+/**
+ * Extracts a field from the frame header using the given bitmask.
+ * 
+ * @param frameHeader The frame header from which to extract the field.
+ * @param bitMask The bitmask indicating the position of the field within the frame header.
+ * @return The extracted field value.
+ */

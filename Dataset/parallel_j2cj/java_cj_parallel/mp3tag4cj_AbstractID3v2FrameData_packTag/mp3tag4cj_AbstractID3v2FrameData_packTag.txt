@@ -1,0 +1,8 @@
+    /**
+     * The Function is packTag, Convert object data into byte data and put it into parameter bytes.
+     * 
+     * @param bytes of Array<Int8>
+     * 
+     * @return Type of Unit
+     * @since 0.32.5
+     */

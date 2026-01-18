@@ -1,0 +1,6 @@
+    /**
+     * Create AccessTokenRequestParams instance.
+     *
+     * @param code request state code
+     * @return AccessTokenRequestParams AccessTokenRequestParams instance
+     */

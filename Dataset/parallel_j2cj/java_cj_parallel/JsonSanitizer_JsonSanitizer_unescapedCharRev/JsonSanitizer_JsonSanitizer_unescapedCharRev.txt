@@ -1,0 +1,11 @@
+/**
+ * Looks for a literal character or escape sequence at the specified index in the string, considering the escape sequences in reverse order.
+ * Packs the character into the lowest 16 bits of the output and the count of characters in the sequence in the remaining bits.
+ *
+ * @param s          The input string.
+ * @param rightIncl  The inclusive ending index in the string to start the search.
+ * @return An integer representing the unescaped character or escape sequence and its length.
+ */
+private static int unescapedCharRev(String s, int rightIncl) {
+    // Method implementation...
+}

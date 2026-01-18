@@ -1,0 +1,9 @@
+    /**
+     * buildPath
+     *
+     * @param orig original text.
+     * @param rev revised text.
+     * @return PathNode
+     *   
+     * @since 0.38.2
+     */

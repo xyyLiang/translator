@@ -1,0 +1,7 @@
+    public long node() {
+        if (version() != 1) {
+            throw new UnsupportedOperationException("Not a time-based UUID");
+        }
+
+        return leastSigBits & 0x0000FFFFFFFFFFFFL;
+    }

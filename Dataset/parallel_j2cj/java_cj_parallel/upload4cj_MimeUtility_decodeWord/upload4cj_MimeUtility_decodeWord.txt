@@ -1,0 +1,10 @@
+    /**
+     * Parse a string using the RFC 2047 rules for an "encoded-word"
+     * type.  This encoding has the syntax:
+     *
+     * encoded-word = "=?" charset "?" encoding "?" encoded-text "?="
+     *
+     * @param word   The possibly encoded word value.
+     *
+     * @return The decoded word.
+     */
